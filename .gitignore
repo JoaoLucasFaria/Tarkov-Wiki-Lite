@@ -1,0 +1,41 @@
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Application cache
+cache/
+
+# User progress database
+data/
+*.db
+*.db-shm
+*.db-wal
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# Local preferences
+config/preferences.ini
+
+# Local backups
+*backup*.py
+
+# Logs and temporary files
+*.log
+*.tmp
+*.part
+
+# Credentials and environment variables
+.env
+.env.*
+!.env.example
+
+# Editor settings
+.vscode/
+.idea/
