@@ -36,6 +36,13 @@
       "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f1/LogOfficeKey.png/revision/latest?cb=20220707183218",
       "source": "https://escapefromtarkov.fandom.com/wiki/File:LogOfficeKey.png",
       "objective_id": "Locate and obtain the OLI cargo route documents on Interchange"
+    },
+    {
+      "title": "OLI Cargo Route Documents",
+      "description": "Appearance of the cargo route documents found inside the OLI logistics office.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a0/OLI_Cargo_Route_Docs.png/revision/latest?cb=20221012072135",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:OLI_Cargo_Route_Docs.png",
+      "objective_id": "Locate and obtain the OLI cargo route documents on Interchange"
     }
   ]
 }
