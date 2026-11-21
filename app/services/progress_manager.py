@@ -25,23 +25,43 @@ class ProgressManager:
         """Create a connection to the local database."""
         return sqlite3.connect(self.database_path)
 
+    
     def _initialize_database(self) -> None:
-        """Create the progress table if it does not exist."""
-
+        """Initialize all required progress database tables."""
+    
         with closing(self._connect()) as connection:
             with connection:
+                # Quest completion and pinned states
+                connection.execute("""
+                    CREATE TABLE IF NOT EXISTS quest_progress (
+                        mode TEXT NOT NULL,
+                        quest_id TEXT NOT NULL,
+                        completed INTEGER NOT NULL DEFAULT 0,
+                        pinned INTEGER NOT NULL DEFAULT 0,
+                        updated_at TEXT DEFAULT CURRENT_TIMESTAMP,
+    
+                        PRIMARY KEY (mode, quest_id)
+                    )
+                """)
+    
+                # Individual objective progress
                 connection.execute("""
                     CREATE TABLE IF NOT EXISTS objective_progress (
-                    mode TEXT NOT NULL,
-                    quest_id TEXT NOT NULL,
-                    objective_id TEXT NOT NULL,
-                    progress INTEGER NOT NULL DEFAULT 0
-                        CHECK(progress >= 0),
-                    updated_at TEXT DEFAULT CURRENT_TIMESTAMP,
-
-                    PRIMARY KEY (mode, quest_id, objective_id)
-                )
-            """)
+                        mode TEXT NOT NULL,
+                        quest_id TEXT NOT NULL,
+                        objective_id TEXT NOT NULL,
+                        progress INTEGER NOT NULL DEFAULT 0
+                            CHECK(progress >= 0),
+                        updated_at TEXT DEFAULT CURRENT_TIMESTAMP,
+    
+                        PRIMARY KEY (
+                            mode,
+                            quest_id,
+                            objective_id
+                        )
+                    )
+                """)
+    
 
     def _validate(self, mode: str, quest_id: str) -> None:
         if mode not in self.VALID_MODES:
