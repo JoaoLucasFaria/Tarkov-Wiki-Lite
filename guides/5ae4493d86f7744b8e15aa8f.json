@@ -1,0 +1,41 @@
+{
+  "quest_id": "5ae4493d86f7744b8e15aa8f",
+  "name": "A Big Loss",
+  "images": [
+    {
+      "title": "Interchange - OLI Logistics Office Map",
+      "description": "Map showing the location of the OLI logistics office on Interchange.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2f/Interchange_Database_part_2_Guide.png/revision/latest?cb=20180703135645",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Interchange_Database_part_2_Guide.png",
+      "objective_id": "Locate and obtain the OLI cargo route documents on Interchange"
+    },
+    {
+      "title": "OLI Offices - Entrance",
+      "description": "Locate the OLI offices inside the ULTRA shopping mall.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/18/Oli_Offices.png/revision/latest?cb=20250922191719",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Oli_Offices.png",
+      "objective_id": "Locate and obtain the OLI cargo route documents on Interchange"
+    },
+    {
+      "title": "OLI Logistics Office - Door",
+      "description": "Find the locked door leading to the logistics office.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0e/Oli_Logistics_Door.png/revision/latest?cb=20250922191813",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Oli_Logistics_Door.png",
+      "objective_id": "Locate and obtain the OLI cargo route documents on Interchange"
+    },
+    {
+      "title": "OLI Cargo Route Documents - Location",
+      "description": "Look for the cargo route documents on the shelving inside the office.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ef/Database_Part_2_Guide.png/revision/latest?cb=20250922191936",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Database_Part_2_Guide.png",
+      "objective_id": "Locate and obtain the OLI cargo route documents on Interchange"
+    },
+    {
+      "title": "OLI Logistics Office Key",
+      "description": "This key is required to unlock the logistics office door.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f1/LogOfficeKey.png/revision/latest?cb=20220707183218",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:LogOfficeKey.png",
+      "objective_id": "Locate and obtain the OLI cargo route documents on Interchange"
+    }
+  ]
+}
