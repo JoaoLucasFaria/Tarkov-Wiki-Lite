@@ -2,6 +2,7 @@
 # Python virtual environment
 .venv/
 venv/
+.venv-minimal/
 
 # Python generated files
 __pycache__/
