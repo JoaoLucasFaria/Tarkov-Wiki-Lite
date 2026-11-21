@@ -21,6 +21,7 @@ from app.services.item_catalog import ItemCatalog
 from app.models.guide_catalog import get_quest_guide
 from app.services.guide_images import GuideImageCache
 from app.ui.guide_viewer import GuideDialog
+from app.ui.items_page import ItemsPage
 
 from PySide6.QtGui import QDesktopServices
 from PySide6.QtCore import Qt
@@ -179,12 +180,13 @@ class TarkovWikiLite(QMainWindow):
         self.stack.addWidget(self._create_home_page())
         self.stack.addWidget(self._create_quests_page())
 
-        self.stack.addWidget(
-            self._create_placeholder_page(
-                "Items",
-                "Item database, crafts and loot locations."
-            )
+        self.items_page = ItemsPage(
+            api=self.api,
+            cache=self.cache,
+            initial_mode=self.mode.currentData(),
+            open_quest=self.open_quest_from_items,
         )
+        self.stack.addWidget(self.items_page)
 
         self.stack.addWidget(
             self._create_placeholder_page(
@@ -828,6 +830,31 @@ class TarkovWikiLite(QMainWindow):
 
         if page_id == "home":
             self.refresh_home_pins()
+
+        # Start item browsing only when Items is opened.
+        if page_id == "items":
+            self.items_page.ensure_loaded()
+
+    def open_quest_from_items(self, quest_id: str, mode: str) -> None:
+        """Navigate from an item requirement to its quest."""
+
+        if mode not in ("regular", "pve") or not quest_id:
+            return
+
+        self.pending_quest_id = str(quest_id)
+        self.search.clear()
+
+        if self.mode.currentData() != mode:
+            target_index = self.mode.findData(mode)
+            if target_index < 0:
+                return
+
+            # Changing the combo box starts loading the requested mode.
+            self.quests_loaded = True
+            self.mode.setCurrentIndex(target_index)
+
+        self.open_page("quests")
+        self._select_pending_quest()
 
     # ---------- CACHE AND API ----------
 
