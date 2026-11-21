@@ -1,69 +1,58 @@
-"""Curated visual guides for Tarkov quests."""
 
-WIKI_SOURCE = (
-    "https://escapefromtarkov.fandom.com/"
-    "wiki/Delivery_From_the_Past"
-)
+"""Curated visual guide catalog backed by per-quest JSON files."""
 
-GUIDES = {
-    "59674eb386f774539f14813a": [
-        {
-            "title": "Customs - Warehouse location",
-            "description": (
-                "Find the red warehouse containing "
-                "Tarcone Director's office."
-            ),
-            "url": (
-                "https://static.wikia.nocookie.net/"
-                "escapefromtarkov_gamepedia/images/4/4a/"
-                "Delivery_from_the_past_Customs.png/revision/latest"
-            ),
-            "source": WIKI_SOURCE,
-        },
-        {
-            "title": "Customs - Secure Folder 0022",
-            "description": (
-                "Inside the office, look underneath the desk, "
-                "on top of the drawers."
-            ),
-            "url": (
-                "https://static.wikia.nocookie.net/"
-                "escapefromtarkov_gamepedia/images/e/e2/"
-                "Docs_0022-Delivery_From_the_Past.png/revision/latest"
-            ),
-            "source": WIKI_SOURCE,
-        },
-        {
-            "title": "Factory - Drop-off map",
-            "description": (
-                "Find the break room on the second floor "
-                "near Gate 3."
-            ),
-            "url": (
-                "https://static.wikia.nocookie.net/"
-                "escapefromtarkov_gamepedia/images/c/cf/"
-                "Delivery_from_the_past_Factory.png/revision/latest"
-            ),
-            "source": WIKI_SOURCE,
-        },
-        {
-            "title": "Factory - Stash location",
-            "description": (
-                "Place the documents inside the sheet-metal "
-                "break room near Gate 3."
-            ),
-            "url": (
-                "https://static.wikia.nocookie.net/"
-                "escapefromtarkov_gamepedia/images/5/5c/"
-                "Delivery_from_the_past_dropoff.png/revision/latest"
-            ),
-            "source": WIKI_SOURCE,
-        },
-    ],
-}
+import json
+import re
+from functools import lru_cache
+from pathlib import Path
+
+
+GUIDES_DIR = Path(__file__).resolve().parents[2] / "guides"
+
+
+@lru_cache(maxsize=512)
+def _read_guide(quest_id: str) -> tuple[dict, ...]:
+    """Load metadata only; images are downloaded by GuideImageCache."""
+
+    path = GUIDES_DIR / f"{quest_id}.json"
+
+    if not path.is_file():
+        return ()
+
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+
+        if not isinstance(data, dict) or data.get("quest_id") != quest_id:
+            raise ValueError("Quest ID does not match the filename.")
+
+        images = data.get("images")
+
+        if not isinstance(images, list):
+            raise ValueError("The images field must be a list.")
+
+        required_fields = ("title", "description", "url", "source")
+
+        for index, image in enumerate(images, start=1):
+            if not isinstance(image, dict) or any(
+                not isinstance(image.get(field), str)
+                or not image[field].strip()
+                for field in required_fields
+            ):
+                raise ValueError(f"Invalid image entry #{index}.")
+
+        return tuple(images)
+
+    except (OSError, ValueError) as error:
+        print(f"Invalid guide '{path.name}': {error}")
+        return ()
 
 
 def get_quest_guide(task: dict) -> list[dict]:
-    """Return available curated images for a quest."""
+    """Return curated images for the quest, or an empty list."""
+
     quest_id = str(task.get("id") or "")
-    return GUIDES.get(quest_id, [])
+
+    if not re.fullmatch(r"[0-9a-f]{24}", quest_id):
+        return []
+
+    return [dict(image) for image in _read_guide(quest_id)]

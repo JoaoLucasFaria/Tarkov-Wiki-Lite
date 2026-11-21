@@ -1,0 +1,31 @@
+
+{
+  "quest_id": "59674eb386f774539f14813a",
+  "name": "Delivery From the Past",
+  "images": [
+    {
+      "title": "Customs - Warehouse location",
+      "description": "Find the red warehouse containing Tarcone Director's office.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4a/Delivery_from_the_past_Customs.png/revision/latest",
+      "source": "https://escapefromtarkov.fandom.com/wiki/Delivery_From_the_Past"
+    },
+    {
+      "title": "Customs - Secure Folder 0022",
+      "description": "Inside the office, look underneath the desk, on top of the drawers.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e2/Docs_0022-Delivery_From_the_Past.png/revision/latest",
+      "source": "https://escapefromtarkov.fandom.com/wiki/Delivery_From_the_Past"
+    },
+    {
+      "title": "Factory - Drop-off map",
+      "description": "Find the break room on the second floor near Gate 3.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cf/Delivery_from_the_past_Factory.png/revision/latest",
+      "source": "https://escapefromtarkov.fandom.com/wiki/Delivery_From_the_Past"
+    },
+    {
+      "title": "Factory - Stash location",
+      "description": "Place the documents inside the sheet-metal break room near Gate 3.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5c/Delivery_from_the_past_dropoff.png/revision/latest",
+      "source": "https://escapefromtarkov.fandom.com/wiki/Delivery_From_the_Past"
+    }
+  ]
+}
