@@ -1,0 +1,66 @@
+{
+  "quest_id": "6573397ef3f8344c4575cd87",
+  "name": "Properties All Around",
+  "images": [
+    {
+      "title": "Properties All Around Map",
+      "description": "Wiki map or overview showing locations relevant to Properties All Around.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8b/Properties_All_Around_Map.png/revision/latest?cb=20240611124436",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Properties_All_Around_Map.png"
+    },
+    {
+      "title": "Properties All Around Building",
+      "description": "Wiki location reference: Properties All Around Building.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/30/Properties_All_Around_Building.png/revision/latest?cb=20231231174323",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Properties_All_Around_Building.png"
+    },
+    {
+      "title": "Properties All Around Spawn 1",
+      "description": "Wiki location reference: Properties All Around Spawn 1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/75/Properties_All_Around_Spawn_1.png/revision/latest?cb=20231231175503",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Properties_All_Around_Spawn_1.png"
+    },
+    {
+      "title": "Properties All Around Spawn 2",
+      "description": "Wiki location reference: Properties All Around Spawn 2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/ca/Properties_All_Around_Spawn_2.png/revision/latest?cb=20231231175655",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Properties_All_Around_Spawn_2.png"
+    },
+    {
+      "title": "Properties All Around Spawn 3",
+      "description": "Wiki location reference: Properties All Around Spawn 3.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f6/Properties_All_Around_Spawn_3.png/revision/latest?cb=20231231180209",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Properties_All_Around_Spawn_3.png"
+    },
+    {
+      "title": "Properties All Around Spawn 4",
+      "description": "Wiki location reference: Properties All Around Spawn 4.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5b/Properties_All_Around_Spawn_4.png/revision/latest?cb=20231231180622",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Properties_All_Around_Spawn_4.png"
+    },
+    {
+      "title": "Properties All Around Spawn 5",
+      "description": "Wiki location reference: Properties All Around Spawn 5.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ac/Properties_All_Around_Spawn_5.png/revision/latest?cb=20231231181303",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Properties_All_Around_Spawn_5.png"
+    },
+    {
+      "title": "Properties All Around Spawn 6",
+      "description": "Wiki location reference: Properties All Around Spawn 6.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e1/Properties_All_Around_Spawn_6.png/revision/latest?cb=20231231181605",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Properties_All_Around_Spawn_6.png"
+    },
+    {
+      "title": "Cadastral registry records Icon",
+      "description": "Item or equipment appearance reference: Cadastral registry records Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6e/Cadastral_registry_records_Icon.png/revision/latest?cb=20231231192208",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Cadastral_registry_records_Icon.png"
+    },
+    {
+      "title": "Real Estate Agency Office Room Icon",
+      "description": "Item or equipment appearance reference: Real Estate Agency Office Room Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/be/RealEstateAgencyOfficeRoomIcon.png/revision/latest?cb=20240101025710",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:RealEstateAgencyOfficeRoomIcon.png"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "quest_id": "5ac346cf86f7741d63233a02",
+  "name": "Signal - Part 3",
+  "images": [
+    {
+      "title": "Signal Part3Guide",
+      "description": "Wiki map or overview showing locations relevant to Signal - Part 3.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/34/SignalPart3Guide.png/revision/latest?cb=20240227024330",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SignalPart3Guide.png"
+    },
+    {
+      "title": "Signal1",
+      "description": "Wiki location reference: Signal1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/31/Signal1.png/revision/latest?cb=20180505004103",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Signal1.png"
+    },
+    {
+      "title": "Signal2",
+      "description": "Wiki location reference: Signal2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5f/Signal2.png/revision/latest?cb=20200317190856",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Signal2.png"
+    },
+    {
+      "title": "Signal3",
+      "description": "Wiki location reference: Signal3.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b0/Signal3.png/revision/latest?cb=20260217224001",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Signal3.png"
+    },
+    {
+      "title": "Signal Jammer icon",
+      "description": "Item or equipment appearance reference: Signal Jammer icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/67/Signal_Jammer_icon.png/revision/latest?cb=20220816202817",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Signal_Jammer_icon.png"
+    }
+  ]
+}

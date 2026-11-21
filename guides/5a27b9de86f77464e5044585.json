@@ -1,0 +1,36 @@
+{
+  "quest_id": "5a27b9de86f77464e5044585",
+  "name": "The Cult",
+  "images": [
+    {
+      "title": "Cult Part1Map",
+      "description": "Wiki map or overview showing locations relevant to The Cult.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1e/CultPart1Map.png/revision/latest?cb=20240707221508",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:CultPart1Map.png"
+    },
+    {
+      "title": "Priest house",
+      "description": "Wiki location reference: Priest house.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1f/Priest_house.png/revision/latest?cb=20261011193146",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Priest_house.png"
+    },
+    {
+      "title": "Shorelinebloodtrail",
+      "description": "Wiki location reference: Shorelinebloodtrail.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d8/Shorelinebloodtrail.png/revision/latest?cb=20230518160706",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Shorelinebloodtrail.png"
+    },
+    {
+      "title": "Shorelinechurch",
+      "description": "Wiki location reference: Shorelinechurch.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/35/Shorelinechurch.png/revision/latest?cb=20240707222542",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Shorelinechurch.png"
+    },
+    {
+      "title": "Shorelineinformant",
+      "description": "Wiki location reference: Shorelineinformant.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2e/Shorelineinformant.png/revision/latest?cb=20230518161816",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Shorelineinformant.png"
+    }
+  ]
+}

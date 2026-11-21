@@ -1,0 +1,30 @@
+{
+  "quest_id": "6740a02a69a58fceba0ff399",
+  "name": "Natural Exchange",
+  "images": [
+    {
+      "title": "Natural Exchange Map",
+      "description": "Wiki map or overview showing locations relevant to Natural Exchange.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/61/NaturalExchangeMap.png/revision/latest?cb=20250116210827",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:NaturalExchangeMap.png"
+    },
+    {
+      "title": "Natural Exchange Placement1",
+      "description": "Wiki location reference: Natural Exchange Placement1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1d/NaturalExchangePlacement1.png/revision/latest?cb=20250116210148",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:NaturalExchangePlacement1.png"
+    },
+    {
+      "title": "Natural Exchange Placement2",
+      "description": "Wiki location reference: Natural Exchange Placement2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e2/NaturalExchangePlacement2.png/revision/latest?cb=20250116210321",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:NaturalExchangePlacement2.png"
+    },
+    {
+      "title": "Metal fuel tank icon",
+      "description": "Item or equipment appearance reference: Metal fuel tank icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/66/Metal-fuel-tank-icon.png/revision/latest?cb=20250114194736",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Metal-fuel-tank-icon.png"
+    }
+  ]
+}

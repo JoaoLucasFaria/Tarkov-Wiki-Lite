@@ -1,0 +1,66 @@
+{
+  "quest_id": "675c3582f6ddc329a90f9c6d",
+  "name": "Private Club",
+  "images": [
+    {
+      "title": "Warehouse17Map",
+      "description": "Wiki map or overview showing locations relevant to Private Club.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d5/Warehouse17Map.png/revision/latest?cb=20241229223041",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Warehouse17Map.png"
+    },
+    {
+      "title": "Private Club Door",
+      "description": "Wiki location reference for: Locate and obtain Skier's wallet on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/51/Private_Club_Door.png/revision/latest?cb=20250902105603",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Private_Club_Door.png",
+      "objective_id": "Locate and obtain Skier's wallet on Customs"
+    },
+    {
+      "title": "Private Club Spawn 1",
+      "description": "Wiki location reference for: Locate and obtain Skier's wallet on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/46/Private_Club_Spawn_1.png/revision/latest?cb=20250325004733",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Private_Club_Spawn_1.png",
+      "objective_id": "Locate and obtain Skier's wallet on Customs"
+    },
+    {
+      "title": "Private Club Spawn 2",
+      "description": "Wiki location reference for: Locate and obtain Skier's wallet on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4d/Private_Club_Spawn_2.png/revision/latest?cb=20250325005507",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Private_Club_Spawn_2.png",
+      "objective_id": "Locate and obtain Skier's wallet on Customs"
+    },
+    {
+      "title": "Private Club Spawn 3",
+      "description": "Wiki location reference for: Locate and obtain Skier's wallet on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9d/Private_Club_Spawn_3.png/revision/latest?cb=20250325005245",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Private_Club_Spawn_3.png",
+      "objective_id": "Locate and obtain Skier's wallet on Customs"
+    },
+    {
+      "title": "Private Club Spawn 4",
+      "description": "Wiki location reference for: Locate and obtain Skier's wallet on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8b/Private_Club_Spawn_4.png/revision/latest?cb=20250325004857",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Private_Club_Spawn_4.png",
+      "objective_id": "Locate and obtain Skier's wallet on Customs"
+    },
+    {
+      "title": "Warehouse17",
+      "description": "Wiki location reference for: Locate and obtain Skier's wallet on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6d/Warehouse17.png/revision/latest?cb=20250325012213",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Warehouse17.png",
+      "objective_id": "Locate and obtain Skier's wallet on Customs"
+    },
+    {
+      "title": "Private Club Way",
+      "description": "Wiki visual reference: Private Club Way.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/95/Private_Club_Way.png/revision/latest?cb=20250902105100",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Private_Club_Way.png"
+    },
+    {
+      "title": "Skier's wallet icon",
+      "description": "Item or equipment appearance reference: Skier's wallet icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ed/Skier%27s_wallet_icon.png/revision/latest?cb=20241229192144",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Skier%27s_wallet_icon.png"
+    }
+  ]
+}

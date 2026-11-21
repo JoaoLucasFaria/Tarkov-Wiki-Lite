@@ -1,0 +1,64 @@
+{
+  "quest_id": "5fd9fad9c1ce6b1a3b486d00",
+  "name": "Search Mission",
+  "images": [
+    {
+      "title": "Search Mission map",
+      "description": "Wiki map or overview showing locations relevant to Search Mission.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0c/Search_Mission_map.jpg/revision/latest?cb=20240811142416",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Search_Mission_map.jpg"
+    },
+    {
+      "title": "Search mission camp",
+      "description": "Wiki location reference: Search mission camp.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/dd/Search_mission_camp.png/revision/latest?cb=20230307203957",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Search_mission_camp.png"
+    },
+    {
+      "title": "Woods USEC camp northwest approach mines",
+      "description": "Wiki location reference for: Locate the temporary USEC camp on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ae/Woods_USEC_camp_northwest_approach_mines.png/revision/latest?cb=20240811155208",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Woods_USEC_camp_northwest_approach_mines.png",
+      "objective_id": "Locate the temporary USEC camp on Woods"
+    },
+    {
+      "title": "Woods USEC camp northwest approach mines2",
+      "description": "Wiki location reference for: Locate the temporary USEC camp on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/15/Woods_USEC_camp_northwest_approach_mines2.png/revision/latest?cb=20240811155216",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Woods_USEC_camp_northwest_approach_mines2.png",
+      "objective_id": "Locate the temporary USEC camp on Woods"
+    },
+    {
+      "title": "Woods USEC camp west approach mines",
+      "description": "Wiki location reference for: Locate the temporary USEC camp on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ea/Woods_USEC_camp_west_approach_mines.png/revision/latest?cb=20240811151926",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Woods_USEC_camp_west_approach_mines.png",
+      "objective_id": "Locate the temporary USEC camp on Woods"
+    },
+    {
+      "title": "Woods USEC camp west approach mines2",
+      "description": "Wiki location reference for: Locate the temporary USEC camp on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e1/Woods_USEC_camp_west_approach_mines2.png/revision/latest?cb=20240811153350",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Woods_USEC_camp_west_approach_mines2.png",
+      "objective_id": "Locate the temporary USEC camp on Woods"
+    },
+    {
+      "title": "Eagleeye",
+      "description": "Wiki visual reference: Eagleeye.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/98/Eagleeye.png/revision/latest?cb=20180330150324",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Eagleeye.png"
+    },
+    {
+      "title": "Search Mission Convoy",
+      "description": "Wiki visual reference: Search Mission Convoy.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0c/Search_Mission_Convoy.png/revision/latest?cb=20260221222750",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Search_Mission_Convoy.png"
+    },
+    {
+      "title": "Compass icon",
+      "description": "Item or equipment appearance reference: Compass icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/17/Compass_icon.png/revision/latest?cb=20260102000551",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Compass_icon.png"
+    }
+  ]
+}

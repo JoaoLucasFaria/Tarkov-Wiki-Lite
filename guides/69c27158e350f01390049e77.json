@@ -1,0 +1,36 @@
+{
+  "quest_id": "69c27158e350f01390049e77",
+  "name": "Saving Private Roman",
+  "images": [
+    {
+      "title": "Lighthouse Transit To Woods Map",
+      "description": "Wiki map or overview showing locations relevant to Saving Private Roman.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5f/LighthouseTransitToWoodsMap.png/revision/latest?cb=20260528012803",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:LighthouseTransitToWoodsMap.png"
+    },
+    {
+      "title": "Woods Transit To Lighthouse Map",
+      "description": "Wiki map or overview showing locations relevant to Saving Private Roman.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/61/WoodsTransitToLighthouseMap.jpg/revision/latest?cb=20250119194457",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WoodsTransitToLighthouseMap.jpg"
+    },
+    {
+      "title": "Lighthouse Transit To Woods",
+      "description": "Wiki location reference: Lighthouse Transit To Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/41/LighthouseTransitToWoods.png/revision/latest?cb=20240927091057",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:LighthouseTransitToWoods.png"
+    },
+    {
+      "title": "Woods Transit To Lighthouse",
+      "description": "Wiki location reference: Woods Transit To Lighthouse.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c1/WoodsTransitToLighthouse.png/revision/latest?cb=20250323135011",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WoodsTransitToLighthouse.png"
+    },
+    {
+      "title": "MS2000 Marker icon",
+      "description": "Item or equipment appearance reference: MS2000 Marker icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a9/MS2000_Marker_icon.png/revision/latest?cb=20250407003132",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MS2000_Marker_icon.png"
+    }
+  ]
+}

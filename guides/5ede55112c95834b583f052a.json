@@ -1,0 +1,24 @@
+{
+  "quest_id": "5ede55112c95834b583f052a",
+  "name": "The Bunker",
+  "images": [
+    {
+      "title": "Bunker Part 1 Guide 1",
+      "description": "Wiki map or overview showing locations relevant to The Bunker.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b5/Bunker_Part_1_Guide_1.png/revision/latest?cb=20230528222357",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Bunker_Part_1_Guide_1.png"
+    },
+    {
+      "title": "The Bunker Map",
+      "description": "Wiki map or overview showing locations relevant to The Bunker.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/49/The_Bunker_Map.png/revision/latest?cb=20261108225318",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:The_Bunker_Map.png"
+    },
+    {
+      "title": "Hermetic Door Example",
+      "description": "Wiki location reference: Hermetic Door Example.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8d/HermeticDoorExample.png/revision/latest?cb=20211210221454",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:HermeticDoorExample.png"
+    }
+  ]
+}

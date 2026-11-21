@@ -1,0 +1,55 @@
+{
+  "quest_id": "5edaba7c0c502106f869bc02",
+  "name": "Tarkov-Style Diplomacy",
+  "images": [
+    {
+      "title": "Locked Villa Shoreline Map",
+      "description": "Wiki map or overview showing locations relevant to Tarkov-Style Diplomacy.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c4/LockedVillaShorelineMap.png/revision/latest?cb=20211210205502",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:LockedVillaShorelineMap.png"
+    },
+    {
+      "title": "Pier Office Building Shoreline Map",
+      "description": "Wiki map or overview showing locations relevant to Tarkov-Style Diplomacy.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d2/PierOfficeBuildingShorelineMap.png/revision/latest?cb=20250119160210",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:PierOfficeBuildingShorelineMap.png"
+    },
+    {
+      "title": "Pier Office Building",
+      "description": "Wiki location reference: Pier Office Building.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0c/PierOfficeBuilding.png/revision/latest?cb=20241020205819",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:PierOfficeBuilding.png"
+    },
+    {
+      "title": "Shoreline Locked Villa Back Entrance",
+      "description": "Wiki location reference: Shoreline Locked Villa Back Entrance.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bc/ShorelineLockedVillaBackEntrance.png/revision/latest?cb=20241020210838",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ShorelineLockedVillaBackEntrance.png"
+    },
+    {
+      "title": "Ophtalmoscope",
+      "description": "Wiki visual reference: Ophtalmoscope.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/05/Ophtalmoscope.png/revision/latest?cb=20241020211143",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Ophtalmoscope.png"
+    },
+    {
+      "title": "Surgery kit",
+      "description": "Wiki image associated with: Locate and obtain Sanitar's surgery kit on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9b/Surgery_kit.png/revision/latest?cb=20241020210548",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Surgery_kit.png",
+      "objective_id": "Locate and obtain Sanitar's surgery kit on Shoreline"
+    },
+    {
+      "title": "Cottage Shoreline key",
+      "description": "Item or equipment appearance reference: Cottage Shoreline key.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7d/Cottage_Shoreline_key.png/revision/latest?cb=20230115110847",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Cottage_Shoreline_key.png"
+    },
+    {
+      "title": "Sanitar Ophthalmoscope Icon",
+      "description": "Item or equipment appearance reference: Sanitar Ophthalmoscope Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3c/Sanitar_Ophthalmoscope_Icon.png/revision/latest?cb=20221012074946",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Sanitar_Ophthalmoscope_Icon.png"
+    }
+  ]
+}

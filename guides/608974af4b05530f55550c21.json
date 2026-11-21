@@ -1,0 +1,90 @@
+{
+  "quest_id": "608974af4b05530f55550c21",
+  "name": "Reserve Expert",
+  "images": [
+    {
+      "title": "Black pawn objstaircase",
+      "description": "Wiki location reference: Black pawn objstaircase.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/42/Black_pawn_objstaircase.png/revision/latest?cb=20220402090852",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Black_pawn_objstaircase.png"
+    },
+    {
+      "title": "RB OB door1",
+      "description": "Wiki location reference: RB OB door1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/97/RB-OB_door1.png/revision/latest?cb=20220402092324",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:RB-OB_door1.png"
+    },
+    {
+      "title": "RB ORB2 door",
+      "description": "Wiki location reference: RB ORB2 door.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/21/RB-ORB2_door.png/revision/latest?cb=20220402093112",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:RB-ORB2_door.png"
+    },
+    {
+      "title": "RB ORBX door",
+      "description": "Wiki location reference: RB ORBX door.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e6/RB-ORBX_door.png/revision/latest?cb=20220402091028",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:RB-ORBX_door.png"
+    },
+    {
+      "title": "Reserve RB ORB3 key door",
+      "description": "Wiki location reference: Reserve RB ORB3 key door.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/30/Reserve_-_RB-ORB3_key_-_door.png/revision/latest?cb=20220402091321",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Reserve_-_RB-ORB3_key_-_door.png"
+    },
+    {
+      "title": "Black Pawn Obj",
+      "description": "Wiki visual reference: Black Pawn Obj.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6a/Black_Pawn_Obj.png/revision/latest?cb=20220402090809",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Black_Pawn_Obj.png"
+    },
+    {
+      "title": "Inventory check",
+      "description": "Wiki visual reference: Inventory check.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/13/Inventory_check.png/revision/latest?cb=20241018221545",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Inventory_check.png"
+    },
+    {
+      "title": "Inventory Check",
+      "description": "Wiki visual reference: Inventory Check.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4b/InventoryCheck.png/revision/latest?cb=20210728184833",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:InventoryCheck.png"
+    },
+    {
+      "title": "Screenshot 2019 10 29 19.22.44",
+      "description": "Wiki visual reference: Screenshot 2019 10 29 19.22.44.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d2/Screenshot_2019-10-29_19.22.44.png/revision/latest?cb=20220402092103",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Screenshot_2019-10-29_19.22.44.png"
+    },
+    {
+      "title": "White pawn obj",
+      "description": "Wiki visual reference: White pawn obj.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8b/White_pawn_obj.png/revision/latest?cb=20220402091003",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:White_pawn_obj.png"
+    },
+    {
+      "title": "White pawn",
+      "description": "Wiki visual reference: White pawn.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3e/White_pawn.png/revision/latest?cb=20220402091730",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:White_pawn.png"
+    },
+    {
+      "title": "FORT Redut M body armor icon",
+      "description": "Item or equipment appearance reference: FORT Redut M body armor icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e9/FORT_Redut-M_body_armor_icon.png/revision/latest?cb=20250625153233",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:FORT_Redut-M_body_armor_icon.png"
+    },
+    {
+      "title": "FORT armor icon",
+      "description": "Item or equipment appearance reference: FORT armor icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/90/FORT_armor_icon.png/revision/latest?cb=20240103172502",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:FORT_armor_icon.png"
+    },
+    {
+      "title": "RB OB key icon",
+      "description": "Item or equipment appearance reference: RB OB key icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/30/RB-OB_key_icon.png/revision/latest?cb=20230115111515",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:RB-OB_key_icon.png"
+    }
+  ]
+}

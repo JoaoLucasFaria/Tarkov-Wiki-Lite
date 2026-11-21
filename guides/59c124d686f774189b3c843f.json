@@ -1,0 +1,46 @@
+{
+  "quest_id": "59c124d686f774189b3c843f",
+  "name": "Oil Run",
+  "images": [
+    {
+      "title": "BP Depot Marked Map",
+      "description": "Wiki map or overview showing locations relevant to Oil Run.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/39/BP_Depot_Marked_Map.png/revision/latest?cb=20240729135604",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BP_Depot_Marked_Map.png"
+    },
+    {
+      "title": "BP Tanker",
+      "description": "Wiki location reference for: Locate and mark any of the fuel tank trucks with an MS2000 Marker on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/51/BPTanker.png/revision/latest?cb=20240729135637",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BPTanker.png",
+      "objective_id": "Locate and mark any of the fuel tank trucks with an MS2000 Marker on Customs"
+    },
+    {
+      "title": "BP Tanker2",
+      "description": "Wiki location reference for: Locate and mark any of the fuel tank trucks with an MS2000 Marker on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/27/BPTanker2.png/revision/latest?cb=20240729140300",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BPTanker2.png",
+      "objective_id": "Locate and mark any of the fuel tank trucks with an MS2000 Marker on Customs"
+    },
+    {
+      "title": "BP Tanker3",
+      "description": "Wiki location reference for: Locate and mark any of the fuel tank trucks with an MS2000 Marker on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b1/BPTanker3.png/revision/latest?cb=20240729140112",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BPTanker3.png",
+      "objective_id": "Locate and mark any of the fuel tank trucks with an MS2000 Marker on Customs"
+    },
+    {
+      "title": "BP Tanker4",
+      "description": "Wiki location reference for: Locate and mark any of the fuel tank trucks with an MS2000 Marker on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/67/BPTanker4.png/revision/latest?cb=20240729140359",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BPTanker4.png",
+      "objective_id": "Locate and mark any of the fuel tank trucks with an MS2000 Marker on Customs"
+    },
+    {
+      "title": "MS2000 Marker icon",
+      "description": "Item or equipment appearance reference: MS2000 Marker icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a9/MS2000_Marker_icon.png/revision/latest?cb=20250407003132",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MS2000_Marker_icon.png"
+    }
+  ]
+}

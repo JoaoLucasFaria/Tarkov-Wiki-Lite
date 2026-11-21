@@ -1,0 +1,126 @@
+{
+  "quest_id": "6744af0969a58fceba101fed",
+  "name": "The Price of Independence",
+  "images": [
+    {
+      "title": "Customs industrial plant map",
+      "description": "Wiki map or overview showing locations relevant to The Price of Independence.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9e/Customs_industrial_plant_map.png/revision/latest?cb=20261008231047",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Customs_industrial_plant_map.png"
+    },
+    {
+      "title": "Customs Transit To Reserve Map",
+      "description": "Wiki map or overview showing locations relevant to The Price of Independence.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/10/CustomsTransitToReserveMap.png/revision/latest?cb=20250119195021",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:CustomsTransitToReserveMap.png"
+    },
+    {
+      "title": "Reserve Transit To Woods Map",
+      "description": "Wiki map or overview showing locations relevant to The Price of Independence.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a3/ReserveTransitToWoodsMap.png/revision/latest?cb=20250101212400",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ReserveTransitToWoodsMap.png"
+    },
+    {
+      "title": "T Po I Flares Map",
+      "description": "Wiki map or overview showing locations relevant to The Price of Independence.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/91/TPoI_Flares_Map.png/revision/latest?cb=20250122192739",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TPoI_Flares_Map.png"
+    },
+    {
+      "title": "T Po I Letter Map Reserve",
+      "description": "Wiki map or overview showing locations relevant to The Price of Independence.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/03/TPoI_Letter_Map_Reserve.jpg/revision/latest?cb=20250118101937",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TPoI_Letter_Map_Reserve.jpg"
+    },
+    {
+      "title": "Woods Transit To Lighthouse Map",
+      "description": "Wiki map or overview showing locations relevant to The Price of Independence.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/61/WoodsTransitToLighthouseMap.jpg/revision/latest?cb=20250119194457",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WoodsTransitToLighthouseMap.jpg"
+    },
+    {
+      "title": "Customs Transit To Reserve",
+      "description": "Wiki location reference: Customs Transit To Reserve.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fe/CustomsTransitToReserve.png/revision/latest?cb=20250316151200",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:CustomsTransitToReserve.png"
+    },
+    {
+      "title": "Provide Viewership building",
+      "description": "Wiki location reference: Provide Viewership building.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2a/Provide_Viewership_building.png/revision/latest?cb=20250323133453",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Provide_Viewership_building.png"
+    },
+    {
+      "title": "Reserve Transit To Woods",
+      "description": "Wiki location reference: Reserve Transit To Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/50/ReserveTransitToWoods.png/revision/latest?cb=20250323134420",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ReserveTransitToWoods.png"
+    },
+    {
+      "title": "T Po I Letter Office",
+      "description": "Wiki location reference: T Po I Letter Office.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/dc/TPoI_Letter_Office.png/revision/latest?cb=20250331195006",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TPoI_Letter_Office.png"
+    },
+    {
+      "title": "T Po I Reserve Stashing Location",
+      "description": "Wiki location reference: T Po I Reserve Stashing Location.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/78/TPoI_Reserve_Stashing_Location.png/revision/latest?cb=20250119233046",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TPoI_Reserve_Stashing_Location.png"
+    },
+    {
+      "title": "T Po I Spawn 1",
+      "description": "Wiki location reference: T Po I Spawn 1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/97/TPoI_Spawn_1.png/revision/latest?cb=20250331195128",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TPoI_Spawn_1.png"
+    },
+    {
+      "title": "T Po I Spawn 2",
+      "description": "Wiki location reference: T Po I Spawn 2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/aa/TPoI_Spawn_2.png/revision/latest?cb=20250331195517",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TPoI_Spawn_2.png"
+    },
+    {
+      "title": "T Po I Spawn 3",
+      "description": "Wiki location reference: T Po I Spawn 3.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fe/TPoI_Spawn_3.png/revision/latest?cb=20250331200014",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TPoI_Spawn_3.png"
+    },
+    {
+      "title": "T Po I Spawn 4",
+      "description": "Wiki location reference: T Po I Spawn 4.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3f/TPoI_Spawn_4.png/revision/latest?cb=20250331200254",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TPoI_Spawn_4.png"
+    },
+    {
+      "title": "T Po I Spawn 5",
+      "description": "Wiki location reference: T Po I Spawn 5.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/ff/TPoI_Spawn_5.png/revision/latest?cb=20250331200112",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TPoI_Spawn_5.png"
+    },
+    {
+      "title": "Woods Transit To Lighthouse",
+      "description": "Wiki location reference: Woods Transit To Lighthouse.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c1/WoodsTransitToLighthouse.png/revision/latest?cb=20250323135011",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WoodsTransitToLighthouse.png"
+    },
+    {
+      "title": "26x75 flare cartridge (Yellow) icon",
+      "description": "Item or equipment appearance reference: 26x75 flare cartridge (Yellow) icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cb/26x75_flare_cartridge_%28Yellow%29_icon.png/revision/latest?cb=20220706003925",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:26x75_flare_cartridge_(Yellow)_icon.png"
+    },
+    {
+      "title": "Incriminating letter Icon",
+      "description": "Item or equipment appearance reference: Incriminating letter Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/89/Incriminating_letter_Icon.png/revision/latest?cb=20250118100141",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Incriminating_letter_Icon.png"
+    },
+    {
+      "title": "Yellow flare icon",
+      "description": "Item or equipment appearance reference: Yellow flare icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f1/Yellow_flare_icon.png/revision/latest?cb=20220706002207",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Yellow_flare_icon.png"
+    }
+  ]
+}

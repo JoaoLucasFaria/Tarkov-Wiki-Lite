@@ -1,0 +1,114 @@
+{
+  "quest_id": "666314bf1cd52e3d040a2e78",
+  "name": "Serious Allegations",
+  "images": [
+    {
+      "title": "SA Rock13 map",
+      "description": "Wiki map or overview showing locations relevant to Serious Allegations.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/09/SA_Rock13_map.png/revision/latest?cb=20240709030317",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SA_Rock13_map.png"
+    },
+    {
+      "title": "Serious Allegations map",
+      "description": "Wiki map or overview showing locations relevant to Serious Allegations.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bd/SeriousAllegations_map.png/revision/latest?cb=20240706123319",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SeriousAllegations_map.png"
+    },
+    {
+      "title": "Priest house",
+      "description": "Wiki location reference for: Locate and obtain the hard drive at the old house on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1f/Priest_house.png/revision/latest?cb=20261011193146",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Priest_house.png",
+      "objective_id": "Locate and obtain the hard drive at the old house on Shoreline"
+    },
+    {
+      "title": "SA house1 2",
+      "description": "Wiki location reference for: Locate and obtain the hard drive at the old house on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/28/SA_house1-2.png/revision/latest?cb=20240708023538",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SA_house1-2.png",
+      "objective_id": "Locate and obtain the hard drive at the old house on Shoreline"
+    },
+    {
+      "title": "SA house2",
+      "description": "Wiki location reference for: Locate and obtain the hard drive at the old house on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/75/SA_house2.png/revision/latest?cb=20240708023540",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SA_house2.png",
+      "objective_id": "Locate and obtain the hard drive at the old house on Shoreline"
+    },
+    {
+      "title": "SA house3",
+      "description": "Wiki location reference for: Locate and obtain the hard drive at the old house on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/90/SA_house3.png/revision/latest?cb=20240708023542",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SA_house3.png",
+      "objective_id": "Locate and obtain the hard drive at the old house on Shoreline"
+    },
+    {
+      "title": "SA house4",
+      "description": "Wiki location reference for: Locate and obtain the hard drive at the old house on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/21/SA_house4.png/revision/latest?cb=20240708023544",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SA_house4.png",
+      "objective_id": "Locate and obtain the hard drive at the old house on Shoreline"
+    },
+    {
+      "title": "SA house5",
+      "description": "Wiki location reference for: Locate and obtain the hard drive at the old house on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/77/SA_house5.png/revision/latest?cb=20240708023546",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SA_house5.png",
+      "objective_id": "Locate and obtain the hard drive at the old house on Shoreline"
+    },
+    {
+      "title": "SA house6",
+      "description": "Wiki location reference for: Locate and obtain the hard drive at the old house on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/44/SA_house6.png/revision/latest?cb=20240708023553",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SA_house6.png",
+      "objective_id": "Locate and obtain the hard drive at the old house on Shoreline"
+    },
+    {
+      "title": "Serious Al house1",
+      "description": "Wiki location reference for: Locate and obtain the hard drive at the old house on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/65/SeriousAl_house1.png/revision/latest?cb=20240708022144",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SeriousAl_house1.png",
+      "objective_id": "Locate and obtain the hard drive at the old house on Shoreline"
+    },
+    {
+      "title": "Serious Al house2",
+      "description": "Wiki location reference for: Locate and obtain the hard drive at the old house on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/91/SeriousAl_house2.png/revision/latest?cb=20240708022152",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SeriousAl_house2.png",
+      "objective_id": "Locate and obtain the hard drive at the old house on Shoreline"
+    },
+    {
+      "title": "Serious Al house3",
+      "description": "Wiki location reference for: Locate and obtain the hard drive at the old house on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e5/SeriousAl_house3.png/revision/latest?cb=20240708022201",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SeriousAl_house3.png",
+      "objective_id": "Locate and obtain the hard drive at the old house on Shoreline"
+    },
+    {
+      "title": "Serious Al house4",
+      "description": "Wiki location reference for: Locate and obtain the hard drive at the old house on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/20/SeriousAl_house4.png/revision/latest?cb=20240708022210",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SeriousAl_house4.png",
+      "objective_id": "Locate and obtain the hard drive at the old house on Shoreline"
+    },
+    {
+      "title": "Serious Al house6",
+      "description": "Wiki location reference for: Locate and obtain the hard drive at the old house on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c3/SeriousAl_house6.png/revision/latest?cb=20240708022333",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SeriousAl_house6.png",
+      "objective_id": "Locate and obtain the hard drive at the old house on Shoreline"
+    },
+    {
+      "title": "SA Rock13",
+      "description": "Wiki visual reference: SA Rock13.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d2/SA_Rock13.png/revision/latest?cb=20240709024438",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SA_Rock13.png"
+    },
+    {
+      "title": "Working hard drive icon",
+      "description": "Item or equipment appearance reference: Working hard drive icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bb/Working_hard_drive_icon.png/revision/latest?cb=20221012072939",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Working_hard_drive_icon.png"
+    }
+  ]
+}

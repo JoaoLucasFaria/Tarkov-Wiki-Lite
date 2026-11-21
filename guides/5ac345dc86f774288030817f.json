@@ -1,0 +1,30 @@
+{
+  "quest_id": "5ac345dc86f774288030817f",
+  "name": "Playing the Market",
+  "images": [
+    {
+      "title": "Farming Part1Guide",
+      "description": "Wiki map or overview showing locations relevant to Playing the Market.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/14/FarmingPart1Guide.jpg/revision/latest?cb=20251019172713",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:FarmingPart1Guide.jpg"
+    },
+    {
+      "title": "Bilnky 1",
+      "description": "Wiki visual reference: Bilnky 1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/43/Bilnky-1.png/revision/latest?cb=20251019172844",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Bilnky-1.png"
+    },
+    {
+      "title": "Blinky 2",
+      "description": "Wiki visual reference: Blinky 2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/71/Blinky-2.png/revision/latest?cb=20251019172614",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Blinky-2.png"
+    },
+    {
+      "title": "Toolsicon",
+      "description": "Item or equipment appearance reference: Toolsicon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3a/Toolsicon.png/revision/latest?cb=20210805173459",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Toolsicon.png"
+    }
+  ]
+}

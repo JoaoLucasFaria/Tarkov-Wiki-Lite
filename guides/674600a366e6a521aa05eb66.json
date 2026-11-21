@@ -1,0 +1,59 @@
+{
+  "quest_id": "674600a366e6a521aa05eb66",
+  "name": "Route Deviation",
+  "images": [
+    {
+      "title": "Route Deviation City Center",
+      "description": "Wiki map reference for: Mark the City Center BTR stop with an MS2000 Marker on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d4/Route_Deviation_City_Center.png/revision/latest?cb=20250502205727",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Route_Deviation_City_Center.png",
+      "objective_id": "Mark the City Center BTR stop with an MS2000 Marker on Streets of Tarkov"
+    },
+    {
+      "title": "Route Deviation Collapsed Crane",
+      "description": "Wiki map reference for: Mark the Collapsed Crane BTR stop with an MS2000 Marker on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/55/Route_Deviation_Collapsed_Crane.png/revision/latest?cb=20250502204251",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Route_Deviation_Collapsed_Crane.png",
+      "objective_id": "Mark the Collapsed Crane BTR stop with an MS2000 Marker on Streets of Tarkov"
+    },
+    {
+      "title": "Route Deviation Old Scav Checkpoint",
+      "description": "Wiki map reference for: Mark the Old Scav Checkpoint BTR stop with an MS2000 Marker on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/56/Route_Deviation_Old_Scav_Checkpoint.png/revision/latest?cb=20250502204519",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Route_Deviation_Old_Scav_Checkpoint.png",
+      "objective_id": "Mark the Old Scav Checkpoint BTR stop with an MS2000 Marker on Streets of Tarkov"
+    },
+    {
+      "title": "Route Deviation Pinewood Hotel",
+      "description": "Wiki map reference for: Mark the Pinewood Hotel BTR stop with an MS2000 Marker on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c1/Route_Deviation_Pinewood_Hotel.png/revision/latest?cb=20250502205410",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Route_Deviation_Pinewood_Hotel.png",
+      "objective_id": "Mark the Pinewood Hotel BTR stop with an MS2000 Marker on Streets of Tarkov"
+    },
+    {
+      "title": "Route Deviation Rodina Cinema",
+      "description": "Wiki map reference for: Mark the Rodina Cinema BTR stop with an MS2000 Marker on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/47/Route_Deviation_Rodina_Cinema.png/revision/latest?cb=20250502210228",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Route_Deviation_Rodina_Cinema.png",
+      "objective_id": "Mark the Rodina Cinema BTR stop with an MS2000 Marker on Streets of Tarkov"
+    },
+    {
+      "title": "Route Deviation Tram",
+      "description": "Wiki map or overview showing locations relevant to Route Deviation.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a3/Route_Deviation_Tram.png/revision/latest?cb=20250502205944",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Route_Deviation_Tram.png"
+    },
+    {
+      "title": "Streets of Tarkov BTR stops map",
+      "description": "Wiki map or overview showing locations relevant to Route Deviation.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e6/Streets_of_Tarkov_BTR_stops_map.png/revision/latest?cb=20240305125746",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Streets_of_Tarkov_BTR_stops_map.png"
+    },
+    {
+      "title": "MS2000 Marker icon",
+      "description": "Item or equipment appearance reference: MS2000 Marker icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a9/MS2000_Marker_icon.png/revision/latest?cb=20250407003132",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MS2000_Marker_icon.png"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "quest_id": "6a7b0df31ea00c9a980e2742",
+  "name": "Sisyphus",
+  "images": [
+    {
+      "title": "Sisyphus Case 1 Stashing Map",
+      "description": "Wiki map or overview showing locations relevant to Sisyphus.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/71/Sisyphus_Case_1_Stashing_Map.png/revision/latest?cb=20260913210657",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Sisyphus_Case_1_Stashing_Map.png"
+    },
+    {
+      "title": "Sisyphus Case 2 Spawn Map",
+      "description": "Wiki map or overview showing locations relevant to Sisyphus.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3c/Sisyphus_Case_2_Spawn_Map.png/revision/latest?cb=20260913211537",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Sisyphus_Case_2_Spawn_Map.png"
+    },
+    {
+      "title": "Sisyphus Case 2 Stashing Map",
+      "description": "Wiki map or overview showing locations relevant to Sisyphus.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f2/Sisyphus_Case_2_Stashing_Map.jpg/revision/latest?cb=20260913211017",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Sisyphus_Case_2_Stashing_Map.jpg"
+    },
+    {
+      "title": "Ice Cream Cones Woods",
+      "description": "Wiki location reference: Ice Cream Cones Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9a/IceCreamConesWoods.png/revision/latest?cb=20260913211738",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:IceCreamConesWoods.png"
+    },
+    {
+      "title": "Sisyphus Case 1 Spawn",
+      "description": "Wiki location reference: Sisyphus Case 1 Spawn.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cf/Sisyphus_Case_1_Spawn.png/revision/latest?cb=20260913153017",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Sisyphus_Case_1_Spawn.png"
+    },
+    {
+      "title": "Sisyphus Case 1 Stashing",
+      "description": "Wiki location reference: Sisyphus Case 1 Stashing.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/09/Sisyphus_Case_1_Stashing.png/revision/latest?cb=20261020104259",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Sisyphus_Case_1_Stashing.png"
+    },
+    {
+      "title": "Sisyphus Case 2 Spawn",
+      "description": "Wiki location reference: Sisyphus Case 2 Spawn.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d4/Sisyphus_Case_2_Spawn.png/revision/latest?cb=20260913150657",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Sisyphus_Case_2_Spawn.png"
+    },
+    {
+      "title": "Sisyphus Case 2 Stashing",
+      "description": "Wiki location reference: Sisyphus Case 2 Stashing.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/68/Sisyphus_Case_2_Stashing.png/revision/latest?cb=20260913210410",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Sisyphus_Case_2_Stashing.png"
+    },
+    {
+      "title": "ZB 014 Bunker",
+      "description": "Wiki location reference for: Locate and obtain the first smuggler case in the ZB-014 bunker on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/29/ZB-014-Bunker.png/revision/latest?cb=20250816204007",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ZB-014-Bunker.png",
+      "objective_id": "Locate and obtain the first smuggler case in the ZB-014 bunker on Woods"
+    },
+    {
+      "title": "Case with goods for the smugglers 1 icon",
+      "description": "Item or equipment appearance reference: Case with goods for the smugglers 1 icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ec/Case_with_goods_for_the_smugglers_1_icon.png/revision/latest?cb=20260913185239",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Case_with_goods_for_the_smugglers_1_icon.png"
+    },
+    {
+      "title": "Case with goods for the smugglers 2 icon",
+      "description": "Item or equipment appearance reference: Case with goods for the smugglers 2 icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4f/Case_with_goods_for_the_smugglers_2_icon.png/revision/latest?cb=20260913185305",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Case_with_goods_for_the_smugglers_2_icon.png"
+    }
+  ]
+}

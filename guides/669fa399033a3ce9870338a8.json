@@ -1,0 +1,39 @@
+{
+  "quest_id": "669fa399033a3ce9870338a8",
+  "name": "Possessor",
+  "images": [
+    {
+      "title": "Possessor Map",
+      "description": "Wiki map or overview showing locations relevant to Possessor.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f6/Possessor_Map.jpg/revision/latest?cb=20240919101245",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Possessor_Map.jpg"
+    },
+    {
+      "title": "Possessor Location 1",
+      "description": "Wiki location reference for: Locate and obtain the helicopter logbook on Factory.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8d/Possessor_Location_1.png/revision/latest?cb=20240827190135",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Possessor_Location_1.png",
+      "objective_id": "Locate and obtain the helicopter logbook on Factory"
+    },
+    {
+      "title": "Possessor Location 2",
+      "description": "Wiki location reference for: Locate and obtain the helicopter logbook on Factory.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/eb/Possessor_Location_2.png/revision/latest?cb=20250729221948",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Possessor_Location_2.png",
+      "objective_id": "Locate and obtain the helicopter logbook on Factory"
+    },
+    {
+      "title": "Possessor Location 3",
+      "description": "Wiki location reference for: Locate and obtain the helicopter logbook on Factory.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0f/Possessor_Location_3.png/revision/latest?cb=20240830175738",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Possessor_Location_3.png",
+      "objective_id": "Locate and obtain the helicopter logbook on Factory"
+    },
+    {
+      "title": "Pilot logbook icon",
+      "description": "Item or equipment appearance reference: Pilot logbook icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e4/Pilot_logbook_icon.png/revision/latest?cb=20240827192035",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Pilot_logbook_icon.png"
+    }
+  ]
+}

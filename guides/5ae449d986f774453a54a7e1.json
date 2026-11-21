@@ -1,0 +1,48 @@
+{
+  "quest_id": "5ae449d986f774453a54a7e1",
+  "name": "Supervisor",
+  "images": [
+    {
+      "title": "Supervisor Map",
+      "description": "Wiki map or overview showing locations relevant to Supervisor.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/41/Supervisor_Map.png/revision/latest?cb=20260906185311",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Supervisor_Map.png"
+    },
+    {
+      "title": "Supervisor Goshan Location",
+      "description": "Wiki location reference: Supervisor Goshan Location.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/48/Supervisor_Goshan_Location.png/revision/latest?cb=20260906184912",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Supervisor_Goshan_Location.png"
+    },
+    {
+      "title": "Supervisor IDEA Location",
+      "description": "Wiki location reference: Supervisor IDEA Location.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/42/Supervisor_IDEA_Location.png/revision/latest?cb=20260906184655",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Supervisor_IDEA_Location.png"
+    },
+    {
+      "title": "Supervisor OLI Location",
+      "description": "Wiki location reference: Supervisor OLI Location.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b6/Supervisor_OLI_Location.png/revision/latest?cb=20260906184227",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Supervisor_OLI_Location.png"
+    },
+    {
+      "title": "Goshan key",
+      "description": "Item or equipment appearance reference: Goshan key.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3c/Goshan_key.png/revision/latest?cb=20220707182122",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Goshan_key.png"
+    },
+    {
+      "title": "IDEA Register Key",
+      "description": "Item or equipment appearance reference: IDEA Register Key.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/de/IDEARegisterKey.png/revision/latest?cb=20220707182055",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:IDEARegisterKey.png"
+    },
+    {
+      "title": "OLI cash register",
+      "description": "Item or equipment appearance reference: OLI cash register.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0c/OLI_cash_register.png/revision/latest?cb=20220707182010",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:OLI_cash_register.png"
+    }
+  ]
+}

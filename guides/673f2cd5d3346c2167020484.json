@@ -1,0 +1,43 @@
+{
+  "quest_id": "673f2cd5d3346c2167020484",
+  "name": "Shipping Delay - Part 2",
+  "images": [
+    {
+      "title": "A Helping Hand Building",
+      "description": "Wiki location reference: A Helping Hand Building.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d9/A_Helping_Hand_Building.png/revision/latest?cb=20250325002847",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:A_Helping_Hand_Building.png"
+    },
+    {
+      "title": "Garages Depot Woods",
+      "description": "Wiki location reference for: Locate and scout the garages at the depot on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/50/Garages_Depot_Woods.png/revision/latest?cb=20250325002646",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Garages_Depot_Woods.png",
+      "objective_id": "Locate and scout the garages at the depot on Woods"
+    },
+    {
+      "title": "Shipping Delay Part 2 location",
+      "description": "Wiki location reference: Shipping Delay Part 2 location.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/39/Shipping_Delay_Part_2_location.png/revision/latest?cb=20250116182223",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Shipping_Delay_Part_2_location.png"
+    },
+    {
+      "title": "Warehouse Depot Woods",
+      "description": "Wiki location reference: Warehouse Depot Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ae/Warehouse_Depot_Woods.png/revision/latest?cb=20250325002754",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Warehouse_Depot_Woods.png"
+    },
+    {
+      "title": "Woods Train Depot Exit",
+      "description": "Wiki location reference: Woods Train Depot Exit.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3a/WoodsTrainDepotExit.png/revision/latest?cb=20250403233648",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WoodsTrainDepotExit.png"
+    },
+    {
+      "title": "Woods Train Depot Exit2",
+      "description": "Wiki location reference: Woods Train Depot Exit2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6c/WoodsTrainDepotExit2.png/revision/latest?cb=20250403234347",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WoodsTrainDepotExit2.png"
+    }
+  ]
+}

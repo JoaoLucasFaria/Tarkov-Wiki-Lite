@@ -1,0 +1,24 @@
+{
+  "quest_id": "59689ee586f7740d1570bbd5",
+  "name": "Sanitary Standards",
+  "images": [
+    {
+      "title": "ITAR Strategy Games Map",
+      "description": "Wiki map or overview showing locations relevant to Sanitary Standards.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/06/ITARStrategyGamesMap.jpg/revision/latest?cb=20240928173339",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARStrategyGamesMap.jpg"
+    },
+    {
+      "title": "Sanitary Standards Stashing Location",
+      "description": "Wiki location reference: Sanitary Standards Stashing Location.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5e/SanitaryStandardsStashingLocation.png/revision/latest?cb=20260920125700",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SanitaryStandardsStashingLocation.png"
+    },
+    {
+      "title": "Gas Analyzer Icon",
+      "description": "Item or equipment appearance reference: Gas Analyzer Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1d/Gas_Analyzer_Icon.png/revision/latest?cb=20250308184900",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Gas_Analyzer_Icon.png"
+    }
+  ]
+}

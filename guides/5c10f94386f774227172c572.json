@@ -1,0 +1,36 @@
+{
+  "quest_id": "5c10f94386f774227172c572",
+  "name": "Small Things, Big Help",
+  "images": [
+    {
+      "title": "Blood of War Part 3 Map",
+      "description": "Wiki map or overview showing locations relevant to Small Things, Big Help.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ae/Blood_of_War_-_Part_3_Map.png/revision/latest?cb=20240729131641",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Blood_of_War_-_Part_3_Map.png"
+    },
+    {
+      "title": "Bow1",
+      "description": "Wiki visual reference: Bow1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/04/Bow1.png/revision/latest?cb=20240729130145",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Bow1.png"
+    },
+    {
+      "title": "Bow2",
+      "description": "Wiki visual reference: Bow2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e1/Bow2.png/revision/latest?cb=20240729125640",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Bow2.png"
+    },
+    {
+      "title": "Bow3",
+      "description": "Wiki visual reference: Bow3.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3a/Bow3.png/revision/latest?cb=20240729125830",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Bow3.png"
+    },
+    {
+      "title": "MS2000 Marker icon",
+      "description": "Item or equipment appearance reference: MS2000 Marker icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a9/MS2000_Marker_icon.png/revision/latest?cb=20250407003132",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MS2000_Marker_icon.png"
+    }
+  ]
+}

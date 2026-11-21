@@ -1,0 +1,31 @@
+{
+  "quest_id": "666314b696a9349baa021bac",
+  "name": "Quality Standard",
+  "images": [
+    {
+      "title": "Quality Standard Yellow Dome Map",
+      "description": "Wiki map or overview showing locations relevant to Quality Standard.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/71/Quality_Standard_Yellow_Dome_Map.png/revision/latest?cb=20240708010501",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Quality_Standard_Yellow_Dome_Map.png"
+    },
+    {
+      "title": "Quality Standard Yellow Dome Spawn",
+      "description": "Wiki location reference for: Locate and obtain the special version of the LEDX Skin Transilluminator in The Lab.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b6/Quality_Standard_Yellow_Dome_Spawn.png/revision/latest?cb=20250209193207",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Quality_Standard_Yellow_Dome_Spawn.png",
+      "objective_id": "Locate and obtain the special version of the LEDX Skin Transilluminator in The Lab"
+    },
+    {
+      "title": "Quality Standard Yellow Dome",
+      "description": "Wiki visual reference: Quality Standard Yellow Dome.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5a/Quality_Standard_Yellow_Dome.png/revision/latest?cb=20250209193105",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Quality_Standard_Yellow_Dome.png"
+    },
+    {
+      "title": "Terragroup Labs access keycard icon",
+      "description": "Item or equipment appearance reference: Terragroup Labs access keycard icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/79/Terragroup_Labs_access_keycard_icon.png/revision/latest?cb=20211220202500",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Terragroup_Labs_access_keycard_icon.png"
+    }
+  ]
+}

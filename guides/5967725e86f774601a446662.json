@@ -1,0 +1,30 @@
+{
+  "quest_id": "5967725e86f774601a446662",
+  "name": "Shaking Up the Teller",
+  "images": [
+    {
+      "title": "Shaking up teller customs map",
+      "description": "Wiki map or overview showing locations relevant to Shaking Up the Teller.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8c/Shaking_up_teller_customs_map.png/revision/latest?cb=20250712190703",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Shaking_up_teller_customs_map.png"
+    },
+    {
+      "title": "Bank case location",
+      "description": "Wiki location reference: Bank case location.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/91/Bank_case_location.png/revision/latest?cb=20251112013927",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Bank_case_location.png"
+    },
+    {
+      "title": "Bank Case icon",
+      "description": "Item or equipment appearance reference: Bank Case icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fd/Bank_Case_icon.png/revision/latest?cb=20221012062512",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Bank_Case_icon.png"
+    },
+    {
+      "title": "Key 203 Icon",
+      "description": "Item or equipment appearance reference: Key 203 Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cb/Key-203-Icon.png/revision/latest?cb=20220707191332",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Key-203-Icon.png"
+    }
+  ]
+}

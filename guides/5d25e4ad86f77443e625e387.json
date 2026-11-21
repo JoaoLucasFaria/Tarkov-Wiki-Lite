@@ -1,0 +1,31 @@
+{
+  "quest_id": "5d25e4ad86f77443e625e387",
+  "name": "Nostalgia",
+  "images": [
+    {
+      "title": "Vitamins1 Shoreline outdoor map",
+      "description": "Wiki map or overview showing locations relevant to Nostalgia.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e6/Vitamins1_Shoreline_outdoor_map.png/revision/latest?cb=20241020215322",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Vitamins1_Shoreline_outdoor_map.png"
+    },
+    {
+      "title": "West Wing 303 Door",
+      "description": "Wiki location reference: West Wing 303 Door.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/45/West_Wing_303_Door.png/revision/latest?cb=20230926181015",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:West_Wing_303_Door.png"
+    },
+    {
+      "title": "Jaeger Photo Album",
+      "description": "Wiki image associated with: Locate and obtain Jaeger's photo album.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d4/Jaeger_Photo_Album.png/revision/latest?cb=20230926180834",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Jaeger_Photo_Album.png",
+      "objective_id": "Locate and obtain Jaeger's photo album"
+    },
+    {
+      "title": "Photo Album ins",
+      "description": "Wiki visual reference: Photo Album ins.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4c/Photo_Album_ins.png/revision/latest?cb=20221012072359",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Photo_Album_ins.png"
+    }
+  ]
+}

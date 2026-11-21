@@ -1,0 +1,33 @@
+{
+  "quest_id": "59689fbd86f7740d137ebfc4",
+  "name": "Operation Aquarius",
+  "images": [
+    {
+      "title": "Inside Room 206",
+      "description": "Wiki location reference for: Locate the water stockpile hidden inside one of the dorm rooms on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/99/Inside-Room-206.png/revision/latest?cb=20180314234507",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Inside-Room-206.png",
+      "objective_id": "Locate the water stockpile hidden inside one of the dorm rooms on Customs"
+    },
+    {
+      "title": "OP Aquarius1 Customs",
+      "description": "Wiki location reference for: Locate the water stockpile hidden inside one of the dorm rooms on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/92/OP_Aquarius1_Customs.png/revision/latest?cb=20220211210242",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:OP_Aquarius1_Customs.png",
+      "objective_id": "Locate the water stockpile hidden inside one of the dorm rooms on Customs"
+    },
+    {
+      "title": "Rom 206 door",
+      "description": "Wiki location reference for: Locate the water stockpile hidden inside one of the dorm rooms on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/de/Rom_206_door.png/revision/latest?cb=20260416025126",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Rom_206_door.png",
+      "objective_id": "Locate the water stockpile hidden inside one of the dorm rooms on Customs"
+    },
+    {
+      "title": "Key 206 Icon",
+      "description": "Item or equipment appearance reference: Key 206 Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5e/Key-206-Icon.png/revision/latest?cb=20220707185425",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Key-206-Icon.png"
+    }
+  ]
+}

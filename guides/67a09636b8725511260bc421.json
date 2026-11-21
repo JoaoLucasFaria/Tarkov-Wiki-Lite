@@ -1,0 +1,42 @@
+{
+  "quest_id": "67a09636b8725511260bc421",
+  "name": "Shady Contractor",
+  "images": [
+    {
+      "title": "Shady Contractor Map",
+      "description": "Wiki map or overview showing locations relevant to Shady Contractor.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a2/Shady_Contractor_Map.png/revision/latest?cb=20250328153532",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Shady_Contractor_Map.png"
+    },
+    {
+      "title": "Shady Contractor Car",
+      "description": "Wiki location reference: Shady Contractor Car.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/39/Shady_Contractor_Car.png/revision/latest?cb=20250328153643",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Shady_Contractor_Car.png"
+    },
+    {
+      "title": "Shady Contractor Spawn 1",
+      "description": "Wiki location reference: Shady Contractor Spawn 1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7e/Shady_Contractor_Spawn_1.png/revision/latest?cb=20250328153809",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Shady_Contractor_Spawn_1.png"
+    },
+    {
+      "title": "Shady Contractor Spawn 2",
+      "description": "Wiki location reference: Shady Contractor Spawn 2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/de/Shady_Contractor_Spawn_2.png/revision/latest?cb=20250328153843",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Shady_Contractor_Spawn_2.png"
+    },
+    {
+      "title": "Shady Contractor Spawn 3",
+      "description": "Wiki location reference: Shady Contractor Spawn 3.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b0/Shady_Contractor_Spawn_3.png/revision/latest?cb=20250328154058",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Shady_Contractor_Spawn_3.png"
+    },
+    {
+      "title": "Knossos senior manager's diary icon",
+      "description": "Item or equipment appearance reference: Knossos senior manager's diary icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6f/Knossos_senior_manager%27s_diary_icon.png/revision/latest?cb=20250328154444",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Knossos_senior_manager%27s_diary_icon.png"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "quest_id": "639135f286e646067c176a87",
+  "name": "Revision - Streets of Tarkov",
+  "images": [
+    {
+      "title": "Revision Streets Map",
+      "description": "Wiki map or overview showing locations relevant to Revision - Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fe/RevisionStreetsMap.png/revision/latest?cb=20231010132405",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:RevisionStreetsMap.png"
+    },
+    {
+      "title": "Revision Streets of Tarkov",
+      "description": "Wiki location reference: Revision Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b6/Revision_-_Streets_of_Tarkov.png/revision/latest?cb=20241018220929",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Revision_-_Streets_of_Tarkov.png"
+    },
+    {
+      "title": "Revision Streets Stryker1",
+      "description": "Wiki location reference: Revision Streets Stryker1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9b/RevisionStreetsStryker1.png/revision/latest?cb=20230107221033",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:RevisionStreetsStryker1.png"
+    },
+    {
+      "title": "Revision Streets Stryker2",
+      "description": "Wiki location reference: Revision Streets Stryker2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2e/RevisionStreetsStryker2.png/revision/latest?cb=20230827002625",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:RevisionStreetsStryker2.png"
+    },
+    {
+      "title": "Revision Streets Stryker3",
+      "description": "Wiki location reference: Revision Streets Stryker3.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/be/RevisionStreetsStryker3.png/revision/latest?cb=20230107221031",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:RevisionStreetsStryker3.png"
+    },
+    {
+      "title": "MS2000 Marker icon",
+      "description": "Item or equipment appearance reference: MS2000 Marker icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a9/MS2000_Marker_icon.png/revision/latest?cb=20250407003132",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MS2000_Marker_icon.png"
+    }
+  ]
+}

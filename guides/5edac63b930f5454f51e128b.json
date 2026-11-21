@@ -1,0 +1,30 @@
+{
+  "quest_id": "5edac63b930f5454f51e128b",
+  "name": "TerraGroup Employee",
+  "images": [
+    {
+      "title": "Marked with tape flash drive position",
+      "description": "Wiki map or overview showing locations relevant to TerraGroup Employee.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/88/Marked_with_tape_flash_drive-position.png/revision/latest?cb=20230423180340",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Marked_with_tape_flash_drive-position.png"
+    },
+    {
+      "title": "Sanitars Room",
+      "description": "Wiki location reference: Sanitars Room.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/85/SanitarsRoom.png/revision/latest?cb=20230423175903",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SanitarsRoom.png"
+    },
+    {
+      "title": "The Lab Sanitars Room",
+      "description": "Wiki location reference: The Lab Sanitars Room.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/95/TheLabSanitarsRoom.png/revision/latest?cb=20231017122116",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TheLabSanitarsRoom.png"
+    },
+    {
+      "title": "Duct Tape Keycard Icon",
+      "description": "Item or equipment appearance reference: Duct Tape Keycard Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/85/DuctTapeKeycard_Icon.png/revision/latest?cb=20211220202508",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:DuctTapeKeycard_Icon.png"
+    }
+  ]
+}

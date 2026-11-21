@@ -1,0 +1,42 @@
+{
+  "quest_id": "626bd75c71bd851e971b82a5",
+  "name": "Reconnaissance",
+  "images": [
+    {
+      "title": "Stairs Map",
+      "description": "Wiki map or overview showing locations relevant to Reconnaissance.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/80/StairsMap.png/revision/latest?cb=20250503235538",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:StairsMap.png"
+    },
+    {
+      "title": "Outside Ladder",
+      "description": "Wiki location reference: Outside Ladder.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0c/OutsideLadder.png/revision/latest?cb=20220717220233",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:OutsideLadder.png"
+    },
+    {
+      "title": "Stairs1",
+      "description": "Wiki location reference: Stairs1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4f/Stairs1.png/revision/latest?cb=20220702233514",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Stairs1.png"
+    },
+    {
+      "title": "Stairs2",
+      "description": "Wiki location reference: Stairs2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a7/Stairs2.png/revision/latest?cb=20220702233516",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Stairs2.png"
+    },
+    {
+      "title": "Stairs3",
+      "description": "Wiki location reference: Stairs3.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a0/Stairs3.png/revision/latest?cb=20220702233518",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Stairs3.png"
+    },
+    {
+      "title": "Recon quest",
+      "description": "Wiki visual reference: Recon quest.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b0/Recon_quest.png/revision/latest?cb=20240625002535",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Recon_quest.png"
+    }
+  ]
+}

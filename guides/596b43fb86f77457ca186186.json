@@ -1,0 +1,36 @@
+{
+  "quest_id": "596b43fb86f77457ca186186",
+  "name": "The Extortionist",
+  "images": [
+    {
+      "title": "Customs",
+      "description": "Wiki location reference: Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/66/Customs.PNG/revision/latest?cb=20221204183402",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Customs.PNG"
+    },
+    {
+      "title": "The cabin that is opened by the unknown key",
+      "description": "Wiki location reference: The cabin that is opened by the unknown key.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a6/The_cabin_that_is_opened_by_the_unknown_key.png/revision/latest?cb=20220820190601",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:The_cabin_that_is_opened_by_the_unknown_key.png"
+    },
+    {
+      "title": "Docs 0048 The Extortionist",
+      "description": "Wiki visual reference: Docs 0048 The Extortionist.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c0/Docs_0048-The_Extortionist.png/revision/latest?cb=20220821162246",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Docs_0048-The_Extortionist.png"
+    },
+    {
+      "title": "The bush where the hidden body is",
+      "description": "Wiki visual reference: The bush where the hidden body is.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2f/The_bush_where_the_hidden_body_is.png/revision/latest?cb=20220706015222",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:The_bush_where_the_hidden_body_is.png"
+    },
+    {
+      "title": "Unknown key Icon",
+      "description": "Item or equipment appearance reference: Unknown key Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f9/Unknown-key-Icon.png/revision/latest?cb=20230115110626",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Unknown-key-Icon.png"
+    }
+  ]
+}

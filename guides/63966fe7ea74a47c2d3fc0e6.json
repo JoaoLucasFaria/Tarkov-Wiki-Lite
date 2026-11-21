@@ -1,0 +1,60 @@
+{
+  "quest_id": "63966fe7ea74a47c2d3fc0e6",
+  "name": "Return the Favor",
+  "images": [
+    {
+      "title": "Return The Favor Map",
+      "description": "Wiki map or overview showing locations relevant to Return the Favor.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/44/ReturnTheFavorMap.png/revision/latest?cb=20260908162004",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ReturnTheFavorMap.png"
+    },
+    {
+      "title": "Woods USEC camp northwest approach mines",
+      "description": "Wiki location reference: Woods USEC camp northwest approach mines.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ae/Woods_USEC_camp_northwest_approach_mines.png/revision/latest?cb=20240811155208",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Woods_USEC_camp_northwest_approach_mines.png"
+    },
+    {
+      "title": "Woods USEC camp northwest approach mines2",
+      "description": "Wiki location reference: Woods USEC camp northwest approach mines2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/15/Woods_USEC_camp_northwest_approach_mines2.png/revision/latest?cb=20240811155216",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Woods_USEC_camp_northwest_approach_mines2.png"
+    },
+    {
+      "title": "Woods USEC camp west approach mines",
+      "description": "Wiki location reference: Woods USEC camp west approach mines.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ea/Woods_USEC_camp_west_approach_mines.png/revision/latest?cb=20240811151926",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Woods_USEC_camp_west_approach_mines.png"
+    },
+    {
+      "title": "Woods USEC camp west approach mines2",
+      "description": "Wiki location reference: Woods USEC camp west approach mines2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e1/Woods_USEC_camp_west_approach_mines2.png/revision/latest?cb=20240811153350",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Woods_USEC_camp_west_approach_mines2.png"
+    },
+    {
+      "title": "RTT Black SVU",
+      "description": "Wiki visual reference: RTT Black SVU.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9a/RTTBlackSVU.png/revision/latest?cb=20230118211418",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:RTTBlackSVU.png"
+    },
+    {
+      "title": "RTT Black SVU2",
+      "description": "Wiki visual reference: RTT Black SVU2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7c/RTTBlackSVU2.png/revision/latest?cb=20250304220236",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:RTTBlackSVU2.png"
+    },
+    {
+      "title": "RTT Crates",
+      "description": "Wiki visual reference: RTT Crates.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1a/RTTCrates.png/revision/latest?cb=20250304221012",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:RTTCrates.png"
+    },
+    {
+      "title": "Blue Folders materials icon",
+      "description": "Item or equipment appearance reference: Blue Folders materials icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/43/Blue_Folders_materials_icon.png/revision/latest?cb=20221231183616",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Blue_Folders_materials_icon.png"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "quest_id": "6179ad56c760af5ad2053587",
+  "name": "Seaside Vacation",
+  "images": [
+    {
+      "title": "Seaside Vacation Map",
+      "description": "Wiki map or overview showing locations relevant to Seaside Vacation.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3b/SeasideVacationMap.png/revision/latest?cb=20211219151340",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SeasideVacationMap.png"
+    },
+    {
+      "title": "Seaside Vacation House",
+      "description": "Wiki location reference for: Locate and obtain the informant's briefcase on Lighthouse.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f4/SeasideVacationHouse.png/revision/latest?cb=20240312095756",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SeasideVacationHouse.png",
+      "objective_id": "Locate and obtain the informant's briefcase on Lighthouse"
+    },
+    {
+      "title": "Seaside Vacation Room",
+      "description": "Wiki location reference for: Locate and obtain the informant's briefcase on Lighthouse.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5f/SeasideVacationRoom.png/revision/latest?cb=20211219151338",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SeasideVacationRoom.png",
+      "objective_id": "Locate and obtain the informant's briefcase on Lighthouse"
+    },
+    {
+      "title": "Seaside Vacation Close",
+      "description": "Wiki visual reference: Seaside Vacation Close.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4e/SeasideVacationClose.png/revision/latest?cb=20220102005852",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SeasideVacationClose.png"
+    },
+    {
+      "title": "Tough Book icon",
+      "description": "Item or equipment appearance reference: Tough Book icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e6/Tough-Book_icon.png/revision/latest?cb=20221012074220",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Tough-Book_icon.png"
+    }
+  ]
+}

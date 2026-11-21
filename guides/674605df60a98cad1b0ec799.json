@@ -1,0 +1,60 @@
+{
+  "quest_id": "674605df60a98cad1b0ec799",
+  "name": "Killer Argument",
+  "images": [
+    {
+      "title": "Simple Side Job Woods Map",
+      "description": "Wiki map or overview showing locations relevant to Killer Argument.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f1/Simple_Side_Job_Woods_Map.png/revision/latest?cb=20250119134058",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Simple_Side_Job_Woods_Map.png"
+    },
+    {
+      "title": "Killer Argument Spawn 1",
+      "description": "Wiki location reference for: Locate and obtain the package with RPG ammo on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cb/Killer_Argument_Spawn_1.png/revision/latest?cb=20250406093544",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Killer_Argument_Spawn_1.png",
+      "objective_id": "Locate and obtain the package with RPG ammo on Woods"
+    },
+    {
+      "title": "Killer Argument Spawn 2",
+      "description": "Wiki location reference for: Locate and obtain the package with RPG ammo on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d1/Killer_Argument_Spawn_2.png/revision/latest?cb=20250406093427",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Killer_Argument_Spawn_2.png",
+      "objective_id": "Locate and obtain the package with RPG ammo on Woods"
+    },
+    {
+      "title": "Killer Argument Spawn 3",
+      "description": "Wiki location reference for: Locate and obtain the package with RPG ammo on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fc/Killer_Argument_Spawn_3.png/revision/latest?cb=20250406093029",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Killer_Argument_Spawn_3.png",
+      "objective_id": "Locate and obtain the package with RPG ammo on Woods"
+    },
+    {
+      "title": "Killer Argument Spawn 4",
+      "description": "Wiki location reference for: Locate and obtain the package with RPG ammo on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/50/Killer_Argument_Spawn_4.png/revision/latest?cb=20250406093125",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Killer_Argument_Spawn_4.png",
+      "objective_id": "Locate and obtain the package with RPG ammo on Woods"
+    },
+    {
+      "title": "Killer Argument Spawn 5",
+      "description": "Wiki location reference for: Locate and obtain the package with RPG ammo on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3b/Killer_Argument_Spawn_5.png/revision/latest?cb=20250406093256",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Killer_Argument_Spawn_5.png",
+      "objective_id": "Locate and obtain the package with RPG ammo on Woods"
+    },
+    {
+      "title": "Scav House",
+      "description": "Wiki location reference for: Locate and obtain the package with RPG ammo on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/08/Scav_House.png/revision/latest?cb=20250406094526",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Scav_House.png",
+      "objective_id": "Locate and obtain the package with RPG ammo on Woods"
+    },
+    {
+      "title": "Lightkeepers case Icon",
+      "description": "Item or equipment appearance reference: Lightkeepers case Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/74/Lightkeepers_case_Icon.png/revision/latest?cb=20250118002732",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Lightkeepers_case_Icon.png"
+    }
+  ]
+}

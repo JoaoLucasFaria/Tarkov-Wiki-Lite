@@ -1,0 +1,18 @@
+{
+  "quest_id": "65802b627b44fa5e14638899",
+  "name": "Nothing Fishy About This",
+  "images": [
+    {
+      "title": "Nothing Fishy About This Map",
+      "description": "Wiki map or overview showing locations relevant to Nothing Fishy About This.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/54/Nothing_Fishy_About_This_Map.png/revision/latest?cb=20250922194606",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Nothing_Fishy_About_This_Map.png"
+    },
+    {
+      "title": "Nothing Fishy About This Location",
+      "description": "Wiki location reference: Nothing Fishy About This Location.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/31/Nothing_Fishy_About_This_Location.png/revision/latest?cb=20250922193313",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Nothing_Fishy_About_This_Location.png"
+    }
+  ]
+}

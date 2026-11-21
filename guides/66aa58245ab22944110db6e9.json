@@ -1,0 +1,30 @@
+{
+  "quest_id": "66aa58245ab22944110db6e9",
+  "name": "New Paths",
+  "images": [
+    {
+      "title": "Ground Zero to Streets of Tarkov Map",
+      "description": "Wiki map or overview showing locations relevant to New Paths.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/df/Ground_Zero_to_Streets_of_Tarkov_Map.png/revision/latest?cb=20240828225621",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Ground_Zero_to_Streets_of_Tarkov_Map.png"
+    },
+    {
+      "title": "Marathon New Day New Paths GZ Map",
+      "description": "Wiki map or overview showing locations relevant to New Paths.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1e/MarathonNewDayNewPathsGZMap.png/revision/latest?cb=20240829202447",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MarathonNewDayNewPathsGZMap.png"
+    },
+    {
+      "title": "Ground Zero to Street of Tarkov",
+      "description": "Wiki location reference: Ground Zero to Street of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/51/Ground_Zero_to_Street_of_Tarkov.png/revision/latest?cb=20250708205955",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Ground_Zero_to_Street_of_Tarkov.png"
+    },
+    {
+      "title": "Marathon New Day New Paths GZ",
+      "description": "Wiki location reference: Marathon New Day New Paths GZ.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f1/MarathonNewDayNewPathsGZ.png/revision/latest?cb=20240829201929",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MarathonNewDayNewPathsGZ.png"
+    }
+  ]
+}

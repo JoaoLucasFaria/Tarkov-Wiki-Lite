@@ -1,0 +1,36 @@
+{
+  "quest_id": "5b478d0f86f7744d190d91b5",
+  "name": "Minibus",
+  "images": [
+    {
+      "title": "Interchange Minibus Locations",
+      "description": "Wiki map or overview showing locations relevant to Minibus.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ab/InterchangeMinibusLocations.jpg/revision/latest?cb=20220822002650",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:InterchangeMinibusLocations.jpg"
+    },
+    {
+      "title": "Minibus1",
+      "description": "Wiki visual reference: Minibus1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ee/Minibus1.png/revision/latest?cb=20260413014252",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Minibus1.png"
+    },
+    {
+      "title": "Minibus2",
+      "description": "Wiki visual reference: Minibus2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/09/Minibus2.png/revision/latest?cb=20220821234047",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Minibus2.png"
+    },
+    {
+      "title": "Minibus3",
+      "description": "Wiki visual reference: Minibus3.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/77/Minibus3.png/revision/latest?cb=20220821235315",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Minibus3.png"
+    },
+    {
+      "title": "MS2000 Marker icon",
+      "description": "Item or equipment appearance reference: MS2000 Marker icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a9/MS2000_Marker_icon.png/revision/latest?cb=20250407003132",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MS2000_Marker_icon.png"
+    }
+  ]
+}

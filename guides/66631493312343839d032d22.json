@@ -1,0 +1,80 @@
+{
+  "quest_id": "66631493312343839d032d22",
+  "name": "Small Business - Part 3",
+  "images": [
+    {
+      "title": "Check Point View To Marked Circle",
+      "description": "Wiki map or overview showing locations relevant to Small Business - Part 3.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e6/CheckPointViewToMarkedCircle.png/revision/latest?cb=20190910195221",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:CheckPointViewToMarkedCircle.png"
+    },
+    {
+      "title": "Health Resort East Wing Marked Room",
+      "description": "Wiki map reference for: Stash a Cultist knife at the Health Resort east wing marked circle on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d9/HealthResortEastWingMarkedRoom.png/revision/latest?cb=20190910191931",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:HealthResortEastWingMarkedRoom.png",
+      "objective_id": "Stash a Cultist knife at the Health Resort east wing marked circle on Shoreline"
+    },
+    {
+      "title": "Marked Circle View To Checkpoint",
+      "description": "Wiki map or overview showing locations relevant to Small Business - Part 3.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0e/MarkedCircleViewToCheckpoint.png/revision/latest?cb=20190910195340",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MarkedCircleViewToCheckpoint.png"
+    },
+    {
+      "title": "Small Business Part3Church Map",
+      "description": "Wiki map or overview showing locations relevant to Small Business - Part 3.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d6/SmallBusinessPart3ChurchMap.png/revision/latest?cb=20240707221241",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SmallBusinessPart3ChurchMap.png"
+    },
+    {
+      "title": "Woods Ritual Spot Map Marked",
+      "description": "Wiki map or overview showing locations relevant to Small Business - Part 3.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/53/WoodsRitualSpotMapMarked.png/revision/latest?cb=20210115145037",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WoodsRitualSpotMapMarked.png"
+    },
+    {
+      "title": "Cultists ritual place",
+      "description": "Wiki location reference: Cultists ritual place.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/82/Cultists_ritual_place.png/revision/latest?cb=20231112222223",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Cultists_ritual_place.png"
+    },
+    {
+      "title": "Health Resort East Wing",
+      "description": "Wiki location reference for: Stash a Cultist knife at the Health Resort east wing marked circle on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d9/HealthResortEastWing.jpg/revision/latest?cb=20240520225533",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:HealthResortEastWing.jpg",
+      "objective_id": "Stash a Cultist knife at the Health Resort east wing marked circle on Shoreline"
+    },
+    {
+      "title": "Shoreline Church Inside",
+      "description": "Wiki location reference: Shoreline Church Inside.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ae/ShorelineChurchInside.png/revision/latest?cb=20260611205849",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ShorelineChurchInside.png"
+    },
+    {
+      "title": "Shorelineritualsite",
+      "description": "Wiki location reference: Shorelineritualsite.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9e/Shorelineritualsite.png/revision/latest?cb=20260611205250",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Shorelineritualsite.png"
+    },
+    {
+      "title": "The second ritual spot in the Woods",
+      "description": "Wiki location reference: The second ritual spot in the Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f8/The_second_ritual_spot_in_the_Woods.png/revision/latest?cb=20261004220850",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:The_second_ritual_spot_in_the_Woods.png"
+    },
+    {
+      "title": "Small Business Part3Church",
+      "description": "Wiki visual reference: Small Business Part3Church.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/90/SmallBusinessPart3Church.png/revision/latest?cb=20261004221309",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SmallBusinessPart3Church.png"
+    },
+    {
+      "title": "Cultist Knife icon",
+      "description": "Item or equipment appearance reference: Cultist Knife icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/25/Cultist_Knife_icon.png/revision/latest?cb=20250326010557",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Cultist_Knife_icon.png"
+    }
+  ]
+}

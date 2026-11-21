@@ -1,0 +1,30 @@
+{
+  "quest_id": "639136df4b15ca31f76bc31f",
+  "name": "The Huntsman Path - Administrator",
+  "images": [
+    {
+      "title": "The Huntsman Path Administrator Map BEAR",
+      "description": "Wiki map or overview showing locations relevant to The Huntsman Path - Administrator.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/af/TheHuntsmanPathAdministratorMapBEAR.png/revision/latest?cb=20260811223322",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TheHuntsmanPathAdministratorMapBEAR.png"
+    },
+    {
+      "title": "The Huntsman Path Administrator Map USEC",
+      "description": "Wiki map or overview showing locations relevant to The Huntsman Path - Administrator.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5c/TheHuntsmanPathAdministratorMapUSEC.png/revision/latest?cb=20260812001503",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TheHuntsmanPathAdministratorMapUSEC.png"
+    },
+    {
+      "title": "26x75 flare cartridge (Yellow) icon",
+      "description": "Item or equipment appearance reference: 26x75 flare cartridge (Yellow) icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cb/26x75_flare_cartridge_%28Yellow%29_icon.png/revision/latest?cb=20220706003925",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:26x75_flare_cartridge_(Yellow)_icon.png"
+    },
+    {
+      "title": "Yellow flare icon",
+      "description": "Item or equipment appearance reference: Yellow flare icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f1/Yellow_flare_icon.png/revision/latest?cb=20220706002207",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Yellow_flare_icon.png"
+    }
+  ]
+}

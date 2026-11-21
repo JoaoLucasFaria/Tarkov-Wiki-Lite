@@ -1,0 +1,49 @@
+{
+  "quest_id": "63a88045abf76d719f42d715",
+  "name": "The Delicious Sausage",
+  "images": [
+    {
+      "title": "The Delicious Sausage Map",
+      "description": "Wiki map or overview showing locations relevant to The Delicious Sausage.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/05/TheDeliciousSausageMap.png/revision/latest?cb=20230827010944",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TheDeliciousSausageMap.png"
+    },
+    {
+      "title": "Sparja Store Outside",
+      "description": "Wiki location reference: Sparja Store Outside.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/30/SparjaStoreOutside.png/revision/latest?cb=20230101141826",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SparjaStoreOutside.png"
+    },
+    {
+      "title": "The Delicious Sausage Goshan Inside",
+      "description": "Wiki location reference: The Delicious Sausage Goshan Inside.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/18/TheDeliciousSausageGoshanInside.png/revision/latest?cb=20230106231319",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TheDeliciousSausageGoshanInside.png"
+    },
+    {
+      "title": "The Delicious Sausage Goshan Outside",
+      "description": "Wiki location reference: The Delicious Sausage Goshan Outside.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e9/TheDeliciousSausageGoshanOutside.png/revision/latest?cb=20230106231326",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TheDeliciousSausageGoshanOutside.png"
+    },
+    {
+      "title": "The Delicious Sausage Pinewood Sparja",
+      "description": "Wiki location reference for: Scout the Sparja store in Pinewood hotel.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ef/TheDeliciousSausagePinewoodSparja.png/revision/latest?cb=20230106230926",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TheDeliciousSausagePinewoodSparja.png",
+      "objective_id": "Scout the Sparja store in Pinewood hotel"
+    },
+    {
+      "title": "The Delicious Sausage Shestyorochka",
+      "description": "Wiki visual reference: The Delicious Sausage Shestyorochka.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ab/TheDeliciousSausageShestyorochka.png/revision/latest?cb=20230106230932",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TheDeliciousSausageShestyorochka.png"
+    },
+    {
+      "title": "Salty dog sausage icon",
+      "description": "Item or equipment appearance reference: Salty dog sausage icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c8/Salty_dog_sausage_icon.png/revision/latest?cb=20250114190836",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Salty_dog_sausage_icon.png"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "quest_id": "6744ab1def61d56e020b5c56",
+  "name": "Protect the Sky",
+  "images": [
+    {
+      "title": "Protect the Sky Map",
+      "description": "Wiki map or overview showing locations relevant to Protect the Sky.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ae/Protect_the_Sky_Map.png/revision/latest?cb=20250119203611",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Protect_the_Sky_Map.png"
+    },
+    {
+      "title": "Protect the Sky Spawn 1",
+      "description": "Wiki location reference for: Locate the package in the specified spot on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/65/Protect_the_Sky_Spawn_1.png/revision/latest?cb=20250406103649",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Protect_the_Sky_Spawn_1.png",
+      "objective_id": "Locate the package in the specified spot on Woods"
+    },
+    {
+      "title": "Protect the Sky Spawn 2",
+      "description": "Wiki location reference for: Locate the package in the specified spot on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bb/Protect_the_Sky_Spawn_2.png/revision/latest?cb=20250406104233",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Protect_the_Sky_Spawn_2.png",
+      "objective_id": "Locate the package in the specified spot on Woods"
+    },
+    {
+      "title": "Protect the Sky Spawn 3",
+      "description": "Wiki location reference for: Locate the package in the specified spot on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5d/Protect_the_Sky_Spawn_3.png/revision/latest?cb=20250406104057",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Protect_the_Sky_Spawn_3.png",
+      "objective_id": "Locate the package in the specified spot on Woods"
+    },
+    {
+      "title": "Protect the Sky Spawn 4",
+      "description": "Wiki location reference for: Locate the package in the specified spot on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0e/Protect_the_Sky_Spawn_4.png/revision/latest?cb=20250406104140",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Protect_the_Sky_Spawn_4.png",
+      "objective_id": "Locate the package in the specified spot on Woods"
+    },
+    {
+      "title": "Protect the Sky Spawn 5",
+      "description": "Wiki location reference for: Locate the package in the specified spot on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f2/Protect_the_Sky_Spawn_5.png/revision/latest?cb=20250406104335",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Protect_the_Sky_Spawn_5.png",
+      "objective_id": "Locate the package in the specified spot on Woods"
+    }
+  ]
+}

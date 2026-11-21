@@ -1,0 +1,71 @@
+{
+  "quest_id": "63966fbeea19ac7ed845db2e",
+  "name": "Missing Informant",
+  "images": [
+    {
+      "title": "Backup hideout key Location Map",
+      "description": "Wiki map reference for: Locate the informant's backup hideout on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cf/Backup_hideout_key_Location_Map.png/revision/latest?cb=20240404181051",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Backup_hideout_key_Location_Map.png",
+      "objective_id": "Locate the informant's backup hideout on Streets of Tarkov"
+    },
+    {
+      "title": "Backup Hideout Map",
+      "description": "Wiki map reference for: Locate the informant's backup hideout on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/38/BackupHideoutMap.png/revision/latest?cb=20230825220620",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BackupHideoutMap.png",
+      "objective_id": "Locate the informant's backup hideout on Streets of Tarkov"
+    },
+    {
+      "title": "Backup Hideout Door",
+      "description": "Wiki location reference for: Locate the informant's backup hideout on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f6/BackupHideoutDoor.png/revision/latest?cb=20221231235112",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BackupHideoutDoor.png",
+      "objective_id": "Locate the informant's backup hideout on Streets of Tarkov"
+    },
+    {
+      "title": "Hideout Backup Key Spawn Room",
+      "description": "Wiki location reference for: Locate the informant's backup hideout on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/35/HideoutBackupKeySpawnRoom.png/revision/latest?cb=20260329221112",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:HideoutBackupKeySpawnRoom.png",
+      "objective_id": "Locate the informant's backup hideout on Streets of Tarkov"
+    },
+    {
+      "title": "Hideout Backup Key Sport Bag",
+      "description": "Wiki location reference for: Locate the informant's backup hideout on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2b/HideoutBackupKeySportBag.png/revision/latest?cb=20260329221202",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:HideoutBackupKeySportBag.png",
+      "objective_id": "Locate the informant's backup hideout on Streets of Tarkov"
+    },
+    {
+      "title": "MI Journal1",
+      "description": "Wiki visual reference: MI Journal1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1a/MIJournal1.png/revision/latest?cb=20230310222247",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MIJournal1.png"
+    },
+    {
+      "title": "MI Journal2",
+      "description": "Wiki visual reference: MI Journal2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b2/MIJournal2.png/revision/latest?cb=20230310222207",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MIJournal2.png"
+    },
+    {
+      "title": "MI Journal3",
+      "description": "Wiki visual reference: MI Journal3.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/47/MIJournal3.png/revision/latest?cb=20230310222344",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MIJournal3.png"
+    },
+    {
+      "title": "Backup hideout key icon",
+      "description": "Item or equipment appearance reference: Backup hideout key icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/46/Backup_hideout_key_icon.png/revision/latest?cb=20221229225546",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Backup_hideout_key_icon.png"
+    },
+    {
+      "title": "Informants Journal Icon",
+      "description": "Item or equipment appearance reference: Informants Journal Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a4/Informants_Journal_Icon.png/revision/latest?cb=20230126080003",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Informants_Journal_Icon.png"
+    }
+  ]
+}

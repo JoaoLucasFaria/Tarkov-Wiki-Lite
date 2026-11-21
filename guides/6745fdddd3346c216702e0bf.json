@@ -1,0 +1,55 @@
+{
+  "quest_id": "6745fdddd3346c216702e0bf",
+  "name": "Simple Side Job",
+  "images": [
+    {
+      "title": "Hospital Map",
+      "description": "Wiki map or overview showing locations relevant to Simple Side Job.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4a/HospitalMap.jpeg/revision/latest?cb=20230528233925",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:HospitalMap.jpeg"
+    },
+    {
+      "title": "Simple Side Job Woods Map",
+      "description": "Wiki map or overview showing locations relevant to Simple Side Job.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f1/Simple_Side_Job_Woods_Map.png/revision/latest?cb=20250119134058",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Simple_Side_Job_Woods_Map.png"
+    },
+    {
+      "title": "Scav House",
+      "description": "Wiki location reference for: Stash the cargo at the Scav house on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/08/Scav_House.png/revision/latest?cb=20250406094526",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Scav_House.png",
+      "objective_id": "Stash the cargo at the Scav house on Woods"
+    },
+    {
+      "title": "Simple Side Job Spawn 1",
+      "description": "Wiki location reference: Simple Side Job Spawn 1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0e/Simple_Side_Job_Spawn_1.png/revision/latest?cb=20250309174426",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Simple_Side_Job_Spawn_1.png"
+    },
+    {
+      "title": "Simple Side Job Spawn 2",
+      "description": "Wiki location reference: Simple Side Job Spawn 2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e5/Simple_Side_Job_Spawn_2.png/revision/latest?cb=20250309174454",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Simple_Side_Job_Spawn_2.png"
+    },
+    {
+      "title": "Simple Side Job Spawn 3",
+      "description": "Wiki location reference: Simple Side Job Spawn 3.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/66/Simple_Side_Job_Spawn_3.png/revision/latest?cb=20250309174520",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Simple_Side_Job_Spawn_3.png"
+    },
+    {
+      "title": "Simple Side Job Spawn 4",
+      "description": "Wiki location reference: Simple Side Job Spawn 4.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/61/Simple_Side_Job_Spawn_4.png/revision/latest?cb=20250309174227",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Simple_Side_Job_Spawn_4.png"
+    },
+    {
+      "title": "Lightkeepers case Icon",
+      "description": "Item or equipment appearance reference: Lightkeepers case Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/74/Lightkeepers_case_Icon.png/revision/latest?cb=20250118002732",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Lightkeepers_case_Icon.png"
+    }
+  ]
+}

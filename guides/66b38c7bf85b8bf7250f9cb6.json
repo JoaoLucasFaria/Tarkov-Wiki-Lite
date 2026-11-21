@@ -1,0 +1,76 @@
+{
+  "quest_id": "66b38c7bf85b8bf7250f9cb6",
+  "name": "Rough Tarkov",
+  "images": [
+    {
+      "title": "Rough Tarkov Ground Zero Map",
+      "description": "Wiki map or overview showing locations relevant to Rough Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/14/Rough_Tarkov_Ground_Zero_Map.png/revision/latest?cb=20240826215037",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Rough_Tarkov_Ground_Zero_Map.png"
+    },
+    {
+      "title": "Rough Tarkov Woods Map",
+      "description": "Wiki map or overview showing locations relevant to Rough Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5d/Rough_Tarkov_Woods_Map.png/revision/latest?cb=20240826213608",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Rough_Tarkov_Woods_Map.png"
+    },
+    {
+      "title": "Rough Tarkov Ground Zero Approach1",
+      "description": "Wiki location reference: Rough Tarkov Ground Zero Approach1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d5/Rough_Tarkov_Ground_Zero_Approach1.png/revision/latest?cb=20240826220010",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Rough_Tarkov_Ground_Zero_Approach1.png"
+    },
+    {
+      "title": "Rough Tarkov Ground Zero Approach2",
+      "description": "Wiki location reference: Rough Tarkov Ground Zero Approach2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/77/Rough_Tarkov_Ground_Zero_Approach2.png/revision/latest?cb=20240826215504",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Rough_Tarkov_Ground_Zero_Approach2.png"
+    },
+    {
+      "title": "Rough Tarkov Ground Zero Approach3",
+      "description": "Wiki location reference: Rough Tarkov Ground Zero Approach3.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f7/Rough_Tarkov_Ground_Zero_Approach3.png/revision/latest?cb=20240826220647",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Rough_Tarkov_Ground_Zero_Approach3.png"
+    },
+    {
+      "title": "Tarbank Building",
+      "description": "Wiki location reference: Tarbank Building.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/26/Tarbank_Building.png/revision/latest?cb=20250708202708",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Tarbank_Building.png"
+    },
+    {
+      "title": "Woods USEC camp northwest approach mines",
+      "description": "Wiki location reference for: Locate the heavily mined area at the USEC camp on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ae/Woods_USEC_camp_northwest_approach_mines.png/revision/latest?cb=20240811155208",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Woods_USEC_camp_northwest_approach_mines.png",
+      "objective_id": "Locate the heavily mined area at the USEC camp on Woods"
+    },
+    {
+      "title": "Woods USEC camp northwest approach mines2",
+      "description": "Wiki location reference for: Locate the heavily mined area at the USEC camp on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/15/Woods_USEC_camp_northwest_approach_mines2.png/revision/latest?cb=20240811155216",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Woods_USEC_camp_northwest_approach_mines2.png",
+      "objective_id": "Locate the heavily mined area at the USEC camp on Woods"
+    },
+    {
+      "title": "Woods USEC camp west approach mines",
+      "description": "Wiki location reference for: Locate the heavily mined area at the USEC camp on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ea/Woods_USEC_camp_west_approach_mines.png/revision/latest?cb=20240811151926",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Woods_USEC_camp_west_approach_mines.png",
+      "objective_id": "Locate the heavily mined area at the USEC camp on Woods"
+    },
+    {
+      "title": "Woods USEC camp west approach mines2",
+      "description": "Wiki location reference for: Locate the heavily mined area at the USEC camp on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e1/Woods_USEC_camp_west_approach_mines2.png/revision/latest?cb=20240811153350",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Woods_USEC_camp_west_approach_mines2.png",
+      "objective_id": "Locate the heavily mined area at the USEC camp on Woods"
+    },
+    {
+      "title": "Rough Tarkov Sandbags",
+      "description": "Wiki visual reference: Rough Tarkov Sandbags.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d0/RoughTarkovSandbags.png/revision/latest?cb=20240828002416",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:RoughTarkovSandbags.png"
+    }
+  ]
+}

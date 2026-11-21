@@ -1,0 +1,24 @@
+{
+  "quest_id": "596a0e1686f7741ddf17dbee",
+  "name": "Supply Plans",
+  "images": [
+    {
+      "title": "Supply Plans Map",
+      "description": "Wiki map or overview showing locations relevant to Supply Plans.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cf/SupplyPlansMap.png/revision/latest?cb=20220213235621",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SupplyPlansMap.png"
+    },
+    {
+      "title": "Docs 0052 Location",
+      "description": "Wiki location reference: Docs 0052 Location.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3f/Docs_0052_Location.png/revision/latest?cb=20230618180804",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Docs_0052_Location.png"
+    },
+    {
+      "title": "Cabins in the lumber yard",
+      "description": "Wiki visual reference: Cabins in the lumber yard.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c5/Cabins_in_the_lumber_yard.png/revision/latest?cb=20230618180634",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Cabins_in_the_lumber_yard.png"
+    }
+  ]
+}

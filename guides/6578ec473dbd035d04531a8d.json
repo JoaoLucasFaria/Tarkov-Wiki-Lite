@@ -1,0 +1,53 @@
+{
+  "quest_id": "6578ec473dbd035d04531a8d",
+  "name": "Steady Signal",
+  "images": [
+    {
+      "title": "Steady Signal Map",
+      "description": "Wiki map or overview showing locations relevant to Steady Signal.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/02/Steady_Signal_Map.png/revision/latest?cb=20231231230238",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Steady_Signal_Map.png"
+    },
+    {
+      "title": "Steady Signal 1",
+      "description": "Wiki location reference for: Mark any of the weather stations with an MS2000 Marker on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/56/Steady_Signal_1.png/revision/latest?cb=20231231230533",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Steady_Signal_1.png",
+      "objective_id": "Mark any of the weather stations with an MS2000 Marker on Woods"
+    },
+    {
+      "title": "Steady Signal 2",
+      "description": "Wiki location reference for: Mark any of the weather stations with an MS2000 Marker on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/48/Steady_Signal_2.png/revision/latest?cb=20231231230840",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Steady_Signal_2.png",
+      "objective_id": "Mark any of the weather stations with an MS2000 Marker on Woods"
+    },
+    {
+      "title": "Steady Signal 3",
+      "description": "Wiki location reference for: Mark any of the weather stations with an MS2000 Marker on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f1/Steady_Signal_3.png/revision/latest?cb=20231231230710",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Steady_Signal_3.png",
+      "objective_id": "Mark any of the weather stations with an MS2000 Marker on Woods"
+    },
+    {
+      "title": "Steady Signal 4",
+      "description": "Wiki location reference for: Mark any of the weather stations with an MS2000 Marker on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/aa/Steady_Signal_4.png/revision/latest?cb=20231231231031",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Steady_Signal_4.png",
+      "objective_id": "Mark any of the weather stations with an MS2000 Marker on Woods"
+    },
+    {
+      "title": "Steady Signal 5",
+      "description": "Wiki location reference for: Mark any of the weather stations with an MS2000 Marker on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/71/Steady_Signal_5.png/revision/latest?cb=20231231231208",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Steady_Signal_5.png",
+      "objective_id": "Mark any of the weather stations with an MS2000 Marker on Woods"
+    },
+    {
+      "title": "MS2000 Marker icon",
+      "description": "Item or equipment appearance reference: MS2000 Marker icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a9/MS2000_Marker_icon.png/revision/latest?cb=20250407003132",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MS2000_Marker_icon.png"
+    }
+  ]
+}

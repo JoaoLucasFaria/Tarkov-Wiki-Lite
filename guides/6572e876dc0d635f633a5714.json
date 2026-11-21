@@ -1,0 +1,24 @@
+{
+  "quest_id": "6572e876dc0d635f633a5714",
+  "name": "Pyramid Scheme",
+  "images": [
+    {
+      "title": "Pyramid Scheme Map",
+      "description": "Wiki map or overview showing locations relevant to Pyramid Scheme.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b1/Pyramid_Scheme_Map.png/revision/latest?cb=20260830153847",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Pyramid_Scheme_Map.png"
+    },
+    {
+      "title": "Pyramid Scheme Location 3",
+      "description": "Wiki location reference: Pyramid Scheme Location 3.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/51/Pyramid_Scheme_Location_3.png/revision/latest?cb=20260830161125",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Pyramid_Scheme_Location_3.png"
+    },
+    {
+      "title": "MS2000 Marker icon",
+      "description": "Item or equipment appearance reference: MS2000 Marker icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a9/MS2000_Marker_icon.png/revision/latest?cb=20250407003132",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MS2000_Marker_icon.png"
+    }
+  ]
+}

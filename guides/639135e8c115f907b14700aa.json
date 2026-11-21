@@ -1,0 +1,89 @@
+{
+  "quest_id": "639135e8c115f907b14700aa",
+  "name": "Surveillance",
+  "images": [
+    {
+      "title": "Security Room Key Map",
+      "description": "Wiki map or overview showing locations relevant to Surveillance.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/65/SecurityRoomKeyMap.png/revision/latest?cb=20230826224901",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SecurityRoomKeyMap.png"
+    },
+    {
+      "title": "Concordia Building",
+      "description": "Wiki location reference for: Obtain the data on vehicle movement at the Concordia residential complex parking lot on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b9/ConcordiaBuilding.png/revision/latest?cb=20250810210903",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ConcordiaBuilding.png",
+      "objective_id": "Obtain the data on vehicle movement at the Concordia residential complex parking lot on Streets of Tarkov"
+    },
+    {
+      "title": "Concordia Entrance Nr1",
+      "description": "Wiki location reference for: Obtain the data on vehicle movement at the Concordia residential complex parking lot on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9e/ConcordiaEntranceNr1.png/revision/latest?cb=20230101165655",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ConcordiaEntranceNr1.png",
+      "objective_id": "Obtain the data on vehicle movement at the Concordia residential complex parking lot on Streets of Tarkov"
+    },
+    {
+      "title": "House Nr1Staircase",
+      "description": "Wiki location reference for: Obtain the data on vehicle movement at the Concordia residential complex parking lot on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2b/HouseNr1Staircase.png/revision/latest?cb=20230101185354",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:HouseNr1Staircase.png",
+      "objective_id": "Obtain the data on vehicle movement at the Concordia residential complex parking lot on Streets of Tarkov"
+    },
+    {
+      "title": "Security Room Key Door",
+      "description": "Wiki location reference for: Obtain the data on vehicle movement at the Concordia residential complex parking lot on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d8/SecurityRoomKeyDoor.png/revision/latest?cb=20230101145041",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SecurityRoomKeyDoor.png",
+      "objective_id": "Obtain the data on vehicle movement at the Concordia residential complex parking lot on Streets of Tarkov"
+    },
+    {
+      "title": "Security Room Key Staircase Door",
+      "description": "Wiki location reference for: Obtain the data on vehicle movement at the Concordia residential complex parking lot on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9c/SecurityRoomKeyStaircaseDoor.png/revision/latest?cb=20250810193317",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SecurityRoomKeyStaircaseDoor.png",
+      "objective_id": "Obtain the data on vehicle movement at the Concordia residential complex parking lot on Streets of Tarkov"
+    },
+    {
+      "title": "HDD Pizza Box",
+      "description": "Wiki visual reference: HDD Pizza Box.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/45/HDDPizzaBox.png/revision/latest?cb=20230310225953",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:HDDPizzaBox.png"
+    },
+    {
+      "title": "HDD Under Desk",
+      "description": "Wiki visual reference: HDD Under Desk.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a5/HDDUnderDesk.png/revision/latest?cb=20230310230029",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:HDDUnderDesk.png"
+    },
+    {
+      "title": "HDD Under Desk2",
+      "description": "Wiki visual reference: HDD Under Desk2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/03/HDDUnderDesk2.png/revision/latest?cb=20230310225901",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:HDDUnderDesk2.png"
+    },
+    {
+      "title": "HD Don PC",
+      "description": "Wiki visual reference: HD Don PC.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e6/HDDonPC.png/revision/latest?cb=20230310225641",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:HDDonPC.png"
+    },
+    {
+      "title": "Surveillance picture",
+      "description": "Wiki visual reference: Surveillance picture.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5c/Surveillance_picture.png/revision/latest?cb=20240922084439",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Surveillance_picture.png"
+    },
+    {
+      "title": "Concordia security room key icon",
+      "description": "Item or equipment appearance reference: Concordia security room key icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/45/Concordia_security_room_key_icon.png/revision/latest?cb=20250513133621",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Concordia_security_room_key_icon.png"
+    },
+    {
+      "title": "Working hard drive icon",
+      "description": "Item or equipment appearance reference: Working hard drive icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bb/Working_hard_drive_icon.png/revision/latest?cb=20221012072939",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Working_hard_drive_icon.png"
+    }
+  ]
+}

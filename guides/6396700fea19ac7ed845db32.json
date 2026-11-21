@@ -1,0 +1,145 @@
+{
+  "quest_id": "6396700fea19ac7ed845db32",
+  "name": "Spotter",
+  "images": [
+    {
+      "title": "Apartment10Map",
+      "description": "Wiki map or overview showing locations relevant to Spotter.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d3/Apartment10Map.png/revision/latest?cb=20230825214825",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Apartment10Map.png"
+    },
+    {
+      "title": "Apartment8Kitchen Map",
+      "description": "Wiki map or overview showing locations relevant to Spotter.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5a/Apartment8KitchenMap.png/revision/latest?cb=20230827001045",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Apartment8KitchenMap.png"
+    },
+    {
+      "title": "Underpass Key Map",
+      "description": "Wiki map or overview showing locations relevant to Spotter.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e9/UnderpassKeyMap.png/revision/latest?cb=20230825214519",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:UnderpassKeyMap.png"
+    },
+    {
+      "title": "Apartment10Outside",
+      "description": "Wiki location reference: Apartment10Outside.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/af/Apartment10Outside.png/revision/latest?cb=20230108161221",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Apartment10Outside.png"
+    },
+    {
+      "title": "Apartment8Door",
+      "description": "Wiki location reference: Apartment8Door.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/59/Apartment8Door.png/revision/latest?cb=20230101170610",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Apartment8Door.png"
+    },
+    {
+      "title": "Apt10Bedroom",
+      "description": "Wiki location reference: Apt10Bedroom.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a6/Apt10Bedroom.png/revision/latest?cb=20230123015909",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Apt10Bedroom.png"
+    },
+    {
+      "title": "Concordia Building",
+      "description": "Wiki location reference: Concordia Building.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b9/ConcordiaBuilding.png/revision/latest?cb=20250810210903",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ConcordiaBuilding.png"
+    },
+    {
+      "title": "Concordia Sniping Spot",
+      "description": "Wiki location reference for: Locate a good sniping position in Concordia overlooking the construction site.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/15/ConcordiaSnipingSpot.png/revision/latest?cb=20230123012214",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ConcordiaSnipingSpot.png",
+      "objective_id": "Locate a good sniping position in Concordia overlooking the construction site"
+    },
+    {
+      "title": "House Nr1Hallway",
+      "description": "Wiki location reference: House Nr1Hallway.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9d/HouseNr1Hallway.png/revision/latest?cb=20230101185514",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:HouseNr1Hallway.png"
+    },
+    {
+      "title": "House Nr1Staircase",
+      "description": "Wiki location reference: House Nr1Staircase.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2b/HouseNr1Staircase.png/revision/latest?cb=20230101185354",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:HouseNr1Staircase.png"
+    },
+    {
+      "title": "Spotter Apartment8Outside",
+      "description": "Wiki location reference: Spotter Apartment8Outside.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4c/SpotterApartment8Outside.png/revision/latest?cb=20230123015554",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SpotterApartment8Outside.png"
+    },
+    {
+      "title": "Spotter Primorsky",
+      "description": "Wiki location reference: Spotter Primorsky.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b4/SpotterPrimorsky.png/revision/latest?cb=20260404235036",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SpotterPrimorsky.png"
+    },
+    {
+      "title": "Spotter Table",
+      "description": "Wiki location reference: Spotter Table.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a2/SpotterTable.png/revision/latest?cb=20260404234232",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SpotterTable.png"
+    },
+    {
+      "title": "Underpass Key Door",
+      "description": "Wiki location reference: Underpass Key Door.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/91/UnderpassKeyDoor.png/revision/latest?cb=20230102204654",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:UnderpassKeyDoor.png"
+    },
+    {
+      "title": "Underpass Key Stairs Door",
+      "description": "Wiki location reference: Underpass Key Stairs Door.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/35/UnderpassKeyStairsDoor.png/revision/latest?cb=20230102204749",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:UnderpassKeyStairsDoor.png"
+    },
+    {
+      "title": "Underpass Key Underpass",
+      "description": "Wiki location reference: Underpass Key Underpass.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7d/UnderpassKeyUnderpass.png/revision/latest?cb=20230108161937",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:UnderpassKeyUnderpass.png"
+    },
+    {
+      "title": "Underpass Key Underpass Locked Door",
+      "description": "Wiki location reference: Underpass Key Underpass Locked Door.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/53/UnderpassKeyUnderpassLockedDoor.png/revision/latest?cb=20230102204853",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:UnderpassKeyUnderpassLockedDoor.png"
+    },
+    {
+      "title": "Underpass Key Way1",
+      "description": "Wiki location reference: Underpass Key Way1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1b/UnderpassKeyWay1.png/revision/latest?cb=20230102205921",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:UnderpassKeyWay1.png"
+    },
+    {
+      "title": "Underpass Key Way2",
+      "description": "Wiki location reference: Underpass Key Way2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2b/UnderpassKeyWay2.png/revision/latest?cb=20230102205914",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:UnderpassKeyWay2.png"
+    },
+    {
+      "title": "Underpass Key Way3",
+      "description": "Wiki location reference: Underpass Key Way3.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/36/UnderpassKeyWay3.png/revision/latest?cb=20230102205906",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:UnderpassKeyWay3.png"
+    },
+    {
+      "title": "Underpass Key Way4",
+      "description": "Wiki location reference: Underpass Key Way4.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d3/UnderpassKeyWay4.png/revision/latest?cb=20230102205319",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:UnderpassKeyWay4.png"
+    },
+    {
+      "title": "AI .338 LM Tactical Sound Moderator icon",
+      "description": "Item or equipment appearance reference: AI .338 LM Tactical Sound Moderator icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/90/AI_.338_LM_Tactical_Sound_Moderator_icon.png/revision/latest?cb=20230707215308",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:AI_.338_LM_Tactical_Sound_Moderator_icon.png"
+    },
+    {
+      "title": "Primorsky 46 underpass key icon",
+      "description": "Item or equipment appearance reference: Primorsky 46 underpass key icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9e/Primorsky_46_underpass_key_icon.png/revision/latest?cb=20230105100231",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Primorsky_46_underpass_key_icon.png"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "quest_id": "64f731ab83cfca080a361e42",
+  "name": "Pets Won't Need It",
+  "images": [
+    {
+      "title": "Pets Won't Need It Part 2 Map",
+      "description": "Wiki map or overview showing locations relevant to Pets Won't Need It.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b3/Pets_Won%27t_Need_It_Part_2_Map.png/revision/latest?cb=20240107114646",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Pets_Won%27t_Need_It_Part_2_Map.png"
+    },
+    {
+      "title": "X ray key room onmap",
+      "description": "Wiki map or overview showing locations relevant to Pets Won't Need It.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/56/X-ray_key_room_onmap.png/revision/latest?cb=20230827014643",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:X-ray_key_room_onmap.png"
+    },
+    {
+      "title": "Streets Of Tarkov Vet Clinic",
+      "description": "Wiki location reference for: Locate and scout the vet clinic on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/36/StreetsOfTarkovVetClinic.png/revision/latest?cb=20230922230153",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:StreetsOfTarkovVetClinic.png",
+      "objective_id": "Locate and scout the vet clinic on Streets of Tarkov"
+    },
+    {
+      "title": "X ray clinic outside",
+      "description": "Wiki location reference: X ray clinic outside.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f6/X-ray_clinic_outside.png/revision/latest?cb=20230813160337",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:X-ray_clinic_outside.png"
+    },
+    {
+      "title": "X ray key locked door",
+      "description": "Wiki location reference: X ray key locked door.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ae/X-ray_key_locked_door.png/revision/latest?cb=20241015230917",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:X-ray_key_locked_door.png"
+    },
+    {
+      "title": "X ray key path1",
+      "description": "Wiki location reference: X ray key path1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/91/X-ray_key_path1.png/revision/latest?cb=20241015230742",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:X-ray_key_path1.png"
+    },
+    {
+      "title": "X ray key upstairs",
+      "description": "Wiki location reference: X ray key upstairs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/87/X-ray_key_upstairs.png/revision/latest?cb=20241015230354",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:X-ray_key_upstairs.png"
+    },
+    {
+      "title": "Pets Won't Need It Part 2 Pharmacy 1",
+      "description": "Wiki visual reference: Pets Won't Need It Part 2 Pharmacy 1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fa/Pets_Won%27t_Need_It_Part_2_Pharmacy_1.png/revision/latest?cb=20231231171311",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Pets_Won%27t_Need_It_Part_2_Pharmacy_1.png"
+    },
+    {
+      "title": "Pets Won't Need It Part 2 Pharmacy 2",
+      "description": "Wiki visual reference: Pets Won't Need It Part 2 Pharmacy 2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9d/Pets_Won%27t_Need_It_Part_2_Pharmacy_2.png/revision/latest?cb=20231231171314",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Pets_Won%27t_Need_It_Part_2_Pharmacy_2.png"
+    },
+    {
+      "title": "Pets Won't Need It Part 2 Pharmacy 3",
+      "description": "Wiki visual reference: Pets Won't Need It Part 2 Pharmacy 3.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cd/Pets_Won%27t_Need_It_Part_2_Pharmacy_3.png/revision/latest?cb=20231231171313",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Pets_Won%27t_Need_It_Part_2_Pharmacy_3.png"
+    },
+    {
+      "title": "Pets Wont Need It Task Image",
+      "description": "Wiki visual reference: Pets Wont Need It Task Image.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b9/PetsWontNeedItTaskImage.png/revision/latest?cb=20241015232511",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:PetsWontNeedItTaskImage.png"
+    },
+    {
+      "title": "Vet Clinic1",
+      "description": "Wiki image associated with: Locate and scout the vet clinic on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6b/VetClinic1.png/revision/latest?cb=20230925001236",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:VetClinic1.png",
+      "objective_id": "Locate and scout the vet clinic on Streets of Tarkov"
+    },
+    {
+      "title": "Vet Clinic2",
+      "description": "Wiki image associated with: Locate and scout the vet clinic on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/15/VetClinic2.png/revision/latest?cb=20230925001346",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:VetClinic2.png",
+      "objective_id": "Locate and scout the vet clinic on Streets of Tarkov"
+    },
+    {
+      "title": "Vet Clinic3",
+      "description": "Wiki image associated with: Locate and scout the vet clinic on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/76/VetClinic3.png/revision/latest?cb=20230925001513",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:VetClinic3.png",
+      "objective_id": "Locate and scout the vet clinic on Streets of Tarkov"
+    },
+    {
+      "title": "Vet Clinic4",
+      "description": "Wiki image associated with: Locate and scout the vet clinic on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/92/VetClinic4.png/revision/latest?cb=20230925002007",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:VetClinic4.png",
+      "objective_id": "Locate and scout the vet clinic on Streets of Tarkov"
+    },
+    {
+      "title": "X ray key icon",
+      "description": "Item or equipment appearance reference: X ray key icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/be/X-ray_key_icon.png/revision/latest?cb=20230814013027",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:X-ray_key_icon.png"
+    }
+  ]
+}

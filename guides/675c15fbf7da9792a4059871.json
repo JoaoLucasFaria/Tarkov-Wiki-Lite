@@ -1,0 +1,66 @@
+{
+  "quest_id": "675c15fbf7da9792a4059871",
+  "name": "Provide Viewership",
+  "images": [
+    {
+      "title": "Provide Viewership map",
+      "description": "Wiki map or overview showing locations relevant to Provide Viewership.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/ca/Provide_Viewership_map.png/revision/latest?cb=20260404152652",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Provide_Viewership_map.png"
+    },
+    {
+      "title": "Provide Viewership building",
+      "description": "Wiki location reference: Provide Viewership building.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2a/Provide_Viewership_building.png/revision/latest?cb=20250323133453",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Provide_Viewership_building.png"
+    },
+    {
+      "title": "Provide Viewership spot 1 way",
+      "description": "Wiki location reference: Provide Viewership spot 1 way.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b1/Provide_Viewership_spot_1_way.png/revision/latest?cb=20251005220501",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Provide_Viewership_spot_1_way.png"
+    },
+    {
+      "title": "Provide Viewership spot 1",
+      "description": "Wiki location reference: Provide Viewership spot 1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/72/Provide_Viewership_spot_1.png/revision/latest?cb=20251005220710",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Provide_Viewership_spot_1.png"
+    },
+    {
+      "title": "Provide Viewership spot 2",
+      "description": "Wiki location reference: Provide Viewership spot 2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a1/Provide_Viewership_spot_2.png/revision/latest?cb=20251005220142",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Provide_Viewership_spot_2.png"
+    },
+    {
+      "title": "Provide Viewership spot 3 way",
+      "description": "Wiki location reference: Provide Viewership spot 3 way.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f1/Provide_Viewership_spot_3_way.png/revision/latest?cb=20251005221152",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Provide_Viewership_spot_3_way.png"
+    },
+    {
+      "title": "Provide Viewership spot 3",
+      "description": "Wiki location reference: Provide Viewership spot 3.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2a/Provide_Viewership_spot_3.png/revision/latest?cb=20251005221720",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Provide_Viewership_spot_3.png"
+    },
+    {
+      "title": "Provide Viewership spot 4",
+      "description": "Wiki location reference: Provide Viewership spot 4.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/94/Provide_Viewership_spot_4.png/revision/latest?cb=20251005213538",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Provide_Viewership_spot_4.png"
+    },
+    {
+      "title": "Provide Viewership 4 to 2",
+      "description": "Wiki visual reference: Provide Viewership 4 to 2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/54/Provide_Viewership_4_to_2.png/revision/latest?cb=20251012201933",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Provide_Viewership_4_to_2.png"
+    },
+    {
+      "title": "WIFI Camera Icon",
+      "description": "Item or equipment appearance reference: WIFI Camera Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9a/WIFI_Camera_Icon.png/revision/latest?cb=20250822001547",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WIFI_Camera_Icon.png"
+    }
+  ]
+}

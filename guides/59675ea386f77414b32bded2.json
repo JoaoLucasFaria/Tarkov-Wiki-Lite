@@ -1,0 +1,30 @@
+{
+  "quest_id": "59675ea386f77414b32bded2",
+  "name": "Postman Pat - Part 1",
+  "images": [
+    {
+      "title": "Postman Pat Letter Location",
+      "description": "Wiki location reference: Postman Pat Letter Location.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a6/Postman_Pat_Letter_Location.png/revision/latest?cb=20240827160828",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Postman_Pat_Letter_Location.png"
+    },
+    {
+      "title": "Postman Pat1 Factory",
+      "description": "Wiki location reference: Postman Pat1 Factory.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b1/PostmanPat1_Factory.png/revision/latest?cb=20240824191833",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:PostmanPat1_Factory.png"
+    },
+    {
+      "title": "Postman Pat Location",
+      "description": "Wiki location reference: Postman Pat Location.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b4/PostmanPatLocation.png/revision/latest?cb=20240824174819",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:PostmanPatLocation.png"
+    },
+    {
+      "title": "Postman Pat Letter",
+      "description": "Wiki visual reference: Postman Pat Letter.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2f/Postman_Pat_Letter.png/revision/latest?cb=20221012072643",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Postman_Pat_Letter.png"
+    }
+  ]
+}

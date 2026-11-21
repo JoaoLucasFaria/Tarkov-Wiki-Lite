@@ -1,0 +1,24 @@
+{
+  "quest_id": "5d25e4d586f77443e625e388",
+  "name": "Reserve",
+  "images": [
+    {
+      "title": "Reserv guide",
+      "description": "Wiki map or overview showing locations relevant to Reserve.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/54/Reserv_guide.jpg/revision/latest?cb=20230624234929",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Reserv_guide.jpg"
+    },
+    {
+      "title": "Reserve Quest Warehouse",
+      "description": "Wiki location reference: Reserve Quest Warehouse.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/41/ReserveQuestWarehouse.png/revision/latest?cb=20251107232525",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ReserveQuestWarehouse.png"
+    },
+    {
+      "title": "Reservquest2",
+      "description": "Wiki visual reference: Reservquest2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/50/Reservquest2.png/revision/latest?cb=20201015063545",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Reservquest2.png"
+    }
+  ]
+}

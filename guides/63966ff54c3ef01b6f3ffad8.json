@@ -1,0 +1,80 @@
+{
+  "quest_id": "63966ff54c3ef01b6f3ffad8",
+  "name": "Provocation",
+  "images": [
+    {
+      "title": "21WS Map",
+      "description": "Wiki map or overview showing locations relevant to Provocation.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5c/21WSMap.png/revision/latest?cb=20220409230216",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:21WSMap.png"
+    },
+    {
+      "title": "Provocation Kiba Map",
+      "description": "Wiki map or overview showing locations relevant to Provocation.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0e/ProvocationKibaMap.png/revision/latest?cb=20230120203836",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ProvocationKibaMap.png"
+    },
+    {
+      "title": "Safe Room Map",
+      "description": "Wiki map or overview showing locations relevant to Provocation.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/24/SafeRoomMap.png/revision/latest?cb=20250306210330",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SafeRoomMap.png"
+    },
+    {
+      "title": "21ws outside",
+      "description": "Wiki location reference: 21ws outside.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a6/21ws_outside.jpg/revision/latest?cb=20230120211047",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:21ws_outside.jpg"
+    },
+    {
+      "title": "IC Saferoom EXFIL",
+      "description": "Wiki location reference for: Stash a Bottle of Fierce Hatchling moonshine inside the Saferoom Exfil on Interchange.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/58/IC-Saferoom_EXFIL.png/revision/latest?cb=20230417011505",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:IC-Saferoom_EXFIL.png",
+      "objective_id": "Stash a Bottle of Fierce Hatchling moonshine inside the Saferoom Exfil on Interchange"
+    },
+    {
+      "title": "Provocation Kiba Placement",
+      "description": "Wiki location reference: Provocation Kiba Placement.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/85/ProvocationKibaPlacement.png/revision/latest?cb=20250306212230",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ProvocationKibaPlacement.png"
+    },
+    {
+      "title": "Toilet Paper Placement",
+      "description": "Wiki location reference for: Stash a Toilet paper inside the secret container stash on Interchange.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d9/ToiletPaperPlacement.png/revision/latest?cb=20250306214158",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ToiletPaperPlacement.png",
+      "objective_id": "Stash a Toilet paper inside the secret container stash on Interchange"
+    },
+    {
+      "title": "Kiba Fenced Crate",
+      "description": "Wiki visual reference: Kiba Fenced Crate.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d5/KibaFencedCrate.png/revision/latest?cb=20230120204709",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:KibaFencedCrate.png"
+    },
+    {
+      "title": "Provocation Couch",
+      "description": "Wiki visual reference: Provocation Couch.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bc/ProvocationCouch.png/revision/latest?cb=20250306213548",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ProvocationCouch.png"
+    },
+    {
+      "title": "Fiece hatchling moonshine icon",
+      "description": "Item or equipment appearance reference: Fiece hatchling moonshine icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ad/Fiece_hatchling_moonshine_icon.png/revision/latest?cb=20231028094036",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Fiece_hatchling_moonshine_icon.png"
+    },
+    {
+      "title": "Kiba Key2Icon",
+      "description": "Item or equipment appearance reference: Kiba Key2Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5a/KibaKey2Icon.png/revision/latest?cb=20220707182542",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:KibaKey2Icon.png"
+    },
+    {
+      "title": "Toilet paper icon",
+      "description": "Item or equipment appearance reference: Toilet paper icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ea/Toilet_paper_icon.png/revision/latest?cb=20260909210740",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Toilet_paper_icon.png"
+    }
+  ]
+}

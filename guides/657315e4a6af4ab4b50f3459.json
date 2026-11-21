@@ -1,0 +1,77 @@
+{
+  "quest_id": "657315e4a6af4ab4b50f3459",
+  "name": "Saving the Mole",
+  "images": [
+    {
+      "title": "Saving the Mole Map",
+      "description": "Wiki map or overview showing locations relevant to Saving the Mole.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e8/Saving_the_Mole_Map.png/revision/latest?cb=20240325024052",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Saving_the_Mole_Map.png"
+    },
+    {
+      "title": "Ground Zero Terra Group Building",
+      "description": "Wiki location reference: Ground Zero Terra Group Building.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a8/Ground_Zero_TerraGroup_Building.png/revision/latest?cb=20250708201533",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Ground_Zero_TerraGroup_Building.png"
+    },
+    {
+      "title": "Saving the mole hard drive location 2",
+      "description": "Wiki location reference for: Locate and obtain the scientist's hard drive.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4c/Saving_the_mole_hard_drive_location_2.png/revision/latest?cb=20250223154110",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Saving_the_mole_hard_drive_location_2.png",
+      "objective_id": "Locate and obtain the scientist's hard drive"
+    },
+    {
+      "title": "Saving the mole hard drive location 3",
+      "description": "Wiki location reference for: Locate and obtain the scientist's hard drive.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/28/Saving_the_mole_hard_drive_location_3.png/revision/latest?cb=20250223154147",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Saving_the_mole_hard_drive_location_3.png",
+      "objective_id": "Locate and obtain the scientist's hard drive"
+    },
+    {
+      "title": "Saving the mole hard drive location",
+      "description": "Wiki location reference for: Locate and obtain the scientist's hard drive.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a2/Saving_the_mole_hard_drive_location.png/revision/latest?cb=20250223153811",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Saving_the_mole_hard_drive_location.png",
+      "objective_id": "Locate and obtain the scientist's hard drive"
+    },
+    {
+      "title": "Scientist's Office",
+      "description": "Wiki location reference for: Access the lab scientist's office on Ground Zero.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bc/Scientist%27s_Office.png/revision/latest?cb=20250223152436",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Scientist%27s_Office.png",
+      "objective_id": "Access the lab scientist's office on Ground Zero"
+    },
+    {
+      "title": "Saving the mole hard drive desk",
+      "description": "Wiki image associated with: Locate and obtain the scientist's hard drive.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/86/Saving_the_mole_hard_drive_desk.png/revision/latest?cb=20250223153242",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Saving_the_mole_hard_drive_desk.png",
+      "objective_id": "Locate and obtain the scientist's hard drive"
+    },
+    {
+      "title": "Saving The Mole Way",
+      "description": "Wiki visual reference: Saving The Mole Way.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/98/SavingTheMoleWay.png/revision/latest?cb=20250223154808",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SavingTheMoleWay.png"
+    },
+    {
+      "title": "Terragroup Scientist",
+      "description": "Wiki visual reference: Terragroup Scientist.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a0/Terragroup_Scientist.png/revision/latest?cb=20231230202741",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Terragroup_Scientist.png"
+    },
+    {
+      "title": "Terra Group science office key icon",
+      "description": "Item or equipment appearance reference: Terra Group science office key icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9a/TerraGroup_science_office_key_icon.png/revision/latest?cb=20240101025342",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TerraGroup_science_office_key_icon.png"
+    },
+    {
+      "title": "Working hard drive icon",
+      "description": "Item or equipment appearance reference: Working hard drive icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bb/Working_hard_drive_icon.png/revision/latest?cb=20221012072939",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Working_hard_drive_icon.png"
+    }
+  ]
+}

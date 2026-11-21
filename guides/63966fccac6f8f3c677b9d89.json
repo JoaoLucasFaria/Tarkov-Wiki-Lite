@@ -1,0 +1,84 @@
+{
+  "quest_id": "63966fccac6f8f3c677b9d89",
+  "name": "Snatch",
+  "images": [
+    {
+      "title": "Snatch Container Map",
+      "description": "Wiki map or overview showing locations relevant to Snatch.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/65/SnatchContainerMap.png/revision/latest?cb=20230124123943",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SnatchContainerMap.png"
+    },
+    {
+      "title": "Surplus Goods Garage Map",
+      "description": "Wiki map or overview showing locations relevant to Snatch.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e8/SurplusGoodsGarageMap.jpg/revision/latest?cb=20230605002547",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SurplusGoodsGarageMap.jpg"
+    },
+    {
+      "title": "RB ST door inside",
+      "description": "Wiki location reference: RB ST door inside.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/67/RB-ST_door_inside.png/revision/latest?cb=20250716002241",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:RB-ST_door_inside.png"
+    },
+    {
+      "title": "Snatch Container Blue Inside",
+      "description": "Wiki location reference: Snatch Container Blue Inside.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a9/SnatchContainerBlueInside.png/revision/latest?cb=20230310220327",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SnatchContainerBlueInside.png"
+    },
+    {
+      "title": "Snatch Container Inside",
+      "description": "Wiki location reference: Snatch Container Inside.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ee/SnatchContainerInside.png/revision/latest?cb=20230310220454",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SnatchContainerInside.png"
+    },
+    {
+      "title": "Snatch BMP2",
+      "description": "Wiki visual reference: Snatch BMP2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/83/SnatchBMP2.png/revision/latest?cb=20230116224705",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SnatchBMP2.png"
+    },
+    {
+      "title": "Snatch Container",
+      "description": "Wiki visual reference: Snatch Container.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/09/SnatchContainer.png/revision/latest?cb=20230116214450",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SnatchContainer.png"
+    },
+    {
+      "title": "Snatch Container Blue",
+      "description": "Wiki visual reference: Snatch Container Blue.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6e/SnatchContainerBlue.png/revision/latest?cb=20230124123005",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SnatchContainerBlue.png"
+    },
+    {
+      "title": "Snatch Forged Intel",
+      "description": "Wiki visual reference: Snatch Forged Intel.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/88/SnatchForgedIntel.png/revision/latest?cb=20230310220255",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SnatchForgedIntel.png"
+    },
+    {
+      "title": "Snatch Original Intel",
+      "description": "Wiki visual reference: Snatch Original Intel.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/36/SnatchOriginalIntel.png/revision/latest?cb=20230310221449",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SnatchOriginalIntel.png"
+    },
+    {
+      "title": "Surplus Goods Garage",
+      "description": "Wiki visual reference: Surplus Goods Garage.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/60/SurplusGoodsGarage.png/revision/latest?cb=20260424184251",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SurplusGoodsGarage.png"
+    },
+    {
+      "title": "Forged Intel Icon",
+      "description": "Item or equipment appearance reference: Forged Intel Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/ba/ForgedIntelIcon.png/revision/latest?cb=20230126093645",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ForgedIntelIcon.png"
+    },
+    {
+      "title": "RB ST key icon",
+      "description": "Item or equipment appearance reference: RB ST key icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/15/RB-ST_key_icon.png/revision/latest?cb=20220707211227",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:RB-ST_key_icon.png"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "quest_id": "63966fd9ea19ac7ed845db30",
+  "name": "Payback",
+  "images": [
+    {
+      "title": "Payback Flare Map",
+      "description": "Wiki map or overview showing locations relevant to Payback.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/97/PaybackFlareMap.png/revision/latest?cb=20230121203356",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:PaybackFlareMap.png"
+    },
+    {
+      "title": "26x75 flare cartridge (Yellow) icon",
+      "description": "Item or equipment appearance reference: 26x75 flare cartridge (Yellow) icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cb/26x75_flare_cartridge_%28Yellow%29_icon.png/revision/latest?cb=20220706003925",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:26x75_flare_cartridge_(Yellow)_icon.png"
+    },
+    {
+      "title": "Yellow flare icon",
+      "description": "Item or equipment appearance reference: Yellow flare icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f1/Yellow_flare_icon.png/revision/latest?cb=20220706002207",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Yellow_flare_icon.png"
+    }
+  ]
+}

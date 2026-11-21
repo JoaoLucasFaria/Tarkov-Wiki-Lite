@@ -1,0 +1,24 @@
+{
+  "quest_id": "5a03173786f77451cb427172",
+  "name": "Spa Tour - Part 2",
+  "images": [
+    {
+      "title": "Firstshorelineheli",
+      "description": "Wiki location reference: Firstshorelineheli.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/98/Firstshorelineheli.png/revision/latest?cb=20230628004615",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Firstshorelineheli.png"
+    },
+    {
+      "title": "Secondshorelineheli",
+      "description": "Wiki location reference: Secondshorelineheli.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/24/Secondshorelineheli.png/revision/latest?cb=20180125222405",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Secondshorelineheli.png"
+    },
+    {
+      "title": "MS2000 Marker icon",
+      "description": "Item or equipment appearance reference: MS2000 Marker icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a9/MS2000_Marker_icon.png/revision/latest?cb=20250407003132",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MS2000_Marker_icon.png"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "quest_id": "6086c852c945025d41566124",
+  "name": "Revision - Reserve",
+  "images": [
+    {
+      "title": "Revision Reserve Map",
+      "description": "Wiki map or overview showing locations relevant to Revision - Reserve.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c9/Revision_Reserve_Map.jpg/revision/latest?cb=20260815212030",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Revision_Reserve_Map.jpg"
+    },
+    {
+      "title": "Revision 1",
+      "description": "Wiki visual reference: Revision 1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1d/Revision_1.png/revision/latest?cb=20241019185234",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Revision_1.png"
+    },
+    {
+      "title": "Revision 2",
+      "description": "Wiki visual reference: Revision 2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/58/Revision_2.png/revision/latest?cb=20241019184924",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Revision_2.png"
+    },
+    {
+      "title": "Revision 3",
+      "description": "Wiki visual reference: Revision 3.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/26/Revision_3.png/revision/latest?cb=20241019183453",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Revision_3.png"
+    },
+    {
+      "title": "Revision 5",
+      "description": "Wiki visual reference: Revision 5.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1e/Revision_5.png/revision/latest?cb=20241019184549",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Revision_5.png"
+    },
+    {
+      "title": "MS2000 Marker icon",
+      "description": "Item or equipment appearance reference: MS2000 Marker icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a9/MS2000_Marker_icon.png/revision/latest?cb=20250407003132",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MS2000_Marker_icon.png"
+    },
+    {
+      "title": "RB ST key icon",
+      "description": "Item or equipment appearance reference: RB ST key icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/15/RB-ST_key_icon.png/revision/latest?cb=20220707211227",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:RB-ST_key_icon.png"
+    }
+  ]
+}

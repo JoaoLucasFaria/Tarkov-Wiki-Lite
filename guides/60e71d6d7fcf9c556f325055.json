@@ -1,0 +1,19 @@
+{
+  "quest_id": "60e71d6d7fcf9c556f325055",
+  "name": "The Courier",
+  "images": [
+    {
+      "title": "The Courier Map",
+      "description": "Wiki map or overview showing locations relevant to The Courier.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d4/The_Courier_Map.png/revision/latest?cb=20260804214543",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:The_Courier_Map.png"
+    },
+    {
+      "title": "The Courier Barrels Location",
+      "description": "Wiki location reference for: Stash a Trijicon REAP-IR scope behind the trash containers at the new gas station on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e0/The_Courier_Barrels_Location.png/revision/latest?cb=20260602155124",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:The_Courier_Barrels_Location.png",
+      "objective_id": "Stash a Trijicon REAP-IR scope behind the trash containers at the new gas station on Customs"
+    }
+  ]
+}

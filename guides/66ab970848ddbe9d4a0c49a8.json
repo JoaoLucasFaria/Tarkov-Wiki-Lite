@@ -1,0 +1,54 @@
+{
+  "quest_id": "66ab970848ddbe9d4a0c49a8",
+  "name": "Special Comms",
+  "images": [
+    {
+      "title": "Marathon Special Comms Reserve Map",
+      "description": "Wiki map or overview showing locations relevant to Special Comms.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/af/MarathonSpecialCommsReserveMap.png/revision/latest?cb=20240829213943",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MarathonSpecialCommsReserveMap.png"
+    },
+    {
+      "title": "Marathon Special Comms Woods Map",
+      "description": "Wiki map or overview showing locations relevant to Special Comms.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/73/MarathonSpecialCommsWoodsMap.png/revision/latest?cb=20240829212829",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MarathonSpecialCommsWoodsMap.png"
+    },
+    {
+      "title": "Marathon Special Comms Reserve",
+      "description": "Wiki location reference: Marathon Special Comms Reserve.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/ff/MarathonSpecialCommsReserve.png/revision/latest?cb=20240829213710",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MarathonSpecialCommsReserve.png"
+    },
+    {
+      "title": "Marathon Special Comms Woods",
+      "description": "Wiki location reference: Marathon Special Comms Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4a/MarathonSpecialCommsWoods.png/revision/latest?cb=20240829212517",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MarathonSpecialCommsWoods.png"
+    },
+    {
+      "title": "Woods Transit To Reserve",
+      "description": "Wiki location reference: Woods Transit To Reserve.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/19/WoodsTransitToReserve.png/revision/latest?cb=20241103134445",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WoodsTransitToReserve.png"
+    },
+    {
+      "title": "Woods Transit To Reserve2",
+      "description": "Wiki location reference: Woods Transit To Reserve2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/47/WoodsTransitToReserve2.png/revision/latest?cb=20241103130858",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WoodsTransitToReserve2.png"
+    },
+    {
+      "title": "Bulbex cable cutter icon1",
+      "description": "Item or equipment appearance reference: Bulbex cable cutter icon1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/02/Bulbex_cable_cutter_icon1.png/revision/latest?cb=20250811122140",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Bulbex_cable_cutter_icon1.png"
+    },
+    {
+      "title": "Military Cable Icon",
+      "description": "Item or equipment appearance reference: Military Cable Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/85/MilitaryCableIcon.png/revision/latest?cb=20250308184912",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MilitaryCableIcon.png"
+    }
+  ]
+}

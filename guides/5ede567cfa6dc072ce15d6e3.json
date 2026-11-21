@@ -1,0 +1,18 @@
+{
+  "quest_id": "5ede567cfa6dc072ce15d6e3",
+  "name": "The Bunker - Part 2",
+  "images": [
+    {
+      "title": "Bunker pt2",
+      "description": "Wiki location reference: Bunker pt2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/61/Bunker_pt2.png/revision/latest?cb=20200704024601",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Bunker_pt2.png"
+    },
+    {
+      "title": "Hermetic Door Example",
+      "description": "Wiki location reference: Hermetic Door Example.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8d/HermeticDoorExample.png/revision/latest?cb=20211210221454",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:HermeticDoorExample.png"
+    }
+  ]
+}

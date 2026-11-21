@@ -1,0 +1,30 @@
+{
+  "quest_id": "61904daa7d0d857927447b9c",
+  "name": "The Hermit",
+  "images": [
+    {
+      "title": "Hermit spawn",
+      "description": "Wiki location reference: Hermit spawn.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/dd/Hermit_spawn.png/revision/latest?cb=20211219153333",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Hermit_spawn.png"
+    },
+    {
+      "title": "Letter beneath door of stash",
+      "description": "Wiki location reference: Letter beneath door of stash.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d6/Letter_beneath_door_of_stash.png/revision/latest?cb=20220102093050",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Letter_beneath_door_of_stash.png"
+    },
+    {
+      "title": "Lighthouse The Hermit",
+      "description": "Wiki location reference: Lighthouse The Hermit.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0a/Lighthouse_The_Hermit.png/revision/latest?cb=20211219153342",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Lighthouse_The_Hermit.png"
+    },
+    {
+      "title": "Quest missing letter hermit icon",
+      "description": "Item or equipment appearance reference: Quest missing letter hermit icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/35/Quest_missing_letter_hermit_icon.png/revision/latest?cb=20221012081910",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Quest_missing_letter_hermit_icon.png"
+    }
+  ]
+}

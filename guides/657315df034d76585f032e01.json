@@ -1,0 +1,48 @@
+{
+  "quest_id": "657315df034d76585f032e01",
+  "name": "Shooting Cans",
+  "images": [
+    {
+      "title": "Shooting Cans Map",
+      "description": "Wiki map or overview showing locations relevant to Shooting Cans.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/dc/Shooting_Cans_Map.png/revision/latest?cb=20240325032754",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Shooting_Cans_Map.png"
+    },
+    {
+      "title": "Capital Insight Building Stairs",
+      "description": "Wiki location reference: Capital Insight Building Stairs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7e/Capital_Insight_Building_Stairs.png/revision/latest?cb=20240325031748",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Capital_Insight_Building_Stairs.png"
+    },
+    {
+      "title": "Capital Insight Building",
+      "description": "Wiki location reference: Capital Insight Building.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9d/Capital_Insight_Building.png/revision/latest?cb=20250708203107",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Capital_Insight_Building.png"
+    },
+    {
+      "title": "Tarbank Building Stairs",
+      "description": "Wiki location reference: Tarbank Building Stairs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/51/Tarbank_Building_Stairs.png/revision/latest?cb=20250522211749",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Tarbank_Building_Stairs.png"
+    },
+    {
+      "title": "Tarbank Building",
+      "description": "Wiki location reference: Tarbank Building.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/26/Tarbank_Building.png/revision/latest?cb=20250708202708",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Tarbank_Building.png"
+    },
+    {
+      "title": "Shooting Cans AGS",
+      "description": "Wiki visual reference: Shooting Cans AGS.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/34/Shooting_Cans_AGS.png/revision/latest?cb=20250708203510",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Shooting_Cans_AGS.png"
+    },
+    {
+      "title": "Shooting Cans Utyos",
+      "description": "Wiki visual reference: Shooting Cans Utyos.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/eb/Shooting_Cans_Utyos.png/revision/latest?cb=20231230062117",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Shooting_Cans_Utyos.png"
+    }
+  ]
+}

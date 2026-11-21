@@ -1,0 +1,60 @@
+{
+  "quest_id": "673f61a066e6a521aa04b62b",
+  "name": "Order From Outside",
+  "images": [
+    {
+      "title": "Airspace Control Center Map",
+      "description": "Wiki map or overview showing locations relevant to Order From Outside.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/96/Airspace_Control_Center_Map.jpg/revision/latest?cb=20250120232611",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Airspace_Control_Center_Map.jpg"
+    },
+    {
+      "title": "Order From Outside Room Map",
+      "description": "Wiki map or overview showing locations relevant to Order From Outside.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d4/Order_From_Outside_Room_Map.png/revision/latest?cb=20250121095652",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Order_From_Outside_Room_Map.png"
+    },
+    {
+      "title": "Protect the Sky Map",
+      "description": "Wiki map or overview showing locations relevant to Order From Outside.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ae/Protect_the_Sky_Map.png/revision/latest?cb=20250119203611",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Protect_the_Sky_Map.png"
+    },
+    {
+      "title": "Order From Outside Door",
+      "description": "Wiki location reference: Order From Outside Door.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8f/Order_From_Outside_Door.png/revision/latest?cb=20250121094609",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Order_From_Outside_Door.png"
+    },
+    {
+      "title": "Order From Outside Spawn 1",
+      "description": "Wiki location reference: Order From Outside Spawn 1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d4/Order_From_Outside_Spawn_1.png/revision/latest?cb=20250121095845",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Order_From_Outside_Spawn_1.png"
+    },
+    {
+      "title": "Order From Outside Spawn 2",
+      "description": "Wiki location reference: Order From Outside Spawn 2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3b/Order_From_Outside_Spawn_2.png/revision/latest?cb=20250121100116",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Order_From_Outside_Spawn_2.png"
+    },
+    {
+      "title": "Order From Outside Spawn 3",
+      "description": "Wiki location reference: Order From Outside Spawn 3.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bf/Order_From_Outside_Spawn_3.png/revision/latest?cb=20250121100108",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Order_From_Outside_Spawn_3.png"
+    },
+    {
+      "title": "Order From Outside Stashing Location",
+      "description": "Wiki location reference: Order From Outside Stashing Location.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/eb/Order_From_Outside_Stashing_Location.png/revision/latest?cb=20250323135706",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Order_From_Outside_Stashing_Location.png"
+    },
+    {
+      "title": "KOSA UAV electronic jamming device Icon",
+      "description": "Item or equipment appearance reference: KOSA UAV electronic jamming device Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e7/KOSA_UAV_electronic_jamming_device_Icon.png/revision/latest?cb=20250117235041",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:KOSA_UAV_electronic_jamming_device_Icon.png"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "quest_id": "675c1570526ff496850895d9",
+  "name": "Passion for Ergonomics",
+  "images": [
+    {
+      "title": "Passion for Ergonomics Map",
+      "description": "Wiki map or overview showing locations relevant to Passion for Ergonomics.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/22/Passion_for_Ergonomics_Map.png/revision/latest?cb=20241229214303",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Passion_for_Ergonomics_Map.png"
+    },
+    {
+      "title": "Passion for Ergonomics Spawn 1",
+      "description": "Wiki location reference for: Locate and obtain the customized tool set at the garage complex on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/95/Passion_for_Ergonomics_Spawn_1.png/revision/latest?cb=20241229214437",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Passion_for_Ergonomics_Spawn_1.png",
+      "objective_id": "Locate and obtain the customized tool set at the garage complex on Customs"
+    },
+    {
+      "title": "Passion for Ergonomics Spawn 2",
+      "description": "Wiki location reference for: Locate and obtain the customized tool set at the garage complex on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e0/Passion_for_Ergonomics_Spawn_2.png/revision/latest?cb=20241229214558",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Passion_for_Ergonomics_Spawn_2.png",
+      "objective_id": "Locate and obtain the customized tool set at the garage complex on Customs"
+    },
+    {
+      "title": "Passion for Ergonomics Spawn 3",
+      "description": "Wiki location reference for: Locate and obtain the customized tool set at the garage complex on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b8/Passion_for_Ergonomics_Spawn_3.png/revision/latest?cb=20241229215054",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Passion_for_Ergonomics_Spawn_3.png",
+      "objective_id": "Locate and obtain the customized tool set at the garage complex on Customs"
+    },
+    {
+      "title": "Passion for Ergonomics Spawn 4",
+      "description": "Wiki location reference for: Locate and obtain the customized tool set at the garage complex on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c2/Passion_for_Ergonomics_Spawn_4.png/revision/latest?cb=20241229214905",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Passion_for_Ergonomics_Spawn_4.png",
+      "objective_id": "Locate and obtain the customized tool set at the garage complex on Customs"
+    },
+    {
+      "title": "Passion for Ergonomics Garage",
+      "description": "Wiki visual reference: Passion for Ergonomics Garage.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/37/Passion_for_Ergonomics_Garage.png/revision/latest?cb=20250325014346",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Passion_for_Ergonomics_Garage.png"
+    },
+    {
+      "title": "Box with upgraded tools icon",
+      "description": "Item or equipment appearance reference: Box with upgraded tools icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/56/Box_with_upgraded_tools_icon.png/revision/latest?cb=20241229192051",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Box_with_upgraded_tools_icon.png"
+    }
+  ]
+}

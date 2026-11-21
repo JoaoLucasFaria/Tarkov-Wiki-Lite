@@ -1,0 +1,71 @@
+{
+  "quest_id": "69ce1f84ebbdbf36a200627c",
+  "name": "Peaceful Atom",
+  "images": [
+    {
+      "title": "Peaceful Atom Automation Room Map",
+      "description": "Wiki map or overview showing locations relevant to Peaceful Atom.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3b/Peaceful_Atom_Automation_Room_Map.jpg/revision/latest?cb=20260531213318",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Peaceful_Atom_Automation_Room_Map.jpg"
+    },
+    {
+      "title": "Peaceful Atom Control Room Map",
+      "description": "Wiki map or overview showing locations relevant to Peaceful Atom.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/70/Peaceful_Atom_Control_Room_Map.jpg/revision/latest?cb=20260531214136",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Peaceful_Atom_Control_Room_Map.jpg"
+    },
+    {
+      "title": "Peaceful Atom Overseeing Cabin Map",
+      "description": "Wiki map or overview showing locations relevant to Peaceful Atom.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/29/Peaceful_Atom_Overseeing_Cabin_Map.jpg/revision/latest?cb=20260606223556",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Peaceful_Atom_Overseeing_Cabin_Map.jpg"
+    },
+    {
+      "title": "Peaceful Atom Automation Room Code Room",
+      "description": "Wiki location reference for: Locate and obtain the nuclear power unit control log on Icebreaker.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/43/Peaceful_Atom_Automation_Room_Code_Room.png/revision/latest?cb=20260623175848",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Peaceful_Atom_Automation_Room_Code_Room.png",
+      "objective_id": "Locate and obtain the nuclear power unit control log on Icebreaker"
+    },
+    {
+      "title": "Peaceful Atom Automation Room Code",
+      "description": "Wiki location reference for: Locate and obtain the nuclear power unit control log on Icebreaker.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/23/Peaceful_Atom_Automation_Room_Code.png/revision/latest?cb=20260528223758",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Peaceful_Atom_Automation_Room_Code.png",
+      "objective_id": "Locate and obtain the nuclear power unit control log on Icebreaker"
+    },
+    {
+      "title": "Peaceful Atom Automation Room Spawn",
+      "description": "Wiki location reference for: Locate and obtain the nuclear power unit control log on Icebreaker.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ee/Peaceful_Atom_Automation_Room_Spawn.png/revision/latest?cb=20260528222455",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Peaceful_Atom_Automation_Room_Spawn.png",
+      "objective_id": "Locate and obtain the nuclear power unit control log on Icebreaker"
+    },
+    {
+      "title": "Peaceful Atom Control Room Spawn",
+      "description": "Wiki location reference for: Locate and obtain the nuclear power unit control log on Icebreaker.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4a/Peaceful_Atom_Control_Room_Spawn.png/revision/latest?cb=20260528222527",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Peaceful_Atom_Control_Room_Spawn.png",
+      "objective_id": "Locate and obtain the nuclear power unit control log on Icebreaker"
+    },
+    {
+      "title": "Peaceful Atom Overseeing Cabin Spawn",
+      "description": "Wiki location reference for: Locate and obtain the nuclear power unit control log on Icebreaker.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2e/Peaceful_Atom_Overseeing_Cabin_Spawn.png/revision/latest?cb=20260623174745",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Peaceful_Atom_Overseeing_Cabin_Spawn.png",
+      "objective_id": "Locate and obtain the nuclear power unit control log on Icebreaker"
+    },
+    {
+      "title": "Wiring the Vessel Under engine Entry",
+      "description": "Wiki visual reference: Wiring the Vessel Under engine Entry.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7e/Wiring_the_Vessel_Under_engine_Entry.png/revision/latest?cb=20260623175943",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Wiring_the_Vessel_Under_engine_Entry.png"
+    },
+    {
+      "title": "Nuclear power unit control log icon",
+      "description": "Item or equipment appearance reference: Nuclear power unit control log icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3a/Nuclear_power_unit_control_log_icon.png/revision/latest?cb=20260528221354",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Nuclear_power_unit_control_log_icon.png"
+    }
+  ]
+}

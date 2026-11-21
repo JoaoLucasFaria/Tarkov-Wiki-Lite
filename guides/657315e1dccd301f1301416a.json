@@ -1,0 +1,55 @@
+{
+  "quest_id": "657315e1dccd301f1301416a",
+  "name": "Luxurious Life",
+  "images": [
+    {
+      "title": "Luxurious Life Map",
+      "description": "Wiki map or overview showing locations relevant to Luxurious Life.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c5/Luxurious_Life_Map.png/revision/latest?cb=20240325021730",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Luxurious_Life_Map.png"
+    },
+    {
+      "title": "Luxurious Life Spawn 1",
+      "description": "Wiki location reference: Luxurious Life Spawn 1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d4/Luxurious_Life_Spawn_1.png/revision/latest?cb=20250223155247",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Luxurious_Life_Spawn_1.png"
+    },
+    {
+      "title": "Luxurious Life Spawn 2",
+      "description": "Wiki location reference: Luxurious Life Spawn 2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8e/Luxurious_Life_Spawn_2.png/revision/latest?cb=20250223155436",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Luxurious_Life_Spawn_2.png"
+    },
+    {
+      "title": "Luxurious Life Spawn 3",
+      "description": "Wiki location reference: Luxurious Life Spawn 3.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0c/Luxurious_Life_Spawn_3.png/revision/latest?cb=20250223155549",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Luxurious_Life_Spawn_3.png"
+    },
+    {
+      "title": "Luxurious Life Spawn 4 5 6",
+      "description": "Wiki location reference: Luxurious Life Spawn 4 5 6.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/05/Luxurious_Life_Spawn_4_5_6.png/revision/latest?cb=20250223160232",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Luxurious_Life_Spawn_4_5_6.png"
+    },
+    {
+      "title": "Wine Store Ground Zero",
+      "description": "Wiki location reference for: Locate and obtain the wine bottle in the store.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/40/WineStoreGroundZero.PNG/revision/latest?cb=20240119211825",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WineStoreGroundZero.PNG",
+      "objective_id": "Locate and obtain the wine bottle in the store"
+    },
+    {
+      "title": "ASAP Winery",
+      "description": "Wiki visual reference: ASAP Winery.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/21/ASAP_Winery.png/revision/latest?cb=20250708202108",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ASAP_Winery.png"
+    },
+    {
+      "title": "Bottle of Le Jean wine icon",
+      "description": "Item or equipment appearance reference: Bottle of Le Jean wine icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/06/Bottle_of_Le_Jean_wine_icon.png/revision/latest?cb=20241227003501",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Bottle_of_Le_Jean_wine_icon.png"
+    }
+  ]
+}

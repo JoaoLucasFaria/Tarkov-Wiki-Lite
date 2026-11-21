@@ -1,0 +1,49 @@
+{
+  "quest_id": "5b4794cb86f774598100d5d4",
+  "name": "Metal Birds",
+  "images": [
+    {
+      "title": "Controller Woods",
+      "description": "Wiki location reference: Controller Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0d/Controller-Woods.png/revision/latest?cb=20250805214041",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Controller-Woods.png"
+    },
+    {
+      "title": "Lend Lease Woods Gyroscope pickup",
+      "description": "Wiki location reference: Lend Lease Woods Gyroscope pickup.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/67/Lend_Lease_Woods_Gyroscope_pickup.png/revision/latest?cb=20250805214726",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Lend_Lease_Woods_Gyroscope_pickup.png"
+    },
+    {
+      "title": "Motor Controller",
+      "description": "Wiki location reference for: Locate and obtain the motor controller on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/94/MotorController.png/revision/latest?cb=20240830225452",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MotorController.png",
+      "objective_id": "Locate and obtain the motor controller on Woods"
+    },
+    {
+      "title": "Woods Land Lease",
+      "description": "Wiki location reference: Woods Land Lease.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b4/Woods_Land_Lease.png/revision/latest?cb=20250805215450",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Woods_Land_Lease.png"
+    },
+    {
+      "title": "Land Lease Gyroscope",
+      "description": "Wiki visual reference: Land Lease Gyroscope.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3a/LandLease_Gyroscope.png/revision/latest?cb=20250805214811",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:LandLease_Gyroscope.png"
+    },
+    {
+      "title": "Land Lease Motor Cont1",
+      "description": "Wiki visual reference: Land Lease Motor Cont1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d3/LandLease_MotorCont1.png/revision/latest?cb=20250805213958",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:LandLease_MotorCont1.png"
+    },
+    {
+      "title": "Gyroscope icon",
+      "description": "Item or equipment appearance reference: Gyroscope icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8f/Gyroscope_icon.png/revision/latest?cb=20240830225506",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Gyroscope_icon.png"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "quest_id": "5ac3477486f7741d651d6885",
+  "name": "Scout",
+  "images": [
+    {
+      "title": "Fac Exit0",
+      "description": "Wiki location reference: Fac Exit0.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8d/FacExit0.png/revision/latest?cb=20240824185236",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:FacExit0.png"
+    },
+    {
+      "title": "Fac Exit1",
+      "description": "Wiki location reference: Fac Exit1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f2/FacExit1.png/revision/latest?cb=20240824184128",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:FacExit1.png"
+    },
+    {
+      "title": "Fac Exit2",
+      "description": "Wiki location reference: Fac Exit2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/26/FacExit2.png/revision/latest?cb=20240824184011",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:FacExit2.png"
+    },
+    {
+      "title": "Fac Exit3",
+      "description": "Wiki location reference: Fac Exit3.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/75/FacExit3.png/revision/latest?cb=20240824184214",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:FacExit3.png"
+    },
+    {
+      "title": "Fac Exit4",
+      "description": "Wiki location reference: Fac Exit4.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/46/FacExit4.png/revision/latest?cb=20240824184351",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:FacExit4.png"
+    }
+  ]
+}
