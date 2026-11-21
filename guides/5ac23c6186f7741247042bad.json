@@ -1,0 +1,48 @@
+{
+  "quest_id": "5ac23c6186f7741247042bad",
+  "name": "Gunsmith - MP-133",
+  "images": [
+    {
+      "title": "Gunsmithpart1Modding",
+      "description": "Wiki weapon-build illustration for Gunsmith - MP-133; compare the pictured setup with the quest requirements.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6a/Gunsmithpart1Modding.png/revision/latest?cb=20260420192607",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Gunsmithpart1Modding.png",
+      "objective_id": "Modify an MP-133 to comply with the given specifications"
+    },
+    {
+      "title": "Gunsmithpart1Modding2",
+      "description": "Wiki weapon-build illustration for Gunsmith - MP-133; compare the pictured setup with the quest requirements.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/76/Gunsmithpart1Modding2.png/revision/latest?cb=20260420192513",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Gunsmithpart1Modding2.png",
+      "objective_id": "Modify an MP-133 to comply with the given specifications"
+    },
+    {
+      "title": "Custommp133",
+      "description": "Visual reference for the objective: Modify an MP-133 to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/63/Custommp133.png/revision/latest?cb=20230726195346",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Custommp133.png",
+      "objective_id": "Modify an MP-133 to comply with the given specifications"
+    },
+    {
+      "title": "Gunsmith Part1Icon",
+      "description": "Appearance reference for equipment or item: Gunsmith Part1Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5f/GunsmithPart1Icon.png/revision/latest?cb=20180425214223",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GunsmithPart1Icon.png",
+      "objective_id": "Modify an MP-133 to comply with the given specifications"
+    },
+    {
+      "title": "Shottypistolgripstockicon",
+      "description": "Appearance reference for equipment or item: Shottypistolgripstockicon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/32/Shottypistolgripstockicon.png/revision/latest?cb=20230728220404",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Shottypistolgripstockicon.png",
+      "objective_id": "Modify an MP-133 to comply with the given specifications"
+    },
+    {
+      "title": "TBL Icon",
+      "description": "Appearance reference for equipment or item: TBL Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a7/TBL_Icon.PNG/revision/latest?cb=20230627220406",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TBL_Icon.PNG",
+      "objective_id": "Modify an MP-133 to comply with the given specifications"
+    }
+  ]
+}

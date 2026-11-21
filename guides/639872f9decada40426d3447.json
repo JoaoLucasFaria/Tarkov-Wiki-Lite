@@ -1,0 +1,62 @@
+{
+  "quest_id": "639872f9decada40426d3447",
+  "name": "Gunsmith - OP-SKS",
+  "images": [
+    {
+      "title": "Gun Smith Part4Guide",
+      "description": "Wiki map or reference for the objective: Modify an OP-SKS to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/23/GunSmithPart4Guide.png/revision/latest?cb=20260805024531",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GunSmithPart4Guide.png",
+      "objective_id": "Modify an OP-SKS to comply with the given specifications"
+    },
+    {
+      "title": "Gun Smith Part4Guide2",
+      "description": "Wiki map or reference for the objective: Modify an OP-SKS to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e1/GunSmithPart4Guide2.png/revision/latest?cb=20260805024501",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GunSmithPart4Guide2.png",
+      "objective_id": "Modify an OP-SKS to comply with the given specifications"
+    },
+    {
+      "title": "Heaxagonsksicon",
+      "description": "Appearance reference for equipment or item: Heaxagonsksicon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fd/Heaxagonsksicon.png/revision/latest?cb=20230709193839",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Heaxagonsksicon.png",
+      "objective_id": "Modify an OP-SKS to comply with the given specifications"
+    },
+    {
+      "title": "NPZ USP 1 4x scope icon v2",
+      "description": "Appearance reference for equipment or item: NPZ USP 1 4x scope icon v2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1e/NPZ_USP-1_4x_scope_icon_v2.png/revision/latest?cb=20230704235145",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:NPZ_USP-1_4x_scope_icon_v2.png",
+      "objective_id": "Modify an OP-SKS to comply with the given specifications"
+    },
+    {
+      "title": "OP SKS icon",
+      "description": "Appearance reference for equipment or item: OP SKS icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d8/OP-SKS_icon.png/revision/latest?cb=20240121193812",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:OP-SKS_icon.png",
+      "objective_id": "Modify an OP-SKS to comply with the given specifications"
+    },
+    {
+      "title": "Opsksdt",
+      "description": "Appearance reference for equipment or item: Opsksdt.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/81/Opsksdt.png/revision/latest?cb=20240119231506",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Opsksdt.png",
+      "objective_id": "Modify an OP-SKS to comply with the given specifications"
+    },
+    {
+      "title": "SAW SKS Icon",
+      "description": "Appearance reference for equipment or item: SAW SKS Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d7/SAW_SKS_Icon.png/revision/latest?cb=20240217004156",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SAW_SKS_Icon.png",
+      "objective_id": "Modify an OP-SKS to comply with the given specifications"
+    },
+    {
+      "title": "Sksmagicon",
+      "description": "Appearance reference for equipment or item: Sksmagicon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1d/Sksmagicon.png/revision/latest?cb=20240109220041",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Sksmagicon.png",
+      "objective_id": "Modify an OP-SKS to comply with the given specifications"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "quest_id": "64e7b99017ab941a6f7bf9d7",
+  "name": "Gendarmerie - Mall Cop",
+  "images": [
+    {
+      "title": "Gendmallcopmap",
+      "description": "Wiki map or reference for the objective: Eliminate any target at the stylobate building while using Pistols on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/72/Gendmallcopmap.png/revision/latest?cb=20230914125601",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Gendmallcopmap.png",
+      "objective_id": "Eliminate any target at the stylobate building while using Pistols on Streets of Tarkov"
+    }
+  ]
+}

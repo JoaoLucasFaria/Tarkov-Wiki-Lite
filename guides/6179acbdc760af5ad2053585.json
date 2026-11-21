@@ -1,0 +1,13 @@
+{
+  "quest_id": "6179acbdc760af5ad2053585",
+  "name": "Easy Job - Part 2",
+  "images": [
+    {
+      "title": "Easy Job2Map",
+      "description": "Wiki map or reference for the objective: Eliminate any target around the helicopter area at the water treatment plant on Lighthouse.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/eb/EasyJob2Map.png/revision/latest?cb=20250324160605",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:EasyJob2Map.png",
+      "objective_id": "Eliminate any target around the helicopter area at the water treatment plant on Lighthouse"
+    }
+  ]
+}

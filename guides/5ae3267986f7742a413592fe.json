@@ -1,0 +1,62 @@
+{
+  "quest_id": "5ae3267986f7742a413592fe",
+  "name": "Gunsmith - Model 870",
+  "images": [
+    {
+      "title": "Gunsmith Pt 7 Inspect View",
+      "description": "Wiki weapon-build illustration for Gunsmith - Model 870; compare the pictured setup with the quest requirements.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/22/Gunsmith-Pt_7_Inspect_View.png/revision/latest?cb=20260420201601",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Gunsmith-Pt_7_Inspect_View.png",
+      "objective_id": "Modify a Remington Model 870 to comply with the given specifications"
+    },
+    {
+      "title": "Gunsmith7M870",
+      "description": "Visual reference for the objective: Modify a Remington Model 870 to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/Gunsmith7M870.PNG/revision/latest?cb=20260420201642",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Gunsmith7M870.PNG",
+      "objective_id": "Modify a Remington Model 870 to comply with the given specifications"
+    },
+    {
+      "title": "Gk02",
+      "description": "Appearance reference for equipment or item: Gk02.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f4/Gk02.png/revision/latest?cb=20230704221127",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Gk02.png",
+      "objective_id": "Modify a Remington Model 870 to comply with the given specifications"
+    },
+    {
+      "title": "KACVPG Icon",
+      "description": "Appearance reference for equipment or item: KACVPG Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6e/KACVPGIcon.png/revision/latest?cb=20230627222819",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:KACVPGIcon.png",
+      "objective_id": "Modify a Remington Model 870 to comply with the given specifications"
+    },
+    {
+      "title": "M870stockmagpulicon",
+      "description": "Appearance reference for equipment or item: M870stockmagpulicon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/12/M870stockmagpulicon.png/revision/latest?cb=20230728222832",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:M870stockmagpulicon.png",
+      "objective_id": "Modify a Remington Model 870 to comply with the given specifications"
+    },
+    {
+      "title": "Magpul MLOK 2 5 inch rail Icon",
+      "description": "Appearance reference for equipment or item: Magpul MLOK 2 5 inch rail Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7e/Magpul_MLOK_2_5_inch_rail_Icon.png/revision/latest?cb=20230729201145",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Magpul_MLOK_2_5_inch_rail_Icon.png",
+      "objective_id": "Modify a Remington Model 870 to comply with the given specifications"
+    },
+    {
+      "title": "Magpul MLOK 4 1 inch rail Icon",
+      "description": "Appearance reference for equipment or item: Magpul MLOK 4 1 inch rail Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5d/Magpul_MLOK_4_1_inch_rail_Icon.png/revision/latest?cb=20230729201134",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Magpul_MLOK_4_1_inch_rail_Icon.png",
+      "objective_id": "Modify a Remington Model 870 to comply with the given specifications"
+    },
+    {
+      "title": "Magpulm870forestockicon",
+      "description": "Appearance reference for equipment or item: Magpulm870forestockicon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/06/Magpulm870forestockicon.png/revision/latest?cb=20230726203018",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Magpulm870forestockicon.png",
+      "objective_id": "Modify a Remington Model 870 to comply with the given specifications"
+    }
+  ]
+}

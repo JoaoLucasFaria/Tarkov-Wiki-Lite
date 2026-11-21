@@ -1,0 +1,42 @@
+{
+  "quest_id": "63967028c4a91c5cb76abd81",
+  "name": "Trouble in the Big City",
+  "images": [
+    {
+      "title": "Trouble Map",
+      "description": "Wiki map or instructional reference associated with Trouble in the Big City.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a2/TroubleMap.png/revision/latest?cb=20250729091046",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TroubleMap.png"
+    },
+    {
+      "title": "Trouble Big City Mark Spot",
+      "description": "Location reference from the Trouble in the Big City wiki page: Trouble Big City Mark Spot.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/54/TroubleBigCity_MarkSpot.png/revision/latest?cb=20260406230059",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TroubleBigCity_MarkSpot.png"
+    },
+    {
+      "title": "Trouble Big City Mark Spot2",
+      "description": "Location reference from the Trouble in the Big City wiki page: Trouble Big City Mark Spot2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/54/TroubleBigCity_MarkSpot2.png/revision/latest?cb=20260406225645",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TroubleBigCity_MarkSpot2.png"
+    },
+    {
+      "title": "26x75 flare cartridge (Yellow) icon",
+      "description": "Appearance reference for equipment or item: 26x75 flare cartridge (Yellow) icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cb/26x75_flare_cartridge_%28Yellow%29_icon.png/revision/latest?cb=20220706003925",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:26x75_flare_cartridge_(Yellow)_icon.png"
+    },
+    {
+      "title": "MS2000 Marker icon",
+      "description": "Appearance reference for equipment or item: MS2000 Marker icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a9/MS2000_Marker_icon.png/revision/latest?cb=20250407003132",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MS2000_Marker_icon.png"
+    },
+    {
+      "title": "Yellow flare icon",
+      "description": "Appearance reference for equipment or item: Yellow flare icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f1/Yellow_flare_icon.png/revision/latest?cb=20220706002207",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Yellow_flare_icon.png"
+    }
+  ]
+}

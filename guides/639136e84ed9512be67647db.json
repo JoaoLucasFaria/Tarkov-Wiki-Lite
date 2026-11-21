@@ -1,0 +1,55 @@
+{
+  "quest_id": "639136e84ed9512be67647db",
+  "name": "Cease Fire!",
+  "images": [
+    {
+      "title": "Cease Fire Map",
+      "description": "Wiki map or reference for the objective: Survive and extract from Streets of Tarkov through Klimov Street (Flare).",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b4/CeaseFireMap.png/revision/latest?cb=20251004222804",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:CeaseFireMap.png",
+      "objective_id": "Survive and extract from Streets of Tarkov through Klimov Street (Flare)"
+    },
+    {
+      "title": "Backdoor",
+      "description": "Wiki location image for the objective: Survive and extract from Streets of Tarkov through Klimov Street (Flare).",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/64/Backdoor.PNG/revision/latest?cb=20210708200558",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Backdoor.PNG",
+      "objective_id": "Survive and extract from Streets of Tarkov through Klimov Street (Flare)"
+    },
+    {
+      "title": "Flare Success Note",
+      "description": "Wiki location image for the objective: Survive and extract from Streets of Tarkov through Klimov Street (Flare).",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7f/FlareSuccessNote.png/revision/latest?cb=20260603210733",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:FlareSuccessNote.png",
+      "objective_id": "Survive and extract from Streets of Tarkov through Klimov Street (Flare)"
+    },
+    {
+      "title": "Klimov Street Signal Area",
+      "description": "Wiki location image for the objective: Survive and extract from Streets of Tarkov through Klimov Street (Flare).",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/11/KlimovStreetSignalArea.png/revision/latest?cb=20251004215250",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:KlimovStreetSignalArea.png",
+      "objective_id": "Survive and extract from Streets of Tarkov through Klimov Street (Flare)"
+    },
+    {
+      "title": "Klimov Street Signal Area Note",
+      "description": "Wiki location image for the objective: Survive and extract from Streets of Tarkov through Klimov Street (Flare).",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/22/KlimovStreetSignalAreaNote.png/revision/latest?cb=20260330220637",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:KlimovStreetSignalAreaNote.png",
+      "objective_id": "Survive and extract from Streets of Tarkov through Klimov Street (Flare)"
+    },
+    {
+      "title": "Klimov Street Extraction",
+      "description": "Visual reference for the objective: Survive and extract from Streets of Tarkov through Klimov Street (Flare).",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1a/KlimovStreetExtraction.png/revision/latest?cb=20251004210542",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:KlimovStreetExtraction.png",
+      "objective_id": "Survive and extract from Streets of Tarkov through Klimov Street (Flare)"
+    },
+    {
+      "title": "Green flare icon",
+      "description": "Appearance reference for equipment or item: Green flare icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1d/Green_flare_icon.png/revision/latest?cb=20220706002235",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Green_flare_icon.png",
+      "objective_id": "Survive and extract from Streets of Tarkov through Klimov Street (Flare)"
+    }
+  ]
+}

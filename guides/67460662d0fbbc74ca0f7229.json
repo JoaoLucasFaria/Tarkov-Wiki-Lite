@@ -1,0 +1,42 @@
+{
+  "quest_id": "67460662d0fbbc74ca0f7229",
+  "name": "Choose Your Friends Wisely",
+  "images": [
+    {
+      "title": "Customs Transit To Reserve Map",
+      "description": "Wiki map or instructional reference associated with Choose Your Friends Wisely.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/10/CustomsTransitToReserveMap.png/revision/latest?cb=20250119195021",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:CustomsTransitToReserveMap.png"
+    },
+    {
+      "title": "Reserve Transit To Woods Map",
+      "description": "Wiki map or instructional reference associated with Choose Your Friends Wisely.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a3/ReserveTransitToWoodsMap.png/revision/latest?cb=20250101212400",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ReserveTransitToWoodsMap.png"
+    },
+    {
+      "title": "Woods Transit To Lighthouse Map",
+      "description": "Wiki map or instructional reference associated with Choose Your Friends Wisely.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/61/WoodsTransitToLighthouseMap.jpg/revision/latest?cb=20250119194457",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WoodsTransitToLighthouseMap.jpg"
+    },
+    {
+      "title": "Customs Transit To Reserve",
+      "description": "Location reference from the Choose Your Friends Wisely wiki page: Customs Transit To Reserve.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fe/CustomsTransitToReserve.png/revision/latest?cb=20250316151200",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:CustomsTransitToReserve.png"
+    },
+    {
+      "title": "Reserve Transit To Woods",
+      "description": "Location reference from the Choose Your Friends Wisely wiki page: Reserve Transit To Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/50/ReserveTransitToWoods.png/revision/latest?cb=20250323134420",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ReserveTransitToWoods.png"
+    },
+    {
+      "title": "Woods Transit To Lighthouse",
+      "description": "Location reference from the Choose Your Friends Wisely wiki page: Woods Transit To Lighthouse.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c1/WoodsTransitToLighthouse.png/revision/latest?cb=20250323135011",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WoodsTransitToLighthouse.png"
+    }
+  ]
+}

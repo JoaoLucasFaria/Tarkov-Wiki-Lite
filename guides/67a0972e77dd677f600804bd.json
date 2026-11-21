@@ -1,0 +1,44 @@
+{
+  "quest_id": "67a0972e77dd677f600804bd",
+  "name": "This Tape Sucks",
+  "images": [
+    {
+      "title": "Labryrinth torture room map",
+      "description": "Wiki map or reference for the objective: Locate the torture room inside The Labyrinth.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e6/Labryrinth_torture_room_map.png/revision/latest?cb=20250329225017",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Labryrinth_torture_room_map.png",
+      "objective_id": "Locate the torture room inside The Labyrinth"
+    },
+    {
+      "title": "Labryrinth torture room",
+      "description": "Wiki location image for the objective: Locate the torture room inside The Labyrinth.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0f/Labryrinth_torture_room.png/revision/latest?cb=20250329231728",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Labryrinth_torture_room.png",
+      "objective_id": "Locate the torture room inside The Labyrinth"
+    },
+    {
+      "title": "This Tape Sucks Spawn 1",
+      "description": "Location reference from the This Tape Sucks wiki page: This Tape Sucks Spawn 1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/43/This_Tape_Sucks_Spawn_1.png/revision/latest?cb=20250329231540",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:This_Tape_Sucks_Spawn_1.png"
+    },
+    {
+      "title": "This Tape Sucks Spawn 2",
+      "description": "Location reference from the This Tape Sucks wiki page: This Tape Sucks Spawn 2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9f/This_Tape_Sucks_Spawn_2.png/revision/latest?cb=20250329232158",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:This_Tape_Sucks_Spawn_2.png"
+    },
+    {
+      "title": "This Tape Sucks Spawn 3",
+      "description": "Location reference from the This Tape Sucks wiki page: This Tape Sucks Spawn 3.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ec/This_Tape_Sucks_Spawn_3.png/revision/latest?cb=20250329234847",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:This_Tape_Sucks_Spawn_3.png"
+    },
+    {
+      "title": "This Tape Sucks Spawn 4",
+      "description": "Location reference from the This Tape Sucks wiki page: This Tape Sucks Spawn 4.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/61/This_Tape_Sucks_Spawn_4.png/revision/latest?cb=20250329233135",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:This_Tape_Sucks_Spawn_4.png"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "quest_id": "6573382e557ff128bf3da536",
+  "name": "The Secret to Productivity",
+  "images": [
+    {
+      "title": "The Hive Map",
+      "description": "Wiki map or instructional reference associated with The Secret to Productivity.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a4/The_Hive_Map.png/revision/latest?cb=20240101013953",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:The_Hive_Map.png"
+    },
+    {
+      "title": "The Hive Door",
+      "description": "Location reference from the The Secret to Productivity wiki page: The Hive Door.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/11/The_Hive_Door.png/revision/latest?cb=20240101012650",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:The_Hive_Door.png"
+    },
+    {
+      "title": "Relatation Room Key Icon",
+      "description": "Appearance reference for equipment or item: Relatation Room Key Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d5/RelatationRoomKeyIcon.png/revision/latest?cb=20240115142530",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:RelatationRoomKeyIcon.png"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "quest_id": "67a09673972c11a3f507731d",
+  "name": "The Tarkov Butcher",
+  "images": [
+    {
+      "title": "The Tarkov Butcher Ground Zero Map",
+      "description": "Wiki map or reference for the objective: Locate and obtain the chemical container on Ground Zero.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d5/The_Tarkov_Butcher_Ground_Zero_Map.png/revision/latest?cb=20250329190229",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:The_Tarkov_Butcher_Ground_Zero_Map.png",
+      "objective_id": "Locate and obtain the chemical container on Ground Zero"
+    },
+    {
+      "title": "The Tarkov Butcher Streets of Tarkov Map",
+      "description": "Wiki map or instructional reference associated with The Tarkov Butcher.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d4/The_Tarkov_Butcher_Streets_of_Tarkov_Map.png/revision/latest?cb=20260805001553",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:The_Tarkov_Butcher_Streets_of_Tarkov_Map.png"
+    },
+    {
+      "title": "The Tarkov Butcher Ground Zero Spawn 1",
+      "description": "Wiki location image for the objective: Locate and obtain the chemical container on Ground Zero.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/93/The_Tarkov_Butcher_Ground_Zero_Spawn_1.png/revision/latest?cb=20250329190916",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:The_Tarkov_Butcher_Ground_Zero_Spawn_1.png",
+      "objective_id": "Locate and obtain the chemical container on Ground Zero"
+    },
+    {
+      "title": "The Tarkov Butcher Ground Zero Spawn 2",
+      "description": "Wiki location image for the objective: Locate and obtain the chemical container on Ground Zero.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a3/The_Tarkov_Butcher_Ground_Zero_Spawn_2.png/revision/latest?cb=20250329190622",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:The_Tarkov_Butcher_Ground_Zero_Spawn_2.png",
+      "objective_id": "Locate and obtain the chemical container on Ground Zero"
+    },
+    {
+      "title": "The Tarkov Butcher Ground Zero Spawn 3",
+      "description": "Wiki location image for the objective: Locate and obtain the chemical container on Ground Zero.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/db/The_Tarkov_Butcher_Ground_Zero_Spawn_3.png/revision/latest?cb=20250329190657",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:The_Tarkov_Butcher_Ground_Zero_Spawn_3.png",
+      "objective_id": "Locate and obtain the chemical container on Ground Zero"
+    },
+    {
+      "title": "The Tarkov Butcher Ground Zero Truck",
+      "description": "Wiki location image for the objective: Locate and obtain the chemical container on Ground Zero.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e9/The_Tarkov_Butcher_Ground_Zero_Truck.png/revision/latest?cb=20250329185943",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:The_Tarkov_Butcher_Ground_Zero_Truck.png",
+      "objective_id": "Locate and obtain the chemical container on Ground Zero"
+    },
+    {
+      "title": "The Tarkov Butcher Streets of Tarkov Location",
+      "description": "Location reference from the The Tarkov Butcher wiki page: The Tarkov Butcher Streets of Tarkov Location.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b6/The_Tarkov_Butcher_Streets_of_Tarkov_Location.png/revision/latest?cb=20260805001014",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:The_Tarkov_Butcher_Streets_of_Tarkov_Location.png"
+    },
+    {
+      "title": "Container with suspicious substance icon",
+      "description": "Appearance reference for equipment or item: Container with suspicious substance icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a4/Container_with_suspicious_substance_icon.png/revision/latest?cb=20250329191408",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Container_with_suspicious_substance_icon.png"
+    }
+  ]
+}

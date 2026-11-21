@@ -1,0 +1,36 @@
+{
+  "quest_id": "69c277f3ea6da9c23e07f8d2",
+  "name": "A Bitter Victory",
+  "images": [
+    {
+      "title": "Emeyla Croutons",
+      "description": "Appearance reference for equipment or item: Emeyla Croutons.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c1/Emeyla_Croutons.png/revision/latest?cb=20261116212243",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Emeyla_Croutons.png"
+    },
+    {
+      "title": "Fiece hatchling moonshine icon",
+      "description": "Appearance reference for equipment or item: Fiece hatchling moonshine icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ad/Fiece_hatchling_moonshine_icon.png/revision/latest?cb=20231028094036",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Fiece_hatchling_moonshine_icon.png"
+    },
+    {
+      "title": "Rye Croutons",
+      "description": "Appearance reference for equipment or item: Rye Croutons.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/67/Rye_Croutons.png/revision/latest?cb=20250117123913",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Rye_Croutons.png"
+    },
+    {
+      "title": "Salty dog sausage icon",
+      "description": "Appearance reference for equipment or item: Salty dog sausage icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c8/Salty_dog_sausage_icon.png/revision/latest?cb=20250114190836",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Salty_dog_sausage_icon.png"
+    },
+    {
+      "title": "Vodka Icon",
+      "description": "Appearance reference for equipment or item: Vodka Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/75/VodkaIcon.png/revision/latest?cb=20250117124348",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:VodkaIcon.png"
+    }
+  ]
+}

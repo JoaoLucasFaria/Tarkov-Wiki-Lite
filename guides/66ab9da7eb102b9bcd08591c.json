@@ -1,0 +1,18 @@
+{
+  "quest_id": "66ab9da7eb102b9bcd08591c",
+  "name": "Forester's Duty",
+  "images": [
+    {
+      "title": "Lighthouse Transit To Shoreline",
+      "description": "Location reference from the Forester's Duty wiki page: Lighthouse Transit To Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7c/LighthouseTransitToShoreline.png/revision/latest?cb=20240919192543",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:LighthouseTransitToShoreline.png"
+    },
+    {
+      "title": "Lighthouse Transit To Shoreline2",
+      "description": "Location reference from the Forester's Duty wiki page: Lighthouse Transit To Shoreline2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/48/LighthouseTransitToShoreline2.png/revision/latest?cb=20240919193101",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:LighthouseTransitToShoreline2.png"
+    }
+  ]
+}

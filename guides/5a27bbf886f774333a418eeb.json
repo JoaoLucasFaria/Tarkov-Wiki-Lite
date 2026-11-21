@@ -1,0 +1,25 @@
+{
+  "quest_id": "5a27bbf886f774333a418eeb",
+  "name": "Wet Job - Part 2",
+  "images": [
+    {
+      "title": "Wet Job2Island Map",
+      "description": "Wiki map or instructional reference associated with Wet Job - Part 2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/37/WetJob2IslandMap.png/revision/latest?cb=20260212220125",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WetJob2IslandMap.png"
+    },
+    {
+      "title": "The house on the island with the weapon box in it",
+      "description": "Location reference from the Wet Job - Part 2 wiki page: The house on the island with the weapon box in it.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bd/The_house_on_the_island_with_the_weapon_box_in_it.png/revision/latest?cb=20250926200923",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:The_house_on_the_island_with_the_weapon_box_in_it.png"
+    },
+    {
+      "title": "MS2000 Marker icon",
+      "description": "Appearance reference for equipment or item: MS2000 Marker icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a9/MS2000_Marker_icon.png/revision/latest?cb=20250407003132",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MS2000_Marker_icon.png",
+      "objective_id": "Mark the fishing table with an MS2000 Marker"
+    }
+  ]
+}

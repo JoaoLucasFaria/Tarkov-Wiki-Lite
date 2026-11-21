@@ -1,0 +1,27 @@
+{
+  "quest_id": "66058cbf2f19c31a5a1337ec",
+  "name": "Create a Distraction - Part 2 [PVP ZONE]",
+  "images": [
+    {
+      "title": "Lex Os Claymore Overview",
+      "description": "Wiki map or reference for the objective: Eliminate Kaban's or Kollontay's guards on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/df/LexOsClaymoreOverview.png/revision/latest?cb=20260811162649",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:LexOsClaymoreOverview.png",
+      "objective_id": "Eliminate Kaban's or Kollontay's guards on Streets of Tarkov"
+    },
+    {
+      "title": "Kaban Spawns Streets",
+      "description": "Wiki location image for the objective: Eliminate Kaban's or Kollontay's guards on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7a/KabanSpawnsStreets.png/revision/latest?cb=20230826214042",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:KabanSpawnsStreets.png",
+      "objective_id": "Eliminate Kaban's or Kollontay's guards on Streets of Tarkov"
+    },
+    {
+      "title": "Kollontay Spawns Streets",
+      "description": "Wiki location image for the objective: Eliminate Kaban's or Kollontay's guards on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c0/KollontaySpawnsStreets.png/revision/latest?cb=20240629062229",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:KollontaySpawnsStreets.png",
+      "objective_id": "Eliminate Kaban's or Kollontay's guards on Streets of Tarkov"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "quest_id": "669fa3a40c828825de06d6a1",
+  "name": "Easy-Breezy",
+  "images": [
+    {
+      "title": "SR2M FSB Icon",
+      "description": "Appearance reference for equipment or item: SR2M FSB Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ea/SR2M_FSB_Icon.png/revision/latest?cb=20230108023753",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SR2M_FSB_Icon.png",
+      "objective_id": "Eliminate any target with SR-2M with suppressor and KP-SR2 sight on Reserve or Lighthouse"
+    }
+  ]
+}

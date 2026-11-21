@@ -1,0 +1,42 @@
+{
+  "quest_id": "665eeca45d86b6c8aa03c79d",
+  "name": "Thirsty - Echo",
+  "images": [
+    {
+      "title": "Thirsty Echo Map",
+      "description": "Wiki map or instructional reference associated with Thirsty - Echo.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/ThirstyEchoMap.png/revision/latest?cb=20250720122810",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ThirstyEchoMap.png"
+    },
+    {
+      "title": "Vitamins1 Shoreline outdoor map",
+      "description": "Wiki map or instructional reference associated with Thirsty - Echo.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e6/Vitamins1_Shoreline_outdoor_map.png/revision/latest?cb=20241020215322",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Vitamins1_Shoreline_outdoor_map.png"
+    },
+    {
+      "title": "Thirsty Echo Location1",
+      "description": "Location reference from the Thirsty - Echo wiki page: Thirsty Echo Location1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/87/ThirstyEchoLocation1.png/revision/latest?cb=20250720122318",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ThirstyEchoLocation1.png"
+    },
+    {
+      "title": "Thirsty Echo Location2",
+      "description": "Location reference from the Thirsty - Echo wiki page: Thirsty Echo Location2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fd/ThirstyEchoLocation2.png/revision/latest?cb=20250720122048",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ThirstyEchoLocation2.png"
+    },
+    {
+      "title": "Thirsty Echo Location3",
+      "description": "Location reference from the Thirsty - Echo wiki page: Thirsty Echo Location3.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/79/ThirstyEchoLocation3.png/revision/latest?cb=20250720121534",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ThirstyEchoLocation3.png"
+    },
+    {
+      "title": "Thirsty Echo Room",
+      "description": "Location reference from the Thirsty - Echo wiki page: Thirsty Echo Room.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/42/ThirstyEchoRoom.png/revision/latest?cb=20240710155945",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ThirstyEchoRoom.png"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "quest_id": "639872fe8871e1272b10ccf6",
+  "name": "Gunsmith Master - Part 1",
+  "images": [
+    {
+      "title": "GS14 Mods",
+      "description": "Wiki weapon-build illustration for Gunsmith Master - Part 1; compare the pictured setup with the quest requirements.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1f/GS14_Mods.png/revision/latest?cb=20260705194443",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GS14_Mods.png",
+      "objective_id": "Modify an HK 416A5 to comply with the given specifications"
+    },
+    {
+      "title": "GS14 Insp",
+      "description": "Visual reference for the objective: Modify an HK 416A5 to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a8/GS14_Insp.png/revision/latest?cb=20260705194842",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GS14_Insp.png",
+      "objective_id": "Modify an HK 416A5 to comply with the given specifications"
+    },
+    {
+      "title": "UBR Gen2Stock FDEGS14",
+      "description": "Visual reference for the objective: Modify an HK 416A5 to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ef/UBRGen2StockFDEGS14.png/revision/latest?cb=20230627213331",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:UBRGen2StockFDEGS14.png",
+      "objective_id": "Modify an HK 416A5 to comply with the given specifications"
+    },
+    {
+      "title": "11inchhk416icon",
+      "description": "Appearance reference for equipment or item: 11inchhk416icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/78/11inchhk416icon.png/revision/latest?cb=20250318200600",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:11inchhk416icon.png",
+      "objective_id": "Modify an HK 416A5 to comply with the given specifications"
+    },
+    {
+      "title": "EXPS3 Sight icon",
+      "description": "Appearance reference for equipment or item: EXPS3 Sight icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a5/EXPS3_Sight_icon.png/revision/latest?cb=20250318202539",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:EXPS3_Sight_icon.png",
+      "objective_id": "Modify an HK 416A5 to comply with the given specifications"
+    },
+    {
+      "title": "HK Polymer Icon",
+      "description": "Appearance reference for equipment or item: HK Polymer Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/72/HK_Polymer_Icon.png/revision/latest?cb=20230716140309",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:HK_Polymer_Icon.png",
+      "objective_id": "Modify an HK 416A5 to comply with the given specifications"
+    },
+    {
+      "title": "LA 5 tactical device Icon",
+      "description": "Appearance reference for equipment or item: LA 5 tactical device Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d8/LA-5_tactical_device_Icon.png/revision/latest?cb=20230627220327",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:LA-5_tactical_device_Icon.png",
+      "objective_id": "Modify an HK 416A5 to comply with the given specifications"
+    },
+    {
+      "title": "MOEAR15FDEGS14",
+      "description": "Appearance reference for equipment or item: MOEAR15FDEGS14.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d5/MOEAR15FDEGS14.png/revision/latest?cb=20230627213352",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MOEAR15FDEGS14.png",
+      "objective_id": "Modify an HK 416A5 to comply with the given specifications"
+    },
+    {
+      "title": "Magpul MLOK 4 1 inch rail Icon",
+      "description": "Appearance reference for equipment or item: Magpul MLOK 4 1 inch rail Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5d/Magpul_MLOK_4_1_inch_rail_Icon.png/revision/latest?cb=20230729201134",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Magpul_MLOK_4_1_inch_rail_Icon.png",
+      "objective_id": "Modify an HK 416A5 to comply with the given specifications"
+    }
+  ]
+}

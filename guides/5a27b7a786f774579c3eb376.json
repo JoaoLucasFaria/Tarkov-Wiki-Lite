@@ -1,0 +1,41 @@
+{
+  "quest_id": "5a27b7a786f774579c3eb376",
+  "name": "Tigr Safari",
+  "images": [
+    {
+      "title": "Markedcustoms",
+      "description": "Wiki map or reference for the objective: Locate and mark any UN Tigr vehicle with an MS2000 Marker on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/41/Markedcustoms.jpg/revision/latest?cb=20240610014140",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Markedcustoms.jpg",
+      "objective_id": "Locate and mark any UN Tigr vehicle with an MS2000 Marker on Customs"
+    },
+    {
+      "title": "Tiger Safari1",
+      "description": "Visual reference for the objective: Locate and mark any UN Tigr vehicle with an MS2000 Marker on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/32/TigerSafari1.png/revision/latest?cb=20180703173257",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TigerSafari1.png",
+      "objective_id": "Locate and mark any UN Tigr vehicle with an MS2000 Marker on Customs"
+    },
+    {
+      "title": "Tiger Safari2",
+      "description": "Visual reference for the objective: Locate and mark any UN Tigr vehicle with an MS2000 Marker on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fa/TigerSafari2.png/revision/latest?cb=20180703173300",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TigerSafari2.png",
+      "objective_id": "Locate and mark any UN Tigr vehicle with an MS2000 Marker on Customs"
+    },
+    {
+      "title": "Tiger Safari3",
+      "description": "Visual reference for the objective: Locate and mark any UN Tigr vehicle with an MS2000 Marker on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3d/TigerSafari3.png/revision/latest?cb=20180703173303",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TigerSafari3.png",
+      "objective_id": "Locate and mark any UN Tigr vehicle with an MS2000 Marker on Customs"
+    },
+    {
+      "title": "MS2000 Marker icon",
+      "description": "Appearance reference for equipment or item: MS2000 Marker icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a9/MS2000_Marker_icon.png/revision/latest?cb=20250407003132",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MS2000_Marker_icon.png",
+      "objective_id": "Locate and mark any UN Tigr vehicle with an MS2000 Marker on Customs"
+    }
+  ]
+}

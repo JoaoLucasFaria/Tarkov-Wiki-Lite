@@ -1,0 +1,27 @@
+{
+  "quest_id": "5c0d190cd09282029f5390d8",
+  "name": "Grenadier",
+  "images": [
+    {
+      "title": "RGN Icon",
+      "description": "Appearance reference for equipment or item: RGN Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/de/RGN_Icon.png/revision/latest?cb=20240826174300",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:RGN_Icon.png",
+      "objective_id": "Eliminate any target with hand grenades or grenade launchers"
+    },
+    {
+      "title": "Vog 17 icon",
+      "description": "Appearance reference for equipment or item: Vog 17 icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ee/Vog-17_icon.png/revision/latest?cb=20240902110706",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Vog-17_icon.png",
+      "objective_id": "Eliminate any target with hand grenades or grenade launchers"
+    },
+    {
+      "title": "Vog 25 icon",
+      "description": "Appearance reference for equipment or item: Vog 25 icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4f/Vog-25_icon.png/revision/latest?cb=20240902111317",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Vog-25_icon.png",
+      "objective_id": "Eliminate any target with hand grenades or grenade launchers"
+    }
+  ]
+}

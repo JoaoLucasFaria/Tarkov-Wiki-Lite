@@ -1,0 +1,34 @@
+{
+  "quest_id": "5c0d1c4cd0928202a02a6f5c",
+  "name": "Decontamination Service",
+  "images": [
+    {
+      "title": "Avon M53A1 gas mask icon",
+      "description": "Appearance reference for equipment or item: Avon M53A1 gas mask icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/42/Avon_M53A1_gas_mask_icon.png/revision/latest?cb=20260106182715",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Avon_M53A1_gas_mask_icon.png",
+      "objective_id": "Eliminate any target from less than 60 meters away while wearing a gas mask or respirator in The Lab"
+    },
+    {
+      "title": "GP 7gasmaskicon",
+      "description": "Appearance reference for equipment or item: GP 7gasmaskicon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e3/GP-7gasmaskicon.png/revision/latest?cb=20210330153517",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GP-7gasmaskicon.png",
+      "objective_id": "Eliminate any target from less than 60 meters away while wearing a gas mask or respirator in The Lab"
+    },
+    {
+      "title": "Gentex Ops Core SOTR respirator icon",
+      "description": "Appearance reference for equipment or item: Gentex Ops Core SOTR respirator icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/36/Gentex_Ops-Core_SOTR_respirator_icon.png/revision/latest?cb=20260106182430",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Gentex_Ops-Core_SOTR_respirator_icon.png",
+      "objective_id": "Eliminate any target from less than 60 meters away while wearing a gas mask or respirator in The Lab"
+    },
+    {
+      "title": "Respirator icon",
+      "description": "Appearance reference for equipment or item: Respirator icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ed/Respirator_icon.png/revision/latest?cb=20260926154755",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Respirator_icon.png",
+      "objective_id": "Eliminate any target from less than 60 meters away while wearing a gas mask or respirator in The Lab"
+    }
+  ]
+}

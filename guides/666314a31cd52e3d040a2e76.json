@@ -1,0 +1,20 @@
+{
+  "quest_id": "666314a31cd52e3d040a2e76",
+  "name": "Combat Proven",
+  "images": [
+    {
+      "title": "LCBR Goons Icon",
+      "description": "Appearance reference for equipment or item: LCBR Goons Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3b/LCBRGoonsIcon.png/revision/latest?cb=20251008193800",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:LCBRGoonsIcon.png",
+      "objective_id": "Locate and neutralize any Boss (excluding The Goons, The Wedge and Partisan) while using any Goons Edition tactical rig"
+    },
+    {
+      "title": "S&S Precision Plate Frame GE icon",
+      "description": "Appearance reference for equipment or item: S&S Precision Plate Frame GE icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/21/S%26S_Precision_PlateFrame_GE_icon.png/revision/latest?cb=20240226224638",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:S%26S_Precision_PlateFrame_GE_icon.png",
+      "objective_id": "Locate and neutralize any Boss (excluding The Goons, The Wedge and Partisan) while using any Goons Edition tactical rig"
+    }
+  ]
+}

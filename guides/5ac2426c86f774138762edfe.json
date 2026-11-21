@@ -1,0 +1,48 @@
+{
+  "quest_id": "5ac2426c86f774138762edfe",
+  "name": "Gunsmith - AKS-74U",
+  "images": [
+    {
+      "title": "Gunsmithpart2Modding",
+      "description": "Wiki weapon-build illustration for Gunsmith - AKS-74U; compare the pictured setup with the quest requirements.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/36/Gunsmithpart2Modding.png/revision/latest?cb=20260420193341",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Gunsmithpart2Modding.png",
+      "objective_id": "Modify an AKS-74U to comply with the given specifications"
+    },
+    {
+      "title": "Gunsmithpart2Modding2",
+      "description": "Wiki weapon-build illustration for Gunsmith - AKS-74U; compare the pictured setup with the quest requirements.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ec/Gunsmithpart2Modding2.png/revision/latest?cb=20260420193315",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Gunsmithpart2Modding2.png",
+      "objective_id": "Modify an AKS-74U to comply with the given specifications"
+    },
+    {
+      "title": "6L31 60 mag icon",
+      "description": "Appearance reference for equipment or item: 6L31 60 mag icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d7/6L31-60-mag_icon.png/revision/latest?cb=20230712200049",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:6L31-60-mag_icon.png",
+      "objective_id": "Modify an AKS-74U to comply with the given specifications"
+    },
+    {
+      "title": "AKS 74U icon",
+      "description": "Appearance reference for equipment or item: AKS 74U icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/89/AKS-74U_icon.png/revision/latest?cb=20190313230111",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:AKS-74U_icon.png",
+      "objective_id": "Modify an AKS-74U to comply with the given specifications"
+    },
+    {
+      "title": "B 11hg",
+      "description": "Appearance reference for equipment or item: B 11hg.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ed/B-11hg.png/revision/latest?cb=20230726194213",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:B-11hg.png",
+      "objective_id": "Modify an AKS-74U to comply with the given specifications"
+    },
+    {
+      "title": "Gunsmith Part2Icon",
+      "description": "Appearance reference for equipment or item: Gunsmith Part2Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fd/GunsmithPart2Icon.png/revision/latest?cb=20240707223859",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GunsmithPart2Icon.png",
+      "objective_id": "Modify an AKS-74U to comply with the given specifications"
+    }
+  ]
+}

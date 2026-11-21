@@ -1,0 +1,41 @@
+{
+  "quest_id": "5b47799d86f7746c5d6a5fd8",
+  "name": "Gunsmith - MPX",
+  "images": [
+    {
+      "title": "Gunsmith Part13Mods",
+      "description": "Wiki map or reference for the objective: Modify a SIG MPX to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f9/GunsmithPart13Mods.png/revision/latest?cb=20260420220026",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GunsmithPart13Mods.png",
+      "objective_id": "Modify a SIG MPX to comply with the given specifications"
+    },
+    {
+      "title": "Gunsmith Part13Mods2",
+      "description": "Wiki map or reference for the objective: Modify a SIG MPX to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0e/GunsmithPart13Mods2.png/revision/latest?cb=20260420220041",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GunsmithPart13Mods2.png",
+      "objective_id": "Modify a SIG MPX to comply with the given specifications"
+    },
+    {
+      "title": "Anihilator Icon",
+      "description": "Appearance reference for equipment or item: Anihilator Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/29/Anihilator_Icon.png/revision/latest?cb=20260901185650",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Anihilator_Icon.png",
+      "objective_id": "Modify a SIG MPX to comply with the given specifications"
+    },
+    {
+      "title": "LASTAC 2 Icon",
+      "description": "Appearance reference for equipment or item: LASTAC 2 Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/88/LASTAC_2_Icon.png/revision/latest?cb=20230627220336",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:LASTAC_2_Icon.png",
+      "objective_id": "Modify a SIG MPX to comply with the given specifications"
+    },
+    {
+      "title": "Skeletonized AR 15 pistol grip Icon",
+      "description": "Appearance reference for equipment or item: Skeletonized AR 15 pistol grip Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ed/Skeletonized_AR-15_pistol_grip_Icon.png/revision/latest?cb=20230718234237",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Skeletonized_AR-15_pistol_grip_Icon.png",
+      "objective_id": "Modify a SIG MPX to comply with the given specifications"
+    }
+  ]
+}

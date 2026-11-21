@@ -1,0 +1,69 @@
+{
+  "quest_id": "5ae3280386f7742a41359364",
+  "name": "Gunsmith - AS VAL",
+  "images": [
+    {
+      "title": "Gunsmith Pt 11 Inspect View",
+      "description": "Wiki weapon-build illustration for Gunsmith - AS VAL; compare the pictured setup with the quest requirements.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ee/Gunsmith-Pt_11_Inspect_View.png/revision/latest?cb=20260420165213",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Gunsmith-Pt_11_Inspect_View.png",
+      "objective_id": "Modify an AS VAL to comply with the given specifications"
+    },
+    {
+      "title": "Gunsmith11ASVAL",
+      "description": "Visual reference for the objective: Modify an AS VAL to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2d/Gunsmith11ASVAL.png/revision/latest?cb=20260420165319",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Gunsmith11ASVAL.png",
+      "objective_id": "Modify an AS VAL to comply with the given specifications"
+    },
+    {
+      "title": "Valgripstock",
+      "description": "Visual reference for the objective: Modify an AS VAL to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1c/Valgripstock.png/revision/latest?cb=20240826021925",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Valgripstock.png",
+      "objective_id": "Modify an AS VAL to comply with the given specifications"
+    },
+    {
+      "title": "6p29m",
+      "description": "Appearance reference for equipment or item: 6p29m.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/35/6p29m.png/revision/latest?cb=20240826021806",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:6p29m.png",
+      "objective_id": "Modify an AS VAL to comply with the given specifications"
+    },
+    {
+      "title": "B3",
+      "description": "Appearance reference for equipment or item: B3.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a2/B3.png/revision/latest?cb=20240826021746",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:B3.png",
+      "objective_id": "Modify an AS VAL to comply with the given specifications"
+    },
+    {
+      "title": "B3comboicon",
+      "description": "Appearance reference for equipment or item: B3comboicon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3a/B3comboicon.png/revision/latest?cb=20240826021754",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:B3comboicon.png",
+      "objective_id": "Modify an AS VAL to comply with the given specifications"
+    },
+    {
+      "title": "Glshockstockicon",
+      "description": "Appearance reference for equipment or item: Glshockstockicon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0b/Glshockstockicon.png/revision/latest?cb=20230728222852",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Glshockstockicon.png",
+      "objective_id": "Modify an AS VAL to comply with the given specifications"
+    },
+    {
+      "title": "NSPU Mcupicon",
+      "description": "Appearance reference for equipment or item: NSPU Mcupicon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/40/NSPUMcupicon.png/revision/latest?cb=20230627205647",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:NSPUMcupicon.png",
+      "objective_id": "Modify an AS VAL to comply with the given specifications"
+    },
+    {
+      "title": "Nspu micon",
+      "description": "Appearance reference for equipment or item: Nspu micon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/19/Nspu-micon.png/revision/latest?cb=20230704233304",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Nspu-micon.png",
+      "objective_id": "Modify an AS VAL to comply with the given specifications"
+    }
+  ]
+}

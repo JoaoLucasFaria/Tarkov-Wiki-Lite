@@ -1,0 +1,38 @@
+{
+  "quest_id": "5b478eca86f7744642012254",
+  "name": "Vitamins",
+  "images": [
+    {
+      "title": "One Less Loose End Factory Map",
+      "description": "Wiki map or instructional reference associated with Vitamins.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b1/One_Less_Loose_End_Factory_Map.png/revision/latest?cb=20240827010137",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:One_Less_Loose_End_Factory_Map.png"
+    },
+    {
+      "title": "Vitamins Chemcont Location",
+      "description": "Location reference from the Vitamins wiki page: Vitamins Chemcont Location.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0c/Vitamins_Chemcont_Location.png/revision/latest?cb=20260811185516",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Vitamins_Chemcont_Location.png"
+    },
+    {
+      "title": "Chemical Container icon",
+      "description": "Appearance reference for equipment or item: Chemical Container icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/76/Chemical-Container_icon.png/revision/latest?cb=20221012070842",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Chemical-Container_icon.png",
+      "objective_id": "Locate and obtain the chemical container on Factory"
+    },
+    {
+      "title": "Medical Bloodset Icon",
+      "description": "Appearance reference for equipment or item: Medical Bloodset Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/56/Medical_Bloodset_Icon.png/revision/latest?cb=20251124225232",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Medical_Bloodset_Icon.png",
+      "objective_id": "Find the item in raid: Medical bloodset"
+    },
+    {
+      "title": "Respirator icon",
+      "description": "Appearance reference for equipment or item: Respirator icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ed/Respirator_icon.png/revision/latest?cb=20260926154755",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Respirator_icon.png"
+    }
+  ]
+}

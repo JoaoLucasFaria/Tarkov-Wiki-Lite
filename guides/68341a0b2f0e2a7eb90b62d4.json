@@ -1,0 +1,20 @@
+{
+  "quest_id": "68341a0b2f0e2a7eb90b62d4",
+  "name": "Balancing - Part 2 [PVE ZONE]",
+  "images": [
+    {
+      "title": "PACA Rivals Edition icon",
+      "description": "Appearance reference for equipment or item: PACA Rivals Edition icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b6/PACA_Rivals_Edition_icon.png/revision/latest?cb=20240103163251",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:PACA_Rivals_Edition_icon.png",
+      "objective_id": "Eliminate PMC operatives while wearing a PACA Soft Armor on any location"
+    },
+    {
+      "title": "PACA icon",
+      "description": "Appearance reference for equipment or item: PACA icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/91/PACA_icon.png/revision/latest?cb=20240103163243",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:PACA_icon.png",
+      "objective_id": "Eliminate PMC operatives while wearing a PACA Soft Armor on any location"
+    }
+  ]
+}

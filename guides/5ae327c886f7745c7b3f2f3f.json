@@ -1,0 +1,55 @@
+{
+  "quest_id": "5ae327c886f7745c7b3f2f3f",
+  "name": "Gunsmith - AK-105",
+  "images": [
+    {
+      "title": "Gunsmith Pt 10 Inspect View",
+      "description": "Wiki weapon-build illustration for Gunsmith - AK-105; compare the pictured setup with the quest requirements.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d6/Gunsmith-Pt_10_Inspect_View.png/revision/latest?cb=20260420214240",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Gunsmith-Pt_10_Inspect_View.png",
+      "objective_id": "Modify an AK-105 to comply with the given specifications"
+    },
+    {
+      "title": "A Kademia Bastion dust cover for AK",
+      "description": "Visual reference for the objective: Modify an AK-105 to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/31/AKademia_Bastion_dust_cover_for_AK.PNG/revision/latest?cb=20230723224330",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:AKademia_Bastion_dust_cover_for_AK.PNG",
+      "objective_id": "Modify an AK-105 to comply with the given specifications"
+    },
+    {
+      "title": "Gunsmith10AK105",
+      "description": "Visual reference for the objective: Modify an AK-105 to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/88/Gunsmith10AK105.png/revision/latest?cb=20260420214305",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Gunsmith10AK105.png",
+      "objective_id": "Modify an AK-105 to comply with the given specifications"
+    },
+    {
+      "title": "6L31 60 mag icon",
+      "description": "Appearance reference for equipment or item: 6L31 60 mag icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d7/6L31-60-mag_icon.png/revision/latest?cb=20230712200049",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:6L31-60-mag_icon.png",
+      "objective_id": "Modify an AK-105 to comply with the given specifications"
+    },
+    {
+      "title": "Hybrid46icon",
+      "description": "Appearance reference for equipment or item: Hybrid46icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/53/Hybrid46icon.png/revision/latest?cb=20230709194247",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Hybrid46icon.png",
+      "objective_id": "Modify an AK-105 to comply with the given specifications"
+    },
+    {
+      "title": "Hybridmount",
+      "description": "Appearance reference for equipment or item: Hybridmount.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/17/Hybridmount.png/revision/latest?cb=20230704222802",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Hybridmount.png",
+      "objective_id": "Modify an AK-105 to comply with the given specifications"
+    },
+    {
+      "title": "Romeo7 Proto Icon",
+      "description": "Appearance reference for equipment or item: Romeo7 Proto Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bf/Romeo7_Proto_Icon.png/revision/latest?cb=20230813064815",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Romeo7_Proto_Icon.png",
+      "objective_id": "Modify an AK-105 to comply with the given specifications"
+    }
+  ]
+}

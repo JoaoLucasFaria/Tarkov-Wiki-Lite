@@ -1,0 +1,42 @@
+{
+  "quest_id": "665eec4a4dfc83b0ed0a9dca",
+  "name": "Thirsty - Delivery",
+  "images": [
+    {
+      "title": "Thirsty Delivery Customs Map",
+      "description": "Wiki map or instructional reference associated with Thirsty - Delivery.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2f/ThirstyDeliveryCustomsMap.png/revision/latest?cb=20240710151448",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ThirstyDeliveryCustomsMap.png"
+    },
+    {
+      "title": "Thirsty Delivery Woods Map",
+      "description": "Wiki map or instructional reference associated with Thirsty - Delivery.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/28/ThirstyDeliveryWoodsMap.png/revision/latest?cb=20240710151841",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ThirstyDeliveryWoodsMap.png"
+    },
+    {
+      "title": "Thirsty Delivery Customs Location",
+      "description": "Location reference from the Thirsty - Delivery wiki page: Thirsty Delivery Customs Location.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bf/ThirstyDeliveryCustomsLocation.png/revision/latest?cb=20240710152126",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ThirstyDeliveryCustomsLocation.png"
+    },
+    {
+      "title": "Thirsty Delivery Customs Store",
+      "description": "Location reference from the Thirsty - Delivery wiki page: Thirsty Delivery Customs Store.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/23/ThirstyDeliveryCustomsStore.png/revision/latest?cb=20250726212715",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ThirstyDeliveryCustomsStore.png"
+    },
+    {
+      "title": "Thirsty Delivery Woods Location",
+      "description": "Location reference from the Thirsty - Delivery wiki page: Thirsty Delivery Woods Location.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a3/ThirstyDeliveryWoodsLocation.png/revision/latest?cb=20240710152844",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ThirstyDeliveryWoodsLocation.png"
+    },
+    {
+      "title": "5L propane tank icon",
+      "description": "Appearance reference for equipment or item: 5L propane tank icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/14/5L_propane_tank_icon.png/revision/latest?cb=20211220211655",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:5L_propane_tank_icon.png"
+    }
+  ]
+}

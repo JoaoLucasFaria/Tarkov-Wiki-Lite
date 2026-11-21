@@ -1,0 +1,83 @@
+{
+  "quest_id": "5ac244eb86f7741356335af1",
+  "name": "Gunsmith - M4A1",
+  "images": [
+    {
+      "title": "Gunsmith4Inspect",
+      "description": "Wiki weapon-build illustration for Gunsmith - M4A1; compare the pictured setup with the quest requirements.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fa/Gunsmith4Inspect.png/revision/latest?cb=20260807201903",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Gunsmith4Inspect.png",
+      "objective_id": "Modify an M4A1 to comply with the given specifications"
+    },
+    {
+      "title": "Gunsmith4Mods",
+      "description": "Wiki map or reference for the objective: Modify an M4A1 to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1e/Gunsmith4Mods.png/revision/latest?cb=20260807201951",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Gunsmith4Mods.png",
+      "objective_id": "Modify an M4A1 to comply with the given specifications"
+    },
+    {
+      "title": "Magpul PMAG D 60",
+      "description": "Visual reference for the objective: Modify an M4A1 to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f6/Magpul_PMAG_D-60.png/revision/latest?cb=20230712200030",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Magpul_PMAG_D-60.png",
+      "objective_id": "Modify an M4A1 to comply with the given specifications"
+    },
+    {
+      "title": "STANAG magazine 60 round MAG5 5.56x45",
+      "description": "Visual reference for the objective: Modify an M4A1 to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9a/STANAG_magazine_60-round_MAG5_-5.56x45.png/revision/latest?cb=20230712200020",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:STANAG_magazine_60-round_MAG5_-5.56x45.png",
+      "objective_id": "Modify an M4A1 to comply with the given specifications"
+    },
+    {
+      "title": "Surefire Mini Monster",
+      "description": "Visual reference for the objective: Modify an M4A1 to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6a/Surefire_Mini_Monster.png/revision/latest?cb=20230709193333",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Surefire_Mini_Monster.png",
+      "objective_id": "Modify an M4A1 to comply with the given specifications"
+    },
+    {
+      "title": "260mmm4icon",
+      "description": "Appearance reference for equipment or item: 260mmm4icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/22/260mmm4icon.png/revision/latest?cb=20250318200527",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:260mmm4icon.png",
+      "objective_id": "Modify an M4A1 to comply with the given specifications"
+    },
+    {
+      "title": "Busstockicon",
+      "description": "Appearance reference for equipment or item: Busstockicon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/10/Busstockicon.png/revision/latest?cb=20230728222132",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Busstockicon.png",
+      "objective_id": "Modify an M4A1 to comply with the given specifications"
+    },
+    {
+      "title": "Gunsmith Part4Icon",
+      "description": "Appearance reference for equipment or item: Gunsmith Part4Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f7/GunsmithPart4Icon.png/revision/latest?cb=20180425214259",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GunsmithPart4Icon.png",
+      "objective_id": "Modify an M4A1 to comply with the given specifications"
+    },
+    {
+      "title": "MAG5 100 Icon",
+      "description": "Appearance reference for equipment or item: MAG5 100 Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1c/MAG5-100_Icon.png/revision/latest?cb=20230712200216",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MAG5-100_Icon.png",
+      "objective_id": "Modify an M4A1 to comply with the given specifications"
+    },
+    {
+      "title": "Mk12",
+      "description": "Appearance reference for equipment or item: Mk12.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cc/Mk12.png/revision/latest?cb=20230627232436",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Mk12.png",
+      "objective_id": "Modify an M4A1 to comply with the given specifications"
+    },
+    {
+      "title": "Romeo7 Proto Icon",
+      "description": "Appearance reference for equipment or item: Romeo7 Proto Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bf/Romeo7_Proto_Icon.png/revision/latest?cb=20230813064815",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Romeo7_Proto_Icon.png",
+      "objective_id": "Modify an M4A1 to comply with the given specifications"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "quest_id": "639135534b15ca31f76bc317",
+  "name": "Your Car Needs a Service",
+  "images": [
+    {
+      "title": "Car Dealer Map",
+      "description": "Wiki map or reference for the objective: Obtain the digital storage device from the car dealership manager's office on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/80/CarDealerMap.png/revision/latest?cb=20230826213528",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:CarDealerMap.png",
+      "objective_id": "Obtain the digital storage device from the car dealership manager's office on Streets of Tarkov"
+    },
+    {
+      "title": "Lex Os Claymore Overview",
+      "description": "Wiki map or reference for the objective: Obtain the digital storage device from the car dealership manager's office on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/df/LexOsClaymoreOverview.png/revision/latest?cb=20260811162649",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:LexOsClaymoreOverview.png",
+      "objective_id": "Obtain the digital storage device from the car dealership manager's office on Streets of Tarkov"
+    },
+    {
+      "title": "Car Dealer",
+      "description": "Wiki location image for the objective: Obtain the digital storage device from the car dealership manager's office on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a4/CarDealer.png/revision/latest?cb=20231203123016",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:CarDealer.png",
+      "objective_id": "Obtain the digital storage device from the car dealership manager's office on Streets of Tarkov"
+    },
+    {
+      "title": "Car Dealer Closed Section Door",
+      "description": "Wiki location image for the objective: Obtain the digital storage device from the car dealership manager's office on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/15/CarDealerClosedSectionDoor.png/revision/latest?cb=20230101015454",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:CarDealerClosedSectionDoor.png",
+      "objective_id": "Obtain the digital storage device from the car dealership manager's office on Streets of Tarkov"
+    },
+    {
+      "title": "Car Dealer Office Door",
+      "description": "Wiki location image for the objective: Obtain the digital storage device from the car dealership manager's office on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a4/CarDealerOfficeDoor.png/revision/latest?cb=20230101022120",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:CarDealerOfficeDoor.png",
+      "objective_id": "Obtain the digital storage device from the car dealership manager's office on Streets of Tarkov"
+    },
+    {
+      "title": "Car Dealer Office Inside",
+      "description": "Wiki location image for the objective: Obtain the digital storage device from the car dealership manager's office on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d3/CarDealerOfficeInside.png/revision/latest?cb=20230101022506",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:CarDealerOfficeInside.png",
+      "objective_id": "Obtain the digital storage device from the car dealership manager's office on Streets of Tarkov"
+    },
+    {
+      "title": "YCNAS Flashdrive location",
+      "description": "Wiki location image for the objective: Obtain the digital storage device from the car dealership manager's office on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7f/YCNAS_Flashdrive_location.png/revision/latest?cb=20230605011315",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:YCNAS_Flashdrive_location.png",
+      "objective_id": "Obtain the digital storage device from the car dealership manager's office on Streets of Tarkov"
+    },
+    {
+      "title": "Car dealership closed section key icon",
+      "description": "Appearance reference for equipment or item: Car dealership closed section key icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c4/Car_dealership_closed_section_key_icon.png/revision/latest?cb=20230815020011",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Car_dealership_closed_section_key_icon.png",
+      "objective_id": "Obtain the digital storage device from the car dealership manager's office on Streets of Tarkov"
+    },
+    {
+      "title": "Car dealership director's office room key icon",
+      "description": "Appearance reference for equipment or item: Car dealership director's office room key icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/aa/Car_dealership_director%27s_office_room_key_icon.png/revision/latest?cb=20221229224540",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Car_dealership_director%27s_office_room_key_icon.png",
+      "objective_id": "Obtain the digital storage device from the car dealership manager's office on Streets of Tarkov"
+    },
+    {
+      "title": "Secure flash drive ycnas icon",
+      "description": "Appearance reference for equipment or item: Secure flash drive ycnas icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8a/Secure_flash_drive_ycnas_icon.png/revision/latest?cb=20230126080132",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Secure_flash_drive_ycnas_icon.png"
+    }
+  ]
+}

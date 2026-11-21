@@ -1,0 +1,33 @@
+{
+  "quest_id": "5a27bc6986f7741c7358402b",
+  "name": "Wet Job - Part 5",
+  "images": [
+    {
+      "title": "Pick up item",
+      "description": "Wiki location image for the objective: Locate and obtain any information on Artyom’s work on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/96/Pick_up_item.png/revision/latest?cb=20260323224428",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Pick_up_item.png",
+      "objective_id": "Locate and obtain any information on Artyom’s work on Shoreline"
+    },
+    {
+      "title": "Placement of the quest item",
+      "description": "Wiki location image for the objective: Locate and obtain any information on Artyom’s work on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3e/Placement_of_the_quest_item.png/revision/latest?cb=20260323224653",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Placement_of_the_quest_item.png",
+      "objective_id": "Locate and obtain any information on Artyom’s work on Shoreline"
+    },
+    {
+      "title": "Health Resort East Wing",
+      "description": "Visual reference for the objective: Locate and obtain any information on Artyom’s work on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d9/HealthResortEastWing.jpg/revision/latest?cb=20240520225533",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:HealthResortEastWing.jpg",
+      "objective_id": "Locate and obtain any information on Artyom’s work on Shoreline"
+    },
+    {
+      "title": "Working hard drive icon",
+      "description": "Appearance reference for equipment or item: Working hard drive icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bb/Working_hard_drive_icon.png/revision/latest?cb=20221012072939",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Working_hard_drive_icon.png"
+    }
+  ]
+}

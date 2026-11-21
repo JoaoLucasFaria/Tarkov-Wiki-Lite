@@ -1,0 +1,48 @@
+{
+  "quest_id": "639136fa9444fb141f4e6eee",
+  "name": "Watching You",
+  "images": [
+    {
+      "title": "Pine Wood Hotel North Map",
+      "description": "Wiki map or instructional reference associated with Watching You.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c1/PineWoodHotelNorthMap.png/revision/latest?cb=20230826230436",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:PineWoodHotelNorthMap.png"
+    },
+    {
+      "title": "Hotel Room215Door",
+      "description": "Location reference from the Watching You wiki page: Hotel Room215Door.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3e/HotelRoom215Door.png/revision/latest?cb=20221231223210",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:HotelRoom215Door.png"
+    },
+    {
+      "title": "Pine Wood Hotel North Building",
+      "description": "Location reference from the Watching You wiki page: Pine Wood Hotel North Building.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e0/PineWoodHotelNorthBuilding.png/revision/latest?cb=20230101162034",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:PineWoodHotelNorthBuilding.png"
+    },
+    {
+      "title": "Recordings Flash Spawn1",
+      "description": "Location reference from the Watching You wiki page: Recordings Flash Spawn1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3b/RecordingsFlashSpawn1.png/revision/latest?cb=20230310225047",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:RecordingsFlashSpawn1.png"
+    },
+    {
+      "title": "Recordings Flash Spawn2",
+      "description": "Location reference from the Watching You wiki page: Recordings Flash Spawn2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1e/RecordingsFlashSpawn2.png/revision/latest?cb=20230310225129",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:RecordingsFlashSpawn2.png"
+    },
+    {
+      "title": "Hotel room 215 key icon",
+      "description": "Appearance reference for equipment or item: Hotel room 215 key icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/76/Hotel_room_215_key_icon.png/revision/latest?cb=20221229225230",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Hotel_room_215_key_icon.png"
+    },
+    {
+      "title": "Secure flash drive ycnas icon",
+      "description": "Appearance reference for equipment or item: Secure flash drive ycnas icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8a/Secure_flash_drive_ycnas_icon.png/revision/latest?cb=20230126080132",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Secure_flash_drive_ycnas_icon.png"
+    }
+  ]
+}

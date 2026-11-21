@@ -1,0 +1,27 @@
+{
+  "quest_id": "60e71b9bbd90872cb85440f3",
+  "name": "Capturing Outposts",
+  "images": [
+    {
+      "title": "Customs Capturing Outpost Location",
+      "description": "Wiki location image for the objective: Eliminate PMC operatives at the specified Scav bases on Customs, Shoreline, or Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/eb/Customs_Capturing_Outpost_Location.png/revision/latest?cb=20260404184318",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Customs_Capturing_Outpost_Location.png",
+      "objective_id": "Eliminate PMC operatives at the specified Scav bases on Customs, Shoreline, or Woods"
+    },
+    {
+      "title": "Shoreline Capturing Outposts Location",
+      "description": "Wiki location image for the objective: Eliminate PMC operatives at the specified Scav bases on Customs, Shoreline, or Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/65/Shoreline_Capturing_Outposts_Location.png/revision/latest?cb=20261012192043",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Shoreline_Capturing_Outposts_Location.png",
+      "objective_id": "Eliminate PMC operatives at the specified Scav bases on Customs, Shoreline, or Woods"
+    },
+    {
+      "title": "Woods Capturing Outposts Location",
+      "description": "Wiki location image for the objective: Eliminate PMC operatives at the specified Scav bases on Customs, Shoreline, or Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1e/Woods_Capturing_Outposts_Location.png/revision/latest?cb=20220817212848",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Woods_Capturing_Outposts_Location.png",
+      "objective_id": "Eliminate PMC operatives at the specified Scav bases on Customs, Shoreline, or Woods"
+    }
+  ]
+}

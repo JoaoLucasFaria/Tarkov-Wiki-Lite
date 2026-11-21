@@ -1,0 +1,69 @@
+{
+  "quest_id": "5ae3277186f7745973054106",
+  "name": "Gunsmith - AKS-74N",
+  "images": [
+    {
+      "title": "Gunsmith Pt 9 Inspect View",
+      "description": "Wiki weapon-build illustration for Gunsmith - AKS-74N; compare the pictured setup with the quest requirements.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/25/Gunsmith-Pt_9_Inspect_View.png/revision/latest?cb=20260420210128",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Gunsmith-Pt_9_Inspect_View.png",
+      "objective_id": "Modify an AKS-74N to comply with the given specifications"
+    },
+    {
+      "title": "B 33",
+      "description": "Visual reference for the objective: Modify an AKS-74N to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e4/B-33.png/revision/latest?cb=20230723230053",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:B-33.png",
+      "objective_id": "Modify an AKS-74N to comply with the given specifications"
+    },
+    {
+      "title": "Gunsmith9AK74",
+      "description": "Visual reference for the objective: Modify an AKS-74N to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ee/Gunsmith9AK74.png/revision/latest?cb=20260420210251",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Gunsmith9AK74.png",
+      "objective_id": "Modify an AKS-74N to comply with the given specifications"
+    },
+    {
+      "title": "2irs",
+      "description": "Appearance reference for equipment or item: 2irs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/19/2irs.png/revision/latest?cb=20260426134836",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:2irs.png",
+      "objective_id": "Modify an AKS-74N to comply with the given specifications"
+    },
+    {
+      "title": "AK Zenit B 30 handguard with B 31S upper handguard rail icon",
+      "description": "Appearance reference for equipment or item: AK Zenit B 30 handguard with B 31S upper handguard rail icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/60/AK_Zenit_B-30_handguard_with_B-31S_upper_handguard_rail_icon.png/revision/latest?cb=20230726200230",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:AK_Zenit_B-30_handguard_with_B-31S_upper_handguard_rail_icon.png",
+      "objective_id": "Modify an AKS-74N to comply with the given specifications"
+    },
+    {
+      "title": "AK 12 5.45x39 30 round magazine icon",
+      "description": "Appearance reference for equipment or item: AK 12 5.45x39 30 round magazine icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/32/AK-12_5.45x39_30-round_magazine_icon.png/revision/latest?cb=20240118194329",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:AK-12_5.45x39_30-round_magazine_icon.png",
+      "objective_id": "Modify an AKS-74N to comply with the given specifications"
+    },
+    {
+      "title": "DTK 1",
+      "description": "Appearance reference for equipment or item: DTK 1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e4/DTK-1.png/revision/latest?cb=20230705213836",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:DTK-1.png",
+      "objective_id": "Modify an AKS-74N to comply with the given specifications"
+    },
+    {
+      "title": "PT74S Icon",
+      "description": "Appearance reference for equipment or item: PT74S Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6e/PT74SIcon.png/revision/latest?cb=20230728221432",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:PT74SIcon.png",
+      "objective_id": "Modify an AKS-74N to comply with the given specifications"
+    },
+    {
+      "title": "Pt3stockicon",
+      "description": "Appearance reference for equipment or item: Pt3stockicon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4f/Pt3stockicon.png/revision/latest?cb=20230728222413",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Pt3stockicon.png",
+      "objective_id": "Modify an AKS-74N to comply with the given specifications"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "quest_id": "64e7b9a4aac4cd0a726562cb",
+  "name": "Gendarmerie - Tickets, Please",
+  "images": [
+    {
+      "title": "Gendticketspleasemap",
+      "description": "Wiki map or reference for the objective: Eliminate any target at the Rodina cinema while using SMGs on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1d/Gendticketspleasemap.png/revision/latest?cb=20260404140302",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Gendticketspleasemap.png",
+      "objective_id": "Eliminate any target at the Rodina cinema while using SMGs on Streets of Tarkov"
+    }
+  ]
+}

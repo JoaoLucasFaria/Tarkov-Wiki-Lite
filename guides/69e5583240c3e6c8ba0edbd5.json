@@ -1,0 +1,99 @@
+{
+  "quest_id": "69e5583240c3e6c8ba0edbd5",
+  "name": "Wiring the Vessel",
+  "images": [
+    {
+      "title": "Peaceful Atom Automation Room Map",
+      "description": "Wiki map or instructional reference associated with Wiring the Vessel.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3b/Peaceful_Atom_Automation_Room_Map.jpg/revision/latest?cb=20260531213318",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Peaceful_Atom_Automation_Room_Map.jpg"
+    },
+    {
+      "title": "Peaceful Atom Control Room Map",
+      "description": "Wiki map or reference for the objective: Install the hacking device in the central control station room on Icebreaker.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/70/Peaceful_Atom_Control_Room_Map.jpg/revision/latest?cb=20260531214136",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Peaceful_Atom_Control_Room_Map.jpg",
+      "objective_id": "Install the hacking device in the central control station room on Icebreaker"
+    },
+    {
+      "title": "Wiring the Vessel Leading to engine Map",
+      "description": "Wiki map or reference for the objective: Repair the equipment in the automation room leading to the engine room on Icebreaker.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9b/Wiring_the_Vessel_Leading_to_engine_Map.jpg/revision/latest?cb=20260623190507",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Wiring_the_Vessel_Leading_to_engine_Map.jpg",
+      "objective_id": "Repair the equipment in the automation room leading to the engine room on Icebreaker"
+    },
+    {
+      "title": "Wiring the Vessel Near the storage Map",
+      "description": "Wiki map or instructional reference associated with Wiring the Vessel.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f4/Wiring_the_Vessel_Near_the_storage_Map.jpg/revision/latest?cb=20260623190518",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Wiring_the_Vessel_Near_the_storage_Map.jpg"
+    },
+    {
+      "title": "Peaceful Atom Automation Room Code Room",
+      "description": "Location reference from the Wiring the Vessel wiki page: Peaceful Atom Automation Room Code Room.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/43/Peaceful_Atom_Automation_Room_Code_Room.png/revision/latest?cb=20260623175848",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Peaceful_Atom_Automation_Room_Code_Room.png"
+    },
+    {
+      "title": "Peaceful Atom Automation Room Code",
+      "description": "Location reference from the Wiring the Vessel wiki page: Peaceful Atom Automation Room Code.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/23/Peaceful_Atom_Automation_Room_Code.png/revision/latest?cb=20260528223758",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Peaceful_Atom_Automation_Room_Code.png"
+    },
+    {
+      "title": "Wiring the Vessel Control Room Placement",
+      "description": "Wiki location image for the objective: Install the hacking device in the central control station room on Icebreaker.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8c/Wiring_the_Vessel_Control_Room_Placement.png/revision/latest?cb=20260623183114",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Wiring_the_Vessel_Control_Room_Placement.png",
+      "objective_id": "Install the hacking device in the central control station room on Icebreaker"
+    },
+    {
+      "title": "Wiring the Vessel Control Room",
+      "description": "Wiki location image for the objective: Install the hacking device in the central control station room on Icebreaker.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/96/Wiring_the_Vessel_Control_Room.png/revision/latest?cb=20260528234739",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Wiring_the_Vessel_Control_Room.png",
+      "objective_id": "Install the hacking device in the central control station room on Icebreaker"
+    },
+    {
+      "title": "Wiring the Vessel Leading to engine Equipment",
+      "description": "Wiki location image for the objective: Repair the equipment in the automation room leading to the engine room on Icebreaker.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2a/Wiring_the_Vessel_Leading_to_engine_Equipment.png/revision/latest?cb=20260623181802",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Wiring_the_Vessel_Leading_to_engine_Equipment.png",
+      "objective_id": "Repair the equipment in the automation room leading to the engine room on Icebreaker"
+    },
+    {
+      "title": "Wiring the Vessel Under engine Entry",
+      "description": "Wiki location image for the objective: Repair the equipment in the automation room under the engine room on Icebreaker.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7e/Wiring_the_Vessel_Under_engine_Entry.png/revision/latest?cb=20260623175943",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Wiring_the_Vessel_Under_engine_Entry.png",
+      "objective_id": "Repair the equipment in the automation room under the engine room on Icebreaker"
+    },
+    {
+      "title": "Wiring the Vessel Under engine Equipment",
+      "description": "Wiki location image for the objective: Repair the equipment in the automation room under the engine room on Icebreaker.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b5/Wiring_the_Vessel_Under_engine_Equipment.png/revision/latest?cb=20260623182600",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Wiring_the_Vessel_Under_engine_Equipment.png",
+      "objective_id": "Repair the equipment in the automation room under the engine room on Icebreaker"
+    },
+    {
+      "title": "Wiring the Vessel Near the storage Equipment",
+      "description": "Visual reference for the objective: Repair the equipment in the automation room near the storage room on Icebreaker.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/15/Wiring_the_Vessel_Near_the_storage_Equipment.png/revision/latest?cb=20260623181942",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Wiring_the_Vessel_Near_the_storage_Equipment.png",
+      "objective_id": "Repair the equipment in the automation room near the storage room on Icebreaker"
+    },
+    {
+      "title": "Local network hacking device icon",
+      "description": "Appearance reference for equipment or item: Local network hacking device icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b7/Local_network_hacking_device_icon.png/revision/latest?cb=20260211222604",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Local_network_hacking_device_icon.png",
+      "objective_id": "Install the hacking device in the central control station room on Icebreaker"
+    },
+    {
+      "title": "Toolsicon",
+      "description": "Appearance reference for equipment or item: Toolsicon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3a/Toolsicon.png/revision/latest?cb=20210805173459",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Toolsicon.png"
+    }
+  ]
+}

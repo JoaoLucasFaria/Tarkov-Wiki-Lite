@@ -1,0 +1,42 @@
+{
+  "quest_id": "666314bd920800278d0f6748",
+  "name": "Viewer",
+  "images": [
+    {
+      "title": "The Terra Group Trail Part 19 Lighthouse Map",
+      "description": "Wiki map or instructional reference associated with Viewer.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/57/The_TerraGroup_Trail_-_Part_19_Lighthouse_Map.jpg/revision/latest?cb=20230802205828",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:The_TerraGroup_Trail_-_Part_19_Lighthouse_Map.jpg"
+    },
+    {
+      "title": "Viewer Woodsmap",
+      "description": "Wiki map or instructional reference associated with Viewer.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d2/Viewer_Woodsmap.png/revision/latest?cb=20240709004302",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Viewer_Woodsmap.png"
+    },
+    {
+      "title": "Viewer Woods Location Overview",
+      "description": "Wiki map or instructional reference associated with Viewer.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2c/ViewerWoodsLocationOverview.png/revision/latest?cb=20240709004727",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ViewerWoodsLocationOverview.png"
+    },
+    {
+      "title": "Viewer Factory Location",
+      "description": "Location reference from the Viewer wiki page: Viewer Factory Location.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/54/ViewerFactoryLocation.png/revision/latest?cb=20240829224610",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ViewerFactoryLocation.png"
+    },
+    {
+      "title": "Viewer Woods Location",
+      "description": "Location reference from the Viewer wiki page: Viewer Woods Location.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/29/ViewerWoodsLocation.png/revision/latest?cb=20240709003339",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ViewerWoodsLocation.png"
+    },
+    {
+      "title": "WIFI Camera Icon",
+      "description": "Appearance reference for equipment or item: WIFI Camera Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9a/WIFI_Camera_Icon.png/revision/latest?cb=20250822001547",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WIFI_Camera_Icon.png"
+    }
+  ]
+}

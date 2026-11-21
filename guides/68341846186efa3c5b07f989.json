@@ -1,0 +1,13 @@
+{
+  "quest_id": "68341846186efa3c5b07f989",
+  "name": "Balancing - Part 1 [PVE ZONE]",
+  "images": [
+    {
+      "title": "Steyr AUG A1 5.56x45 assault rifle icon",
+      "description": "Appearance reference for equipment or item: Steyr AUG A1 5.56x45 assault rifle icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/56/Steyr_AUG_A1_5.56x45_assault_rifle_icon.png/revision/latest?cb=20221230064220",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Steyr_AUG_A1_5.56x45_assault_rifle_icon.png",
+      "objective_id": "Eliminate Scavs while using a Steyr AUG on any location"
+    }
+  ]
+}

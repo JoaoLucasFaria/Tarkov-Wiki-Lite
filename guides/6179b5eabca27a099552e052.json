@@ -1,0 +1,13 @@
+{
+  "quest_id": "6179b5eabca27a099552e052",
+  "name": "Counteraction",
+  "images": [
+    {
+      "title": "BEAR Dogtag Icon",
+      "description": "Appearance reference for equipment or item: BEAR Dogtag Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/33/BEAR_Dogtag_Icon.png/revision/latest?cb=20250101010639",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BEAR_Dogtag_Icon.png",
+      "objective_id": "Hand over the found in raid item: Dogtag BEAR"
+    }
+  ]
+}

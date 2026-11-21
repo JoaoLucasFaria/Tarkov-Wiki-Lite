@@ -1,0 +1,55 @@
+{
+  "quest_id": "639872fc93ae507d5858c3a6",
+  "name": "Gunsmith - Vector 9x19",
+  "images": [
+    {
+      "title": "Gunsmith11Vector Ins",
+      "description": "Visual reference for the objective: Modify a KRISS Vector 9x19 to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/19/Gunsmith11VectorIns.png/revision/latest?cb=20260504181743",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Gunsmith11VectorIns.png",
+      "objective_id": "Modify a KRISS Vector 9x19 to comply with the given specifications"
+    },
+    {
+      "title": "Gunsmith11Vector Mod",
+      "description": "Visual reference for the objective: Modify a KRISS Vector 9x19 to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f2/Gunsmith11VectorMod.png/revision/latest?cb=20260504181812",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Gunsmith11VectorMod.png",
+      "objective_id": "Modify a KRISS Vector 9x19 to comply with the given specifications"
+    },
+    {
+      "title": "Bigstickicon",
+      "description": "Appearance reference for equipment or item: Bigstickicon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6b/Bigstickicon.png/revision/latest?cb=20230712201514",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Bigstickicon.png",
+      "objective_id": "Modify a KRISS Vector 9x19 to comply with the given specifications"
+    },
+    {
+      "title": "Mk.5 Modular Icon",
+      "description": "Appearance reference for equipment or item: Mk.5 Modular Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a8/Mk.5_Modular_Icon.png/revision/latest?cb=20230729230358",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Mk.5_Modular_Icon.png",
+      "objective_id": "Modify a KRISS Vector 9x19 to comply with the given specifications"
+    },
+    {
+      "title": "Osprey9icon",
+      "description": "Appearance reference for equipment or item: Osprey9icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6e/Osprey9icon.png/revision/latest?cb=20230709194424",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Osprey9icon.png",
+      "objective_id": "Modify a KRISS Vector 9x19 to comply with the given specifications"
+    },
+    {
+      "title": "TD Alum PG Icon",
+      "description": "Appearance reference for equipment or item: TD Alum PG Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/08/TD_Alum_PG_Icon.png/revision/latest?cb=20230627223259",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TD_Alum_PG_Icon.png",
+      "objective_id": "Modify a KRISS Vector 9x19 to comply with the given specifications"
+    },
+    {
+      "title": "Vector 9mm 6in icon",
+      "description": "Appearance reference for equipment or item: Vector 9mm 6in icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d9/Vector_9mm_6in_icon.png/revision/latest?cb=20230723232703",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Vector_9mm_6in_icon.png",
+      "objective_id": "Modify a KRISS Vector 9x19 to comply with the given specifications"
+    }
+  ]
+}

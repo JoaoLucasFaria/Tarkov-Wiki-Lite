@@ -1,0 +1,69 @@
+{
+  "quest_id": "5ac2428686f77412450b42bf",
+  "name": "Gunsmith - HK MP5",
+  "images": [
+    {
+      "title": "Gunsmithpart3Modding",
+      "description": "Wiki weapon-build illustration for Gunsmith - HK MP5; compare the pictured setup with the quest requirements.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/25/Gunsmithpart3Modding.png/revision/latest?cb=20260420194046",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Gunsmithpart3Modding.png",
+      "objective_id": "Modify an MP5 to comply with the given specifications"
+    },
+    {
+      "title": "Gunsmithpart3Modding2",
+      "description": "Wiki weapon-build illustration for Gunsmith - HK MP5; compare the pictured setup with the quest requirements.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0b/Gunsmithpart3Modding2.png/revision/latest?cb=20260420194013",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Gunsmithpart3Modding2.png",
+      "objective_id": "Modify an MP5 to comply with the given specifications"
+    },
+    {
+      "title": "Mp5sdhg",
+      "description": "Visual reference for the objective: Modify an MP5 to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/47/Mp5sdhg.png/revision/latest?cb=20230726193746",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Mp5sdhg.png",
+      "objective_id": "Modify an MP5 to comply with the given specifications"
+    },
+    {
+      "title": "Mp5sdupper",
+      "description": "Visual reference for the objective: Modify an MP5 to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/87/Mp5sdupper.png/revision/latest?cb=20230723230229",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Mp5sdupper.png",
+      "objective_id": "Modify an MP5 to comply with the given specifications"
+    },
+    {
+      "title": "Gunsmith Part3Icon",
+      "description": "Appearance reference for equipment or item: Gunsmith Part3Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9e/GunsmithPart3Icon.png/revision/latest?cb=20190122203942",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GunsmithPart3Icon.png",
+      "objective_id": "Modify an MP5 to comply with the given specifications"
+    },
+    {
+      "title": "MP5S Dsuppressoricon",
+      "description": "Appearance reference for equipment or item: MP5S Dsuppressoricon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/04/MP5SDsuppressoricon.png/revision/latest?cb=20230709194151",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MP5SDsuppressoricon.png",
+      "objective_id": "Modify an MP5 to comply with the given specifications"
+    },
+    {
+      "title": "Mp5drumicon",
+      "description": "Appearance reference for equipment or item: Mp5drumicon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0e/Mp5drumicon.png/revision/latest?cb=20230712195938",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Mp5drumicon.png",
+      "objective_id": "Modify an MP5 to comply with the given specifications"
+    },
+    {
+      "title": "Sdtrr",
+      "description": "Appearance reference for equipment or item: Sdtrr.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b0/Sdtrr.png/revision/latest?cb=20230729193124",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Sdtrr.png",
+      "objective_id": "Modify an MP5 to comply with the given specifications"
+    },
+    {
+      "title": "TBL Icon",
+      "description": "Appearance reference for equipment or item: TBL Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a7/TBL_Icon.PNG/revision/latest?cb=20230627220406",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TBL_Icon.PNG",
+      "objective_id": "Modify an MP5 to comply with the given specifications"
+    }
+  ]
+}

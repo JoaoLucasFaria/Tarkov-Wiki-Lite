@@ -1,0 +1,36 @@
+{
+  "quest_id": "669fa39c64ea11e84c0642a6",
+  "name": "The Walls Have Eyes",
+  "images": [
+    {
+      "title": "The Walls Have Eyes Map",
+      "description": "Wiki map or instructional reference associated with The Walls Have Eyes.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/36/The_Walls_Have_Eyes_Map.jpg/revision/latest?cb=20240826234035",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:The_Walls_Have_Eyes_Map.jpg"
+    },
+    {
+      "title": "Walls Have Eyes3rd Placement",
+      "description": "Location reference from the The Walls Have Eyes wiki page: Walls Have Eyes3rd Placement.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/01/WallsHaveEyes3rdPlacement.png/revision/latest?cb=20240826232226",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WallsHaveEyes3rdPlacement.png"
+    },
+    {
+      "title": "Walls Have Eyes Placement2",
+      "description": "Location reference from the The Walls Have Eyes wiki page: Walls Have Eyes Placement2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9a/WallsHaveEyesPlacement2.png/revision/latest?cb=20240826232555",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WallsHaveEyesPlacement2.png"
+    },
+    {
+      "title": "Walls Have Eyes Plant Location1",
+      "description": "Location reference from the The Walls Have Eyes wiki page: Walls Have Eyes Plant Location1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3a/WallsHaveEyesPlantLocation1.png/revision/latest?cb=20240826232507",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WallsHaveEyesPlantLocation1.png"
+    },
+    {
+      "title": "WIFI Camera Icon",
+      "description": "Appearance reference for equipment or item: WIFI Camera Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9a/WIFI_Camera_Icon.png/revision/latest?cb=20250822001547",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WIFI_Camera_Icon.png"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "quest_id": "675c3507a06634b5110e3c18",
+  "name": "Belka and Strelka",
+  "images": [
+    {
+      "title": "Belka and Strelka Map",
+      "description": "Wiki map or reference for the objective: Survive and extract from Customs through Railroad Passage (Flare).",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/70/Belka_and_Strelka_Map.png/revision/latest?cb=20241229165207",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Belka_and_Strelka_Map.png",
+      "objective_id": "Survive and extract from Customs through Railroad Passage (Flare)"
+    },
+    {
+      "title": "Backdoor",
+      "description": "Wiki location image for the objective: Survive and extract from Customs through Railroad Passage (Flare).",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/64/Backdoor.PNG/revision/latest?cb=20210708200558",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Backdoor.PNG",
+      "objective_id": "Survive and extract from Customs through Railroad Passage (Flare)"
+    },
+    {
+      "title": "Flare Success Note",
+      "description": "Wiki location image for the objective: Survive and extract from Customs through Railroad Passage (Flare).",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7f/FlareSuccessNote.png/revision/latest?cb=20260603210733",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:FlareSuccessNote.png",
+      "objective_id": "Survive and extract from Customs through Railroad Passage (Flare)"
+    },
+    {
+      "title": "Klimov Street Signal Area Note",
+      "description": "Wiki location image for the objective: Survive and extract from Customs through Railroad Passage (Flare).",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/22/KlimovStreetSignalAreaNote.png/revision/latest?cb=20260330220637",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:KlimovStreetSignalAreaNote.png",
+      "objective_id": "Survive and extract from Customs through Railroad Passage (Flare)"
+    },
+    {
+      "title": "Railroad Passage Customs Signal Area",
+      "description": "Wiki location image for the objective: Survive and extract from Customs through Railroad Passage (Flare).",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/52/RailroadPassageCustomsSignalArea.png/revision/latest?cb=20250105151809",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:RailroadPassageCustomsSignalArea.png",
+      "objective_id": "Survive and extract from Customs through Railroad Passage (Flare)"
+    },
+    {
+      "title": "Railroad Passage",
+      "description": "Visual reference for the objective: Survive and extract from Customs through Railroad Passage (Flare).",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/48/Railroad_Passage.png/revision/latest?cb=20250316141948",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Railroad_Passage.png",
+      "objective_id": "Survive and extract from Customs through Railroad Passage (Flare)"
+    },
+    {
+      "title": "Green flare icon",
+      "description": "Appearance reference for equipment or item: Green flare icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1d/Green_flare_icon.png/revision/latest?cb=20220706002235",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Green_flare_icon.png",
+      "objective_id": "Survive and extract from Customs through Railroad Passage (Flare)"
+    }
+  ]
+}

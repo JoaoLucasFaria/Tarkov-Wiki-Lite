@@ -1,0 +1,20 @@
+{
+  "quest_id": "63ab180c87413d64ae0ac20a",
+  "name": "Dangerous Road",
+  "images": [
+    {
+      "title": "Dangerous Road Map",
+      "description": "Wiki map or reference for the objective: Survive and extract from Streets of Tarkov through Primorsky Ave Taxi V-Ex.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d2/DangerousRoadMap.png/revision/latest?cb=20230826225846",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:DangerousRoadMap.png",
+      "objective_id": "Survive and extract from Streets of Tarkov through Primorsky Ave Taxi V-Ex"
+    },
+    {
+      "title": "Primorsky Ave Taxi V Ex Extraction",
+      "description": "Visual reference for the objective: Survive and extract from Streets of Tarkov through Primorsky Ave Taxi V-Ex.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2f/PrimorskyAveTaxiV-ExExtraction.png/revision/latest?cb=20230104022525",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:PrimorskyAveTaxiV-ExExtraction.png",
+      "objective_id": "Survive and extract from Streets of Tarkov through Primorsky Ave Taxi V-Ex"
+    }
+  ]
+}

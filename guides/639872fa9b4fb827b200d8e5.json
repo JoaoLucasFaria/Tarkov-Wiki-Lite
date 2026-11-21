@@ -1,0 +1,62 @@
+{
+  "quest_id": "639872fa9b4fb827b200d8e5",
+  "name": "Gunsmith - P226R",
+  "images": [
+    {
+      "title": "Gunsmith9P226R Ins",
+      "description": "Visual reference for the objective: Modify a P226R to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/df/Gunsmith9P226RIns.png/revision/latest?cb=20260420211709",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Gunsmith9P226RIns.png",
+      "objective_id": "Modify a P226R to comply with the given specifications"
+    },
+    {
+      "title": "Gunsmith9P226R Mod",
+      "description": "Visual reference for the objective: Modify a P226R to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f7/Gunsmith9P226RMod.png/revision/latest?cb=20260420211735",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Gunsmith9P226RMod.png",
+      "objective_id": "Modify a P226R to comply with the given specifications"
+    },
+    {
+      "title": "P226Ext Mag Icon",
+      "description": "Appearance reference for equipment or item: P226Ext Mag Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8e/P226ExtMagIcon.png/revision/latest?cb=20230718131349",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:P226ExtMagIcon.png",
+      "objective_id": "Modify a P226R to comply with the given specifications"
+    },
+    {
+      "title": "P226thread",
+      "description": "Appearance reference for equipment or item: P226thread.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c7/P226thread.png/revision/latest?cb=20230726013902",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:P226thread.png",
+      "objective_id": "Modify a P226R to comply with the given specifications"
+    },
+    {
+      "title": "Stainless elite grips icon",
+      "description": "Appearance reference for equipment or item: Stainless elite grips icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bf/Stainless_elite_grips_icon.png/revision/latest?cb=20230718232735",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Stainless_elite_grips_icon.png",
+      "objective_id": "Modify a P226R to comply with the given specifications"
+    },
+    {
+      "title": "Stainless elite slide icon",
+      "description": "Appearance reference for equipment or item: Stainless elite slide icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/37/Stainless_elite_slide_icon.png/revision/latest?cb=20230723225351",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Stainless_elite_slide_icon.png",
+      "objective_id": "Modify a P226R to comply with the given specifications"
+    },
+    {
+      "title": "TBL Icon",
+      "description": "Appearance reference for equipment or item: TBL Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a7/TBL_Icon.PNG/revision/latest?cb=20230627220406",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TBL_Icon.PNG",
+      "objective_id": "Modify a P226R to comply with the given specifications"
+    },
+    {
+      "title": "TJ Icon",
+      "description": "Appearance reference for equipment or item: TJ Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/48/TJ_Icon.png/revision/latest?cb=20230705224637",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TJ_Icon.png",
+      "objective_id": "Modify a P226R to comply with the given specifications"
+    }
+  ]
+}

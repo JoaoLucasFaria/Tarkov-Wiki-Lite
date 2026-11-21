@@ -1,0 +1,30 @@
+{
+  "quest_id": "675c1cf4a757ddd00404f0a3",
+  "name": "Work Smarter",
+  "images": [
+    {
+      "title": "Work Smarter Map",
+      "description": "Wiki map or instructional reference associated with Work Smarter.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2f/Work_Smarter_Map.png/revision/latest?cb=20241229170917",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Work_Smarter_Map.png"
+    },
+    {
+      "title": "Backdoor",
+      "description": "Location reference from the Work Smarter wiki page: Backdoor.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/64/Backdoor.PNG/revision/latest?cb=20210708200558",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Backdoor.PNG"
+    },
+    {
+      "title": "Smuggler's Boat",
+      "description": "Wiki visual reference associated with Work Smarter: Smuggler's Boat.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/86/Smuggler%27s_Boat.png/revision/latest?cb=20250908201720",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Smuggler%27s_Boat.png"
+    },
+    {
+      "title": "ZB 1012",
+      "description": "Wiki visual reference associated with Work Smarter: ZB 1012.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/20/ZB-1012.png/revision/latest?cb=20250316143902",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ZB-1012.png"
+    }
+  ]
+}

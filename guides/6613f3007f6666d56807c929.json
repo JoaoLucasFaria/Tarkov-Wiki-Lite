@@ -1,0 +1,42 @@
+{
+  "quest_id": "6613f3007f6666d56807c929",
+  "name": "Drip-Out - Part 1",
+  "images": [
+    {
+      "title": "TV 115 Icon",
+      "description": "Appearance reference for equipment or item: TV 115 Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c6/TV-115_Icon.png/revision/latest?cb=20240103192429",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TV-115_Icon.png"
+    },
+    {
+      "title": "WARTECH MK3 TV 104 chest rig (Moss) icon",
+      "description": "Appearance reference for equipment or item: WARTECH MK3 TV 104 chest rig (Moss) icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d4/WARTECH_MK3_TV-104_chest_rig_%28Moss%29_icon.png/revision/latest?cb=20251026221846",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WARTECH_MK3_TV-104_chest_rig_(Moss)_icon.png"
+    },
+    {
+      "title": "WARTECH TV 115 plate carrier (Black) icon",
+      "description": "Appearance reference for equipment or item: WARTECH TV 115 plate carrier (Black) icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9b/WARTECH_TV-115_plate_carrier_%28Black%29_icon.png/revision/latest?cb=20260423205620",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WARTECH_TV-115_plate_carrier_(Black)_icon.png"
+    },
+    {
+      "title": "Wartech Berkut VV 102 backpack icon",
+      "description": "Appearance reference for equipment or item: Wartech Berkut VV 102 backpack icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/56/Wartech_Berkut_VV-102_backpack_icon.png/revision/latest?cb=20190410161914",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Wartech_Berkut_VV-102_backpack_icon.png"
+    },
+    {
+      "title": "Wartech TV 110 plate carrier icon",
+      "description": "Appearance reference for equipment or item: Wartech TV 110 plate carrier icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ee/Wartech_TV-110_plate_carrier_icon.png/revision/latest?cb=20240103192745",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Wartech_TV-110_plate_carrier_icon.png"
+    },
+    {
+      "title": "Wartech gear rig icon",
+      "description": "Appearance reference for equipment or item: Wartech gear rig icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/57/Wartech_gear_rig_icon.png/revision/latest?cb=20261115122612",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Wartech_gear_rig_icon.png"
+    }
+  ]
+}

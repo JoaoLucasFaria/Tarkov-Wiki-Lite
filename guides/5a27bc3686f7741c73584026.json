@@ -1,0 +1,40 @@
+{
+  "quest_id": "5a27bc3686f7741c73584026",
+  "name": "Wet Job - Part 4",
+  "images": [
+    {
+      "title": "Shoreline Wet Job Pt4Map",
+      "description": "Wiki map or reference for the objective: Locate and obtain the list of Health Resort tenants on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4e/ShorelineWetJobPt4Map.png/revision/latest?cb=20210115202434",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ShorelineWetJobPt4Map.png",
+      "objective_id": "Locate and obtain the list of Health Resort tenants on Shoreline"
+    },
+    {
+      "title": "Health resort management office safe key office",
+      "description": "Wiki location image for the objective: Locate and obtain the list of Health Resort tenants on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a8/Health_resort_management_office_safe_key_office.png/revision/latest?cb=20241127012818",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Health_resort_management_office_safe_key_office.png",
+      "objective_id": "Locate and obtain the list of Health Resort tenants on Shoreline"
+    },
+    {
+      "title": "Sliderkey flash drive location",
+      "description": "Wiki location image for the objective: Locate and obtain the list of Health Resort tenants on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5b/Sliderkey_flash_drive_location.png/revision/latest?cb=20180717230456",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Sliderkey_flash_drive_location.png",
+      "objective_id": "Locate and obtain the list of Health Resort tenants on Shoreline"
+    },
+    {
+      "title": "Wet Job4Office Location2",
+      "description": "Wiki location image for the objective: Locate and obtain the list of Health Resort tenants on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/10/WetJob4OfficeLocation2.png/revision/latest?cb=20181121230142",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WetJob4OfficeLocation2.png",
+      "objective_id": "Locate and obtain the list of Health Resort tenants on Shoreline"
+    },
+    {
+      "title": "Sliderkey flash drive icon",
+      "description": "Appearance reference for equipment or item: Sliderkey flash drive icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/26/Sliderkey_flash_drive_icon.png/revision/latest?cb=20221012072805",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Sliderkey_flash_drive_icon.png"
+    }
+  ]
+}

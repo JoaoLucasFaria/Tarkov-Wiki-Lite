@@ -1,0 +1,89 @@
+{
+  "quest_id": "6391359b9444fb141f4e6ee6",
+  "name": "You've Got Mail",
+  "images": [
+    {
+      "title": "Post Office Map",
+      "description": "Wiki map or reference for the objective: Locate and obtain the registered mail on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9a/PostOfficeMap.png/revision/latest?cb=20230827004148",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:PostOfficeMap.png",
+      "objective_id": "Locate and obtain the registered mail on Streets of Tarkov"
+    },
+    {
+      "title": "Post Office",
+      "description": "Wiki location image for the objective: Locate and obtain the registered mail on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/06/PostOffice.png/revision/latest?cb=20230108152708",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:PostOffice.png",
+      "objective_id": "Locate and obtain the registered mail on Streets of Tarkov"
+    },
+    {
+      "title": "Post Office Storage Spawn",
+      "description": "Wiki location image for the objective: Locate and obtain the registered mail on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/dc/PostOfficeStorageSpawn.png/revision/latest?cb=20230108154412",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:PostOfficeStorageSpawn.png",
+      "objective_id": "Locate and obtain the registered mail on Streets of Tarkov"
+    },
+    {
+      "title": "Post Office Storage Spawn2",
+      "description": "Wiki location image for the objective: Locate and obtain the registered mail on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3a/PostOfficeStorageSpawn2.png/revision/latest?cb=20230310223310",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:PostOfficeStorageSpawn2.png",
+      "objective_id": "Locate and obtain the registered mail on Streets of Tarkov"
+    },
+    {
+      "title": "You've Got Mail Spawn1",
+      "description": "Wiki location image for the objective: Locate and obtain the registered mail on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/ff/You%27ve_Got_Mail_Spawn1.png/revision/latest?cb=20230310223058",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:You%27ve_Got_Mail_Spawn1.png",
+      "objective_id": "Locate and obtain the registered mail on Streets of Tarkov"
+    },
+    {
+      "title": "You've Got Mail Spawn2",
+      "description": "Wiki location image for the objective: Locate and obtain the registered mail on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/48/You%27ve_Got_Mail_Spawn2.png/revision/latest?cb=20230310223232",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:You%27ve_Got_Mail_Spawn2.png",
+      "objective_id": "Locate and obtain the registered mail on Streets of Tarkov"
+    },
+    {
+      "title": "Youve Got Mail Spawn01 01",
+      "description": "Wiki location image for the objective: Locate and obtain the registered mail on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bd/YouveGotMailSpawn01_01.png/revision/latest?cb=20230102183349",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:YouveGotMailSpawn01_01.png",
+      "objective_id": "Locate and obtain the registered mail on Streets of Tarkov"
+    },
+    {
+      "title": "Youve Got Mail Spawn01 02",
+      "description": "Wiki location image for the objective: Locate and obtain the registered mail on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b9/YouveGotMailSpawn01_02.png/revision/latest?cb=20230102183353",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:YouveGotMailSpawn01_02.png",
+      "objective_id": "Locate and obtain the registered mail on Streets of Tarkov"
+    },
+    {
+      "title": "Youve Got Mail Spawn01 03",
+      "description": "Wiki location image for the objective: Locate and obtain the registered mail on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b9/YouveGotMailSpawn01_03.png/revision/latest?cb=20230102183353",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:YouveGotMailSpawn01_03.png",
+      "objective_id": "Locate and obtain the registered mail on Streets of Tarkov"
+    },
+    {
+      "title": "Youve Got Mail Spawn02 01",
+      "description": "Wiki location image for the objective: Locate and obtain the registered mail on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d3/YouveGotMailSpawn02_01.png/revision/latest?cb=20230310222959",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:YouveGotMailSpawn02_01.png",
+      "objective_id": "Locate and obtain the registered mail on Streets of Tarkov"
+    },
+    {
+      "title": "Youvegotmail 4thspawn",
+      "description": "Wiki location image for the objective: Locate and obtain the registered mail on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f2/Youvegotmail_4thspawn.jpeg/revision/latest?cb=20230310223209",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Youvegotmail_4thspawn.jpeg",
+      "objective_id": "Locate and obtain the registered mail on Streets of Tarkov"
+    },
+    {
+      "title": "Registered Letter Icon",
+      "description": "Appearance reference for equipment or item: Registered Letter Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/23/RegisteredLetterIcon.png/revision/latest?cb=20230126080204",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:RegisteredLetterIcon.png"
+    }
+  ]
+}

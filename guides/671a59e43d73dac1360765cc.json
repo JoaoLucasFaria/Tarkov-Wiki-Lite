@@ -1,0 +1,20 @@
+{
+  "quest_id": "671a59e43d73dac1360765cc",
+  "name": "Dangerous Props",
+  "images": [
+    {
+      "title": "AA 12 Gen 1 icon",
+      "description": "Appearance reference for equipment or item: AA 12 Gen 1 icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/ca/AA-12_Gen_1_icon.png/revision/latest?cb=20241101012734",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:AA-12_Gen_1_icon.png",
+      "objective_id": "Eliminate any target with an AA-12 shotgun"
+    },
+    {
+      "title": "AA 12 Gen 2 icon",
+      "description": "Appearance reference for equipment or item: AA 12 Gen 2 icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b2/AA-12_Gen_2_icon.png/revision/latest?cb=20241101002211",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:AA-12_Gen_2_icon.png",
+      "objective_id": "Eliminate any target with an AA-12 shotgun"
+    }
+  ]
+}
