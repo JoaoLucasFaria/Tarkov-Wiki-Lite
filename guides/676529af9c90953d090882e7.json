@@ -1,0 +1,86 @@
+{
+  "quest_id": "676529af9c90953d090882e7",
+  "name": "Gunsmith Master - Part 12",
+  "images": [
+    {
+      "title": "Gunsmith OF Glock 17Inspect",
+      "description": "Wiki weapon-build illustration for Gunsmith Master - Part 12; compare the pictured setup with the quest requirements.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3b/GunsmithOFGlock_17Inspect.png/revision/latest?cb=20260420212119",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GunsmithOFGlock_17Inspect.png"
+    },
+    {
+      "title": "Gunsmith OF Glock 17Modding",
+      "description": "Wiki weapon-build illustration for Gunsmith Master - Part 12; compare the pictured setup with the quest requirements.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/27/GunsmithOFGlock_17Modding.png/revision/latest?cb=20260420212153",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GunsmithOFGlock_17Modding.png"
+    },
+    {
+      "title": "Gunsmith OFPP 19 01Inspect",
+      "description": "Wiki weapon-build illustration for Gunsmith Master - Part 12; compare the pictured setup with the quest requirements.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/be/GunsmithOFPP-19-01Inspect.png/revision/latest?cb=20260420213117",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GunsmithOFPP-19-01Inspect.png",
+      "objective_id": "Modify a PP-19-01 to comply with the given specifications"
+    },
+    {
+      "title": "Gunsmith OFPP 19 01Modding",
+      "description": "Wiki weapon-build illustration for Gunsmith Master - Part 12; compare the pictured setup with the quest requirements.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/38/GunsmithOFPP-19-01Modding.png/revision/latest?cb=20260420213326",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GunsmithOFPP-19-01Modding.png",
+      "objective_id": "Modify a PP-19-01 to comply with the given specifications"
+    },
+    {
+      "title": "Gunsmith OFT 5000M Inspect",
+      "description": "Wiki weapon-build illustration for Gunsmith Master - Part 12; compare the pictured setup with the quest requirements.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4b/GunsmithOFT-5000MInspect.png/revision/latest?cb=20260420212456",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GunsmithOFT-5000MInspect.png"
+    },
+    {
+      "title": "Gunsmith OFT 5000M Modding",
+      "description": "Wiki weapon-build illustration for Gunsmith Master - Part 12; compare the pictured setup with the quest requirements.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e8/GunsmithOFT-5000MModding.png/revision/latest?cb=20260420212555",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GunsmithOFT-5000MModding.png"
+    },
+    {
+      "title": "Rec.cover. vityaz sn",
+      "description": "Wiki visual reference associated with Gunsmith Master - Part 12: Rec.cover. vityaz sn.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/78/Rec.cover._vityaz-sn.png/revision/latest?cb=20250105183240",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Rec.cover._vityaz-sn.png"
+    },
+    {
+      "title": "Amm",
+      "description": "Appearance reference for equipment or item: Amm.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7d/Amm.png/revision/latest?cb=20230729193330",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Amm.png"
+    },
+    {
+      "title": "Amsh",
+      "description": "Appearance reference for equipment or item: Amsh.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5e/Amsh.png/revision/latest?cb=20230729193411",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Amsh.png"
+    },
+    {
+      "title": "Doublediamondbarrel",
+      "description": "Appearance reference for equipment or item: Doublediamondbarrel.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/49/Doublediamondbarrel.png/revision/latest?cb=20230726013323",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Doublediamondbarrel.png"
+    },
+    {
+      "title": "Glockddthreadproticon",
+      "description": "Appearance reference for equipment or item: Glockddthreadproticon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e9/Glockddthreadproticon.png/revision/latest?cb=20230704221856",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Glockddthreadproticon.png"
+    },
+    {
+      "title": "Glockpolymermag",
+      "description": "Appearance reference for equipment or item: Glockpolymermag.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f1/Glockpolymermag.png/revision/latest?cb=20230718131457",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Glockpolymermag.png"
+    },
+    {
+      "title": "Harris HBR Bipod icon",
+      "description": "Appearance reference for equipment or item: Harris HBR Bipod icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8b/Harris_HBR_Bipod_icon.png/revision/latest?cb=20230627205235",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Harris_HBR_Bipod_icon.png"
+    }
+  ]
+}

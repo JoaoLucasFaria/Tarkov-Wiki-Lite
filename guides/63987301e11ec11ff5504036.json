@@ -1,0 +1,66 @@
+{
+  "quest_id": "63987301e11ec11ff5504036",
+  "name": "Gunsmith Master - Part 8",
+  "images": [
+    {
+      "title": "GS21 Mods 1911",
+      "description": "Wiki weapon-build illustration for Gunsmith Master - Part 8; compare the pictured setup with the quest requirements.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/29/GS21_Mods_1911.png/revision/latest?cb=20260420230914",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GS21_Mods_1911.png"
+    },
+    {
+      "title": "GS21 Mods M700",
+      "description": "Wiki weapon-build illustration for Gunsmith Master - Part 8; compare the pictured setup with the quest requirements.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/75/GS21_Mods_M700.png/revision/latest?cb=20260420232548",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GS21_Mods_M700.png"
+    },
+    {
+      "title": "GS21 Insp 1911",
+      "description": "Wiki visual reference associated with Gunsmith Master - Part 8: GS21 Insp 1911.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3c/GS21_Insp_1911.png/revision/latest?cb=20260420230848",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GS21_Insp_1911.png"
+    },
+    {
+      "title": "GS21 Insp M700",
+      "description": "Wiki visual reference associated with Gunsmith Master - Part 8: GS21 Insp M700.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0f/GS21_Insp_M700.png/revision/latest?cb=20260420232520",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GS21_Insp_M700.png"
+    },
+    {
+      "title": "6inchrailicon",
+      "description": "Appearance reference for equipment or item: 6inchrailicon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0f/6inchrailicon.png/revision/latest?cb=20230729202452",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:6inchrailicon.png"
+    },
+    {
+      "title": "AB Arms MOD X Gen3 keymod handguard for M700 icon",
+      "description": "Appearance reference for equipment or item: AB Arms MOD X Gen3 keymod handguard for M700 icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1c/AB_Arms_MOD_X_Gen3_keymod_handguard_for_M700_icon.png/revision/latest?cb=20230726213242",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:AB_Arms_MOD_X_Gen3_keymod_handguard_for_M700_icon.png"
+    },
+    {
+      "title": "AB Arms MOD X mount for M700 icon",
+      "description": "Appearance reference for equipment or item: AB Arms MOD X mount for M700 icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b4/AB_Arms_MOD_X_mount_for_M700_icon.png/revision/latest?cb=20230729205323",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:AB_Arms_MOD_X_mount_for_M700_icon.png"
+    },
+    {
+      "title": "ADAR Buffer Tube Icon",
+      "description": "Appearance reference for equipment or item: ADAR Buffer Tube Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6e/ADARBufferTubeIcon.png/revision/latest?cb=20230728011010",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ADARBufferTubeIcon.png"
+    },
+    {
+      "title": "Anarchy Outdoors Muzzle Brake .45 ACP icon",
+      "description": "Appearance reference for equipment or item: Anarchy Outdoors Muzzle Brake .45 ACP icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e8/Anarchy_Outdoors_Muzzle_Brake_.45_ACP_icon.png/revision/latest?cb=20230705225839",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Anarchy_Outdoors_Muzzle_Brake_.45_ACP_icon.png"
+    },
+    {
+      "title": "Bender PMII Scope Icon",
+      "description": "Appearance reference for equipment or item: Bender PMII Scope Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/27/BenderPMIIScopeIcon.png/revision/latest?cb=20251116234819",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BenderPMIIScopeIcon.png"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "quest_id": "666314b2a9290f9e0806cca3",
+  "name": "Hell on Earth - Part 2",
+  "images": [
+    {
+      "title": "Hell on Earth Initiall Equipment",
+      "description": "Visual reference for the objective: Eliminate the hooded men with the double barrel shotgun.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7e/Hell_on_Earth_Initiall_Equipment.png/revision/latest?cb=20240707184919",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Hell_on_Earth_Initiall_Equipment.png",
+      "objective_id": "Eliminate the hooded men with the double barrel shotgun"
+    },
+    {
+      "title": "MP 43 Icon",
+      "description": "Appearance reference for equipment or item: MP 43 Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1d/MP-43_Icon.png/revision/latest?cb=20240707184555",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MP-43_Icon.png",
+      "objective_id": "Eliminate the hooded men with the double barrel shotgun"
+    },
+    {
+      "title": "MP 43 Sawed Off Icon",
+      "description": "Appearance reference for equipment or item: MP 43 Sawed Off Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4d/MP-43_Sawed_Off_Icon.png/revision/latest?cb=20230813064617",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MP-43_Sawed_Off_Icon.png",
+      "objective_id": "Eliminate the hooded men with the double barrel shotgun"
+    }
+  ]
+}

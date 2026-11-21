@@ -1,0 +1,20 @@
+{
+  "quest_id": "5d25e2e286f77444001e2e48",
+  "name": "The Huntsman Path - Sellout",
+  "images": [
+    {
+      "title": "Killa Maska",
+      "description": "Visual reference for the objective: Find Killa's Maska-1SCh bulletproof helmet in raid.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2b/Killa-Maska.png/revision/latest?cb=20240107131629",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Killa-Maska.png",
+      "objective_id": "Find Killa's Maska-1SCh bulletproof helmet in raid"
+    },
+    {
+      "title": "Maska 1S Ch bulletproof helmet (Christmas Edition) icon",
+      "description": "Appearance reference for equipment or item: Maska 1S Ch bulletproof helmet (Christmas Edition) icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7f/Maska-1SCh_bulletproof_helmet_%28Christmas_Edition%29_icon.png/revision/latest?cb=20241231224439",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Maska-1SCh_bulletproof_helmet_(Christmas_Edition)_icon.png",
+      "objective_id": "Find Killa's Maska-1SCh bulletproof helmet in raid"
+    }
+  ]
+}

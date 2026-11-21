@@ -1,0 +1,62 @@
+{
+  "quest_id": "5ac244c486f77413e12cf945",
+  "name": "Gunsmith Master - Part 2",
+  "images": [
+    {
+      "title": "Gunsmith Part13Alternate Inspect Screen",
+      "description": "Wiki weapon-build illustration for Gunsmith Master - Part 2; compare the pictured setup with the quest requirements.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/81/GunsmithPart13AlternateInspectScreen.png/revision/latest?cb=20260814223259",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GunsmithPart13AlternateInspectScreen.png",
+      "objective_id": "Modify an R11 RSASS to comply with the given specifications"
+    },
+    {
+      "title": "Gunsmith Part13Alternate Modding Screen",
+      "description": "Wiki weapon-build illustration for Gunsmith Master - Part 2; compare the pictured setup with the quest requirements.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e6/GunsmithPart13AlternateModdingScreen.png/revision/latest?cb=20260814223428",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GunsmithPart13AlternateModdingScreen.png",
+      "objective_id": "Modify an R11 RSASS to comply with the given specifications"
+    },
+    {
+      "title": "ADAR Buffer Tube Icon",
+      "description": "Appearance reference for equipment or item: ADAR Buffer Tube Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6e/ADARBufferTubeIcon.png/revision/latest?cb=20230728011010",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ADARBufferTubeIcon.png",
+      "objective_id": "Modify an R11 RSASS to comply with the given specifications"
+    },
+    {
+      "title": "Gunsmithpart6icon",
+      "description": "Appearance reference for equipment or item: Gunsmithpart6icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fa/Gunsmithpart6icon.png/revision/latest?cb=20180427213830",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Gunsmithpart6icon.png",
+      "objective_id": "Modify an R11 RSASS to comply with the given specifications"
+    },
+    {
+      "title": "Hybrid46icon",
+      "description": "Appearance reference for equipment or item: Hybrid46icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/53/Hybrid46icon.png/revision/latest?cb=20230709194247",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Hybrid46icon.png",
+      "objective_id": "Modify an R11 RSASS to comply with the given specifications"
+    },
+    {
+      "title": "Hybridmount",
+      "description": "Appearance reference for equipment or item: Hybridmount.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/17/Hybridmount.png/revision/latest?cb=20230704222802",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Hybridmount.png",
+      "objective_id": "Modify an R11 RSASS to comply with the given specifications"
+    },
+    {
+      "title": "KH F Icon",
+      "description": "Appearance reference for equipment or item: KH F Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/46/KH-F_Icon.png/revision/latest?cb=20230729205523",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:KH-F_Icon.png",
+      "objective_id": "Modify an R11 RSASS to comply with the given specifications"
+    },
+    {
+      "title": "Nightforce ATACR 7 35x56Icon",
+      "description": "Appearance reference for equipment or item: Nightforce ATACR 7 35x56Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8b/Nightforce_ATACR_7-35x56Icon.png/revision/latest?cb=20251116234751",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Nightforce_ATACR_7-35x56Icon.png",
+      "objective_id": "Modify an R11 RSASS to comply with the given specifications"
+    }
+  ]
+}

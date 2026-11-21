@@ -1,0 +1,13 @@
+{
+  "quest_id": "666314bafd5ca9577902e03a",
+  "name": "The Good Times - Part 2",
+  "images": [
+    {
+      "title": "Golden TT Icon",
+      "description": "Appearance reference for equipment or item: Golden TT Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/98/GoldenTTIcon.png/revision/latest?cb=20260909210925",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GoldenTTIcon.png",
+      "objective_id": "Eliminate any target with the golden TT-33 pistol"
+    }
+  ]
+}

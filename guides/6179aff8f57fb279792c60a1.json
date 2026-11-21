@@ -1,0 +1,32 @@
+{
+  "quest_id": "6179aff8f57fb279792c60a1",
+  "name": "Overpopulation",
+  "images": [
+    {
+      "title": "Overpopulation Map",
+      "description": "Wiki map or instructional reference associated with Overpopulation.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e5/OverpopulationMap.png/revision/latest?cb=20211219214543",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:OverpopulationMap.png"
+    },
+    {
+      "title": "Blue Folders materials icon",
+      "description": "Appearance reference for equipment or item: Blue Folders materials icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/43/Blue_Folders_materials_icon.png/revision/latest?cb=20221231183616",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Blue_Folders_materials_icon.png",
+      "objective_id": "Hand over the found in raid item: Topographic survey maps, Intelligence folder, or TerraGroup \"Blue Folders\" materials"
+    },
+    {
+      "title": "Folder With Intelligence Icon",
+      "description": "Appearance reference for equipment or item: Folder With Intelligence Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/85/FolderWithIntelligence_Icon.png/revision/latest?cb=20211220222031",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:FolderWithIntelligence_Icon.png",
+      "objective_id": "Hand over the found in raid item: Topographic survey maps, Intelligence folder, or TerraGroup \"Blue Folders\" materials"
+    },
+    {
+      "title": "Maps Icon",
+      "description": "Appearance reference for equipment or item: Maps Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3c/MapsIcon.png/revision/latest?cb=20220706013159",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MapsIcon.png"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "quest_id": "5b47749f86f7746c5d6a5fd4",
+  "name": "Gunsmith Master - Part 4",
+  "images": [
+    {
+      "title": "Gunsmith17Mods",
+      "description": "Wiki map or reference for the objective: Modify an AK-102 to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/11/Gunsmith17Mods.png/revision/latest?cb=20260420224258",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Gunsmith17Mods.png",
+      "objective_id": "Modify an AK-102 to comply with the given specifications"
+    },
+    {
+      "title": "A Kademia Bastion dust cover for AK",
+      "description": "Visual reference for the objective: Modify an AK-102 to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/31/AKademia_Bastion_dust_cover_for_AK.PNG/revision/latest?cb=20230723224330",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:AKademia_Bastion_dust_cover_for_AK.PNG",
+      "objective_id": "Modify an AK-102 to comply with the given specifications"
+    },
+    {
+      "title": "Circle 10 AK 101 30 rnd inventory",
+      "description": "Visual reference for the objective: Modify an AK-102 to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/de/Circle_10_AK-101_30-rnd_inventory.png/revision/latest?cb=20230716140341",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Circle_10_AK-101_30-rnd_inventory.png",
+      "objective_id": "Modify an AK-102 to comply with the given specifications"
+    },
+    {
+      "title": "Gunsmith17Insp",
+      "description": "Visual reference for the objective: Modify an AK-102 to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6f/Gunsmith17Insp.png/revision/latest?cb=20260420224230",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Gunsmith17Insp.png",
+      "objective_id": "Modify an AK-102 to comply with the given specifications"
+    },
+    {
+      "title": "AFG OD Icon",
+      "description": "Appearance reference for equipment or item: AFG OD Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/00/AFG_OD_Icon.png/revision/latest?cb=20230420211356",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:AFG_OD_Icon.png",
+      "objective_id": "Modify an AK-102 to comply with the given specifications"
+    },
+    {
+      "title": "B10Icon",
+      "description": "Appearance reference for equipment or item: B10Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ae/B10Icon.png/revision/latest?cb=20230726210540",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:B10Icon.png",
+      "objective_id": "Modify an AK-102 to comply with the given specifications"
+    },
+    {
+      "title": "CNC Warrior Icon",
+      "description": "Appearance reference for equipment or item: CNC Warrior Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d1/CNC_Warrior_Icon.png/revision/latest?cb=20230704221718",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:CNC_Warrior_Icon.png",
+      "objective_id": "Modify an AK-102 to comply with the given specifications"
+    },
+    {
+      "title": "Ferfrans CRD icon",
+      "description": "Appearance reference for equipment or item: Ferfrans CRD icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/79/Ferfrans_CRD_icon.png/revision/latest?cb=20230705225921",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Ferfrans_CRD_icon.png",
+      "objective_id": "Modify an AK-102 to comply with the given specifications"
+    },
+    {
+      "title": "Ferfrans Muzzle Brake icon",
+      "description": "Appearance reference for equipment or item: Ferfrans Muzzle Brake icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/07/Ferfrans_Muzzle_Brake_icon.png/revision/latest?cb=20230705225956",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Ferfrans_Muzzle_Brake_icon.png",
+      "objective_id": "Modify an AK-102 to comply with the given specifications"
+    },
+    {
+      "title": "Izhmash RPK 16 buffer tube icon",
+      "description": "Appearance reference for equipment or item: Izhmash RPK 16 buffer tube icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/34/Izhmash_RPK-16_buffer_tube_icon.png/revision/latest?cb=20230728225009",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Izhmash_RPK-16_buffer_tube_icon.png",
+      "objective_id": "Modify an AK-102 to comply with the given specifications"
+    }
+  ]
+}

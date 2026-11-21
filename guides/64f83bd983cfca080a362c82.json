@@ -1,0 +1,62 @@
+{
+  "quest_id": "64f83bd983cfca080a362c82",
+  "name": "Gunsmith Master - Part 13",
+  "images": [
+    {
+      "title": "Gunsmith Part25Mods",
+      "description": "Wiki map or reference for the objective: Modify a PKP machine gun to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fb/GunsmithPart25Mods.png/revision/latest?cb=20260420234736",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GunsmithPart25Mods.png",
+      "objective_id": "Modify a PKP machine gun to comply with the given specifications"
+    },
+    {
+      "title": "Gunsmith Part25Insp",
+      "description": "Visual reference for the objective: Modify a PKP machine gun to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/74/GunsmithPart25Insp.png/revision/latest?cb=20260420234714",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GunsmithPart25Insp.png",
+      "objective_id": "Modify a PKP machine gun to comply with the given specifications"
+    },
+    {
+      "title": "DTK 1P Icon",
+      "description": "Appearance reference for equipment or item: DTK 1P Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/23/DTK-1P_Icon_.png/revision/latest?cb=20230813064745",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:DTK-1P_Icon_.png",
+      "objective_id": "Modify a PKP machine gun to comply with the given specifications"
+    },
+    {
+      "title": "NPZ USP 1 4x scope icon v2",
+      "description": "Appearance reference for equipment or item: NPZ USP 1 4x scope icon v2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1e/NPZ_USP-1_4x_scope_icon_v2.png/revision/latest?cb=20230704235145",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:NPZ_USP-1_4x_scope_icon_v2.png",
+      "objective_id": "Modify a PKP machine gun to comply with the given specifications"
+    },
+    {
+      "title": "PK B50 HG Icon",
+      "description": "Appearance reference for equipment or item: PK B50 HG Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/24/PK_B50_HG_Icon.png/revision/latest?cb=20230813064701",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:PK_B50_HG_Icon.png",
+      "objective_id": "Modify a PKP machine gun to comply with the given specifications"
+    },
+    {
+      "title": "PK ZENIT PT 2 Icon",
+      "description": "Appearance reference for equipment or item: PK ZENIT PT 2 Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/56/PK_ZENIT_PT-2_Icon.png/revision/latest?cb=20230813064722",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:PK_ZENIT_PT-2_Icon.png",
+      "objective_id": "Modify a PKP machine gun to comply with the given specifications"
+    },
+    {
+      "title": "PKM 658mm Icon",
+      "description": "Appearance reference for equipment or item: PKM 658mm Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2c/PKM_658mm_Icon.png/revision/latest?cb=20230813064708",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:PKM_658mm_Icon.png",
+      "objective_id": "Modify a PKP machine gun to comply with the given specifications"
+    },
+    {
+      "title": "TBL Icon",
+      "description": "Appearance reference for equipment or item: TBL Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a7/TBL_Icon.PNG/revision/latest?cb=20230627220406",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TBL_Icon.PNG",
+      "objective_id": "Modify a PKP machine gun to comply with the given specifications"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "quest_id": "6761f28a022f60bb320f3e95",
+  "name": "New Beginning",
+  "images": [
+    {
+      "title": "Mutkevich Figurine Grid",
+      "description": "Wiki visual reference associated with New Beginning: Mutkevich Figurine Grid.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f0/MutkevichFigurineGrid.png/revision/latest?cb=20250109200038",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MutkevichFigurineGrid.png"
+    },
+    {
+      "title": "Scavfigurineico",
+      "description": "Wiki visual reference associated with New Beginning: Scavfigurineico.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/61/Scavfigurineico.png/revision/latest?cb=20250109200232",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Scavfigurineico.png"
+    },
+    {
+      "title": "BEAR operative figurine icon",
+      "description": "Appearance reference for equipment or item: BEAR operative figurine icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3f/BEAR_operative_figurine_icon.png/revision/latest?cb=20250109192520",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BEAR_operative_figurine_icon.png"
+    },
+    {
+      "title": "BTR figurine icon",
+      "description": "Appearance reference for equipment or item: BTR figurine icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c7/BTR_figurine_icon.png/revision/latest?cb=20251210003408",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BTR_figurine_icon.png"
+    },
+    {
+      "title": "Cultist figurine icon",
+      "description": "Appearance reference for equipment or item: Cultist figurine icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7c/Cultist_figurine_icon.png/revision/latest?cb=20250109195637",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Cultist_figurine_icon.png"
+    },
+    {
+      "title": "Ded Moroz Figurine icon",
+      "description": "Appearance reference for equipment or item: Ded Moroz Figurine icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/84/Ded_Moroz_Figurine_icon.png/revision/latest?cb=20250109195657",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Ded_Moroz_Figurine_icon.png"
+    },
+    {
+      "title": "Den figurine Icon",
+      "description": "Appearance reference for equipment or item: Den figurine Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d4/Den_figurine_Icon.png/revision/latest?cb=20250109195719",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Den_figurine_Icon.png"
+    },
+    {
+      "title": "Duck figurine icon",
+      "description": "Appearance reference for equipment or item: Duck figurine icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/32/Duck_figurine_icon.png/revision/latest?cb=20260210192205",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Duck_figurine_icon.png"
+    },
+    {
+      "title": "Fence figurine icon",
+      "description": "Appearance reference for equipment or item: Fence figurine icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cc/Fence_figurine_icon.png/revision/latest?cb=20251210003409",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Fence_figurine_icon.png"
+    },
+    {
+      "title": "Hideout Cat figurine icon",
+      "description": "Appearance reference for equipment or item: Hideout Cat figurine icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9c/Hideout_Cat_figurine_icon.png/revision/latest?cb=20251210003410",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Hideout_Cat_figurine_icon.png"
+    },
+    {
+      "title": "Jaeger figurine icon",
+      "description": "Appearance reference for equipment or item: Jaeger figurine icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fd/Jaeger_figurine_icon.png/revision/latest?cb=20251210003411",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Jaeger_figurine_icon.png"
+    },
+    {
+      "title": "Killa figurine Icon",
+      "description": "Appearance reference for equipment or item: Killa figurine Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/15/Killa_figurine_Icon.png/revision/latest?cb=20250109195931",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Killa_figurine_Icon.png"
+    },
+    {
+      "title": "Lightkeeper figurine icon",
+      "description": "Appearance reference for equipment or item: Lightkeeper figurine icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9e/Lightkeeper_figurine_icon.png/revision/latest?cb=20251210003412",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Lightkeeper_figurine_icon.png"
+    },
+    {
+      "title": "Mastichin figurine icon",
+      "description": "Appearance reference for equipment or item: Mastichin figurine icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/33/Mastichin_figurine_icon.png/revision/latest?cb=20251210003413",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Mastichin_figurine_icon.png"
+    },
+    {
+      "title": "Mechanic figurine icon",
+      "description": "Appearance reference for equipment or item: Mechanic figurine icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9f/Mechanic_figurine_icon.png/revision/latest?cb=20251210003414",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Mechanic_figurine_icon.png"
+    },
+    {
+      "title": "Peacekeeper figurine icon",
+      "description": "Appearance reference for equipment or item: Peacekeeper figurine icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0a/Peacekeeper_figurine_icon.png/revision/latest?cb=20251210003415",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Peacekeeper_figurine_icon.png"
+    },
+    {
+      "title": "Prapor figurine icon",
+      "description": "Appearance reference for equipment or item: Prapor figurine icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b0/Prapor_figurine_icon.png/revision/latest?cb=20251210003416",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Prapor_figurine_icon.png"
+    },
+    {
+      "title": "Ragman figurine icon",
+      "description": "Appearance reference for equipment or item: Ragman figurine icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/12/Ragman_figurine_icon.png/revision/latest?cb=20251210003417",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Ragman_figurine_icon.png"
+    },
+    {
+      "title": "Ref figurine icon",
+      "description": "Appearance reference for equipment or item: Ref figurine icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2a/Ref_figurine_icon.png/revision/latest?cb=20251210003418",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Ref_figurine_icon.png"
+    },
+    {
+      "title": "Reshala figurine Icon",
+      "description": "Appearance reference for equipment or item: Reshala figurine Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a8/Reshala_figurine_Icon.png/revision/latest?cb=20250109200122",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Reshala_figurine_Icon.png"
+    },
+    {
+      "title": "Skier figurine icon",
+      "description": "Appearance reference for equipment or item: Skier figurine icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a8/Skier_figurine_icon.png/revision/latest?cb=20251210003419",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Skier_figurine_icon.png"
+    },
+    {
+      "title": "Tagilla figurine Icon",
+      "description": "Appearance reference for equipment or item: Tagilla figurine Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/16/Tagilla_figurine_Icon.png/revision/latest?cb=20250109200308",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Tagilla_figurine_Icon.png"
+    },
+    {
+      "title": "Therapist figurine icon",
+      "description": "Appearance reference for equipment or item: Therapist figurine icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/20/Therapist_figurine_icon.png/revision/latest?cb=20251210003420",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Therapist_figurine_icon.png"
+    },
+    {
+      "title": "USEC Figurine Icon",
+      "description": "Appearance reference for equipment or item: USEC Figurine Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7c/USEC-Figurine-Icon.png/revision/latest?cb=20250109200410",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:USEC-Figurine-Icon.png"
+    },
+    {
+      "title": "Walking Tank figurine icon",
+      "description": "Appearance reference for equipment or item: Walking Tank figurine icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2d/Walking_Tank_figurine_icon.png/revision/latest?cb=20251210003421",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Walking_Tank_figurine_icon.png"
+    }
+  ]
+}

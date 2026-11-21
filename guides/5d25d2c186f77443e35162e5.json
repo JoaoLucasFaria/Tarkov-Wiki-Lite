@@ -1,0 +1,13 @@
+{
+  "quest_id": "5d25d2c186f77443e35162e5",
+  "name": "The Survivalist Path - Cold Blooded",
+  "images": [
+    {
+      "title": "Tremor",
+      "description": "Appearance reference for equipment or item: Tremor.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ae/Tremor.png/revision/latest?cb=20230807005208",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Tremor.png",
+      "objective_id": "Eliminate PMC operatives with headshots while suffering from the Tremor status effect"
+    }
+  ]
+}

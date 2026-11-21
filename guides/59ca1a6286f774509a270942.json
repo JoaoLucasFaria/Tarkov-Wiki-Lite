@@ -1,0 +1,42 @@
+{
+  "quest_id": "59ca1a6286f774509a270942",
+  "name": "Ironclad Proof",
+  "images": [
+    {
+      "title": "40 VOG 25",
+      "description": "Appearance reference for equipment or item: 40 VOG 25.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/10/40_VOG-25.png/revision/latest?cb=20220406135518",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:40_VOG-25.png"
+    },
+    {
+      "title": "F 1 grenade icon",
+      "description": "Appearance reference for equipment or item: F 1 grenade icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/aa/F-1_grenade_icon.png/revision/latest?cb=20240902110647",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:F-1_grenade_icon.png"
+    },
+    {
+      "title": "F 1 hand grenade (Reduced delay) icon",
+      "description": "Appearance reference for equipment or item: F 1 hand grenade (Reduced delay) icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a9/F-1_hand_grenade_%28Reduced_delay%29_icon.png/revision/latest?cb=20250623155553",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:F-1_hand_grenade_(Reduced_delay)_icon.png"
+    },
+    {
+      "title": "RGD 5 grenade icon",
+      "description": "Appearance reference for equipment or item: RGD 5 grenade icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b1/RGD-5_grenade_icon.png/revision/latest?cb=20240902105917",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:RGD-5_grenade_icon.png"
+    },
+    {
+      "title": "Vog 25 icon",
+      "description": "Appearance reference for equipment or item: Vog 25 icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4f/Vog-25_icon.png/revision/latest?cb=20240902111317",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Vog-25_icon.png"
+    },
+    {
+      "title": "Zarya stun grenade icon",
+      "description": "Appearance reference for equipment or item: Zarya stun grenade icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b6/Zarya_stun_grenade_icon.png/revision/latest?cb=20240902111045",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Zarya_stun_grenade_icon.png"
+    }
+  ]
+}

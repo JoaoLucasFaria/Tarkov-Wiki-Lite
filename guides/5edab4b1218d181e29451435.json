@@ -1,0 +1,13 @@
+{
+  "quest_id": "5edab4b1218d181e29451435",
+  "name": "The Huntsman Path - Sadist",
+  "images": [
+    {
+      "title": "Sanitar Bag Icon",
+      "description": "Appearance reference for equipment or item: Sanitar Bag Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/41/Sanitar_Bag_Icon.png/revision/latest?cb=20230803012955",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Sanitar_Bag_Icon.png",
+      "objective_id": "Hand over the found in raid Sanitar's bag"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "quest_id": "608a768d82e40b3c727fd17d",
+  "name": "Pest Control",
+  "images": [
+    {
+      "title": "Pestcontrol",
+      "description": "Wiki location image for the objective: Eliminate Scavs around the main barracks on Reserve.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c0/Pestcontrol.png/revision/latest?cb=20260404190850",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Pestcontrol.png",
+      "objective_id": "Eliminate Scavs around the main barracks on Reserve"
+    }
+  ]
+}

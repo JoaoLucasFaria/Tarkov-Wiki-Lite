@@ -1,0 +1,13 @@
+{
+  "quest_id": "60896bca6ee58f38c417d4f2",
+  "name": "No Place for Renegades",
+  "images": [
+    {
+      "title": "Underground Command Are Map",
+      "description": "Wiki map or reference for the objective: Eliminate Raiders in the command bunker on Reserve.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/67/UndergroundCommandAreMap.png/revision/latest?cb=20260404130340",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:UndergroundCommandAreMap.png",
+      "objective_id": "Eliminate Raiders in the command bunker on Reserve"
+    }
+  ]
+}

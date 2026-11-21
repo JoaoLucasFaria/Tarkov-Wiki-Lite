@@ -1,0 +1,20 @@
+{
+  "quest_id": "6193850f60b34236ee0483de",
+  "name": "Long Road",
+  "images": [
+    {
+      "title": "Long Road Map",
+      "description": "Wiki map or reference for the objective: Eliminate Scavs along the shore and the main road on Lighthouse or Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/72/LongRoadMap.png/revision/latest?cb=20260926175402",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:LongRoadMap.png",
+      "objective_id": "Eliminate Scavs along the shore and the main road on Lighthouse or Shoreline"
+    },
+    {
+      "title": "Long Road Shoreline Map",
+      "description": "Wiki map or reference for the objective: Eliminate Scavs along the shore and the main road on Lighthouse or Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c2/LongRoadShorelineMap.png/revision/latest?cb=20260926180913",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:LongRoadShorelineMap.png",
+      "objective_id": "Eliminate Scavs along the shore and the main road on Lighthouse or Shoreline"
+    }
+  ]
+}

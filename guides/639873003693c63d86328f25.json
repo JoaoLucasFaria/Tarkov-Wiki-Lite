@@ -1,0 +1,69 @@
+{
+  "quest_id": "639873003693c63d86328f25",
+  "name": "Gunsmith Master - Part 6",
+  "images": [
+    {
+      "title": "GS19 Mods",
+      "description": "Wiki weapon-build illustration for Gunsmith Master - Part 6; compare the pictured setup with the quest requirements.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/dd/GS19_Mods.png/revision/latest?cb=20260420225629",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GS19_Mods.png",
+      "objective_id": "Modify an SVDS to comply with the given specifications"
+    },
+    {
+      "title": "30mmmount",
+      "description": "Visual reference for the objective: Modify an SVDS to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/01/30mmmount.png/revision/latest?cb=20230729194050",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:30mmmount.png",
+      "objective_id": "Modify an SVDS to comply with the given specifications"
+    },
+    {
+      "title": "GS19 Insp",
+      "description": "Visual reference for the objective: Modify an SVDS to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/13/GS19_Insp.png/revision/latest?cb=20260420225549",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GS19_Insp.png",
+      "objective_id": "Modify an SVDS to comply with the given specifications"
+    },
+    {
+      "title": "3 24x42icon",
+      "description": "Appearance reference for equipment or item: 3 24x42icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/32/3-24x42icon.png/revision/latest?cb=20230704235237",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:3-24x42icon.png",
+      "objective_id": "Modify an SVDS to comply with the given specifications"
+    },
+    {
+      "title": "AKMOE Icon",
+      "description": "Appearance reference for equipment or item: AKMOE Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/99/AKMOE_Icon.png/revision/latest?cb=20260505011539",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:AKMOE_Icon.png",
+      "objective_id": "Modify an SVDS to comply with the given specifications"
+    },
+    {
+      "title": "Custom SVDS dust cover icon",
+      "description": "Appearance reference for equipment or item: Custom SVDS dust cover icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/60/Custom_SVDS_dust_cover_icon.png/revision/latest?cb=20230723221027",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Custom_SVDS_dust_cover_icon.png",
+      "objective_id": "Modify an SVDS to comply with the given specifications"
+    },
+    {
+      "title": "Rotor 43 7.62x54 muzzle brake icon",
+      "description": "Appearance reference for equipment or item: Rotor 43 7.62x54 muzzle brake icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/06/Rotor_43_7.62x54_muzzle_brake_icon.png/revision/latest?cb=20230709211402",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Rotor_43_7.62x54_muzzle_brake_icon.png",
+      "objective_id": "Modify an SVDS to comply with the given specifications"
+    },
+    {
+      "title": "Rotor 43 thread adapter for SVD S icon",
+      "description": "Appearance reference for equipment or item: Rotor 43 thread adapter for SVD S icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/76/Rotor_43_thread_adapter_for_SVD-S_icon.png/revision/latest?cb=20230704221429",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Rotor_43_thread_adapter_for_SVD-S_icon.png",
+      "objective_id": "Modify an SVDS to comply with the given specifications"
+    },
+    {
+      "title": "SAG MK1 Freefloat Chassis for SVD icon",
+      "description": "Appearance reference for equipment or item: SAG MK1 Freefloat Chassis for SVD icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bd/SAG_MK1_Freefloat_Chassis_for_SVD_icon.png/revision/latest?cb=20230726212510",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SAG_MK1_Freefloat_Chassis_for_SVD_icon.png",
+      "objective_id": "Modify an SVDS to comply with the given specifications"
+    }
+  ]
+}

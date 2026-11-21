@@ -1,0 +1,24 @@
+{
+  "quest_id": "675c1d6d59b0575973008fc7",
+  "name": "Seizing the Initiative",
+  "images": [
+    {
+      "title": "Customs Transit To Shoreline Map",
+      "description": "Wiki map or instructional reference associated with Seizing the Initiative.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f6/CustomsTransitToShorelineMap.png/revision/latest?cb=20250115205654",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:CustomsTransitToShorelineMap.png"
+    },
+    {
+      "title": "Customs Transit To Shoreline",
+      "description": "Location reference from the Seizing the Initiative wiki page: Customs Transit To Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/91/CustomsTransitToShoreline.png/revision/latest?cb=20250316151507",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:CustomsTransitToShoreline.png"
+    },
+    {
+      "title": "Sniper Roadblock",
+      "description": "Wiki visual reference associated with Seizing the Initiative: Sniper Roadblock.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9d/Sniper_Roadblock.png/revision/latest?cb=20250316144131",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Sniper_Roadblock.png"
+    }
+  ]
+}

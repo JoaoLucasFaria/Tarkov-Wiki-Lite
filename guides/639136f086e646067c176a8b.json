@@ -1,0 +1,13 @@
+{
+  "quest_id": "639136f086e646067c176a8b",
+  "name": "Kings of the Rooftops",
+  "images": [
+    {
+      "title": "Ko R Sniper Map",
+      "description": "Wiki map or reference for the objective: Eliminate Sniper Scavs on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e8/KoRSniperMap.png/revision/latest?cb=20260414213541",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:KoRSniperMap.png",
+      "objective_id": "Eliminate Sniper Scavs on Streets of Tarkov"
+    }
+  ]
+}

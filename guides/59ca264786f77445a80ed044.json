@@ -1,0 +1,20 @@
+{
+  "quest_id": "59ca264786f77445a80ed044",
+  "name": "The Punisher - Part 4",
+  "images": [
+    {
+      "title": "A 2607 Bars",
+      "description": "Visual reference for the objective: Find the item in raid: Bars A-2607 95Kh18 knife.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8c/A-2607_Bars.png/revision/latest?cb=20220125173649",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:A-2607_Bars.png",
+      "objective_id": "Find the item in raid: Bars A-2607 95Kh18 knife"
+    },
+    {
+      "title": "Scav Vest icon",
+      "description": "Appearance reference for equipment or item: Scav Vest icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/39/Scav_Vest_icon.png/revision/latest?cb=20260909210617",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Scav_Vest_icon.png",
+      "objective_id": "Eliminate Scavs while wearing a Scav vest on Lighthouse"
+    }
+  ]
+}

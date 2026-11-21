@@ -1,0 +1,20 @@
+{
+  "quest_id": "666314b4d7f171c4c20226c3",
+  "name": "The Good Times - Part 1",
+  "images": [
+    {
+      "title": "FORT armor icon",
+      "description": "Appearance reference for equipment or item: FORT armor icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/90/FORT_armor_icon.png/revision/latest?cb=20240103172502",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:FORT_armor_icon.png",
+      "objective_id": "Eliminate PMC operatives while wearing 6B43 body armor and Kiver-M helmet on Factory"
+    },
+    {
+      "title": "Kiver M Helmet icon",
+      "description": "Appearance reference for equipment or item: Kiver M Helmet icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1c/Kiver-M_Helmet_icon.png/revision/latest?cb=20250502203517",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Kiver-M_Helmet_icon.png",
+      "objective_id": "Eliminate PMC operatives while wearing 6B43 body armor and Kiver-M helmet on Factory"
+    }
+  ]
+}

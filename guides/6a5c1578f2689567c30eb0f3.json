@@ -1,0 +1,13 @@
+{
+  "quest_id": "6a5c1578f2689567c30eb0f3",
+  "name": "Hiking",
+  "images": [
+    {
+      "title": "Hiking Map",
+      "description": "Wiki map or reference for the objective: Eliminate Scavs at USEC camp, Scav camp, sawmill, or abandoned village on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/af/Hiking_Map.jpg/revision/latest?cb=20260926235523",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Hiking_Map.jpg",
+      "objective_id": "Eliminate Scavs at USEC camp, Scav camp, sawmill, or abandoned village on Woods"
+    }
+  ]
+}

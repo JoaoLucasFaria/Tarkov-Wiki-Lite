@@ -1,0 +1,18 @@
+{
+  "quest_id": "673f6027352b4da8e00322d2",
+  "name": "Inevitable Response",
+  "images": [
+    {
+      "title": "Woods Transit To Reserve",
+      "description": "Location reference from the Inevitable Response wiki page: Woods Transit To Reserve.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/19/WoodsTransitToReserve.png/revision/latest?cb=20241103134445",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WoodsTransitToReserve.png"
+    },
+    {
+      "title": "Woods Transit To Reserve2",
+      "description": "Location reference from the Inevitable Response wiki page: Woods Transit To Reserve2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/47/WoodsTransitToReserve2.png/revision/latest?cb=20241103130858",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WoodsTransitToReserve2.png"
+    }
+  ]
+}

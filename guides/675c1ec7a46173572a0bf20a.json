@@ -1,0 +1,19 @@
+{
+  "quest_id": "675c1ec7a46173572a0bf20a",
+  "name": "Rite of Passage",
+  "images": [
+    {
+      "title": "Rite of Passage map",
+      "description": "Wiki map or instructional reference associated with Rite of Passage.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/70/Rite_of_Passage_map.png/revision/latest?cb=20260404170143",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Rite_of_Passage_map.png"
+    },
+    {
+      "title": "Metal fuel tank icon",
+      "description": "Appearance reference for equipment or item: Metal fuel tank icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/66/Metal-fuel-tank-icon.png/revision/latest?cb=20250114194736",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Metal-fuel-tank-icon.png",
+      "objective_id": "Hand over the found in raid item: Metal fuel tank"
+    }
+  ]
+}

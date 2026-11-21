@@ -1,0 +1,24 @@
+{
+  "quest_id": "5c0d4c12d09282029f539173",
+  "name": "Peacekeeping Mission",
+  "images": [
+    {
+      "title": "Peacekeeping Mission M4A1 icon",
+      "description": "Appearance reference for equipment or item: Peacekeeping Mission M4A1 icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/12/Peacekeeping_Mission_M4A1_icon.png/revision/latest?cb=20260323000357",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Peacekeeping_Mission_M4A1_icon.png"
+    },
+    {
+      "title": "UNTAR Armor Icon",
+      "description": "Appearance reference for equipment or item: UNTAR Armor Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/UNTARArmorIcon.png/revision/latest?cb=20240103163630",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:UNTARArmorIcon.png"
+    },
+    {
+      "title": "UNTAR Helmet Icon",
+      "description": "Appearance reference for equipment or item: UNTAR Helmet Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e3/UNTARHelmetIcon.png/revision/latest?cb=20240102205204",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:UNTARHelmetIcon.png"
+    }
+  ]
+}

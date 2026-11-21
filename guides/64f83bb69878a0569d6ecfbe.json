@@ -1,0 +1,62 @@
+{
+  "quest_id": "64f83bb69878a0569d6ecfbe",
+  "name": "Gunsmith Master - Part 10",
+  "images": [
+    {
+      "title": "Gunsmith Part23Mods",
+      "description": "Wiki map or reference for the objective: Modify a CMMG Mk47 Mutant to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/83/GunsmithPart23Mods.png/revision/latest?cb=20260420234020",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GunsmithPart23Mods.png",
+      "objective_id": "Modify a CMMG Mk47 Mutant to comply with the given specifications"
+    },
+    {
+      "title": "Gunsmith Part23insp",
+      "description": "Visual reference for the objective: Modify a CMMG Mk47 Mutant to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4a/GunsmithPart23insp.png/revision/latest?cb=20260420234156",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GunsmithPart23insp.png",
+      "objective_id": "Modify a CMMG Mk47 Mutant to comply with the given specifications"
+    },
+    {
+      "title": "Gl21",
+      "description": "Appearance reference for equipment or item: Gl21.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a5/Gl21.png/revision/latest?cb=20260426140810",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Gl21.png",
+      "objective_id": "Modify a CMMG Mk47 Mutant to comply with the given specifications"
+    },
+    {
+      "title": "HK E1 Icon",
+      "description": "Appearance reference for equipment or item: HK E1 Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c6/HK_E1_Icon.png/revision/latest?cb=20230728011449",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:HK_E1_Icon.png",
+      "objective_id": "Modify a CMMG Mk47 Mutant to comply with the given specifications"
+    },
+    {
+      "title": "Mk47 409mm Icon",
+      "description": "Appearance reference for equipment or item: Mk47 409mm Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9a/Mk47_409mm_Icon.png/revision/latest?cb=20230725234402",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Mk47_409mm_Icon.png",
+      "objective_id": "Modify a CMMG Mk47 Mutant to comply with the given specifications"
+    },
+    {
+      "title": "Noveske SWS N6 Split handguard for AR 10 compatible systems icon",
+      "description": "Appearance reference for equipment or item: Noveske SWS N6 Split handguard for AR 10 compatible systems icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/33/Noveske_SWS_N6_Split_handguard_for_AR-10-compatible_systems_icon.png/revision/latest?cb=20230726213046",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Noveske_SWS_N6_Split_handguard_for_AR-10-compatible_systems_icon.png",
+      "objective_id": "Modify a CMMG Mk47 Mutant to comply with the given specifications"
+    },
+    {
+      "title": "Odin Muzzle Icon",
+      "description": "Appearance reference for equipment or item: Odin Muzzle Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d6/OdinMuzzleIcon.png/revision/latest?cb=20230705220852",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:OdinMuzzleIcon.png",
+      "objective_id": "Modify a CMMG Mk47 Mutant to comply with the given specifications"
+    },
+    {
+      "title": "Pro Mag AK A 16 73 round 7.62x39 magazine for AKM and compatibles icon",
+      "description": "Appearance reference for equipment or item: Pro Mag AK A 16 73 round 7.62x39 magazine for AKM and compatibles icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/41/ProMag_AK-A-16_73-round_7.62x39_magazine_for_AKM_and_compatibles_icon.png/revision/latest?cb=20230712200107",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ProMag_AK-A-16_73-round_7.62x39_magazine_for_AKM_and_compatibles_icon.png",
+      "objective_id": "Modify a CMMG Mk47 Mutant to comply with the given specifications"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "quest_id": "59ca29fb86f77445ab465c87",
+  "name": "The Punisher - Part 5",
+  "images": [
+    {
+      "title": "AK 74 icon",
+      "description": "Appearance reference for equipment or item: AK 74 icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4b/AK-74_icon.png/revision/latest?cb=20241008003136",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:AK-74_icon.png"
+    },
+    {
+      "title": "AK 74M icon",
+      "description": "Appearance reference for equipment or item: AK 74M icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4d/AK-74M_icon.png/revision/latest?cb=20241008003141",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:AK-74M_icon.png"
+    },
+    {
+      "title": "AK 74N icon",
+      "description": "Appearance reference for equipment or item: AK 74N icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d7/AK-74N_icon.png/revision/latest?cb=20241008003147",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:AK-74N_icon.png"
+    },
+    {
+      "title": "AKS 74 Icon",
+      "description": "Appearance reference for equipment or item: AKS 74 Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/72/AKS-74_Icon.png/revision/latest?cb=20241008003155",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:AKS-74_Icon.png"
+    },
+    {
+      "title": "AKS 74N Icon",
+      "description": "Appearance reference for equipment or item: AKS 74N Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/43/AKS-74NIcon.png/revision/latest?cb=20241008003201",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:AKS-74NIcon.png"
+    },
+    {
+      "title": "M4A1 icon",
+      "description": "Appearance reference for equipment or item: M4A1 icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/37/M4A1_icon.png/revision/latest?cb=20230815135538",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:M4A1_icon.png"
+    },
+    {
+      "title": "PM icon",
+      "description": "Appearance reference for equipment or item: PM icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/38/PM_icon.png/revision/latest?cb=20230822070454",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:PM_icon.png"
+    },
+    {
+      "title": "PM(t) icon",
+      "description": "Appearance reference for equipment or item: PM(t) icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6e/PM%28t%29_icon.png/revision/latest?cb=20230822070501",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:PM(t)_icon.png"
+    }
+  ]
+}

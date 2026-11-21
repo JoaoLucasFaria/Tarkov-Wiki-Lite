@@ -1,0 +1,69 @@
+{
+  "quest_id": "5b477f7686f7744d1b23c4d2",
+  "name": "Gunsmith Master - Part 7",
+  "images": [
+    {
+      "title": "Gunsmith Part15Mods",
+      "description": "Wiki map or reference for the objective: Modify an M1A to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/aa/GunsmithPart15Mods.png/revision/latest?cb=20260420230341",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GunsmithPart15Mods.png",
+      "objective_id": "Modify an M1A to comply with the given specifications"
+    },
+    {
+      "title": "Gunsmith Part15Mods2",
+      "description": "Wiki map or reference for the objective: Modify an M1A to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/66/GunsmithPart15Mods2.png/revision/latest?cb=20260420230408",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GunsmithPart15Mods2.png",
+      "objective_id": "Modify an M1A to comply with the given specifications"
+    },
+    {
+      "title": "M14 Ultimak M8 upper part",
+      "description": "Visual reference for the objective: Modify an M1A to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4a/M14_Ultimak_M8_upper_part.png/revision/latest?cb=20230729202157",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:M14_Ultimak_M8_upper_part.png",
+      "objective_id": "Modify an M1A to comply with the given specifications"
+    },
+    {
+      "title": "Amm",
+      "description": "Appearance reference for equipment or item: Amm.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7d/Amm.png/revision/latest?cb=20230729193330",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Amm.png",
+      "objective_id": "Modify an M1A to comply with the given specifications"
+    },
+    {
+      "title": "Archangelstockicon",
+      "description": "Appearance reference for equipment or item: Archangelstockicon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/95/Archangelstockicon.png/revision/latest?cb=20230728223204",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Archangelstockicon.png",
+      "objective_id": "Modify an M1A to comply with the given specifications"
+    },
+    {
+      "title": "KH F Icon",
+      "description": "Appearance reference for equipment or item: KH F Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/46/KH-F_Icon.png/revision/latest?cb=20230729205523",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:KH-F_Icon.png",
+      "objective_id": "Modify an M1A to comply with the given specifications"
+    },
+    {
+      "title": "Ls321",
+      "description": "Appearance reference for equipment or item: Ls321.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/42/Ls321.png/revision/latest?cb=20230627220319",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Ls321.png",
+      "objective_id": "Modify an M1A to comply with the given specifications"
+    },
+    {
+      "title": "M1amagicon",
+      "description": "Appearance reference for equipment or item: M1amagicon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3f/M1amagicon.png/revision/latest?cb=20230718131032",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:M1amagicon.png",
+      "objective_id": "Modify an M1A to comply with the given specifications"
+    },
+    {
+      "title": "Nightforce ATACR 7 35x56Icon",
+      "description": "Appearance reference for equipment or item: Nightforce ATACR 7 35x56Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8b/Nightforce_ATACR_7-35x56Icon.png/revision/latest?cb=20251116234751",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Nightforce_ATACR_7-35x56Icon.png",
+      "objective_id": "Modify an M1A to comply with the given specifications"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "quest_id": "5b47825886f77468074618d3",
+  "name": "Gunsmith Master - Part 9",
+  "images": [
+    {
+      "title": "Gunsmith Part16Mods",
+      "description": "Wiki map or reference for the objective: Modify an M4A1 to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8b/GunsmithPart16Mods.png/revision/latest?cb=20260421005742",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GunsmithPart16Mods.png",
+      "objective_id": "Modify an M4A1 to comply with the given specifications"
+    },
+    {
+      "title": "Gunsmith Part16Mods2",
+      "description": "Wiki map or reference for the objective: Modify an M4A1 to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bd/GunsmithPart16Mods2.png/revision/latest?cb=20260421005817",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GunsmithPart16Mods2.png",
+      "objective_id": "Modify an M4A1 to comply with the given specifications"
+    },
+    {
+      "title": "Magpul PMAG D 60",
+      "description": "Visual reference for the objective: Modify an M4A1 to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f6/Magpul_PMAG_D-60.png/revision/latest?cb=20230712200030",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Magpul_PMAG_D-60.png",
+      "objective_id": "Modify an M4A1 to comply with the given specifications"
+    },
+    {
+      "title": "NT 4 FDE",
+      "description": "Visual reference for the objective: Modify an M4A1 to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d5/NT-4_FDE.png/revision/latest?cb=20230627213004",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:NT-4_FDE.png",
+      "objective_id": "Modify an M4A1 to comply with the given specifications"
+    },
+    {
+      "title": "STANAG magazine 60 round MAG5 5.56x45",
+      "description": "Visual reference for the objective: Modify an M4A1 to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9a/STANAG_magazine_60-round_MAG5_-5.56x45.png/revision/latest?cb=20230712200020",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:STANAG_magazine_60-round_MAG5_-5.56x45.png",
+      "objective_id": "Modify an M4A1 to comply with the given specifications"
+    },
+    {
+      "title": "260mmm4icon",
+      "description": "Appearance reference for equipment or item: 260mmm4icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/22/260mmm4icon.png/revision/latest?cb=20250318200527",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:260mmm4icon.png",
+      "objective_id": "Modify an M4A1 to comply with the given specifications"
+    },
+    {
+      "title": "AR 15 Magpul B.A.D. Lever bolt release icon",
+      "description": "Appearance reference for equipment or item: AR 15 Magpul B.A.D. Lever bolt release icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/aa/AR-15_Magpul_B.A.D._Lever_bolt_release_icon.png/revision/latest?cb=20250108222305",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:AR-15_Magpul_B.A.D._Lever_bolt_release_icon.png",
+      "objective_id": "Modify an M4A1 to comply with the given specifications"
+    },
+    {
+      "title": "Alexander Arms 10 inch guide Icon",
+      "description": "Appearance reference for equipment or item: Alexander Arms 10 inch guide Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/04/Alexander_Arms_10_inch_guide_Icon.png/revision/latest?cb=20230729201904",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Alexander_Arms_10_inch_guide_Icon.png",
+      "objective_id": "Modify an M4A1 to comply with the given specifications"
+    },
+    {
+      "title": "Dlocird",
+      "description": "Appearance reference for equipment or item: Dlocird.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/38/Dlocird.png/revision/latest?cb=20230729192827",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Dlocird.png",
+      "objective_id": "Modify an M4A1 to comply with the given specifications"
+    },
+    {
+      "title": "Handguard MK 10 for use with AR 15 and compatible Icon",
+      "description": "Appearance reference for equipment or item: Handguard MK 10 for use with AR 15 and compatible Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/28/Handguard_MK_10_for_use_with_AR-15_and_compatible_Icon.png/revision/latest?cb=20230726202625",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Handguard_MK_10_for_use_with_AR-15_and_compatible_Icon.png",
+      "objective_id": "Modify an M4A1 to comply with the given specifications"
+    },
+    {
+      "title": "Kac",
+      "description": "Appearance reference for equipment or item: Kac.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1e/Kac.png/revision/latest?cb=20251125190424",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Kac.png",
+      "objective_id": "Modify an M4A1 to comply with the given specifications"
+    }
+  ]
+}

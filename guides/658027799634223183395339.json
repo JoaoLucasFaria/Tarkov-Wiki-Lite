@@ -1,0 +1,20 @@
+{
+  "quest_id": "658027799634223183395339",
+  "name": "No Swiping",
+  "images": [
+    {
+      "title": "No Swiping Interchange Map",
+      "description": "Wiki map or reference for the objective: Eliminate any target at the smuggler bases on Shoreline or Interchange.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/50/No_Swiping_Interchange_Map.jpg/revision/latest?cb=20260929140355",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:No_Swiping_Interchange_Map.jpg",
+      "objective_id": "Eliminate any target at the smuggler bases on Shoreline or Interchange"
+    },
+    {
+      "title": "No Swiping Map",
+      "description": "Wiki map or reference for the objective: Eliminate any target at the smuggler bases on Shoreline or Interchange.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5f/No_Swiping_Map.png/revision/latest?cb=20240119002926",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:No_Swiping_Map.png",
+      "objective_id": "Eliminate any target at the smuggler bases on Shoreline or Interchange"
+    }
+  ]
+}

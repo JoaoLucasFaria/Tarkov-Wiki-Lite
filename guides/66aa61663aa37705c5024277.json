@@ -1,0 +1,18 @@
+{
+  "quest_id": "66aa61663aa37705c5024277",
+  "name": "Know Your Place!",
+  "images": [
+    {
+      "title": "Streets Transit To Interchange Map",
+      "description": "Wiki map or instructional reference associated with Know Your Place!.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9e/StreetsTransitToInterchangeMap.png/revision/latest?cb=20240828230209",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:StreetsTransitToInterchangeMap.png"
+    },
+    {
+      "title": "Streets Transit To Interchange",
+      "description": "Location reference from the Know Your Place! wiki page: Streets Transit To Interchange.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f8/StreetsTransitToInterchange.png/revision/latest?cb=20240824233949",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:StreetsTransitToInterchange.png"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "quest_id": "666314b0acf8442f8b0531a1",
+  "name": "Hell on Earth - Part 1",
+  "images": [
+    {
+      "title": "Mp43 510",
+      "description": "Visual reference for the objective: Modify an MP-43-1C shotgun to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5a/Mp43_510.png/revision/latest?cb=20230725234802",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Mp43_510.png",
+      "objective_id": "Modify an MP-43-1C shotgun to comply with the given specifications"
+    },
+    {
+      "title": "MP 43 Icon",
+      "description": "Appearance reference for equipment or item: MP 43 Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1d/MP-43_Icon.png/revision/latest?cb=20240707184555",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MP-43_Icon.png",
+      "objective_id": "Modify an MP-43-1C shotgun to comply with the given specifications"
+    }
+  ]
+}

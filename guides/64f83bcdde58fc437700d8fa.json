@@ -1,0 +1,62 @@
+{
+  "quest_id": "64f83bcdde58fc437700d8fa",
+  "name": "Gunsmith Master - Part 11",
+  "images": [
+    {
+      "title": "Gunsmith Part24Mods",
+      "description": "Wiki map or reference for the objective: Modify a KAC SR-25 to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a5/GunsmithPart24Mods.png/revision/latest?cb=20260420235800",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GunsmithPart24Mods.png",
+      "objective_id": "Modify a KAC SR-25 to comply with the given specifications"
+    },
+    {
+      "title": "Gunsmith Part24Insp",
+      "description": "Visual reference for the objective: Modify a KAC SR-25 to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/90/GunsmithPart24Insp.png/revision/latest?cb=20260420235722",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GunsmithPart24Insp.png",
+      "objective_id": "Modify a KAC SR-25 to comply with the given specifications"
+    },
+    {
+      "title": "Ergo PSG 1icon",
+      "description": "Appearance reference for equipment or item: Ergo PSG 1icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c5/ErgoPSG-1icon.png/revision/latest?cb=20230718232033",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ErgoPSG-1icon.png",
+      "objective_id": "Modify a KAC SR-25 to comply with the given specifications"
+    },
+    {
+      "title": "FLIR RS 32 Icon",
+      "description": "Appearance reference for equipment or item: FLIR RS 32 Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/94/FLIR_RS-32_Icon.png/revision/latest?cb=20230704233248",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:FLIR_RS-32_Icon.png",
+      "objective_id": "Modify a KAC SR-25 to comply with the given specifications"
+    },
+    {
+      "title": "Ff3icon",
+      "description": "Appearance reference for equipment or item: Ff3icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0c/Ff3icon.png/revision/latest?cb=20230704233141",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Ff3icon.png",
+      "objective_id": "Modify a KAC SR-25 to comply with the given specifications"
+    },
+    {
+      "title": "Ffwb",
+      "description": "Appearance reference for equipment or item: Ffwb.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5e/Ffwb.png/revision/latest?cb=20230729194221",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Ffwb.png",
+      "objective_id": "Modify a KAC SR-25 to comply with the given specifications"
+    },
+    {
+      "title": "KAC Steel 10 7.62x51 10 rnd icon",
+      "description": "Appearance reference for equipment or item: KAC Steel 10 7.62x51 10 rnd icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c6/KAC_Steel_10_7.62x51_10_rnd_icon.png/revision/latest?cb=20260513145702",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:KAC_Steel_10_7.62x51_10_rnd_icon.png",
+      "objective_id": "Modify a KAC SR-25 to comply with the given specifications"
+    },
+    {
+      "title": "Magpul MLOK 2 5 inch rail Icon",
+      "description": "Appearance reference for equipment or item: Magpul MLOK 2 5 inch rail Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7e/Magpul_MLOK_2_5_inch_rail_Icon.png/revision/latest?cb=20230729201145",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Magpul_MLOK_2_5_inch_rail_Icon.png",
+      "objective_id": "Modify a KAC SR-25 to comply with the given specifications"
+    }
+  ]
+}

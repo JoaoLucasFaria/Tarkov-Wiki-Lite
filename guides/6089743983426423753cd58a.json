@@ -1,0 +1,62 @@
+{
+  "quest_id": "6089743983426423753cd58a",
+  "name": "Safe Corridor",
+  "images": [
+    {
+      "title": "Reserv guide",
+      "description": "Wiki map or instructional reference associated with Safe Corridor.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/54/Reserv_guide.jpg/revision/latest?cb=20230624234929",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Reserv_guide.jpg"
+    },
+    {
+      "title": "Safe corridor map",
+      "description": "Wiki map or instructional reference associated with Safe Corridor.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/66/Safe_corridor_map.png/revision/latest?cb=20260404131701",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Safe_corridor_map.png"
+    },
+    {
+      "title": "Reserve Quest Warehouse",
+      "description": "Location reference from the Safe Corridor wiki page: Reserve Quest Warehouse.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/41/ReserveQuestWarehouse.png/revision/latest?cb=20251107232525",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ReserveQuestWarehouse.png"
+    },
+    {
+      "title": "Safe corridor",
+      "description": "Location reference from the Safe Corridor wiki page: Safe corridor.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e2/Safe_corridor.png/revision/latest?cb=20250225134933",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Safe_corridor.png"
+    },
+    {
+      "title": "Safe Corridor",
+      "description": "Location reference from the Safe Corridor wiki page: Safe Corridor.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/ba/SafeCorridor.PNG/revision/latest?cb=20241018220616",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SafeCorridor.PNG"
+    },
+    {
+      "title": "RB PS81",
+      "description": "Appearance reference for equipment or item: RB PS81.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/92/RB-PS81.png/revision/latest?cb=20230113230919",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:RB-PS81.png"
+    },
+    {
+      "title": "RB PS82 key icon",
+      "description": "Appearance reference for equipment or item: RB PS82 key icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/93/RB-PS82_key_icon.png/revision/latest?cb=20230113230728",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:RB-PS82_key_icon.png"
+    },
+    {
+      "title": "RB PSP1 key icon",
+      "description": "Appearance reference for equipment or item: RB PSP1 key icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2a/RB-PSP1_key_icon.png/revision/latest?cb=20220707210825",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:RB-PSP1_key_icon.png",
+      "objective_id": "Hand over any found in raid keys for the underground storage warehouse (RB-PSP and RB-PSV)"
+    },
+    {
+      "title": "RB PSP2 key icon",
+      "description": "Appearance reference for equipment or item: RB PSP2 key icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8f/RB-PSP2_key_icon.png/revision/latest?cb=20220707210902",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:RB-PSP2_key_icon.png",
+      "objective_id": "Hand over any found in raid keys for the underground storage warehouse (RB-PSP and RB-PSV)"
+    }
+  ]
+}

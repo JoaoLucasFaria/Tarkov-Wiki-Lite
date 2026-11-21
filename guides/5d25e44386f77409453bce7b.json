@@ -1,0 +1,13 @@
+{
+  "quest_id": "5d25e44386f77409453bce7b",
+  "name": "The Huntsman Path - Angry Watchman",
+  "images": [
+    {
+      "title": "Dorms Map",
+      "description": "Wiki map or reference for the objective: Eliminate PMC operatives in the Dorms area on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fe/DormsMap.png/revision/latest?cb=20260604192450",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:DormsMap.png",
+      "objective_id": "Eliminate PMC operatives in the Dorms area on Customs"
+    }
+  ]
+}

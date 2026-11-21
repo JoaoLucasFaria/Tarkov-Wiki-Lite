@@ -1,0 +1,55 @@
+{
+  "quest_id": "5ac242ab86f77412464f68b4",
+  "name": "Gunsmith Master - Part 3",
+  "images": [
+    {
+      "title": "Gunsmith Pt 5 Inspect View",
+      "description": "Wiki weapon-build illustration for Gunsmith Master - Part 3; compare the pictured setup with the quest requirements.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/73/Gunsmith-Pt_5_Inspect_View.png/revision/latest?cb=20260420222945",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Gunsmith-Pt_5_Inspect_View.png",
+      "objective_id": "Modify a DVL-10 to comply with the given specifications"
+    },
+    {
+      "title": "Gunsmith Part5Guide",
+      "description": "Wiki map or reference for the objective: Modify a DVL-10 to comply with the given specifications.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/92/GunsmithPart5Guide.png/revision/latest?cb=20260420223025",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GunsmithPart5Guide.png",
+      "objective_id": "Modify a DVL-10 to comply with the given specifications"
+    },
+    {
+      "title": "34mmmounticon",
+      "description": "Appearance reference for equipment or item: 34mmmounticon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/19/34mmmounticon.png/revision/latest?cb=20230729202318",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:34mmmounticon.png",
+      "objective_id": "Modify a DVL-10 to comply with the given specifications"
+    },
+    {
+      "title": "Gunsmith Part5Icon",
+      "description": "Appearance reference for equipment or item: Gunsmith Part5Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fc/GunsmithPart5Icon.png/revision/latest?cb=20180425214311",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GunsmithPart5Icon.png",
+      "objective_id": "Modify a DVL-10 to comply with the given specifications"
+    },
+    {
+      "title": "KH F Icon",
+      "description": "Appearance reference for equipment or item: KH F Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/46/KH-F_Icon.png/revision/latest?cb=20230729205523",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:KH-F_Icon.png",
+      "objective_id": "Modify a DVL-10 to comply with the given specifications"
+    },
+    {
+      "title": "Nightforce ATACR 7 35x56Icon",
+      "description": "Appearance reference for equipment or item: Nightforce ATACR 7 35x56Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8b/Nightforce_ATACR_7-35x56Icon.png/revision/latest?cb=20251116234751",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Nightforce_ATACR_7-35x56Icon.png",
+      "objective_id": "Modify a DVL-10 to comply with the given specifications"
+    },
+    {
+      "title": "TBL Icon",
+      "description": "Appearance reference for equipment or item: TBL Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a7/TBL_Icon.PNG/revision/latest?cb=20230627220406",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TBL_Icon.PNG",
+      "objective_id": "Modify a DVL-10 to comply with the given specifications"
+    }
+  ]
+}

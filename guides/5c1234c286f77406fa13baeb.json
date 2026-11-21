@@ -1,0 +1,13 @@
+{
+  "quest_id": "5c1234c286f77406fa13baeb",
+  "name": "Setup",
+  "images": [
+    {
+      "title": "Scav Vest icon",
+      "description": "Appearance reference for equipment or item: Scav Vest icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/39/Scav_Vest_icon.png/revision/latest?cb=20260909210617",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Scav_Vest_icon.png",
+      "objective_id": "Eliminate PMC operatives with common Scav weapons while wearing the specified gear on Customs"
+    }
+  ]
+}

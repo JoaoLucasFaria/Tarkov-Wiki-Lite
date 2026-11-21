@@ -1,0 +1,20 @@
+{
+  "quest_id": "5d25e4ca86f77409dd5cdf2c",
+  "name": "Hunting Trip",
+  "images": [
+    {
+      "title": "Accuracy International AXMC Hunting Trip icon",
+      "description": "Appearance reference for equipment or item: Accuracy International AXMC Hunting Trip icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/72/Accuracy_International_AXMC_Hunting_Trip_icon.png/revision/latest?cb=20261013235035",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Accuracy_International_AXMC_Hunting_Trip_icon.png",
+      "objective_id": "Locate and neutralize any Boss with a bolt-action rifle"
+    },
+    {
+      "title": "Sako TRG M10 Hunting Trip icon",
+      "description": "Appearance reference for equipment or item: Sako TRG M10 Hunting Trip icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0d/Sako_TRG_M10_Hunting_Trip_icon.png/revision/latest?cb=20261013235603",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Sako_TRG_M10_Hunting_Trip_icon.png",
+      "objective_id": "Locate and neutralize any Boss with a bolt-action rifle"
+    }
+  ]
+}

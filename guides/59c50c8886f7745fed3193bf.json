@@ -1,0 +1,13 @@
+{
+  "quest_id": "59c50c8886f7745fed3193bf",
+  "name": "The Punisher - Part 3",
+  "images": [
+    {
+      "title": "Lower half mask icon",
+      "description": "Appearance reference for equipment or item: Lower half mask icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f4/Lower_half-mask_icon.png/revision/latest?cb=20250411194059",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Lower_half-mask_icon.png",
+      "objective_id": "Find the item in raid: Lower half-mask"
+    }
+  ]
+}
