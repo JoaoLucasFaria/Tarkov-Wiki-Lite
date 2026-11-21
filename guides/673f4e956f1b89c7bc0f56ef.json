@@ -1,0 +1,31 @@
+{
+  "quest_id": "673f4e956f1b89c7bc0f56ef",
+  "name": "Hot Wheels",
+  "images": [
+    {
+      "title": "Hot Wheels Map",
+      "description": "Wiki map or location guide for Hot Wheels.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3a/HotWheelsMap.png/revision/latest?cb=20250116191920",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:HotWheelsMap.png"
+    },
+    {
+      "title": "Hot Wheels Location",
+      "description": "Wiki location reference (Hot Wheels Location) for Hot Wheels.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bb/HotWheelsLocation.png/revision/latest?cb=20250116191523",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:HotWheelsLocation.png"
+    },
+    {
+      "title": "Surplus Goods Garage",
+      "description": "Visual reference (Surplus Goods Garage) from the Hot Wheels wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/60/SurplusGoodsGarage.png/revision/latest?cb=20260424184251",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SurplusGoodsGarage.png"
+    },
+    {
+      "title": "MS2000 Marker Icon",
+      "description": "Inventory appearance of MS2000 Marker, shown for identification during Hot Wheels.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a9/MS2000_Marker_icon.png/revision/latest?cb=20250407003132",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MS2000_Marker_icon.png",
+      "objective_id": "Locate and mark the spare BTR wheels with an MS2000 Marker"
+    }
+  ]
+}

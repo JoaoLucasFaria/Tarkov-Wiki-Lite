@@ -1,0 +1,27 @@
+{
+  "quest_id": "61958c366726521dd96828ec",
+  "name": "Gifts from Tarkov",
+  "images": [
+    {
+      "title": "Cargo X4Map",
+      "description": "Wiki map or route reference for the objective: Locate and mark the TerraGroup cargo with an MS2000 Marker on Lighthouse.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3f/CargoX4Map.png/revision/latest?cb=20230903140714",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:CargoX4Map.png",
+      "objective_id": "Locate and mark the TerraGroup cargo with an MS2000 Marker on Lighthouse"
+    },
+    {
+      "title": "Cargo X4Cargo",
+      "description": "Wiki location reference for the objective: Locate and mark the TerraGroup cargo with an MS2000 Marker on Lighthouse.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/97/CargoX4Cargo.png/revision/latest?cb=20211219181310",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:CargoX4Cargo.png",
+      "objective_id": "Locate and mark the TerraGroup cargo with an MS2000 Marker on Lighthouse"
+    },
+    {
+      "title": "MS2000 Marker Icon",
+      "description": "Inventory appearance of MS2000 Marker, shown for identification during Gifts from Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a9/MS2000_Marker_icon.png/revision/latest?cb=20250407003132",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MS2000_Marker_icon.png",
+      "objective_id": "Locate and mark the TerraGroup cargo with an MS2000 Marker on Lighthouse"
+    }
+  ]
+}

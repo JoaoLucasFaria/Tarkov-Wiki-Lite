@@ -1,0 +1,90 @@
+{
+  "quest_id": "666314c5a9290f9e0806cca5",
+  "name": "Key to the City",
+  "images": [
+    {
+      "title": "Streets Of Tarkov Map CPSU Part2Marked On Map",
+      "description": "Wiki map or route reference for the objective: Locate and obtain the souvenir key to the city on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/42/StreetsOfTarkovMapCPSUPart2MarkedOnMap.png/revision/latest?cb=20240705022801",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:StreetsOfTarkovMapCPSUPart2MarkedOnMap.png",
+      "objective_id": "Locate and obtain the souvenir key to the city on Streets of Tarkov"
+    },
+    {
+      "title": "CPSU Part2Inside",
+      "description": "Wiki location reference for the objective: Locate and obtain the souvenir key to the city on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c3/CPSUPart2Inside.png/revision/latest?cb=20230925160026",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:CPSUPart2Inside.png",
+      "objective_id": "Locate and obtain the souvenir key to the city on Streets of Tarkov"
+    },
+    {
+      "title": "CPSU Part2Outside",
+      "description": "Wiki location reference for the objective: Locate and obtain the souvenir key to the city on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/64/CPSUPart2Outside.png/revision/latest?cb=20250227013330",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:CPSUPart2Outside.png",
+      "objective_id": "Locate and obtain the souvenir key to the city on Streets of Tarkov"
+    },
+    {
+      "title": "Tarkov City Souvenir Key All Display Cases",
+      "description": "Wiki visual reference for the objective: Locate and obtain the souvenir key to the city on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/42/TarkovCitySouvenirKeyAllDisplayCases.png/revision/latest?cb=20240707080119",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TarkovCitySouvenirKeyAllDisplayCases.png",
+      "objective_id": "Locate and obtain the souvenir key to the city on Streets of Tarkov"
+    },
+    {
+      "title": "Tarkov City Souvenir Key Behind Book",
+      "description": "Wiki visual reference for the objective: Locate and obtain the souvenir key to the city on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f9/TarkovCitySouvenirKeyBehindBook.png/revision/latest?cb=20240707075218",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TarkovCitySouvenirKeyBehindBook.png",
+      "objective_id": "Locate and obtain the souvenir key to the city on Streets of Tarkov"
+    },
+    {
+      "title": "Tarkov City Souvenir Key Book Shelf",
+      "description": "Wiki visual reference for the objective: Locate and obtain the souvenir key to the city on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8d/TarkovCitySouvenirKeyBookShelf.png/revision/latest?cb=20240707075158",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TarkovCitySouvenirKeyBookShelf.png",
+      "objective_id": "Locate and obtain the souvenir key to the city on Streets of Tarkov"
+    },
+    {
+      "title": "Tarkov City Souvenir Key Display Case1",
+      "description": "Wiki visual reference for the objective: Locate and obtain the souvenir key to the city on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2b/TarkovCitySouvenirKeyDisplayCase1.png/revision/latest?cb=20240707080115",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TarkovCitySouvenirKeyDisplayCase1.png",
+      "objective_id": "Locate and obtain the souvenir key to the city on Streets of Tarkov"
+    },
+    {
+      "title": "Tarkov City Souvenir Key Display Case4",
+      "description": "Wiki visual reference for the objective: Locate and obtain the souvenir key to the city on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/da/TarkovCitySouvenirKeyDisplayCase4.png/revision/latest?cb=20240707080117",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TarkovCitySouvenirKeyDisplayCase4.png",
+      "objective_id": "Locate and obtain the souvenir key to the city on Streets of Tarkov"
+    },
+    {
+      "title": "Tarkov City Souvenir Key Exhibit",
+      "description": "Wiki visual reference for the objective: Locate and obtain the souvenir key to the city on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8b/TarkovCitySouvenirKeyExhibit.png/revision/latest?cb=20240707075227",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TarkovCitySouvenirKeyExhibit.png",
+      "objective_id": "Locate and obtain the souvenir key to the city on Streets of Tarkov"
+    },
+    {
+      "title": "Tarkov City Souvenir Key Shelf",
+      "description": "Wiki visual reference for the objective: Locate and obtain the souvenir key to the city on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fd/TarkovCitySouvenirKeyShelf.png/revision/latest?cb=20240707075207",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TarkovCitySouvenirKeyShelf.png",
+      "objective_id": "Locate and obtain the souvenir key to the city on Streets of Tarkov"
+    },
+    {
+      "title": "Tarkov City Souvenir Key Table",
+      "description": "Wiki visual reference for the objective: Locate and obtain the souvenir key to the city on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/09/TarkovCitySouvenirKeyTable.png/revision/latest?cb=20240707075150",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TarkovCitySouvenirKeyTable.png",
+      "objective_id": "Locate and obtain the souvenir key to the city on Streets of Tarkov"
+    },
+    {
+      "title": "Tarkov City souvenir key Icon",
+      "description": "Inventory appearance of Tarkov City souvenir key, shown for identification during Key to the City.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9d/Tarkov_City_souvenir_key_Icon.png/revision/latest?cb=20240802203205",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Tarkov_City_souvenir_key_Icon.png",
+      "objective_id": "Locate and obtain the souvenir key to the city on Streets of Tarkov"
+    }
+  ]
+}

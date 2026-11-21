@@ -1,0 +1,31 @@
+{
+  "quest_id": "597a0f5686f774273b74f676",
+  "name": "Chemical - Part 4",
+  "images": [
+    {
+      "title": "Big Customer Map",
+      "description": "Wiki map or location guide for Chemical - Part 4.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ed/BigCustomerMap.jpg/revision/latest?cb=20220129152928",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BigCustomerMap.jpg"
+    },
+    {
+      "title": "Depot building customs",
+      "description": "Wiki location reference (Depot building customs) for Chemical - Part 4.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/64/Depot-building_customs.png/revision/latest?cb=20250603195148",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Depot-building_customs.png"
+    },
+    {
+      "title": "The van inside the depot building",
+      "description": "Wiki location reference (The van inside the depot building) for Chemical - Part 4.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/45/The_van_inside_the_depot-building.png/revision/latest?cb=20250603195321",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:The_van_inside_the_depot-building.png"
+    },
+    {
+      "title": "MS2000 Marker Icon",
+      "description": "Inventory appearance of MS2000 Marker, shown for identification during Chemical - Part 4.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a9/MS2000_Marker_icon.png/revision/latest?cb=20250407003132",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MS2000_Marker_icon.png",
+      "objective_id": "Mark the vehicle with an MS2000 Marker"
+    }
+  ]
+}

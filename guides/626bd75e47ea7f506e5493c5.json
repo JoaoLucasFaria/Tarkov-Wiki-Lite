@@ -1,0 +1,49 @@
+{
+  "quest_id": "626bd75e47ea7f506e5493c5",
+  "name": "Broadcast - Part 1",
+  "images": [
+    {
+      "title": "Operating Room Map",
+      "description": "Wiki map or location guide for Broadcast - Part 1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/df/OperatingRoomMap.png/revision/latest?cb=20250425204420",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:OperatingRoomMap.png"
+    },
+    {
+      "title": "Office Building1",
+      "description": "Wiki location reference (Office Building1) for Broadcast - Part 1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/10/OfficeBuilding1.png/revision/latest?cb=20250425205505",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:OfficeBuilding1.png"
+    },
+    {
+      "title": "Operating Room",
+      "description": "Wiki location reference (Operating Room) for Broadcast - Part 1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f8/OperatingRoom.png/revision/latest?cb=20220807231245",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:OperatingRoom.png"
+    },
+    {
+      "title": "Operating Room Close",
+      "description": "Wiki location reference (Operating Room Close) for Broadcast - Part 1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/52/OperatingRoomClose.png/revision/latest?cb=20220807231525",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:OperatingRoomClose.png"
+    },
+    {
+      "title": "Broadcast",
+      "description": "Visual reference (Broadcast) from the Broadcast - Part 1 wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9a/Broadcast.png/revision/latest?cb=20241124231611",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Broadcast.png"
+    },
+    {
+      "title": "Operating Room Key Icon",
+      "description": "Inventory appearance of Operating Room Key, shown for identification during Broadcast - Part 1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/52/Operating_Room_Key_icon.png/revision/latest?cb=20230115112727",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Operating_Room_Key_icon.png"
+    },
+    {
+      "title": "Signal Jammer Icon",
+      "description": "Inventory appearance of Signal Jammer, shown for identification during Broadcast - Part 1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/67/Signal_Jammer_icon.png/revision/latest?cb=20220816202817",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Signal_Jammer_icon.png",
+      "objective_id": "Place a Signal Jammer inside the studio"
+    }
+  ]
+}

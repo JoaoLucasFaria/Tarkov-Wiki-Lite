@@ -1,0 +1,31 @@
+{
+  "quest_id": "5ae449b386f77446d8741719",
+  "name": "Gratitude",
+  "images": [
+    {
+      "title": "Gratitudemap",
+      "description": "Wiki map or location guide for Gratitude.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f1/Gratitudemap.png/revision/latest?cb=20250917232953",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Gratitudemap.png"
+    },
+    {
+      "title": "Gratitude Location",
+      "description": "Wiki location reference (Gratitude Location) for Gratitude.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/04/GratitudeLocation.png/revision/latest?cb=20250917234407",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GratitudeLocation.png"
+    },
+    {
+      "title": "Grattitude Barrels",
+      "description": "Visual reference (Grattitude Barrels) from the Gratitude wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/79/GrattitudeBarrels.png/revision/latest?cb=20250917234618",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GrattitudeBarrels.png"
+    },
+    {
+      "title": "Ray Bench Hipster Reserve Sunglasses Icon",
+      "description": "Inventory appearance of Ray Bench Hipster Reserve Sunglasses, shown for identification during Gratitude.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/02/RayBench_Hipster_Reserve_Sunglasses_icon.png/revision/latest?cb=20230711185208",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:RayBench_Hipster_Reserve_Sunglasses_icon.png",
+      "objective_id": "Stash RayBench Hipster Reserve sunglasses at the sawmill docks on Woods"
+    }
+  ]
+}

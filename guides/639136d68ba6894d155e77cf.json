@@ -1,0 +1,30 @@
+{
+  "quest_id": "639136d68ba6894d155e77cf",
+  "name": "Green Corridor",
+  "images": [
+    {
+      "title": "Streets Convoy Map",
+      "description": "Wiki map or location guide for Green Corridor.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cf/StreetsConvoyMap.png/revision/latest?cb=20230826232413",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:StreetsConvoyMap.png"
+    },
+    {
+      "title": "Streets Convoy",
+      "description": "Wiki location reference (Streets Convoy) for Green Corridor.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/78/StreetsConvoy.png/revision/latest?cb=20230109012737",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:StreetsConvoy.png"
+    },
+    {
+      "title": "Streets Convoy Ambush Spot",
+      "description": "Wiki location reference (Streets Convoy Ambush Spot) for Green Corridor.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/68/StreetsConvoyAmbushSpot.png/revision/latest?cb=20230109014619",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:StreetsConvoyAmbushSpot.png"
+    },
+    {
+      "title": "Lex Os Claymore Overview",
+      "description": "Visual reference (Lex Os Claymore Overview) from the Green Corridor wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/df/LexOsClaymoreOverview.png/revision/latest?cb=20260811162649",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:LexOsClaymoreOverview.png"
+    }
+  ]
+}

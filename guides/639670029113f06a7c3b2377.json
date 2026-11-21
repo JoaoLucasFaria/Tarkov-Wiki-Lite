@@ -1,0 +1,112 @@
+{
+  "quest_id": "639670029113f06a7c3b2377",
+  "name": "Following the Bread Crumbs",
+  "images": [
+    {
+      "title": "Bread Crumbs Black Testing Map",
+      "description": "Wiki map or location guide for Following the Bread Crumbs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bf/BreadCrumbsBlackTestingMap.png/revision/latest?cb=20230121231609",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BreadCrumbsBlackTestingMap.png"
+    },
+    {
+      "title": "Bread Crumbs Managers Map",
+      "description": "Wiki map or location guide for Following the Bread Crumbs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c8/BreadCrumbsManagersMap.png/revision/latest?cb=20230208204300",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BreadCrumbsManagersMap.png"
+    },
+    {
+      "title": "Lab Key testing area (weap.) Outside",
+      "description": "Wiki location reference for the objective: Search the weapon testing area in The Lab.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b9/Lab_Key_testing_area_%28weap.%29_-_Outside.png/revision/latest?cb=20230121233416",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Lab_Key_testing_area_(weap.)_-_Outside.png",
+      "objective_id": "Search the weapon testing area in The Lab"
+    },
+    {
+      "title": "Managers Office Entrance",
+      "description": "Wiki location reference (Managers Office Entrance) for Following the Bread Crumbs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/dc/ManagersOfficeEntrance.png/revision/latest?cb=20230208202411",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ManagersOfficeEntrance.png"
+    },
+    {
+      "title": "Bread Crumbs Chair1",
+      "description": "Visual reference (Bread Crumbs Chair1) from the Following the Bread Crumbs wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c9/BreadCrumbsChair1.png/revision/latest?cb=20230310215221",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BreadCrumbsChair1.png"
+    },
+    {
+      "title": "Bread Crumbs Chair2",
+      "description": "Visual reference (Bread Crumbs Chair2) from the Following the Bread Crumbs wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e0/BreadCrumbsChair2.png/revision/latest?cb=20230310215204",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BreadCrumbsChair2.png"
+    },
+    {
+      "title": "Bread Crumbs Desk",
+      "description": "Visual reference (Bread Crumbs Desk) from the Following the Bread Crumbs wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/28/BreadCrumbsDesk.png/revision/latest?cb=20230310215604",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BreadCrumbsDesk.png"
+    },
+    {
+      "title": "Bread Crumbs Floor",
+      "description": "Visual reference (Bread Crumbs Floor) from the Following the Bread Crumbs wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/93/BreadCrumbsFloor.png/revision/latest?cb=20230310212952",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BreadCrumbsFloor.png"
+    },
+    {
+      "title": "Bread Crumbs One Screen Desk",
+      "description": "Visual reference (Bread Crumbs One Screen Desk) from the Following the Bread Crumbs wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1b/BreadCrumbsOneScreenDesk.png/revision/latest?cb=20230310214723",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BreadCrumbsOneScreenDesk.png"
+    },
+    {
+      "title": "Bread Crumbs Reception",
+      "description": "Visual reference (Bread Crumbs Reception) from the Following the Bread Crumbs wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/11/BreadCrumbsReception.png/revision/latest?cb=20230310212630",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BreadCrumbsReception.png"
+    },
+    {
+      "title": "Bread Crumbs Reception2",
+      "description": "Visual reference (Bread Crumbs Reception2) from the Following the Bread Crumbs wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/de/BreadCrumbsReception2.png/revision/latest?cb=20230310212605",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BreadCrumbsReception2.png"
+    },
+    {
+      "title": "Bread Crumbs Right Side Table",
+      "description": "Visual reference (Bread Crumbs Right Side Table) from the Following the Bread Crumbs wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b0/BreadCrumbsRightSideTable.png/revision/latest?cb=20230310213823",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BreadCrumbsRightSideTable.png"
+    },
+    {
+      "title": "Bread Crumbs Unlocked1",
+      "description": "Visual reference (Bread Crumbs Unlocked1) from the Following the Bread Crumbs wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/aa/BreadCrumbsUnlocked1.png/revision/latest?cb=20230310215542",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BreadCrumbsUnlocked1.png"
+    },
+    {
+      "title": "The Lab Showcase 16",
+      "description": "Visual reference (The Lab Showcase 16) from the Following the Bread Crumbs wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/18/The_Lab_Showcase_16.png/revision/latest?cb=20230730023611",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:The_Lab_Showcase_16.png"
+    },
+    {
+      "title": "Lab. key. Manager office Icon",
+      "description": "Inventory appearance of Lab. key. Manager office, shown for identification during Following the Bread Crumbs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/07/Lab._key._Manager_office_icon.png/revision/latest?cb=20220707212201",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Lab._key._Manager_office_icon.png",
+      "objective_id": "Obtain the secured tape inside the manager's office in The Lab"
+    },
+    {
+      "title": "Lab. key. Testing area (weap.) Icon",
+      "description": "Inventory appearance of Lab. key. Testing area (weap.), shown for identification during Following the Bread Crumbs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fc/Lab._key._Testing_area_%28weap.%29_Icon.png/revision/latest?cb=20220707212134",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Lab._key._Testing_area_(weap.)_Icon.png",
+      "objective_id": "Search the weapon testing area in The Lab"
+    },
+    {
+      "title": "Secured Tape Icon",
+      "description": "Inventory appearance of Secured Tape, shown for identification during Following the Bread Crumbs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8b/SecuredTapeIcon.png/revision/latest?cb=20230126075441",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SecuredTapeIcon.png",
+      "objective_id": "Obtain the secured tape inside the manager's office in The Lab"
+    }
+  ]
+}

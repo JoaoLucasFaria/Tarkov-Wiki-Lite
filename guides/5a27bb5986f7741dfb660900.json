@@ -1,0 +1,24 @@
+{
+  "quest_id": "5a27bb5986f7741dfb660900",
+  "name": "Cargo X - Part 3",
+  "images": [
+    {
+      "title": "Cargo X Pt3 Guide",
+      "description": "Wiki map or location guide for Cargo X - Part 3.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e4/CargoXPt3_Guide.png/revision/latest?cb=20190429125029",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:CargoXPt3_Guide.png"
+    },
+    {
+      "title": "Cargo X Pt3Hole",
+      "description": "Wiki location reference (Cargo X Pt3Hole) for Cargo X - Part 3.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a7/CargoXPt3Hole.png/revision/latest?cb=20260323001637",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:CargoXPt3Hole.png"
+    },
+    {
+      "title": "Shoreline Cargo X Pt3",
+      "description": "Wiki location reference (Shoreline Cargo X Pt3) for Cargo X - Part 3.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/af/ShorelineCargoXPt3.png/revision/latest?cb=20260323002730",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ShorelineCargoXPt3.png"
+    }
+  ]
+}

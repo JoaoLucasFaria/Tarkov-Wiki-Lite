@@ -1,0 +1,26 @@
+{
+  "quest_id": "5a68663e86f774501078f78a",
+  "name": "Health Care Privacy - Part 2",
+  "images": [
+    {
+      "title": "Health Care Privacy Part2Docs",
+      "description": "Wiki location reference (Health Care Privacy Part2Docs) for Health Care Privacy - Part 2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4b/HealthCarePrivacyPart2Docs.png/revision/latest?cb=20181227013308",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:HealthCarePrivacyPart2Docs.png"
+    },
+    {
+      "title": "Inside West wing room 306",
+      "description": "Wiki location reference for the objective: Locate and obtain any info about TerraGroup's research in Health Resort west wing on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6d/Inside_West_wing_room_306.png/revision/latest?cb=20181227013136",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Inside_West_wing_room_306.png",
+      "objective_id": "Locate and obtain any info about TerraGroup's research in Health Resort west wing on Shoreline"
+    },
+    {
+      "title": "West Wing306Key Icon",
+      "description": "Inventory appearance of West Wing306Key, shown for identification during Health Care Privacy - Part 2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/71/WestWing306KeyIcon.png/revision/latest?cb=20220707215218",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WestWing306KeyIcon.png",
+      "objective_id": "Locate and obtain any info about TerraGroup's research in Health Resort west wing on Shoreline"
+    }
+  ]
+}

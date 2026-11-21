@@ -1,0 +1,42 @@
+{
+  "quest_id": "5b478b1886f7744d1b23c57d",
+  "name": "Hot Delivery",
+  "images": [
+    {
+      "title": "Hotdelivery Avokado Map",
+      "description": "Wiki map or location guide for Hot Delivery.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/93/HotdeliveryAvokadoMap.png/revision/latest?cb=20240629201356",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:HotdeliveryAvokadoMap.png"
+    },
+    {
+      "title": "Hotdelivery Stage Map",
+      "description": "Wiki map or location guide for Hot Delivery.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f2/HotdeliveryStageMap.png/revision/latest?cb=20240629201754",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:HotdeliveryStageMap.png"
+    },
+    {
+      "title": "Hot delivery Gzhel",
+      "description": "Visual reference (Hot delivery Gzhel) from the Hot Delivery wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/72/Hot_delivery_Gzhel.png/revision/latest?cb=20240629202551",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Hot_delivery_Gzhel.png"
+    },
+    {
+      "title": "Hot delivery comtac 6b47",
+      "description": "Visual reference (Hot delivery comtac 6b47) from the Hot Delivery wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9a/Hot_delivery_comtac_6b47.png/revision/latest?cb=20240629202831",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Hot_delivery_comtac_6b47.png"
+    },
+    {
+      "title": "6b47icon",
+      "description": "Inventory appearance of 6b47icon, shown for identification during Hot Delivery.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/85/6b47icon.png/revision/latest?cb=20240102205656",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:6b47icon.png"
+    },
+    {
+      "title": "GZHELK Armor Icon",
+      "description": "Inventory appearance of GZHELK Armor, shown for identification during Hot Delivery.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a1/GZHELKArmorIcon.png/revision/latest?cb=20240103170710",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GZHELKArmorIcon.png"
+    }
+  ]
+}

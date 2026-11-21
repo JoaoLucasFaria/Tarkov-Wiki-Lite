@@ -1,0 +1,36 @@
+{
+  "quest_id": "6744aca8d3346c216702c583",
+  "name": "Discombobulate",
+  "images": [
+    {
+      "title": "Discombobulate Map",
+      "description": "Wiki map or location guide for Discombobulate.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/46/Discombobulate_Map.png/revision/latest?cb=20250119223044",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Discombobulate_Map.png"
+    },
+    {
+      "title": "Discombobulate Spot 1",
+      "description": "Wiki location reference (Discombobulate Spot 1) for Discombobulate.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/36/Discombobulate_Spot_1.png/revision/latest?cb=20250325003406",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Discombobulate_Spot_1.png"
+    },
+    {
+      "title": "Discombobulate Spot 2",
+      "description": "Wiki location reference (Discombobulate Spot 2) for Discombobulate.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5e/Discombobulate_Spot_2.png/revision/latest?cb=20250325003546",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Discombobulate_Spot_2.png"
+    },
+    {
+      "title": "Discombobulate Spot 3",
+      "description": "Wiki location reference (Discombobulate Spot 3) for Discombobulate.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/81/Discombobulate_Spot_3.png/revision/latest?cb=20250325003700",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Discombobulate_Spot_3.png"
+    },
+    {
+      "title": "Vog 25 Icon",
+      "description": "Inventory appearance of Vog 25, shown for identification during Discombobulate.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4f/Vog-25_icon.png/revision/latest?cb=20240902111317",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Vog-25_icon.png"
+    }
+  ]
+}

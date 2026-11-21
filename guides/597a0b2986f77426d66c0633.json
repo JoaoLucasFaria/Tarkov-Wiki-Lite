@@ -1,0 +1,42 @@
+{
+  "quest_id": "597a0b2986f77426d66c0633",
+  "name": "Chemical - Part 2",
+  "images": [
+    {
+      "title": "Chemical2Map",
+      "description": "Wiki map or location guide for Chemical - Part 2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b9/Chemical2Map.png/revision/latest?cb=20220810132208",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Chemical2Map.png"
+    },
+    {
+      "title": "Sealed Letter Location",
+      "description": "Wiki location reference (Sealed Letter Location) for Chemical - Part 2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/25/Sealed_Letter_Location.png/revision/latest?cb=20250712193001",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Sealed_Letter_Location.png"
+    },
+    {
+      "title": "Sliderkey Location",
+      "description": "Wiki location reference (Sliderkey Location) for Chemical - Part 2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/65/Sliderkey_Location.png/revision/latest?cb=20250712192637",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Sliderkey_Location.png"
+    },
+    {
+      "title": "Key 220 Icon",
+      "description": "Inventory appearance of Key 220, shown for identification during Chemical - Part 2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9a/Key-220-Icon.png/revision/latest?cb=20220707191525",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Key-220-Icon.png"
+    },
+    {
+      "title": "Sealed Letter Icon",
+      "description": "Inventory appearance of Sealed Letter, shown for identification during Chemical - Part 2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d5/Sealed_Letter_icon.png/revision/latest?cb=20221012072650",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Sealed_Letter_icon.png"
+    },
+    {
+      "title": "Sliderkey Icon",
+      "description": "Inventory appearance of Sliderkey, shown for identification during Chemical - Part 2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/98/Sliderkey_icon.png/revision/latest?cb=20221012072813",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Sliderkey_icon.png"
+    }
+  ]
+}

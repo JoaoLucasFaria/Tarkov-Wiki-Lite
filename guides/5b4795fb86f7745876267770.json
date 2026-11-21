@@ -1,0 +1,48 @@
+{
+  "quest_id": "5b4795fb86f7745876267770",
+  "name": "Chumming",
+  "images": [
+    {
+      "title": "Cabin2Woods",
+      "description": "Visual reference (Cabin2Woods) from the Chumming wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d3/Cabin2Woods.png/revision/latest?cb=20230618181031",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Cabin2Woods.png"
+    },
+    {
+      "title": "Chumm micro",
+      "description": "Visual reference (Chumm micro) from the Chumming wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/00/Chumm_micro.png/revision/latest?cb=20221206111916",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Chumm_micro.png"
+    },
+    {
+      "title": "Chumm micro2",
+      "description": "Visual reference (Chumm micro2) from the Chumming wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4e/Chumm_micro2.png/revision/latest?cb=20220916211212",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Chumm_micro2.png"
+    },
+    {
+      "title": "Chumm woods",
+      "description": "Visual reference (Chumm woods) from the Chumming wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ab/Chumm_woods.png/revision/latest?cb=20220822190941",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Chumm_woods.png"
+    },
+    {
+      "title": "Dorm 3",
+      "description": "Visual reference (Dorm 3) from the Chumming wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c8/Dorm_3.png/revision/latest?cb=20181204124832",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Dorm_3.png"
+    },
+    {
+      "title": "Wood Cabin nr 2",
+      "description": "Visual reference (Wood Cabin nr 2) from the Chumming wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/46/Wood_Cabin_nr_2.jpg/revision/latest?cb=20220130010245",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Wood_Cabin_nr_2.jpg"
+    },
+    {
+      "title": "Golden neck chain Icon",
+      "description": "Inventory appearance of Golden neck chain, shown for identification during Chumming.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9a/Golden_neck_chain_Icon.png/revision/latest?cb=20260125003944",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Golden_neck_chain_Icon.png"
+    }
+  ]
+}

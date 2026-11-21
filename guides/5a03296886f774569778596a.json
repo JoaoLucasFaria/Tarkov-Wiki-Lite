@@ -1,0 +1,51 @@
+{
+  "quest_id": "5a03296886f774569778596a",
+  "name": "I Need More Power",
+  "images": [
+    {
+      "title": "219West Gens",
+      "description": "Visual reference (219West Gens) from the I Need More Power wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/05/219WestGens.png/revision/latest?cb=20230122120211",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:219WestGens.png"
+    },
+    {
+      "title": "220East Gens",
+      "description": "Visual reference (220East Gens) from the I Need More Power wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3d/220EastGens.png/revision/latest?cb=20230122120012",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:220EastGens.png"
+    },
+    {
+      "title": "220West Balcony219",
+      "description": "Visual reference (220West Balcony219) from the I Need More Power wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ae/220WestBalcony219.png/revision/latest?cb=20230122120016",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:220WestBalcony219.png"
+    },
+    {
+      "title": "San.219",
+      "description": "Visual reference (San.219) from the I Need More Power wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d8/San.219.png/revision/latest?cb=20220707214939",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:San.219.png"
+    },
+    {
+      "title": "Expeditionary fuel tank Icon",
+      "description": "Inventory appearance of Expeditionary fuel tank, shown for identification during I Need More Power.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fd/Expeditionary-fuel-tank-icon.png/revision/latest?cb=20250114194757",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Expeditionary-fuel-tank-icon.png",
+      "objective_id": "Hand over the found in raid item: Metal fuel tank or Expeditionary fuel tank"
+    },
+    {
+      "title": "Metal fuel tank Icon",
+      "description": "Inventory appearance of Metal fuel tank, shown for identification during I Need More Power.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/66/Metal-fuel-tank-icon.png/revision/latest?cb=20250114194736",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Metal-fuel-tank-icon.png",
+      "objective_id": "Hand over the found in raid item: Metal fuel tank or Expeditionary fuel tank"
+    },
+    {
+      "title": "West 220 Resort Icon",
+      "description": "Inventory appearance of West 220 Resort, shown for identification during I Need More Power.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3b/West_220_Resort-Icon.png/revision/latest?cb=20220707214959",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:West_220_Resort-Icon.png",
+      "objective_id": "Locate the generators in the west wing of the Health Resort on Shoreline"
+    }
+  ]
+}

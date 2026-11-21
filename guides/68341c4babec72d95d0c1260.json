@@ -1,0 +1,34 @@
+{
+  "quest_id": "68341c4babec72d95d0c1260",
+  "name": "Create a Distraction - Part 1 [PVE ZONE]",
+  "images": [
+    {
+      "title": "Distraction1Location Guide",
+      "description": "Wiki map or route reference for the objective: Plant TP-200 TNT bricks on the second floor of the cafe on Ground Zero.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/80/Distraction1LocationGuide.png/revision/latest?cb=20250409205337",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Distraction1LocationGuide.png",
+      "objective_id": "Plant TP-200 TNT bricks on the second floor of the cafe on Ground Zero"
+    },
+    {
+      "title": "Distraction1Map Guide",
+      "description": "Wiki map or route reference for the objective: Plant TP-200 TNT bricks on the second floor of the cafe on Ground Zero.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c1/Distraction1MapGuide.png/revision/latest?cb=20250409210024",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Distraction1MapGuide.png",
+      "objective_id": "Plant TP-200 TNT bricks on the second floor of the cafe on Ground Zero"
+    },
+    {
+      "title": "Distraction1Restaurant Guide",
+      "description": "Wiki map or route reference for the objective: Plant TP-200 TNT bricks on the second floor of the cafe on Ground Zero.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ac/Distraction1RestaurantGuide.png/revision/latest?cb=20250410194806",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Distraction1RestaurantGuide.png",
+      "objective_id": "Plant TP-200 TNT bricks on the second floor of the cafe on Ground Zero"
+    },
+    {
+      "title": "TNT brick Icon",
+      "description": "Inventory appearance of TNT brick, shown for identification during Create a Distraction - Part 1 [PVE ZONE].",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3a/TNT_brick_icon.png/revision/latest?cb=20250308190229",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TNT_brick_icon.png",
+      "objective_id": "Plant TP-200 TNT bricks on the second floor of the cafe on Ground Zero"
+    }
+  ]
+}

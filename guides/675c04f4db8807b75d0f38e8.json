@@ -1,0 +1,62 @@
+{
+  "quest_id": "675c04f4db8807b75d0f38e8",
+  "name": "Closer to the People",
+  "images": [
+    {
+      "title": "Boiler Building Map",
+      "description": "Wiki map or route reference for the objective: Locate and obtain the delivery crew's shipment notes on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9a/BoilerBuildingMap.png/revision/latest?cb=20241229195259",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BoilerBuildingMap.png",
+      "objective_id": "Locate and obtain the delivery crew's shipment notes on Customs"
+    },
+    {
+      "title": "Boiler Building",
+      "description": "Wiki location reference for the objective: Locate and obtain the delivery crew's shipment notes on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/df/BoilerBuilding.png/revision/latest?cb=20250325011849",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BoilerBuilding.png",
+      "objective_id": "Locate and obtain the delivery crew's shipment notes on Customs"
+    },
+    {
+      "title": "Boiler Building Locker Room",
+      "description": "Wiki location reference for the objective: Locate and obtain the delivery crew's shipment notes on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4b/BoilerBuildingLockerRoom.png/revision/latest?cb=20250826195715",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BoilerBuildingLockerRoom.png",
+      "objective_id": "Locate and obtain the delivery crew's shipment notes on Customs"
+    },
+    {
+      "title": "Closer to the People Spawn 1",
+      "description": "Wiki location reference for the objective: Locate and obtain the delivery crew's shipment notes on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/32/Closer_to_the_People_Spawn_1.png/revision/latest?cb=20250826200249",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Closer_to_the_People_Spawn_1.png",
+      "objective_id": "Locate and obtain the delivery crew's shipment notes on Customs"
+    },
+    {
+      "title": "Closer to the People Spawn 2",
+      "description": "Wiki location reference for the objective: Locate and obtain the delivery crew's shipment notes on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/76/Closer_to_the_People_Spawn_2.png/revision/latest?cb=20250826200553",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Closer_to_the_People_Spawn_2.png",
+      "objective_id": "Locate and obtain the delivery crew's shipment notes on Customs"
+    },
+    {
+      "title": "Closer to the People Spawn 3",
+      "description": "Wiki location reference for the objective: Locate and obtain the delivery crew's shipment notes on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/06/Closer_to_the_People_Spawn_3.png/revision/latest?cb=20250826200754",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Closer_to_the_People_Spawn_3.png",
+      "objective_id": "Locate and obtain the delivery crew's shipment notes on Customs"
+    },
+    {
+      "title": "Closer to the People Spawn 4",
+      "description": "Wiki location reference for the objective: Locate and obtain the delivery crew's shipment notes on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d4/Closer_to_the_People_Spawn_4.png/revision/latest?cb=20250826201148",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Closer_to_the_People_Spawn_4.png",
+      "objective_id": "Locate and obtain the delivery crew's shipment notes on Customs"
+    },
+    {
+      "title": "Delivery crew report Icon",
+      "description": "Inventory appearance of Delivery crew report, shown for identification during Closer to the People.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b1/Delivery_crew_report_icon.png/revision/latest?cb=20241229192330",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Delivery_crew_report_icon.png",
+      "objective_id": "Locate and obtain the delivery crew's shipment notes on Customs"
+    }
+  ]
+}

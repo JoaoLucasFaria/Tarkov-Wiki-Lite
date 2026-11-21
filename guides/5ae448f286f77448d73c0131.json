@@ -1,0 +1,42 @@
+{
+  "quest_id": "5ae448f286f77448d73c0131",
+  "name": "Fuel Crisis",
+  "images": [
+    {
+      "title": "The Blood of War Part 1 Map",
+      "description": "Wiki map or location guide for Fuel Crisis.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/65/The_Blood_of_War_Part_1_Map.jpg/revision/latest?cb=20251201203051",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:The_Blood_of_War_Part_1_Map.jpg"
+    },
+    {
+      "title": "Bloodofwartanker",
+      "description": "Wiki location reference (Bloodofwartanker) for Fuel Crisis.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/40/Bloodofwartanker.png/revision/latest?cb=20240729133245",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Bloodofwartanker.png"
+    },
+    {
+      "title": "Bloodofwartanker2",
+      "description": "Wiki location reference (Bloodofwartanker2) for Fuel Crisis.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/be/Bloodofwartanker2.png/revision/latest?cb=20251117022443",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Bloodofwartanker2.png"
+    },
+    {
+      "title": "Bloodofwartanker3",
+      "description": "Wiki location reference (Bloodofwartanker3) for Fuel Crisis.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f5/Bloodofwartanker3.png/revision/latest?cb=20240729133714",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Bloodofwartanker3.png"
+    },
+    {
+      "title": "Bloodofwartanker4",
+      "description": "Wiki location reference (Bloodofwartanker4) for Fuel Crisis.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f8/Bloodofwartanker4.png/revision/latest?cb=20251201203208",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Bloodofwartanker4.png"
+    },
+    {
+      "title": "MS2000 Marker Icon",
+      "description": "Inventory appearance of MS2000 Marker, shown for identification during Fuel Crisis.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a9/MS2000_Marker_icon.png/revision/latest?cb=20250407003132",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MS2000_Marker_icon.png"
+    }
+  ]
+}

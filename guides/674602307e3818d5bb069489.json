@@ -1,0 +1,54 @@
+{
+  "quest_id": "674602307e3818d5bb069489",
+  "name": "Hindsight 20/20",
+  "images": [
+    {
+      "title": "Hindsight Bunker Map",
+      "description": "Wiki map or location guide for Hindsight 20/20.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/34/Hindsight_Bunker_Map.png/revision/latest?cb=20250119153302",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Hindsight_Bunker_Map.png"
+    },
+    {
+      "title": "Hindsight Bunker Entrance",
+      "description": "Wiki location reference (Hindsight Bunker Entrance) for Hindsight 20/20.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/61/Hindsight_Bunker_Entrance.png/revision/latest?cb=20250325004015",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Hindsight_Bunker_Entrance.png"
+    },
+    {
+      "title": "Hindsight 1st",
+      "description": "Visual reference (Hindsight 1st) from the Hindsight 20/20 wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4b/Hindsight_1st.png/revision/latest?cb=20250119154001",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Hindsight_1st.png"
+    },
+    {
+      "title": "Hindsight 2nd",
+      "description": "Visual reference (Hindsight 2nd) from the Hindsight 20/20 wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/ca/Hindsight_2nd.png/revision/latest?cb=20250119153950",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Hindsight_2nd.png"
+    },
+    {
+      "title": "Hindsight 3rd",
+      "description": "Visual reference (Hindsight 3rd) from the Hindsight 20/20 wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d4/Hindsight_3rd.png/revision/latest?cb=20250119153944",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Hindsight_3rd.png"
+    },
+    {
+      "title": "12.7x55mm PS12B ammo pack Icon",
+      "description": "Inventory appearance of 12.7x55mm PS12B ammo pack, shown for identification during Hindsight 20/20.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c9/12.7x55mm_PS12B_ammo_pack_icon.png/revision/latest?cb=20240301233805",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:12.7x55mm_PS12B_ammo_pack_icon.png"
+    },
+    {
+      "title": "5.45x39mm 7N40 120 ammo pack Icon",
+      "description": "Inventory appearance of 5.45x39mm 7N40 120 ammo pack, shown for identification during Hindsight 20/20.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/20/5.45x39mm_7N40_120_ammo_pack_icon.png/revision/latest?cb=20260827194036",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:5.45x39mm_7N40_120_ammo_pack_icon.png"
+    },
+    {
+      "title": "5.45x39mm 7N40 30 ammo pack Icon",
+      "description": "Inventory appearance of 5.45x39mm 7N40 30 ammo pack, shown for identification during Hindsight 20/20.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/59/5.45x39mm_7N40_30_ammo_pack_icon.png/revision/latest?cb=20240303222739",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:5.45x39mm_7N40_30_ammo_pack_icon.png"
+    }
+  ]
+}

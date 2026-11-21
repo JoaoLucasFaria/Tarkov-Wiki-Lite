@@ -1,0 +1,103 @@
+{
+  "quest_id": "639dbaf17c898a131e1cffff",
+  "name": "Debtor",
+  "images": [
+    {
+      "title": "Chekannaya15Map",
+      "description": "Wiki map or location guide for Debtor.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a1/Chekannaya15Map.png/revision/latest?cb=20230826220245",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Chekannaya15Map.png"
+    },
+    {
+      "title": "Pine Wood Hotel North Map",
+      "description": "Wiki map or location guide for Debtor.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c1/PineWoodHotelNorthMap.png/revision/latest?cb=20230826230436",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:PineWoodHotelNorthMap.png"
+    },
+    {
+      "title": "Western Staircase Map",
+      "description": "Wiki map or location guide for Debtor.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fc/WesternStaircaseMap.png/revision/latest?cb=20240729161305",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WesternStaircaseMap.png"
+    },
+    {
+      "title": "Chek15Apt Door",
+      "description": "Wiki location reference (Chek15Apt Door) for Debtor.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3e/Chek15AptDoor.png/revision/latest?cb=20230101204945",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Chek15AptDoor.png"
+    },
+    {
+      "title": "Chek15SF Hallway",
+      "description": "Wiki location reference (Chek15SF Hallway) for Debtor.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/de/Chek15SFHallway.png/revision/latest?cb=20230128225014",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Chek15SFHallway.png"
+    },
+    {
+      "title": "Chek15TF Hallway",
+      "description": "Wiki location reference (Chek15TF Hallway) for Debtor.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cc/Chek15TFHallway.png/revision/latest?cb=20230128224646",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Chek15TFHallway.png"
+    },
+    {
+      "title": "Chekannaya15Apartment Building",
+      "description": "Wiki location reference (Chekannaya15Apartment Building) for Debtor.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d5/Chekannaya15ApartmentBuilding.png/revision/latest?cb=20230102195416",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Chekannaya15ApartmentBuilding.png"
+    },
+    {
+      "title": "Chekannaya15Apartment Building Western Stairs",
+      "description": "Wiki location reference (Chekannaya15Apartment Building Western Stairs) for Debtor.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6f/Chekannaya15ApartmentBuildingWesternStairs.png/revision/latest?cb=20230108165324",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Chekannaya15ApartmentBuildingWesternStairs.png"
+    },
+    {
+      "title": "Hotel Room206Door",
+      "description": "Wiki location reference (Hotel Room206Door) for Debtor.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8a/HotelRoom206Door.png/revision/latest?cb=20221231222919",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:HotelRoom206Door.png"
+    },
+    {
+      "title": "Pine Wood Hotel North Building",
+      "description": "Wiki location reference (Pine Wood Hotel North Building) for Debtor.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e0/PineWoodHotelNorthBuilding.png/revision/latest?cb=20230101162034",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:PineWoodHotelNorthBuilding.png"
+    },
+    {
+      "title": "Western Staircase Way1",
+      "description": "Wiki location reference (Western Staircase Way1) for Debtor.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/71/WesternStaircaseWay1.png/revision/latest?cb=20230108164530",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WesternStaircaseWay1.png"
+    },
+    {
+      "title": "Western Staircase Way2",
+      "description": "Wiki location reference (Western Staircase Way2) for Debtor.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f1/WesternStaircaseWay2.png/revision/latest?cb=20230108164528",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WesternStaircaseWay2.png"
+    },
+    {
+      "title": "Western Staircase Way3",
+      "description": "Wiki location reference (Western Staircase Way3) for Debtor.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a0/WesternStaircaseWay3.png/revision/latest?cb=20230108165133",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WesternStaircaseWay3.png"
+    },
+    {
+      "title": "Dead Debtor",
+      "description": "Visual reference (Dead Debtor) from the Debtor wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d0/DeadDebtor.png/revision/latest?cb=20230108232906",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:DeadDebtor.png"
+    },
+    {
+      "title": "Chekannaya 15 apartment key Icon",
+      "description": "Inventory appearance of Chekannaya 15 apartment key, shown for identification during Debtor.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/13/Chekannaya_15_apartment_key_icon.png/revision/latest?cb=20251119222754",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Chekannaya_15_apartment_key_icon.png"
+    },
+    {
+      "title": "Iron gate key Icon",
+      "description": "Inventory appearance of Iron gate key, shown for identification during Debtor.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/60/Iron_gate_key_icon.png/revision/latest?cb=20221229224812",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Iron_gate_key_icon.png",
+      "objective_id": "Hand over the item: Iron gate key"
+    }
+  ]
+}

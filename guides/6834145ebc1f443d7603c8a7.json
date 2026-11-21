@@ -1,0 +1,48 @@
+{
+  "quest_id": "6834145ebc1f443d7603c8a7",
+  "name": "Easy Money - Part 1 [PVE ZONE]",
+  "images": [
+    {
+      "title": "Easy Money Part1Customs Map1",
+      "description": "Wiki map or route reference for the objective: Plant the Arena advertisement poster in the living quarters at the Scav base on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5a/EasyMoneyPart1CustomsMap1.png/revision/latest?cb=20240609000352",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:EasyMoneyPart1CustomsMap1.png",
+      "objective_id": "Plant the Arena advertisement poster in the living quarters at the Scav base on Customs"
+    },
+    {
+      "title": "Easy Money Part1Customs Map2",
+      "description": "Wiki map or route reference for the objective: Plant the Arena advertisement poster in the living quarters at the Scav base on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/02/EasyMoneyPart1CustomsMap2.png/revision/latest?cb=20240609000157",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:EasyMoneyPart1CustomsMap2.png",
+      "objective_id": "Plant the Arena advertisement poster in the living quarters at the Scav base on Customs"
+    },
+    {
+      "title": "ZB 013 Building",
+      "description": "Wiki location reference for the objective: Plant the Arena advertisement poster in the living quarters at the Scav base on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b9/ZB-013_Building.png/revision/latest?cb=20250723205637",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ZB-013_Building.png",
+      "objective_id": "Plant the Arena advertisement poster in the living quarters at the Scav base on Customs"
+    },
+    {
+      "title": "Easy Money Part1Customs Beds1",
+      "description": "Wiki visual reference for the objective: Plant the Arena advertisement poster in the living quarters at the Scav base on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/52/EasyMoneyPart1CustomsBeds1.png/revision/latest?cb=20240609001106",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:EasyMoneyPart1CustomsBeds1.png",
+      "objective_id": "Plant the Arena advertisement poster in the living quarters at the Scav base on Customs"
+    },
+    {
+      "title": "Easy Money Part1Customs Beds2",
+      "description": "Wiki visual reference for the objective: Plant the Arena advertisement poster in the living quarters at the Scav base on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d6/EasyMoneyPart1CustomsBeds2.png/revision/latest?cb=20240609000651",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:EasyMoneyPart1CustomsBeds2.png",
+      "objective_id": "Plant the Arena advertisement poster in the living quarters at the Scav base on Customs"
+    },
+    {
+      "title": "Arena poster 1 Icon",
+      "description": "Inventory appearance of Arena poster 1, shown for identification during Easy Money - Part 1 [PVE ZONE].",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0a/Arena_poster_1_icon.png/revision/latest?cb=20250103230756",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Arena_poster_1_icon.png",
+      "objective_id": "Plant the Arena advertisement poster in the living quarters at the Scav base on Customs"
+    }
+  ]
+}

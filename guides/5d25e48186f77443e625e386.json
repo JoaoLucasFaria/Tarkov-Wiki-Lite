@@ -1,0 +1,33 @@
+{
+  "quest_id": "5d25e48186f77443e625e386",
+  "name": "Courtesy Visit",
+  "images": [
+    {
+      "title": "Quest courtesy visit map",
+      "description": "Wiki map or location guide for Courtesy Visit.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7f/Quest_courtesy_visit_map.png/revision/latest?cb=20260213131619",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Quest_courtesy_visit_map.png"
+    },
+    {
+      "title": "Chairman house",
+      "description": "Wiki visual reference for the objective: Locate the chairman's house in the abandoned village on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/95/Chairman_house.png/revision/latest?cb=20261011193317",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Chairman_house.png",
+      "objective_id": "Locate the chairman's house in the abandoned village on Shoreline"
+    },
+    {
+      "title": "Fisherman house",
+      "description": "Wiki visual reference for the objective: Locate the fisherman's house in the abandoned village on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6a/Fisherman_house.png/revision/latest?cb=20261011193919",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Fisherman_house.png",
+      "objective_id": "Locate the fisherman's house in the abandoned village on Shoreline"
+    },
+    {
+      "title": "Priest house",
+      "description": "Wiki visual reference for the objective: Locate the priest's house in the abandoned village on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1f/Priest_house.png/revision/latest?cb=20261011193146",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Priest_house.png",
+      "objective_id": "Locate the priest's house in the abandoned village on Shoreline"
+    }
+  ]
+}

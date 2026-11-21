@@ -1,0 +1,36 @@
+{
+  "quest_id": "5a27b87686f77460de0252a8",
+  "name": "Humanitarian Supplies",
+  "images": [
+    {
+      "title": "Humanitarian Supplies Map",
+      "description": "Wiki map or location guide for Humanitarian Supplies.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ac/Humanitarian_Supplies_Map.png/revision/latest?cb=20240601184350",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Humanitarian_Supplies_Map.png"
+    },
+    {
+      "title": "Firstshorelineuntruck",
+      "description": "Wiki location reference (Firstshorelineuntruck) for Humanitarian Supplies.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fa/Firstshorelineuntruck.png/revision/latest?cb=20230628004914",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Firstshorelineuntruck.png"
+    },
+    {
+      "title": "Secondshorelineuntruck",
+      "description": "Wiki location reference (Secondshorelineuntruck) for Humanitarian Supplies.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2d/Secondshorelineuntruck.png/revision/latest?cb=20230628004511",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Secondshorelineuntruck.png"
+    },
+    {
+      "title": "MRE Icon",
+      "description": "Inventory appearance of MRE, shown for identification during Humanitarian Supplies.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a4/MRE_icon.png/revision/latest?cb=20250117123310",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MRE_icon.png"
+    },
+    {
+      "title": "MS2000 Marker Icon",
+      "description": "Inventory appearance of MS2000 Marker, shown for identification during Humanitarian Supplies.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a9/MS2000_Marker_icon.png/revision/latest?cb=20250407003132",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MS2000_Marker_icon.png"
+    }
+  ]
+}

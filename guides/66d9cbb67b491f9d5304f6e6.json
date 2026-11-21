@@ -1,0 +1,460 @@
+{
+  "quest_id": "66d9cbb67b491f9d5304f6e6",
+  "name": "Is This a Reference?",
+  "images": [
+    {
+      "title": "Factory Locked Room",
+      "description": "Wiki location reference (Factory Locked Room) for Is This a Reference?.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f6/FactoryLockedRoom.png/revision/latest?cb=20240824183122",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:FactoryLockedRoom.png"
+    },
+    {
+      "title": "ITAR Anvil34",
+      "description": "Visual reference (ITAR Anvil34) from the Is This a Reference? wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/11/ITARAnvil34.png/revision/latest?cb=20240928194756",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARAnvil34.png"
+    },
+    {
+      "title": "ITAR Anvil34Map",
+      "description": "Wiki map or location guide for Is This a Reference?.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/99/ITARAnvil34Map.png/revision/latest?cb=20240929173207",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARAnvil34Map.png"
+    },
+    {
+      "title": "ITAR Bear Car",
+      "description": "Wiki location reference for the objective: Install a WI-FI Camera at the bear who sat into a flaming car on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5d/ITARBearCar.png/revision/latest?cb=20240928183100",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARBearCar.png",
+      "objective_id": "Install a WI-FI Camera at the bear who sat into a flaming car on Woods"
+    },
+    {
+      "title": "ITAR Bear Car Map",
+      "description": "Wiki map or route reference for the objective: Install a WI-FI Camera at the bear who sat into a flaming car on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/90/ITARBearCarMap.png/revision/latest?cb=20240928183604",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARBearCarMap.png",
+      "objective_id": "Install a WI-FI Camera at the bear who sat into a flaming car on Woods"
+    },
+    {
+      "title": "ITAR Bucket Head",
+      "description": "Wiki visual reference for the objective: Install a WI-FI Camera at the bucket-head villain on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b8/ITARBucketHead.png/revision/latest?cb=20240928195853",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARBucketHead.png",
+      "objective_id": "Install a WI-FI Camera at the bucket-head villain on Customs"
+    },
+    {
+      "title": "ITAR Bucket Head Map",
+      "description": "Wiki map or route reference for the objective: Install a WI-FI Camera at the bucket-head villain on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/32/ITARBucketHeadMap.png/revision/latest?cb=20240929173019",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARBucketHeadMap.png",
+      "objective_id": "Install a WI-FI Camera at the bucket-head villain on Customs"
+    },
+    {
+      "title": "ITAR Burned Girl",
+      "description": "Wiki visual reference for the objective: Install a WI-FI Camera at the burned girl's sickroom on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0e/ITARBurnedGirl.png/revision/latest?cb=20240928212341",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARBurnedGirl.png",
+      "objective_id": "Install a WI-FI Camera at the burned girl's sickroom on Streets of Tarkov"
+    },
+    {
+      "title": "ITAR Burned Girl Door",
+      "description": "Wiki location reference for the objective: Install a WI-FI Camera at the burned girl's sickroom on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7c/ITARBurnedGirlDoor.png/revision/latest?cb=20240928212402",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARBurnedGirlDoor.png",
+      "objective_id": "Install a WI-FI Camera at the burned girl's sickroom on Streets of Tarkov"
+    },
+    {
+      "title": "ITAR Burned Girl Map",
+      "description": "Wiki map or route reference for the objective: Install a WI-FI Camera at the burned girl's sickroom on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1a/ITARBurnedGirlMap.png/revision/latest?cb=20240928212712",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARBurnedGirlMap.png",
+      "objective_id": "Install a WI-FI Camera at the burned girl's sickroom on Streets of Tarkov"
+    },
+    {
+      "title": "ITAR Chair Riddle",
+      "description": "Wiki visual reference for the objective: Install a WI-FI Camera at the two chair riddle on Reserve.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/09/ITARChairRiddle.png/revision/latest?cb=20240929142719",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARChairRiddle.png",
+      "objective_id": "Install a WI-FI Camera at the two chair riddle on Reserve"
+    },
+    {
+      "title": "ITAR Chair Riddle Map",
+      "description": "Wiki map or route reference for the objective: Install a WI-FI Camera at the two chair riddle on Reserve.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/ITARChairRiddleMap.png/revision/latest?cb=20240929144021",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARChairRiddleMap.png",
+      "objective_id": "Install a WI-FI Camera at the two chair riddle on Reserve"
+    },
+    {
+      "title": "ITAR Chairs",
+      "description": "Visual reference (ITAR Chairs) from the Is This a Reference? wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/46/ITARChairs.png/revision/latest?cb=20240928214557",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARChairs.png"
+    },
+    {
+      "title": "ITAR Chairs Map",
+      "description": "Wiki map or location guide for Is This a Reference?.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/80/ITARChairsMap.png/revision/latest?cb=20240928220124",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARChairsMap.png"
+    },
+    {
+      "title": "ITAR Conscripts Task",
+      "description": "Visual reference (ITAR Conscripts Task) from the Is This a Reference? wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f8/ITARConscriptsTask.png/revision/latest?cb=20240929142606",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARConscriptsTask.png"
+    },
+    {
+      "title": "ITAR Conscripts Task Map",
+      "description": "Wiki map or location guide for Is This a Reference?.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/de/ITARConscriptsTaskMap.png/revision/latest?cb=20240929144254",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARConscriptsTaskMap.png"
+    },
+    {
+      "title": "ITAR Conspiracy Theorist",
+      "description": "Wiki visual reference for the objective: Install a WI-FI Camera in the conspiracy theorist's room on Factory.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a6/ITARConspiracyTheorist.png/revision/latest?cb=20240928171303",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARConspiracyTheorist.png",
+      "objective_id": "Install a WI-FI Camera in the conspiracy theorist's room on Factory"
+    },
+    {
+      "title": "ITAR Conspiracy Theorist Map",
+      "description": "Wiki map or route reference for the objective: Install a WI-FI Camera in the conspiracy theorist's room on Factory.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/05/ITARConspiracyTheoristMap.jpg/revision/latest?cb=20240928172359",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARConspiracyTheoristMap.jpg",
+      "objective_id": "Install a WI-FI Camera in the conspiracy theorist's room on Factory"
+    },
+    {
+      "title": "ITAR Developers Nightmare",
+      "description": "Visual reference (ITAR Developers Nightmare) from the Is This a Reference? wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d5/ITARDevelopersNightmare.png/revision/latest?cb=20240928201009",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARDevelopersNightmare.png"
+    },
+    {
+      "title": "ITAR Developers Nightmare Map",
+      "description": "Wiki map or location guide for Is This a Reference?.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2f/ITARDevelopersNightmareMap.png/revision/latest?cb=20240928201715",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARDevelopersNightmareMap.png"
+    },
+    {
+      "title": "ITAR Die Hard Guy",
+      "description": "Wiki visual reference for the objective: Install a WI-FI Camera at the high rise where one die-hard guy kicked ass on Ground Zero.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0d/ITARDieHardGuy.png/revision/latest?cb=20240928214652",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARDieHardGuy.png",
+      "objective_id": "Install a WI-FI Camera at the high rise where one die-hard guy kicked ass on Ground Zero"
+    },
+    {
+      "title": "ITAR Die Hard Guy Map",
+      "description": "Wiki map or route reference for the objective: Install a WI-FI Camera at the high rise where one die-hard guy kicked ass on Ground Zero.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0b/ITARDieHardGuyMap.png/revision/latest?cb=20240928215540",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARDieHardGuyMap.png",
+      "objective_id": "Install a WI-FI Camera at the high rise where one die-hard guy kicked ass on Ground Zero"
+    },
+    {
+      "title": "ITAR Firefighter Books",
+      "description": "Wiki visual reference for the objective: Install a WI-FI Camera in the room where the firefighter burned the books to become happy on Factory.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c4/ITARFirefighterBooks.png/revision/latest?cb=20240928174853",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARFirefighterBooks.png",
+      "objective_id": "Install a WI-FI Camera in the room where the firefighter burned the books to become happy on Factory"
+    },
+    {
+      "title": "ITAR Firefighter Books Map",
+      "description": "Wiki map or route reference for the objective: Install a WI-FI Camera in the room where the firefighter burned the books to become happy on Factory.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/49/ITARFirefighterBooksMap.png/revision/latest?cb=20240928174912",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARFirefighterBooksMap.png",
+      "objective_id": "Install a WI-FI Camera in the room where the firefighter burned the books to become happy on Factory"
+    },
+    {
+      "title": "ITAR Friend Wilson",
+      "description": "Wiki visual reference for the objective: Install a WI-FI Camera by your friend Wilson on Lighthouse.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/15/ITARFriendWilson.png/revision/latest?cb=20240929145250",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARFriendWilson.png",
+      "objective_id": "Install a WI-FI Camera by your friend Wilson on Lighthouse"
+    },
+    {
+      "title": "ITAR Friend Wilson Map",
+      "description": "Wiki map or route reference for the objective: Install a WI-FI Camera by your friend Wilson on Lighthouse.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/79/ITARFriendWilsonMap.png/revision/latest?cb=20240929155640",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARFriendWilsonMap.png",
+      "objective_id": "Install a WI-FI Camera by your friend Wilson on Lighthouse"
+    },
+    {
+      "title": "ITAR Joke For Programmers",
+      "description": "Wiki visual reference for the objective: Install a WI-FI Camera at the computer with a joke for programmers on Ground Zero.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/92/ITARJokeForProgrammers.png/revision/latest?cb=20240928214815",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARJokeForProgrammers.png",
+      "objective_id": "Install a WI-FI Camera at the computer with a joke for programmers on Ground Zero"
+    },
+    {
+      "title": "ITAR Joke For Programmers Map",
+      "description": "Wiki map or route reference for the objective: Install a WI-FI Camera at the computer with a joke for programmers on Ground Zero.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/07/ITARJokeForProgrammersMap.png/revision/latest?cb=20240928215734",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARJokeForProgrammersMap.png",
+      "objective_id": "Install a WI-FI Camera at the computer with a joke for programmers on Ground Zero"
+    },
+    {
+      "title": "ITAR Kindled Place",
+      "description": "Wiki location reference (ITAR Kindled Place) for Is This a Reference?.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/92/ITARKindledPlace.png/revision/latest?cb=20240929145719",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARKindledPlace.png"
+    },
+    {
+      "title": "ITAR Kindled Place Map",
+      "description": "Wiki map or location guide for Is This a Reference?.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a8/ITARKindledPlaceMap.png/revision/latest?cb=20240929155908",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARKindledPlaceMap.png"
+    },
+    {
+      "title": "ITAR Magic School",
+      "description": "Wiki visual reference for the objective: Install a WI-FI Camera near where someone thought he'd get transported to the magic school on Factory.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/96/ITARMagicSchool.png/revision/latest?cb=20240928180106",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARMagicSchool.png",
+      "objective_id": "Install a WI-FI Camera near where someone thought he'd get transported to the magic school on Factory"
+    },
+    {
+      "title": "ITAR Magic School Map",
+      "description": "Wiki map or route reference for the objective: Install a WI-FI Camera near where someone thought he'd get transported to the magic school on Factory.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6a/ITARMagicSchoolMap.png/revision/latest?cb=20240928180507",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARMagicSchoolMap.png",
+      "objective_id": "Install a WI-FI Camera near where someone thought he'd get transported to the magic school on Factory"
+    },
+    {
+      "title": "ITAR Megagenius",
+      "description": "Visual reference (ITAR Megagenius) from the Is This a Reference? wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2e/ITARMegagenius.png/revision/latest?cb=20240929150406",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARMegagenius.png"
+    },
+    {
+      "title": "ITAR Megagenius Map",
+      "description": "Wiki map or location guide for Is This a Reference?.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/24/ITARMegageniusMap.png/revision/latest?cb=20240929161209",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARMegageniusMap.png"
+    },
+    {
+      "title": "ITAR Not So Lonely Bathroom",
+      "description": "Wiki location reference for the objective: Install a WI-FI Camera at the not-so-lonely bathroom on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d5/ITARNotSoLonelyBathroom.png/revision/latest?cb=20240928191348",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARNotSoLonelyBathroom.png",
+      "objective_id": "Install a WI-FI Camera at the not-so-lonely bathroom on Shoreline"
+    },
+    {
+      "title": "ITAR Not So Lonely Bathroom Map",
+      "description": "Wiki map or route reference for the objective: Install a WI-FI Camera at the not-so-lonely bathroom on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/48/ITARNotSoLonelyBathroomMap.png/revision/latest?cb=20240928191732",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARNotSoLonelyBathroomMap.png",
+      "objective_id": "Install a WI-FI Camera at the not-so-lonely bathroom on Shoreline"
+    },
+    {
+      "title": "ITAR Pizza Lover",
+      "description": "Visual reference (ITAR Pizza Lover) from the Is This a Reference? wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f5/ITARPizzaLover.png/revision/latest?cb=20240928203904",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARPizzaLover.png"
+    },
+    {
+      "title": "ITAR Pizza Lover Map",
+      "description": "Wiki map or location guide for Is This a Reference?.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/68/ITARPizzaLoverMap.png/revision/latest?cb=20240928203948",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARPizzaLoverMap.png"
+    },
+    {
+      "title": "ITAR Russian Beauty",
+      "description": "Wiki visual reference for the objective: Install a WI-FI Camera at the dangerous Russian chocolate beauty on Factory.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a7/ITARRussianBeauty.png/revision/latest?cb=20240928164516",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARRussianBeauty.png",
+      "objective_id": "Install a WI-FI Camera at the dangerous Russian chocolate beauty on Factory"
+    },
+    {
+      "title": "ITAR Russian Beauty Map",
+      "description": "Wiki map or route reference for the objective: Install a WI-FI Camera at the dangerous Russian chocolate beauty on Factory.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/16/ITARRussianBeautyMap.png/revision/latest?cb=20240928165329",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARRussianBeautyMap.png",
+      "objective_id": "Install a WI-FI Camera at the dangerous Russian chocolate beauty on Factory"
+    },
+    {
+      "title": "ITAR Scary Hole",
+      "description": "Wiki location reference for the objective: Install a WI-FI Camera at the really scary hole in the wall on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/98/ITARScaryHole.png/revision/latest?cb=20240928205554",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARScaryHole.png",
+      "objective_id": "Install a WI-FI Camera at the really scary hole in the wall on Streets of Tarkov"
+    },
+    {
+      "title": "ITAR Scary Hole Map",
+      "description": "Wiki map or route reference for the objective: Install a WI-FI Camera at the really scary hole in the wall on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b6/ITARScaryHoleMap.png/revision/latest?cb=20240928210540",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARScaryHoleMap.png",
+      "objective_id": "Install a WI-FI Camera at the really scary hole in the wall on Streets of Tarkov"
+    },
+    {
+      "title": "ITAR Stairway Skies",
+      "description": "Wiki location reference for the objective: Install a WI-FI Camera at the stairway to the skies on Factory.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f1/ITARStairwaySkies.png/revision/latest?cb=20240928170031",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARStairwaySkies.png",
+      "objective_id": "Install a WI-FI Camera at the stairway to the skies on Factory"
+    },
+    {
+      "title": "ITAR Stairway Skies Map",
+      "description": "Wiki map or route reference for the objective: Install a WI-FI Camera at the stairway to the skies on Factory.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e6/ITARStairwaySkiesMap.png/revision/latest?cb=20240928171007",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARStairwaySkiesMap.png",
+      "objective_id": "Install a WI-FI Camera at the stairway to the skies on Factory"
+    },
+    {
+      "title": "ITAR Strategy Games",
+      "description": "Wiki visual reference for the objective: Install a WI-FI Camera at the mother of all strategy games on Factory.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/42/ITARStrategyGames.png/revision/latest?cb=20240928172919",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARStrategyGames.png",
+      "objective_id": "Install a WI-FI Camera at the mother of all strategy games on Factory"
+    },
+    {
+      "title": "ITAR Strategy Games Map",
+      "description": "Wiki map or route reference for the objective: Install a WI-FI Camera at the mother of all strategy games on Factory.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/06/ITARStrategyGamesMap.jpg/revision/latest?cb=20240928173339",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARStrategyGamesMap.jpg",
+      "objective_id": "Install a WI-FI Camera at the mother of all strategy games on Factory"
+    },
+    {
+      "title": "ITAR Tank Videogame",
+      "description": "Wiki location reference for the objective: Install a WI-FI Camera at every tank driver's first videogame on Reserve.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/17/ITARTankVideogame.png/revision/latest?cb=20240929142909",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARTankVideogame.png",
+      "objective_id": "Install a WI-FI Camera at every tank driver's first videogame on Reserve"
+    },
+    {
+      "title": "ITAR Tank Videogame Map",
+      "description": "Wiki map or route reference for the objective: Install a WI-FI Camera at every tank driver's first videogame on Reserve.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9f/ITARTankVideogameMap.png/revision/latest?cb=20240929144601",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARTankVideogameMap.png",
+      "objective_id": "Install a WI-FI Camera at every tank driver's first videogame on Reserve"
+    },
+    {
+      "title": "ITAR Upsidedown Chair",
+      "description": "Visual reference (ITAR Upsidedown Chair) from the Is This a Reference? wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e5/ITARUpsidedownChair.png/revision/latest?cb=20240928184805",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARUpsidedownChair.png"
+    },
+    {
+      "title": "ITAR Upsidedown Chair House",
+      "description": "Visual reference (ITAR Upsidedown Chair House) from the Is This a Reference? wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f9/ITARUpsidedownChairHouse.png/revision/latest?cb=20240928190111",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARUpsidedownChairHouse.png"
+    },
+    {
+      "title": "ITAR Upsidedown Chair Map",
+      "description": "Wiki map or location guide for Is This a Reference?.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ac/ITARUpsidedownChairMap.png/revision/latest?cb=20240928190807",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARUpsidedownChairMap.png"
+    },
+    {
+      "title": "ITAR Valve Technicians",
+      "description": "Wiki visual reference for the objective: Install a WI-FI Camera at the place where some valve technicians couldn't finish their third project on Factory.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2a/ITARValveTechnicians.png/revision/latest?cb=20240928180638",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARValveTechnicians.png",
+      "objective_id": "Install a WI-FI Camera at the place where some valve technicians couldn't finish their third project on Factory"
+    },
+    {
+      "title": "ITAR Valve Technicians Map",
+      "description": "Wiki map or route reference for the objective: Install a WI-FI Camera at the place where some valve technicians couldn't finish their third project on Factory.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0d/ITARValveTechniciansMap.jpg/revision/latest?cb=20240928181552",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARValveTechniciansMap.jpg",
+      "objective_id": "Install a WI-FI Camera at the place where some valve technicians couldn't finish their third project on Factory"
+    },
+    {
+      "title": "ITAR Welcome Sign",
+      "description": "Wiki visual reference for the objective: Install a WI-FI Camera at the ominous welcome sign on Lighthouse.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a8/ITARWelcomeSign.png/revision/latest?cb=20240929145829",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARWelcomeSign.png",
+      "objective_id": "Install a WI-FI Camera at the ominous welcome sign on Lighthouse"
+    },
+    {
+      "title": "ITAR Welcome Sign Map",
+      "description": "Wiki map or route reference for the objective: Install a WI-FI Camera at the ominous welcome sign on Lighthouse.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fe/ITARWelcomeSignMap.png/revision/latest?cb=20240929160532",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARWelcomeSignMap.png",
+      "objective_id": "Install a WI-FI Camera at the ominous welcome sign on Lighthouse"
+    },
+    {
+      "title": "ITAR Wire Body",
+      "description": "Wiki visual reference for the objective: Install a WI-FI Camera at the barbed wire body on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/06/ITARWireBody.png/revision/latest?cb=20240928204625",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARWireBody.png",
+      "objective_id": "Install a WI-FI Camera at the barbed wire body on Streets of Tarkov"
+    },
+    {
+      "title": "ITAR Wire Body Door",
+      "description": "Wiki location reference for the objective: Install a WI-FI Camera at the barbed wire body on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/eb/ITARWireBodyDoor.png/revision/latest?cb=20241015234356",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARWireBodyDoor.png",
+      "objective_id": "Install a WI-FI Camera at the barbed wire body on Streets of Tarkov"
+    },
+    {
+      "title": "ITAR Wire Body Map",
+      "description": "Wiki map or route reference for the objective: Install a WI-FI Camera at the barbed wire body on Streets of Tarkov.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1d/ITARWireBodyMap.png/revision/latest?cb=20240928211250",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ITARWireBodyMap.png",
+      "objective_id": "Install a WI-FI Camera at the barbed wire body on Streets of Tarkov"
+    },
+    {
+      "title": "Mysterious key building entrance",
+      "description": "Wiki location reference (Mysterious key building entrance) for Is This a Reference?.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cc/Mysterious_key_building_entrance.png/revision/latest?cb=20241015235936",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Mysterious_key_building_entrance.png"
+    },
+    {
+      "title": "Mysterious key path1",
+      "description": "Wiki location reference (Mysterious key path1) for Is This a Reference?.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ea/Mysterious_key_path1.png/revision/latest?cb=20241015235309",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Mysterious_key_path1.png"
+    },
+    {
+      "title": "Mysterious key path2",
+      "description": "Wiki location reference (Mysterious key path2) for Is This a Reference?.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a3/Mysterious_key_path2.png/revision/latest?cb=20241015235209",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Mysterious_key_path2.png"
+    },
+    {
+      "title": "Mysterious key path3",
+      "description": "Wiki location reference (Mysterious key path3) for Is This a Reference?.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/27/Mysterious_key_path3.png/revision/latest?cb=20241015234645",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Mysterious_key_path3.png"
+    },
+    {
+      "title": "Pier Office Building",
+      "description": "Wiki location reference (Pier Office Building) for Is This a Reference?.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0c/PierOfficeBuilding.png/revision/latest?cb=20241020205819",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:PierOfficeBuilding.png"
+    },
+    {
+      "title": "Tarbank Building Stairs",
+      "description": "Wiki location reference (Tarbank Building Stairs) for Is This a Reference?.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/51/Tarbank_Building_Stairs.png/revision/latest?cb=20250522211749",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Tarbank_Building_Stairs.png"
+    },
+    {
+      "title": "Tarbank Building",
+      "description": "Wiki location reference (Tarbank Building) for Is This a Reference?.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/26/Tarbank_Building.png/revision/latest?cb=20250708202708",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Tarbank_Building.png"
+    },
+    {
+      "title": "X ray clinic outside",
+      "description": "Wiki location reference (X ray clinic outside) for Is This a Reference?.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f6/X-ray_clinic_outside.png/revision/latest?cb=20230813160337",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:X-ray_clinic_outside.png"
+    },
+    {
+      "title": "X ray key upstairs",
+      "description": "Wiki location reference (X ray key upstairs) for Is This a Reference?.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/87/X-ray_key_upstairs.png/revision/latest?cb=20241015230354",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:X-ray_key_upstairs.png"
+    },
+    {
+      "title": "WIFI Camera Icon",
+      "description": "Inventory appearance of WIFI Camera, shown for identification during Is This a Reference?.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9a/WIFI_Camera_Icon.png/revision/latest?cb=20250822001547",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WIFI_Camera_Icon.png"
+    },
+    {
+      "title": "Factory key Icon",
+      "description": "Inventory appearance of Factory key, shown for identification during Is This a Reference?.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/23/Factory_key_icon.png/revision/latest?cb=20230115110139",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Factory_key_icon.png"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "quest_id": "6089736efa70fc097863b8f6",
+  "name": "Back Door",
+  "images": [
+    {
+      "title": "Back Door D2Marked",
+      "description": "Wiki map or location guide for Back Door.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3e/BackDoorD2Marked.png/revision/latest?cb=20230618212640",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BackDoorD2Marked.png"
+    },
+    {
+      "title": "Backdoor",
+      "description": "Wiki location reference (Backdoor) for Back Door.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/64/Backdoor.PNG/revision/latest?cb=20210708200558",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Backdoor.PNG"
+    },
+    {
+      "title": "D2 Extract",
+      "description": "Visual reference (D2 Extract) from the Back Door wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/79/D2_Extract.png/revision/latest?cb=20260607201034",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:D2_Extract.png"
+    },
+    {
+      "title": "D2 Switch",
+      "description": "Visual reference (D2 Switch) from the Back Door wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cb/D2_Switch.png/revision/latest?cb=20230427012803",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:D2_Switch.png"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "quest_id": "67a09761e720611a6a01f288",
+  "name": "Keeper's Word",
+  "images": [
+    {
+      "title": "Keepers Word map",
+      "description": "Wiki map or location guide for Keeper's Word.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2f/Keepers_Word_map.png/revision/latest?cb=20250330000504",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Keepers_Word_map.png"
+    },
+    {
+      "title": "Keepers Word location 1",
+      "description": "Wiki location reference (Keepers Word location 1) for Keeper's Word.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b3/Keepers_Word_location_1.png/revision/latest?cb=20250330000605",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Keepers_Word_location_1.png"
+    },
+    {
+      "title": "Keepers Word location 2",
+      "description": "Wiki location reference (Keepers Word location 2) for Keeper's Word.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3c/Keepers_Word_location_2.png/revision/latest?cb=20250330000651",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Keepers_Word_location_2.png"
+    },
+    {
+      "title": "Keepers Word location 3",
+      "description": "Wiki location reference (Keepers Word location 3) for Keeper's Word.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/68/Keepers_Word_location_3.png/revision/latest?cb=20250330001135",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Keepers_Word_location_3.png"
+    },
+    {
+      "title": "Corpse room key Icon",
+      "description": "Inventory appearance of Corpse room key, shown for identification during Keeper's Word.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3b/Corpse_room_key_icon.png/revision/latest?cb=20250328213723",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Corpse_room_key_icon.png"
+    },
+    {
+      "title": "Cultist Knife Icon",
+      "description": "Inventory appearance of Cultist Knife, shown for identification during Keeper's Word.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/25/Cultist_Knife_icon.png/revision/latest?cb=20250326010557",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Cultist_Knife_icon.png"
+    }
+  ]
+}

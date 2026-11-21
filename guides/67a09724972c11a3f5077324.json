@@ -1,0 +1,55 @@
+{
+  "quest_id": "67a09724972c11a3f5077324",
+  "name": "Confidential Info",
+  "images": [
+    {
+      "title": "Labryrinth missile area map",
+      "description": "Wiki map or location guide for Confidential Info.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5b/Labryrinth_missile_area_map.png/revision/latest?cb=20260212011556",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Labryrinth_missile_area_map.png"
+    },
+    {
+      "title": "Confidential Info Spawn 1",
+      "description": "Wiki location reference (Confidential Info Spawn 1) for Confidential Info.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/16/Confidential_Info_Spawn_1.png/revision/latest?cb=20250329222334",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Confidential_Info_Spawn_1.png"
+    },
+    {
+      "title": "Confidential Info Spawn 2",
+      "description": "Wiki location reference (Confidential Info Spawn 2) for Confidential Info.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d5/Confidential_Info_Spawn_2.png/revision/latest?cb=20250329222656",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Confidential_Info_Spawn_2.png"
+    },
+    {
+      "title": "Confidential Info Spawn 3",
+      "description": "Wiki location reference (Confidential Info Spawn 3) for Confidential Info.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a6/Confidential_Info_Spawn_3.png/revision/latest?cb=20250329223418",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Confidential_Info_Spawn_3.png"
+    },
+    {
+      "title": "Confidential Info Spawn 4",
+      "description": "Wiki location reference (Confidential Info Spawn 4) for Confidential Info.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/70/Confidential_Info_Spawn_4.png/revision/latest?cb=20250329223012",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Confidential_Info_Spawn_4.png"
+    },
+    {
+      "title": "Confidential Info Spawn 5",
+      "description": "Wiki location reference (Confidential Info Spawn 5) for Confidential Info.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1c/Confidential_Info_Spawn_5.png/revision/latest?cb=20250329223151",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Confidential_Info_Spawn_5.png"
+    },
+    {
+      "title": "Confidential Info Spawn 6",
+      "description": "Wiki location reference (Confidential Info Spawn 6) for Confidential Info.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c4/Confidential_Info_Spawn_6.png/revision/latest?cb=20250329223229",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Confidential_Info_Spawn_6.png"
+    },
+    {
+      "title": "VPX Flash Storage Module marked Group 3 Icon",
+      "description": "Inventory appearance of VPX Flash Storage Module marked Group 3, shown for identification during Confidential Info.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cc/VPX_Flash_Storage_Module_marked_Group_3_icon.png/revision/latest?cb=20250329210921",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:VPX_Flash_Storage_Module_marked_Group_3_icon.png",
+      "objective_id": "Locate and obtain the special storage module inside The Labyrinth"
+    }
+  ]
+}

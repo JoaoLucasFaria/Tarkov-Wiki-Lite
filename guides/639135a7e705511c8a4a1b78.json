@@ -1,0 +1,90 @@
+{
+  "quest_id": "639135a7e705511c8a4a1b78",
+  "name": "Ballet Lover",
+  "images": [
+    {
+      "title": "Apartment10Map",
+      "description": "Wiki map or location guide for Ballet Lover.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d3/Apartment10Map.png/revision/latest?cb=20230825214825",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Apartment10Map.png"
+    },
+    {
+      "title": "Underpass Key Map",
+      "description": "Wiki map or location guide for Ballet Lover.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e9/UnderpassKeyMap.png/revision/latest?cb=20230825214519",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:UnderpassKeyMap.png"
+    },
+    {
+      "title": "Apartment10Living",
+      "description": "Wiki location reference (Apartment10Living) for Ballet Lover.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4f/Apartment10Living.png/revision/latest?cb=20230102212732",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Apartment10Living.png"
+    },
+    {
+      "title": "Apartment10Outside",
+      "description": "Wiki location reference (Apartment10Outside) for Ballet Lover.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/af/Apartment10Outside.png/revision/latest?cb=20230108161221",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Apartment10Outside.png"
+    },
+    {
+      "title": "Underpass Key Door",
+      "description": "Wiki location reference (Underpass Key Door) for Ballet Lover.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/91/UnderpassKeyDoor.png/revision/latest?cb=20230102204654",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:UnderpassKeyDoor.png"
+    },
+    {
+      "title": "Underpass Key Stairs Door",
+      "description": "Wiki location reference (Underpass Key Stairs Door) for Ballet Lover.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/35/UnderpassKeyStairsDoor.png/revision/latest?cb=20230102204749",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:UnderpassKeyStairsDoor.png"
+    },
+    {
+      "title": "Underpass Key Underpass Locked Door",
+      "description": "Wiki location reference (Underpass Key Underpass Locked Door) for Ballet Lover.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/53/UnderpassKeyUnderpassLockedDoor.png/revision/latest?cb=20230102204853",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:UnderpassKeyUnderpassLockedDoor.png"
+    },
+    {
+      "title": "Underpass Key Way1",
+      "description": "Wiki location reference (Underpass Key Way1) for Ballet Lover.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1b/UnderpassKeyWay1.png/revision/latest?cb=20230102205921",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:UnderpassKeyWay1.png"
+    },
+    {
+      "title": "Underpass Key Way2",
+      "description": "Wiki location reference (Underpass Key Way2) for Ballet Lover.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2b/UnderpassKeyWay2.png/revision/latest?cb=20230102205914",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:UnderpassKeyWay2.png"
+    },
+    {
+      "title": "Underpass Key Way3",
+      "description": "Wiki location reference (Underpass Key Way3) for Ballet Lover.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/36/UnderpassKeyWay3.png/revision/latest?cb=20230102205906",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:UnderpassKeyWay3.png"
+    },
+    {
+      "title": "Underpass Key Way4",
+      "description": "Wiki location reference (Underpass Key Way4) for Ballet Lover.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d3/UnderpassKeyWay4.png/revision/latest?cb=20230102205319",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:UnderpassKeyWay4.png"
+    },
+    {
+      "title": "Ballet Lover Banner",
+      "description": "Visual reference (Ballet Lover Banner) from the Ballet Lover wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/64/BalletLoverBanner.png/revision/latest?cb=20230102144257",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BalletLoverBanner.png"
+    },
+    {
+      "title": "Underpass Key Underpass",
+      "description": "Visual reference (Underpass Key Underpass) from the Ballet Lover wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7d/UnderpassKeyUnderpass.png/revision/latest?cb=20230108161937",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:UnderpassKeyUnderpass.png"
+    },
+    {
+      "title": "Primorsky 46 underpass key Icon",
+      "description": "Inventory appearance of Primorsky 46 underpass key, shown for identification during Ballet Lover.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9e/Primorsky_46_underpass_key_icon.png/revision/latest?cb=20230105100231",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Primorsky_46_underpass_key_icon.png"
+    }
+  ]
+}

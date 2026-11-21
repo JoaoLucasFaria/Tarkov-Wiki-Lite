@@ -1,0 +1,24 @@
+{
+  "quest_id": "65733403eefc2c312a759ddb",
+  "name": "Corporate Perks",
+  "images": [
+    {
+      "title": "Developer's Secrets Part 1 Map",
+      "description": "Wiki map or location guide for Corporate Perks.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ec/Developer%27s_Secrets_-_Part_1_Map.png/revision/latest?cb=20240101010526",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Developer%27s_Secrets_-_Part_1_Map.png"
+    },
+    {
+      "title": "Developer's Secrets Part 1 Building",
+      "description": "Wiki location reference (Developer's Secrets Part 1 Building) for Corporate Perks.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4a/Developer%27s_Secrets_-_Part_1_Building.png/revision/latest?cb=20240101010056",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Developer%27s_Secrets_-_Part_1_Building.png"
+    },
+    {
+      "title": "Developer's Secrets Part 1 Room",
+      "description": "Wiki location reference (Developer's Secrets Part 1 Room) for Corporate Perks.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7d/Developer%27s_Secrets_-_Part_1_Room.png/revision/latest?cb=20240101010938",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Developer%27s_Secrets_-_Part_1_Room.png"
+    }
+  ]
+}

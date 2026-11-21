@@ -1,0 +1,48 @@
+{
+  "quest_id": "597a0e5786f77426d66c0636",
+  "name": "Chemical - Part 3",
+  "images": [
+    {
+      "title": "Chemical Pt 3 Syringe Spawn",
+      "description": "Wiki location reference for the objective: Locate and obtain the chemical syringe on Factory.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/72/Chemical_Pt_3_Syringe_Spawn.png/revision/latest?cb=20240824181657",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Chemical_Pt_3_Syringe_Spawn.png",
+      "objective_id": "Locate and obtain the chemical syringe on Factory"
+    },
+    {
+      "title": "Syringe with a chemical Location",
+      "description": "Wiki location reference for the objective: Locate and obtain the chemical syringe on Factory.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/69/Syringe_with_a_chemical_Location.png/revision/latest?cb=20240824180613",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Syringe_with_a_chemical_Location.png",
+      "objective_id": "Locate and obtain the chemical syringe on Factory"
+    },
+    {
+      "title": "Syringe with a chemical Location2",
+      "description": "Wiki location reference for the objective: Locate and obtain the chemical syringe on Factory.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a2/Syringe_with_a_chemical_Location2.png/revision/latest?cb=20240824182513",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Syringe_with_a_chemical_Location2.png",
+      "objective_id": "Locate and obtain the chemical syringe on Factory"
+    },
+    {
+      "title": "The breach room",
+      "description": "Wiki location reference for the objective: Locate and obtain the chemical syringe on Factory.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a0/The_breach_room.png/revision/latest?cb=20240821223335",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:The_breach_room.png",
+      "objective_id": "Locate and obtain the chemical syringe on Factory"
+    },
+    {
+      "title": "HCPP5",
+      "description": "Wiki visual reference for the objective: Locate and obtain the chemical syringe on Factory.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/00/HCPP5.png/revision/latest?cb=20240824191113",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:HCPP5.png",
+      "objective_id": "Locate and obtain the chemical syringe on Factory"
+    },
+    {
+      "title": "Syringe with a chemical Icon",
+      "description": "Inventory appearance of Syringe with a chemical, shown for identification during Chemical - Part 3.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/54/Syringe_with_a_chemical_icon.png/revision/latest?cb=20221012072855",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Syringe_with_a_chemical_icon.png",
+      "objective_id": "Locate and obtain the chemical syringe on Factory"
+    }
+  ]
+}

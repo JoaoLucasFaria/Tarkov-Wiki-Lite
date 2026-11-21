@@ -1,0 +1,43 @@
+{
+  "quest_id": "5c0d0f1886f77457b8210226",
+  "name": "From Hand to Hand",
+  "images": [
+    {
+      "title": "Drug Lab Map",
+      "description": "Wiki map or location guide for From Hand to Hand.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8a/DrugLabMap.png/revision/latest?cb=20220702194731",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:DrugLabMap.png"
+    },
+    {
+      "title": "Inside Lab",
+      "description": "Wiki location reference (Inside Lab) for From Hand to Hand.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a0/InsideLab.png/revision/latest?cb=20220702195856",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:InsideLab.png"
+    },
+    {
+      "title": "Container Group",
+      "description": "Visual reference (Container Group) from the From Hand to Hand wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/74/ContainerGroup.png/revision/latest?cb=20220702195854",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ContainerGroup.png"
+    },
+    {
+      "title": "Drug Trafficking",
+      "description": "Visual reference (Drug Trafficking) from the From Hand to Hand wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f5/Drug_Trafficking.jpg/revision/latest?cb=20240922091209",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Drug_Trafficking.jpg"
+    },
+    {
+      "title": "COFDM Icon",
+      "description": "Inventory appearance of COFDM, shown for identification during From Hand to Hand.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3a/COFDM_Icon.png/revision/latest?cb=20250114194526",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:COFDM_Icon.png"
+    },
+    {
+      "title": "Virtex programmable processor Icon",
+      "description": "Inventory appearance of Virtex programmable processor, shown for identification during From Hand to Hand.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0d/Virtex_programmable_processor_Icon.png/revision/latest?cb=20250114194319",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Virtex_programmable_processor_Icon.png",
+      "objective_id": "Stash a Virtex programmable processor inside the makeshift lab on Lighthouse"
+    }
+  ]
+}

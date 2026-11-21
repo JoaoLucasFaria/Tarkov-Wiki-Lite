@@ -1,0 +1,78 @@
+{
+  "quest_id": "684009026ceedc792c09b2a7",
+  "name": "Hobby Club",
+  "images": [
+    {
+      "title": "Hobby Club Customs Stashing Map",
+      "description": "Wiki map or location guide for Hobby Club.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2e/Hobby_Club_Customs_Stashing_Map.png/revision/latest?cb=20250716194237",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Hobby_Club_Customs_Stashing_Map.png"
+    },
+    {
+      "title": "Hobby Club Reserve Warehouses Map",
+      "description": "Wiki map or location guide for Hobby Club.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b0/Hobby_Club_Reserve_Warehouses_Map.png/revision/latest?cb=20250716203054",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Hobby_Club_Reserve_Warehouses_Map.png"
+    },
+    {
+      "title": "Military Checkpoint map",
+      "description": "Wiki map or location guide for Hobby Club.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9d/Military_Checkpoint_map.png/revision/latest?cb=20250715125735",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Military_Checkpoint_map.png"
+    },
+    {
+      "title": "Hobby Club Customs Dust Cover Location",
+      "description": "Wiki location reference (Hobby Club Customs Dust Cover Location) for Hobby Club.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fa/Hobby_Club_Customs_Dust_Cover_Location.png/revision/latest?cb=20260513183653",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Hobby_Club_Customs_Dust_Cover_Location.png"
+    },
+    {
+      "title": "Hobby Club Customs Stashing Location",
+      "description": "Wiki location reference (Hobby Club Customs Stashing Location) for Hobby Club.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cd/Hobby_Club_Customs_Stashing_Location.png/revision/latest?cb=20250716193905",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Hobby_Club_Customs_Stashing_Location.png"
+    },
+    {
+      "title": "Hobby Club Reserve Barrel Location 1",
+      "description": "Wiki location reference (Hobby Club Reserve Barrel Location 1) for Hobby Club.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3e/Hobby_Club_Reserve_Barrel_Location_1.png/revision/latest?cb=20250716204008",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Hobby_Club_Reserve_Barrel_Location_1.png"
+    },
+    {
+      "title": "Hobby Club Reserve Barrel Location 2",
+      "description": "Wiki location reference (Hobby Club Reserve Barrel Location 2) for Hobby Club.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/22/Hobby_Club_Reserve_Barrel_Location_2.png/revision/latest?cb=20250716204656",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Hobby_Club_Reserve_Barrel_Location_2.png"
+    },
+    {
+      "title": "Hobby Club Reserve Barrel Location 3",
+      "description": "Wiki location reference (Hobby Club Reserve Barrel Location 3) for Hobby Club.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/00/Hobby_Club_Reserve_Barrel_Location_3.png/revision/latest?cb=20250716210539",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Hobby_Club_Reserve_Barrel_Location_3.png"
+    },
+    {
+      "title": "Military Checkpoint door",
+      "description": "Wiki location reference (Military Checkpoint door) for Hobby Club.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/37/Military_Checkpoint_door.png/revision/latest?cb=20250715124946",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Military_Checkpoint_door.png"
+    },
+    {
+      "title": "AK 50 Stripped Icon",
+      "description": "Inventory appearance of AK 50 Stripped, shown for identification during Hobby Club.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d4/AK-50_Stripped_icon.png/revision/latest?cb=20250717133448",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:AK-50_Stripped_icon.png"
+    },
+    {
+      "title": "AK 50 barrel Icon",
+      "description": "Inventory appearance of AK 50 barrel, shown for identification during Hobby Club.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9d/AK-50_barrel_icon.png/revision/latest?cb=20250716221046",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:AK-50_barrel_icon.png"
+    },
+    {
+      "title": "AK 50 dust cover (quest item) Icon",
+      "description": "Inventory appearance of AK 50 dust cover (quest item), shown for identification during Hobby Club.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e4/AK-50_dust_cover_%28quest_item%29_icon.png/revision/latest?cb=20250716221105",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:AK-50_dust_cover_(quest_item)_icon.png"
+    }
+  ]
+}

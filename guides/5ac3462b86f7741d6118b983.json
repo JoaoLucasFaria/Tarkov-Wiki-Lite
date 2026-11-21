@@ -1,0 +1,67 @@
+{
+  "quest_id": "5ac3462b86f7741d6118b983",
+  "name": "Farming",
+  "images": [
+    {
+      "title": "Customs Factory1 Outside 3",
+      "description": "Wiki location reference (Customs Factory1 Outside 3) for Farming.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8a/Customs-Factory1-Outside-3.png/revision/latest?cb=20230117183410",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Customs-Factory1-Outside-3.png"
+    },
+    {
+      "title": "Customs Office",
+      "description": "Wiki location reference (Customs Office) for Farming.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/45/CustomsOffice.png/revision/latest?cb=20230117184032",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:CustomsOffice.png"
+    },
+    {
+      "title": "Farming3Office",
+      "description": "Wiki location reference (Farming3Office) for Farming.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5e/Farming3Office.png/revision/latest?cb=20230117182707",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Farming3Office.png"
+    },
+    {
+      "title": "Delivery from the past Customs",
+      "description": "Visual reference (Delivery from the past Customs) from the Farming wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4a/Delivery_from_the_past_Customs.png/revision/latest?cb=20220214002541",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Delivery_from_the_past_Customs.png"
+    },
+    {
+      "title": "Farm3Closet",
+      "description": "Visual reference (Farm3Closet) from the Farming wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d3/Farm3Closet.png/revision/latest?cb=20230310205737",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Farm3Closet.png"
+    },
+    {
+      "title": "Farm3Copier",
+      "description": "Visual reference (Farm3Copier) from the Farming wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/be/Farm3Copier.png/revision/latest?cb=20230310205936",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Farm3Copier.png"
+    },
+    {
+      "title": "Farming part 3",
+      "description": "Visual reference (Farming part 3) from the Farming wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ee/Farming_part_3.png/revision/latest?cb=20230310205918",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Farming_part_3.png"
+    },
+    {
+      "title": "Farming3Desk",
+      "description": "Visual reference (Farming3Desk) from the Farming wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bc/Farming3Desk.png/revision/latest?cb=20230310205958",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Farming3Desk.png"
+    },
+    {
+      "title": "Customs office key Icon",
+      "description": "Inventory appearance of Customs office key, shown for identification during Farming.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f9/Customs-office-key-Icon.png/revision/latest?cb=20220707194147",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Customs-office-key-Icon.png"
+    },
+    {
+      "title": "Package with graphics cards Icon",
+      "description": "Inventory appearance of Package with graphics cards, shown for identification during Farming.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8d/Package_with_graphics_cards_icon.png/revision/latest?cb=20221012072307",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Package_with_graphics_cards_icon.png",
+      "objective_id": "Obtain the package of graphics cards"
+    }
+  ]
+}

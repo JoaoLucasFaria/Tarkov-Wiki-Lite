@@ -1,0 +1,48 @@
+{
+  "quest_id": "669fa39b91b0a8c9680fc467",
+  "name": "Black Swan",
+  "images": [
+    {
+      "title": "Black Swan Map",
+      "description": "Wiki map or route reference for the objective: Locate and mark any of the heat exchangers with an MS2000 Marker on Factory.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/ff/Black_Swan_Map.jpg/revision/latest?cb=20240919211753",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Black_Swan_Map.jpg",
+      "objective_id": "Locate and mark any of the heat exchangers with an MS2000 Marker on Factory"
+    },
+    {
+      "title": "Factoryheatexchanger",
+      "description": "Wiki visual reference for the objective: Locate and mark any of the heat exchangers with an MS2000 Marker on Factory.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ae/Factoryheatexchanger.png/revision/latest?cb=20240827193457",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Factoryheatexchanger.png",
+      "objective_id": "Locate and mark any of the heat exchangers with an MS2000 Marker on Factory"
+    },
+    {
+      "title": "Heat Exchangers1",
+      "description": "Wiki visual reference for the objective: Locate and mark any of the heat exchangers with an MS2000 Marker on Factory.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0f/HeatExchangers1.png/revision/latest?cb=20240827200728",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:HeatExchangers1.png",
+      "objective_id": "Locate and mark any of the heat exchangers with an MS2000 Marker on Factory"
+    },
+    {
+      "title": "Heat Exchangers2",
+      "description": "Wiki visual reference for the objective: Locate and mark any of the heat exchangers with an MS2000 Marker on Factory.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4b/HeatExchangers2.png/revision/latest?cb=20240827200737",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:HeatExchangers2.png",
+      "objective_id": "Locate and mark any of the heat exchangers with an MS2000 Marker on Factory"
+    },
+    {
+      "title": "Heat Exchangers3",
+      "description": "Wiki visual reference for the objective: Locate and mark any of the heat exchangers with an MS2000 Marker on Factory.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e9/HeatExchangers3.png/revision/latest?cb=20240827200745",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:HeatExchangers3.png",
+      "objective_id": "Locate and mark any of the heat exchangers with an MS2000 Marker on Factory"
+    },
+    {
+      "title": "MS2000 Marker Icon",
+      "description": "Inventory appearance of MS2000 Marker, shown for identification during Black Swan.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a9/MS2000_Marker_icon.png/revision/latest?cb=20250407003132",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MS2000_Marker_icon.png",
+      "objective_id": "Locate and mark any of the heat exchangers with an MS2000 Marker on Factory"
+    }
+  ]
+}

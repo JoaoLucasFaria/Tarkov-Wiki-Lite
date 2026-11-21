@@ -1,0 +1,42 @@
+{
+  "quest_id": "5eda19f0edce541157209cee",
+  "name": "Anesthesia",
+  "images": [
+    {
+      "title": "Anesthesiax Rigged Game Map",
+      "description": "Wiki map or location guide for Anesthesia.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b6/AnesthesiaxRiggedGameMap.png/revision/latest?cb=20241215164140",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:AnesthesiaxRiggedGameMap.png"
+    },
+    {
+      "title": "Anesthesiax Rigged Game Location1",
+      "description": "Wiki location reference (Anesthesiax Rigged Game Location1) for Anesthesia.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d9/AnesthesiaxRiggedGameLocation1.png/revision/latest?cb=20241215162518",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:AnesthesiaxRiggedGameLocation1.png"
+    },
+    {
+      "title": "Anesthesiax Rigged Game Location2",
+      "description": "Wiki location reference (Anesthesiax Rigged Game Location2) for Anesthesia.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/65/AnesthesiaxRiggedGameLocation2.png/revision/latest?cb=20241215162708",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:AnesthesiaxRiggedGameLocation2.png"
+    },
+    {
+      "title": "Anesthesiax Rigged Game Location3",
+      "description": "Wiki location reference (Anesthesiax Rigged Game Location3) for Anesthesia.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b5/AnesthesiaxRiggedGameLocation3.png/revision/latest?cb=20241215162843",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:AnesthesiaxRiggedGameLocation3.png"
+    },
+    {
+      "title": "Anesthesia",
+      "description": "Visual reference (Anesthesia) from the Anesthesia wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cb/Anesthesia.png/revision/latest?cb=20200727133559",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Anesthesia.png"
+    },
+    {
+      "title": "MS2000 Marker Icon",
+      "description": "Inventory appearance of MS2000 Marker, shown for identification during Anesthesia.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a9/MS2000_Marker_icon.png/revision/latest?cb=20250407003132",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MS2000_Marker_icon.png"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "quest_id": "66aba85403e0ee3101042877",
+  "name": "Beneath The Streets",
+  "images": [
+    {
+      "title": "Labs Control Room Map",
+      "description": "Wiki map or location guide for Beneath The Streets.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2d/LabsControlRoomMap.png/revision/latest?cb=20240828222837",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:LabsControlRoomMap.png"
+    },
+    {
+      "title": "Labs Server Room Map",
+      "description": "Wiki map or location guide for Beneath The Streets.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/37/LabsServerRoomMap.png/revision/latest?cb=20240828223423",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:LabsServerRoomMap.png"
+    },
+    {
+      "title": "Quality Standard Yellow Dome Map",
+      "description": "Wiki map or location guide for Beneath The Streets.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/71/Quality_Standard_Yellow_Dome_Map.png/revision/latest?cb=20240708010501",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Quality_Standard_Yellow_Dome_Map.png"
+    },
+    {
+      "title": "Streets Transit To Labs Map",
+      "description": "Wiki map or location guide for Beneath The Streets.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/75/StreetsTransitToLabsMap.png/revision/latest?cb=20240828224823",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:StreetsTransitToLabsMap.png"
+    },
+    {
+      "title": "Labs Control Room",
+      "description": "Wiki location reference (Labs Control Room) for Beneath The Streets.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5f/LabsControlRoom.png/revision/latest?cb=20240828222354",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:LabsControlRoom.png"
+    },
+    {
+      "title": "Labs Server Room",
+      "description": "Wiki location reference (Labs Server Room) for Beneath The Streets.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f8/LabsServerRoom.png/revision/latest?cb=20240828221953",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:LabsServerRoom.png"
+    },
+    {
+      "title": "Streets Transit To Labs Downstairs",
+      "description": "Wiki location reference (Streets Transit To Labs Downstairs) for Beneath The Streets.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/42/StreetsTransitToLabsDownstairs.png/revision/latest?cb=20240824233942",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:StreetsTransitToLabsDownstairs.png"
+    },
+    {
+      "title": "Streets Transit To Labs Upstairs",
+      "description": "Wiki location reference (Streets Transit To Labs Upstairs) for Beneath The Streets.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e5/StreetsTransitToLabsUpstairs.png/revision/latest?cb=20240824233945",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:StreetsTransitToLabsUpstairs.png"
+    },
+    {
+      "title": "Quality Standard Yellow Dome",
+      "description": "Visual reference (Quality Standard Yellow Dome) from the Beneath The Streets wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5a/Quality_Standard_Yellow_Dome.png/revision/latest?cb=20250209193105",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Quality_Standard_Yellow_Dome.png"
+    },
+    {
+      "title": "Terragroup Labs access keycard Icon",
+      "description": "Inventory appearance of Terragroup Labs access keycard, shown for identification during Beneath The Streets.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/79/Terragroup_Labs_access_keycard_icon.png/revision/latest?cb=20211220202500",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Terragroup_Labs_access_keycard_icon.png"
+    }
+  ]
+}

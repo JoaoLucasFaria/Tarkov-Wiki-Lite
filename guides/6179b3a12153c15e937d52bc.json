@@ -1,0 +1,48 @@
+{
+  "quest_id": "6179b3a12153c15e937d52bc",
+  "name": "Energy Crisis",
+  "images": [
+    {
+      "title": "Energy Crisis Map",
+      "description": "Wiki map or location guide for Energy Crisis.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/78/EnergyCrisisMap.png/revision/latest?cb=20250504002017",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:EnergyCrisisMap.png"
+    },
+    {
+      "title": "Energy Crisis East Waterplant Truck",
+      "description": "Wiki location reference (Energy Crisis East Waterplant Truck) for Energy Crisis.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/68/EnergyCrisisEastWaterplantTruck.png/revision/latest?cb=20211220200735",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:EnergyCrisisEastWaterplantTruck.png"
+    },
+    {
+      "title": "Energy Crisis Opposite Waterplant Truck",
+      "description": "Wiki location reference (Energy Crisis Opposite Waterplant Truck) for Energy Crisis.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fe/EnergyCrisisOppositeWaterplantTruck.png/revision/latest?cb=20211220200631",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:EnergyCrisisOppositeWaterplantTruck.png"
+    },
+    {
+      "title": "Energy Crisis Trainyard Tanks",
+      "description": "Wiki location reference (Energy Crisis Trainyard Tanks) for Energy Crisis.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8a/EnergyCrisisTrainyardTanks.png/revision/latest?cb=20211220200551",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:EnergyCrisisTrainyardTanks.png"
+    },
+    {
+      "title": "Energy Crisis Trainyard Truck",
+      "description": "Wiki location reference (Energy Crisis Trainyard Truck) for Energy Crisis.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4a/EnergyCrisisTrainyardTruck.png/revision/latest?cb=20211220200513",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:EnergyCrisisTrainyardTruck.png"
+    },
+    {
+      "title": "Energy Crisis",
+      "description": "Visual reference (Energy Crisis) from the Energy Crisis wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4f/EnergyCrisis.png/revision/latest?cb=20240625002902",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:EnergyCrisis.png"
+    },
+    {
+      "title": "MS2000 Marker Icon",
+      "description": "Inventory appearance of MS2000 Marker, shown for identification during Energy Crisis.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a9/MS2000_Marker_icon.png/revision/latest?cb=20250407003132",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MS2000_Marker_icon.png"
+    }
+  ]
+}

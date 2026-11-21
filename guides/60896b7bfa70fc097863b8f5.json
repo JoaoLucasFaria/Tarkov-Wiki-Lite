@@ -1,0 +1,65 @@
+{
+  "quest_id": "60896b7bfa70fc097863b8f5",
+  "name": "Documents",
+  "images": [
+    {
+      "title": "Documents Map",
+      "description": "Wiki map or location guide for Documents.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e0/DocumentsMap.png/revision/latest?cb=20211210215634",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:DocumentsMap.png"
+    },
+    {
+      "title": "Military Document 1",
+      "description": "Wiki visual reference for the objective: Obtain the first folder with military documents in the command bunker offices on Reserve.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/64/Military_Document_1.png/revision/latest?cb=20230528222248",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Military_Document_1.png",
+      "objective_id": "Obtain the first folder with military documents in the command bunker offices on Reserve"
+    },
+    {
+      "title": "Military Document 2 1",
+      "description": "Wiki visual reference for the objective: Obtain the second folder with military documents in the command bunker offices on Reserve.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0a/Military_Document_2-1.png/revision/latest?cb=20230528222859",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Military_Document_2-1.png",
+      "objective_id": "Obtain the second folder with military documents in the command bunker offices on Reserve"
+    },
+    {
+      "title": "Military Document 2 2",
+      "description": "Wiki visual reference for the objective: Obtain the second folder with military documents in the command bunker offices on Reserve.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/51/Military_Document_2-2.png/revision/latest?cb=20230528222922",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Military_Document_2-2.png",
+      "objective_id": "Obtain the second folder with military documents in the command bunker offices on Reserve"
+    },
+    {
+      "title": "Military Document 3 1",
+      "description": "Wiki visual reference for the objective: Obtain the third folder with military documents in the command bunker offices on Reserve.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/75/Military_Document_3-1.png/revision/latest?cb=20230528223207",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Military_Document_3-1.png",
+      "objective_id": "Obtain the third folder with military documents in the command bunker offices on Reserve"
+    },
+    {
+      "title": "Military Document 3 2",
+      "description": "Wiki visual reference for the objective: Obtain the third folder with military documents in the command bunker offices on Reserve.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/20/Military_Document_3-2.png/revision/latest?cb=20230528223458",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Military_Document_3-2.png",
+      "objective_id": "Obtain the third folder with military documents in the command bunker offices on Reserve"
+    },
+    {
+      "title": "Military documents 1 Icon",
+      "description": "Inventory appearance of Military documents 1, shown for identification during Documents.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f0/Military_documents_1-icon.png/revision/latest?cb=20221012075601",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Military_documents_1-icon.png"
+    },
+    {
+      "title": "Military documents 2 Icon",
+      "description": "Inventory appearance of Military documents 2, shown for identification during Documents.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8e/Military_documents_2-icon.png/revision/latest?cb=20221012075607",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Military_documents_2-icon.png"
+    },
+    {
+      "title": "Military documents 3 Icon",
+      "description": "Inventory appearance of Military documents 3, shown for identification during Documents.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b4/Military_documents_3-icon.png/revision/latest?cb=20221012075612",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Military_documents_3-icon.png"
+    }
+  ]
+}

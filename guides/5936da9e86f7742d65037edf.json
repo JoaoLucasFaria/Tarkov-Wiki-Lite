@@ -1,0 +1,49 @@
+{
+  "quest_id": "5936da9e86f7742d65037edf",
+  "name": "Background Check",
+  "images": [
+    {
+      "title": "Checking Map",
+      "description": "Wiki map or location guide for Background Check.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f2/Checking_Map.png/revision/latest?cb=20220213230832",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Checking_Map.png"
+    },
+    {
+      "title": "Dorm Room205Entrance",
+      "description": "Wiki location reference (Dorm Room205Entrance) for Background Check.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/47/DormRoom205Entrance.png/revision/latest?cb=20221220200252",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:DormRoom205Entrance.png"
+    },
+    {
+      "title": "Machinery Key Door",
+      "description": "Wiki location reference (Machinery Key Door) for Background Check.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a2/Machinery_Key_Door.png/revision/latest?cb=20240819152618",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Machinery_Key_Door.png"
+    },
+    {
+      "title": "Machinery key inside",
+      "description": "Wiki location reference (Machinery key inside) for Background Check.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/82/Machinery_key_inside.png/revision/latest?cb=20230607220614",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Machinery_key_inside.png"
+    },
+    {
+      "title": "Dorms",
+      "description": "Visual reference (Dorms) from the Background Check wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e4/Dorms.png/revision/latest?cb=20250712210335",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Dorms.png"
+    },
+    {
+      "title": "Bronze Pocket Watch Icon",
+      "description": "Inventory appearance of Bronze Pocket Watch, shown for identification during Background Check.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ea/BronzePocketWatchIcon.png/revision/latest?cb=20221012065317",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BronzePocketWatchIcon.png",
+      "objective_id": "Locate and obtain the bronze pocket watch on Customs"
+    },
+    {
+      "title": "Machinery key Icon",
+      "description": "Inventory appearance of Machinery key, shown for identification during Background Check.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d8/Machinery-key-Icon.png/revision/latest?cb=20230115110443",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Machinery-key-Icon.png"
+    }
+  ]
+}

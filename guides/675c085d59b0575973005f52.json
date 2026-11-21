@@ -1,0 +1,75 @@
+{
+  "quest_id": "675c085d59b0575973005f52",
+  "name": "Break the Deal",
+  "images": [
+    {
+      "title": "Customs industrial plant map",
+      "description": "Wiki map or location guide for Break the Deal.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9e/Customs_industrial_plant_map.png/revision/latest?cb=20261008231047",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Customs_industrial_plant_map.png"
+    },
+    {
+      "title": "Break the Deal building",
+      "description": "Wiki location reference (Break the Deal building) for Break the Deal.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/56/Break_the_Deal_building.png/revision/latest?cb=20250323133259",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Break_the_Deal_building.png"
+    },
+    {
+      "title": "Break the Deal spot 1",
+      "description": "Wiki location reference (Break the Deal spot 1) for Break the Deal.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/20/Break_the_Deal_spot_1.png/revision/latest?cb=20250428203439",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Break_the_Deal_spot_1.png"
+    },
+    {
+      "title": "Break the Deal spot 2",
+      "description": "Wiki location reference (Break the Deal spot 2) for Break the Deal.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6e/Break_the_Deal_spot_2.png/revision/latest?cb=20250428203627",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Break_the_Deal_spot_2.png"
+    },
+    {
+      "title": "Break the Deal spot 3",
+      "description": "Wiki location reference (Break the Deal spot 3) for Break the Deal.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/af/Break_the_Deal_spot_3.png/revision/latest?cb=20250428203900",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Break_the_Deal_spot_3.png"
+    },
+    {
+      "title": "Break the Deal spot 4",
+      "description": "Wiki location reference (Break the Deal spot 4) for Break the Deal.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a3/Break_the_Deal_spot_4.png/revision/latest?cb=20250428204111",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Break_the_Deal_spot_4.png"
+    },
+    {
+      "title": "7.62x51mm NATO ammo pack",
+      "description": "Wiki visual reference for the objective: Stash a pack of any 7.62x51 ammo at the specified spot on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/ce/7.62x51mm_NATO_ammo_pack.png/revision/latest?cb=20250103022109",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:7.62x51mm_NATO_ammo_pack.png",
+      "objective_id": "Stash a pack of any 7.62x51 ammo at the specified spot on Customs"
+    },
+    {
+      "title": "DVL 10 Urbana",
+      "description": "Visual reference (DVL 10 Urbana) from the Break the Deal wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/06/DVL-10_Urbana.png/revision/latest?cb=20221102140103",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:DVL-10_Urbana.png"
+    },
+    {
+      "title": "Dvlmag",
+      "description": "Visual reference (Dvlmag) from the Break the Deal wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/59/Dvlmag.png/revision/latest?cb=20230718144822",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Dvlmag.png"
+    },
+    {
+      "title": "7.62x51mm BCP FMJ ammo pack Icon",
+      "description": "Inventory appearance of 7.62x51mm BCP FMJ ammo pack, shown for identification during Break the Deal.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a4/7.62x51mm_BCP_FMJ_ammo_pack_icon.png/revision/latest?cb=20240303161150",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:7.62x51mm_BCP_FMJ_ammo_pack_icon.png",
+      "objective_id": "Stash a pack of any 7.62x51 ammo at the specified spot on Customs"
+    },
+    {
+      "title": "ELCAN Specter DR 1x 4x scope (Black) Icon",
+      "description": "Inventory appearance of ELCAN Specter DR 1x 4x scope (Black), shown for identification during Break the Deal.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d3/ELCAN_SpecterDR_1x-4x_scope_%28Black%29_icon.png/revision/latest?cb=20260126000147",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ELCAN_SpecterDR_1x-4x_scope_(Black)_icon.png",
+      "objective_id": "Stash an ELCAN SpecterDR scope at the specified spot on Customs"
+    }
+  ]
+}

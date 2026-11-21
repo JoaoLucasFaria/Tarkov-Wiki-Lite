@@ -1,0 +1,43 @@
+{
+  "quest_id": "59675d6c86f7740a842fc482",
+  "name": "Ice Cream Cones",
+  "images": [
+    {
+      "title": "ZB 014 Bunker",
+      "description": "Wiki location reference (ZB 014 Bunker) for Ice Cream Cones.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/29/ZB-014-Bunker.png/revision/latest?cb=20250816204007",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ZB-014-Bunker.png"
+    },
+    {
+      "title": "ZB 014 Door",
+      "description": "Wiki location reference (ZB 014 Door) for Ice Cream Cones.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/27/ZB-014-Door.png/revision/latest?cb=20240603185821",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ZB-014-Door.png"
+    },
+    {
+      "title": "Ice Cream Cones Woods",
+      "description": "Visual reference (Ice Cream Cones Woods) from the Ice Cream Cones wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9a/IceCreamConesWoods.png/revision/latest?cb=20260913211738",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:IceCreamConesWoods.png"
+    },
+    {
+      "title": "ZB 014 6L31 Magazines",
+      "description": "Visual reference (ZB 014 6L31 Magazines) from the Ice Cream Cones wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9b/ZB-014_6L31_Magazines.png/revision/latest?cb=20261020105907",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ZB-014_6L31_Magazines.png"
+    },
+    {
+      "title": "6L31 60 mag Icon",
+      "description": "Inventory appearance of 6L31 60 mag, shown for identification during Ice Cream Cones.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d7/6L31-60-mag_icon.png/revision/latest?cb=20230712200049",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:6L31-60-mag_icon.png",
+      "objective_id": "Find the item in raid: AK-74 5.45x39 6L31 60-round magazine"
+    },
+    {
+      "title": "ZB 014 key Icon",
+      "description": "Inventory appearance of ZB 014 key, shown for identification during Ice Cream Cones.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5c/ZB-014-key-Icon.png/revision/latest?cb=20230113180237",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ZB-014-key-Icon.png"
+    }
+  ]
+}

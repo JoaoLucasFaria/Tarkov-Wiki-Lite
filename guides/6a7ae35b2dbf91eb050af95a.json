@@ -1,0 +1,57 @@
+{
+  "quest_id": "6a7ae35b2dbf91eb050af95a",
+  "name": "Invasive Therapy",
+  "images": [
+    {
+      "title": "Invasive Therapy Invasive Therapy Map 2",
+      "description": "Wiki map or location guide for Invasive Therapy.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/aa/Invasive_Therapy_Invasive_Therapy_Map_2.png/revision/latest?cb=20260913221138",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Invasive_Therapy_Invasive_Therapy_Map_2.png"
+    },
+    {
+      "title": "To the Light Getting Acquainted Chalet Map",
+      "description": "Wiki map or location guide for Invasive Therapy.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/16/To_the_Light_Getting_Acquainted_Chalet_Map.png/revision/latest?cb=20260908214631",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:To_the_Light_Getting_Acquainted_Chalet_Map.png"
+    },
+    {
+      "title": "Invasive Therapy Ammo stockpile Stash",
+      "description": "Wiki location reference for the objective: Stash any Obdolbos cocktail injector in the ammo stockpile at the lower Rogue chalet on Lighthouse.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1a/Invasive_Therapy_Ammo_stockpile_Stash.png/revision/latest?cb=20260913222340",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Invasive_Therapy_Ammo_stockpile_Stash.png",
+      "objective_id": "Stash any Obdolbos cocktail injector in the ammo stockpile at the lower Rogue chalet on Lighthouse"
+    },
+    {
+      "title": "Invasive Therapy Guest hall Stash",
+      "description": "Wiki location reference for the objective: Stash any Obdolbos cocktail injector in the guest hall supplies at the upper Rogue chalet on Lighthouse.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c3/Invasive_Therapy_Guest_hall_Stash.png/revision/latest?cb=20260913222658",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Invasive_Therapy_Guest_hall_Stash.png",
+      "objective_id": "Stash any Obdolbos cocktail injector in the guest hall supplies at the upper Rogue chalet on Lighthouse"
+    },
+    {
+      "title": "Invasive Therapy Med bay Stash",
+      "description": "Wiki location reference for the objective: Stash any Obdolbos cocktail injector in the med bay at the upper Rogue chalet on Lighthouse.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/19/Invasive_Therapy_Med_bay_Stash.png/revision/latest?cb=20260913222616",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Invasive_Therapy_Med_bay_Stash.png",
+      "objective_id": "Stash any Obdolbos cocktail injector in the med bay at the upper Rogue chalet on Lighthouse"
+    },
+    {
+      "title": "Cocktail Obdolbos Icon",
+      "description": "Inventory appearance of Cocktail Obdolbos, shown for identification during Invasive Therapy.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/51/Cocktail_Obdolbos_Icon.png/revision/latest?cb=20220406115954",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Cocktail_Obdolbos_Icon.png"
+    },
+    {
+      "title": "Obdolbos2 Icon",
+      "description": "Inventory appearance of Obdolbos2, shown for identification during Invasive Therapy.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/53/Obdolbos2_icon.png/revision/latest?cb=20230104153810",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Obdolbos2_icon.png"
+    },
+    {
+      "title": "P22 Icon",
+      "description": "Inventory appearance of P22, shown for identification during Invasive Therapy.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2e/P22_Icon.png/revision/latest?cb=20200727184647",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:P22_Icon.png"
+    }
+  ]
+}

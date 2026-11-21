@@ -1,0 +1,42 @@
+{
+  "quest_id": "5ae448e586f7744dcf0c2a67",
+  "name": "Big Sale",
+  "images": [
+    {
+      "title": "Big Sale Marked",
+      "description": "Wiki map or location guide for Big Sale.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5d/BigSaleMarked.jpg/revision/latest?cb=20200326121242",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BigSaleMarked.jpg"
+    },
+    {
+      "title": "Avokado",
+      "description": "Visual reference (Avokado) from the Big Sale wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/44/Avokado.png/revision/latest?cb=20210112012725",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Avokado.png"
+    },
+    {
+      "title": "Dinoclothes",
+      "description": "Visual reference (Dinoclothes) from the Big Sale wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ef/Dinoclothes.png/revision/latest?cb=20220328095518",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Dinoclothes.png"
+    },
+    {
+      "title": "Kostin",
+      "description": "Visual reference (Kostin) from the Big Sale wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bc/Kostin.png/revision/latest?cb=20220328095606",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Kostin.png"
+    },
+    {
+      "title": "Topbrand",
+      "description": "Visual reference (Topbrand) from the Big Sale wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4e/Topbrand.png/revision/latest?cb=20210112012728",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Topbrand.png"
+    },
+    {
+      "title": "Trend",
+      "description": "Visual reference (Trend) from the Big Sale wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ef/Trend.png/revision/latest?cb=20210104163818",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Trend.png"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "quest_id": "6752f6d83038f7df520c83e8",
+  "name": "A Helping Hand",
+  "images": [
+    {
+      "title": "Woods - Train Depot Building Map",
+      "description": "Map showing the northwest building of the Woods train depot where Prapor's package can appear. The depot is accessed through the BTR Driver's taxi service.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/43/A_Helping_Hand_Building_Map.png/revision/latest?cb=20250115231915",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:A_Helping_Hand_Building_Map.png",
+      "objective_id": "Locate and obtain Prapor's package on Woods"
+    },
+    {
+      "title": "Woods - Package Building Exterior",
+      "description": "Identify the northwest building at the train depot. Both possible package locations are inside this building.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d9/A_Helping_Hand_Building.png/revision/latest?cb=20250325002847",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:A_Helping_Hand_Building.png",
+      "objective_id": "Locate and obtain Prapor's package on Woods"
+    },
+    {
+      "title": "Package Spawn 1 - Under the Table",
+      "description": "First possible package spawn: check underneath the table next to the bed inside the train depot building.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/77/A_Helping_Hand_Spawn_1.png/revision/latest?cb=20250115232153",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:A_Helping_Hand_Spawn_1.png",
+      "objective_id": "Locate and obtain Prapor's package on Woods"
+    },
+    {
+      "title": "Package Spawn 2 - Back Office Desk",
+      "description": "Second possible package spawn: check the desk in the back office of the same building.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f9/A_Helping_Hand_Spawn_2.png/revision/latest?cb=20250115232421",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:A_Helping_Hand_Spawn_2.png",
+      "objective_id": "Locate and obtain Prapor's package on Woods"
+    },
+    {
+      "title": "Woods - Train Depot Exit Approach",
+      "description": "Visual reference for reaching the western train, an alternative route for leaving the depot after retrieving the package.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3a/WoodsTrainDepotExit.png/revision/latest?cb=20250403233648",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WoodsTrainDepotExit.png",
+      "objective_id": "Survive and extract from the location"
+    },
+    {
+      "title": "Woods - Route Along the Train",
+      "description": "Follow the top of the western train when using this route. Stay near the center of the train; the surrounding ground is dangerous due to mines and sniper fire.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6c/WoodsTrainDepotExit2.png/revision/latest?cb=20250403234347",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WoodsTrainDepotExit2.png",
+      "objective_id": "Survive and extract from the location"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "quest_id": "6179ac7511973d018217d0b9",
+  "name": "Easy Job",
+  "images": [
+    {
+      "title": "Easy Job2Map",
+      "description": "Wiki map or location guide for Easy Job.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/eb/EasyJob2Map.png/revision/latest?cb=20250324160605",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:EasyJob2Map.png"
+    },
+    {
+      "title": "Easy Job Heli Map",
+      "description": "Wiki map or location guide for Easy Job.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/58/EasyJobHeliMap.png/revision/latest?cb=20250504000524",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:EasyJobHeliMap.png"
+    },
+    {
+      "title": "Easy Job Heli Pic",
+      "description": "Visual reference (Easy Job Heli Pic) from the Easy Job wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/16/EasyJobHeliPic.png/revision/latest?cb=20211219130116",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:EasyJobHeliPic.png"
+    },
+    {
+      "title": "Easy Job Pt1",
+      "description": "Visual reference (Easy Job Pt1) from the Easy Job wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/be/EasyJobPt1.png/revision/latest?cb=20240625002926",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:EasyJobPt1.png"
+    },
+    {
+      "title": "MS2000 Marker Icon",
+      "description": "Inventory appearance of MS2000 Marker, shown for identification during Easy Job.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a9/MS2000_Marker_icon.png/revision/latest?cb=20250407003132",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MS2000_Marker_icon.png",
+      "objective_id": "Mark the helicopter with an MS2000 Marker"
+    }
+  ]
+}

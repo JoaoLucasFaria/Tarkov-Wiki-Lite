@@ -1,0 +1,36 @@
+{
+  "quest_id": "626bd75b05f287031503c7f6",
+  "name": "Drug Trafficking",
+  "images": [
+    {
+      "title": "Drug Lab Map",
+      "description": "Wiki map or location guide for Drug Trafficking.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8a/DrugLabMap.png/revision/latest?cb=20220702194731",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:DrugLabMap.png"
+    },
+    {
+      "title": "Inside Lab",
+      "description": "Wiki location reference (Inside Lab) for Drug Trafficking.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a0/InsideLab.png/revision/latest?cb=20220702195856",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:InsideLab.png"
+    },
+    {
+      "title": "Container Group",
+      "description": "Visual reference (Container Group) from the Drug Trafficking wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/74/ContainerGroup.png/revision/latest?cb=20220702195854",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ContainerGroup.png"
+    },
+    {
+      "title": "Drug Trafficking",
+      "description": "Visual reference (Drug Trafficking) from the Drug Trafficking wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f5/Drug_Trafficking.jpg/revision/latest?cb=20240922091209",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Drug_Trafficking.jpg"
+    },
+    {
+      "title": "WIFI Camera Icon",
+      "description": "Inventory appearance of WIFI Camera, shown for identification during Drug Trafficking.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9a/WIFI_Camera_Icon.png/revision/latest?cb=20250822001547",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WIFI_Camera_Icon.png"
+    }
+  ]
+}

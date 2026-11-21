@@ -1,0 +1,30 @@
+{
+  "quest_id": "5c0bbaa886f7746941031d82",
+  "name": "Bullshit",
+  "images": [
+    {
+      "title": "Lost Contact Map",
+      "description": "Wiki map or location guide for Bullshit.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/51/LostContactMap.png/revision/latest?cb=20260127182820",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:LostContactMap.png"
+    },
+    {
+      "title": "Bull Shit Stashing Location",
+      "description": "Wiki location reference (Bull Shit Stashing Location) for Bullshit.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/66/BullShitStashingLocation.png/revision/latest?cb=20260816112043",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BullShitStashingLocation.png"
+    },
+    {
+      "title": "AXMC .338 LM Icon",
+      "description": "Inventory appearance of AXMC .338 LM, shown for identification during Bullshit.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5a/AXMC_.338_LM_icon.png/revision/latest?cb=20220705212945",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:AXMC_.338_LM_icon.png"
+    },
+    {
+      "title": "Roler Icon",
+      "description": "Inventory appearance of Roler, shown for identification during Bullshit.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e7/Roler_icon.png/revision/latest?cb=20250109200136",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Roler_icon.png"
+    }
+  ]
+}

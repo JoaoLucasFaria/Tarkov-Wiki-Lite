@@ -1,0 +1,25 @@
+{
+  "quest_id": "5a27b75b86f7742e97191958",
+  "name": "Fishing Gear",
+  "images": [
+    {
+      "title": "Map Shorline Fishing Gear",
+      "description": "Wiki map or location guide for Fishing Gear.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6e/Map_Shorline-Fishing-Gear.png/revision/latest?cb=20240317131723",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Map_Shorline-Fishing-Gear.png"
+    },
+    {
+      "title": "Fishing Gear",
+      "description": "Visual reference (Fishing Gear) from the Fishing Gear wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f9/FishingGear.png/revision/latest?cb=20231117222438",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:FishingGear.png"
+    },
+    {
+      "title": "UNTAR Armor Icon",
+      "description": "Inventory appearance of UNTAR Armor, shown for identification during Fishing Gear.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/UNTARArmorIcon.png/revision/latest?cb=20240103163630",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:UNTARArmorIcon.png",
+      "objective_id": "Stash an MF-UNTAR body armor in the boat"
+    }
+  ]
+}

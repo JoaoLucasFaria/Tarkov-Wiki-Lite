@@ -1,0 +1,24 @@
+{
+  "quest_id": "66058ccbc7f3584787181478",
+  "name": "Against the Conscience - Part 1 [PVP ZONE]",
+  "images": [
+    {
+      "title": "Dorm Overseer Key Map",
+      "description": "Wiki map or location guide for Against the Conscience - Part 1 [PVP ZONE].",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/94/DormOverseerKeyMap.png/revision/latest?cb=20250828000820",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:DormOverseerKeyMap.png"
+    },
+    {
+      "title": "Dorm Overseer Key Door",
+      "description": "Wiki location reference (Dorm Overseer Key Door) for Against the Conscience - Part 1 [PVP ZONE].",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/15/DormOverseerKeyDoor.png/revision/latest?cb=20250828001310",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:DormOverseerKeyDoor.png"
+    },
+    {
+      "title": "Dorm overseer key Icon",
+      "description": "Inventory appearance of Dorm overseer key, shown for identification during Against the Conscience - Part 1 [PVP ZONE].",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e6/Dorm_overseer_key_icon.png/revision/latest?cb=20251224164252",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Dorm_overseer_key_icon.png"
+    }
+  ]
+}

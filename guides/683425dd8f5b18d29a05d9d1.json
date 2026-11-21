@@ -1,0 +1,38 @@
+{
+  "quest_id": "683425dd8f5b18d29a05d9d1",
+  "name": "Between Two Fires [PVE ZONE]",
+  "images": [
+    {
+      "title": "Dorm Overseer Key Map",
+      "description": "Wiki map or location guide for Between Two Fires [PVE ZONE].",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/94/DormOverseerKeyMap.png/revision/latest?cb=20250828000820",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:DormOverseerKeyMap.png"
+    },
+    {
+      "title": "Compromising Information Location",
+      "description": "Wiki location reference for the objective: Locate and obtain the compromising information on Ref.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f4/CompromisingInformationLocation.png/revision/latest?cb=20250426092759",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:CompromisingInformationLocation.png",
+      "objective_id": "Locate and obtain the compromising information on Ref"
+    },
+    {
+      "title": "Dorm Overseer Key Door",
+      "description": "Wiki location reference (Dorm Overseer Key Door) for Between Two Fires [PVE ZONE].",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/15/DormOverseerKeyDoor.png/revision/latest?cb=20250828001310",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:DormOverseerKeyDoor.png"
+    },
+    {
+      "title": "Compromising information Icon",
+      "description": "Inventory appearance of Compromising information, shown for identification during Between Two Fires [PVE ZONE].",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bf/Compromising_information_Icon.png/revision/latest?cb=20240723012402",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Compromising_information_Icon.png",
+      "objective_id": "Locate and obtain the compromising information on Ref"
+    },
+    {
+      "title": "Dorm overseer key Icon",
+      "description": "Inventory appearance of Dorm overseer key, shown for identification during Between Two Fires [PVE ZONE].",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e6/Dorm_overseer_key_icon.png/revision/latest?cb=20251224164252",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Dorm_overseer_key_icon.png"
+    }
+  ]
+}

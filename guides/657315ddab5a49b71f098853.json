@@ -1,0 +1,20 @@
+{
+  "quest_id": "657315ddab5a49b71f098853",
+  "name": "First in Line",
+  "images": [
+    {
+      "title": "First in Line Map",
+      "description": "Wiki map or route reference for the objective: Locate the Emercom station on Ground Zero.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c5/First_in_Line_Map.png/revision/latest?cb=20240123113807",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:First_in_Line_Map.png",
+      "objective_id": "Locate the Emercom station on Ground Zero"
+    },
+    {
+      "title": "Ground Zero Emercom Station",
+      "description": "Wiki visual reference for the objective: Locate the Emercom station on Ground Zero.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a9/Ground_Zero_Emercom_Station.png/revision/latest?cb=20250708202351",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Ground_Zero_Emercom_Station.png",
+      "objective_id": "Locate the Emercom station on Ground Zero"
+    }
+  ]
+}

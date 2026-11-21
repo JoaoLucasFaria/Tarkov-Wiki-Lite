@@ -1,0 +1,36 @@
+{
+  "quest_id": "5979eee086f774311955e614",
+  "name": "Golden Swag",
+  "images": [
+    {
+      "title": "Golden Swag Marked Map",
+      "description": "Wiki map or location guide for Golden Swag.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/20/GoldenSwagMarkedMap.png/revision/latest?cb=20250712194517",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GoldenSwagMarkedMap.png"
+    },
+    {
+      "title": "Gilded Zibbo Location",
+      "description": "Wiki location reference (Gilded Zibbo Location) for Golden Swag.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e1/Gilded-Zibbo-Location.png/revision/latest?cb=20240819153320",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Gilded-Zibbo-Location.png"
+    },
+    {
+      "title": "Gilded Zibbo Icon",
+      "description": "Inventory appearance of Gilded Zibbo, shown for identification during Golden Swag.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fa/Gilded_Zibbo_Icon.png/revision/latest?cb=20250824195348",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Gilded_Zibbo_Icon.png"
+    },
+    {
+      "title": "Key 303 Icon",
+      "description": "Inventory appearance of Key 303, shown for identification during Golden Swag.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/52/Key-303-Icon.png/revision/latest?cb=20220707191552",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Key-303-Icon.png"
+    },
+    {
+      "title": "Zibbo lighter Icon",
+      "description": "Inventory appearance of Zibbo lighter, shown for identification during Golden Swag.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6e/Zibbo_lighter_Icon.png/revision/latest?cb=20250824195409",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Zibbo_lighter_Icon.png"
+    }
+  ]
+}

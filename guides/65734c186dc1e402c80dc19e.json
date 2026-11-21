@@ -1,0 +1,42 @@
+{
+  "quest_id": "65734c186dc1e402c80dc19e",
+  "name": "Dandies",
+  "images": [
+    {
+      "title": "Dandies Map",
+      "description": "Wiki map or location guide for Dandies.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bb/Dandies_Map.png/revision/latest?cb=20240611125037",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Dandies_Map.png"
+    },
+    {
+      "title": "Dandies Stash 1",
+      "description": "Wiki location reference (Dandies Stash 1) for Dandies.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/49/Dandies_Stash_1.png/revision/latest?cb=20231231195023",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Dandies_Stash_1.png"
+    },
+    {
+      "title": "Dandies Stash 2",
+      "description": "Wiki location reference (Dandies Stash 2) for Dandies.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f7/Dandies_Stash_2.png/revision/latest?cb=20231231195021",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Dandies_Stash_2.png"
+    },
+    {
+      "title": "Dandies Barber Shop",
+      "description": "Visual reference (Dandies Barber Shop) from the Dandies wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6d/Dandies_Barber_Shop.png/revision/latest?cb=20231231194241",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Dandies_Barber_Shop.png"
+    },
+    {
+      "title": "Bomber Beanie Icon",
+      "description": "Inventory appearance of Bomber Beanie, shown for identification during Dandies.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b0/BomberBeanie_icon.png/revision/latest?cb=20211207021634",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BomberBeanie_icon.png"
+    },
+    {
+      "title": "Ray Bench Hipster Reserve Sunglasses Icon",
+      "description": "Inventory appearance of Ray Bench Hipster Reserve Sunglasses, shown for identification during Dandies.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/02/RayBench_Hipster_Reserve_Sunglasses_icon.png/revision/latest?cb=20230711185208",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:RayBench_Hipster_Reserve_Sunglasses_icon.png"
+    }
+  ]
+}

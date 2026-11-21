@@ -1,0 +1,27 @@
+{
+  "quest_id": "666314b8312343839d032d24",
+  "name": "Airmail",
+  "images": [
+    {
+      "title": "Airmail Flare Map",
+      "description": "Wiki map or route reference for the objective: Launch a red signal flare at the old sawmill on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c2/AirmailFlareMap.png/revision/latest?cb=20240708222625",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:AirmailFlareMap.png",
+      "objective_id": "Launch a red signal flare at the old sawmill on Woods"
+    },
+    {
+      "title": "26x75 flare cartridge (Red) Icon",
+      "description": "Inventory appearance of 26x75 flare cartridge (Red), shown for identification during Airmail.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fd/26x75_flare_cartridge_%28Red%29_icon.png/revision/latest?cb=20220706003906",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:26x75_flare_cartridge_(Red)_icon.png",
+      "objective_id": "Launch a red signal flare at the old sawmill on Woods"
+    },
+    {
+      "title": "Red flare Icon",
+      "description": "Inventory appearance of Red flare, shown for identification during Airmail.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/98/Red_flare_icon.png/revision/latest?cb=20220706002315",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Red_flare_icon.png",
+      "objective_id": "Launch a red signal flare at the old sawmill on Woods"
+    }
+  ]
+}

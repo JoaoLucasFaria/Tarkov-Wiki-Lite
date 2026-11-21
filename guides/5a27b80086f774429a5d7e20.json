@@ -1,0 +1,54 @@
+{
+  "quest_id": "5a27b80086f774429a5d7e20",
+  "name": "Eagle Eye",
+  "images": [
+    {
+      "title": "Eagle Eye Locations",
+      "description": "Wiki location reference (Eagle Eye Locations) for Eagle Eye.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/20/Eagle_Eye_Locations.png/revision/latest?cb=20240116180139",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Eagle_Eye_Locations.png"
+    },
+    {
+      "title": "Eagleeye",
+      "description": "Visual reference (Eagleeye) from the Eagle Eye wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/98/Eagleeye.png/revision/latest?cb=20180330150324",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Eagleeye.png"
+    },
+    {
+      "title": "Firstshorelineuav",
+      "description": "Visual reference (Firstshorelineuav) from the Eagle Eye wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c2/Firstshorelineuav.png/revision/latest?cb=20231228222816",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Firstshorelineuav.png"
+    },
+    {
+      "title": "SAS disk in drone",
+      "description": "Visual reference (SAS disk in drone) from the Eagle Eye wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/77/SAS_disk_in_drone.png/revision/latest?cb=20231228222559",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SAS_disk_in_drone.png"
+    },
+    {
+      "title": "Secondshorelineuav",
+      "description": "Visual reference (Secondshorelineuav) from the Eagle Eye wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5d/Secondshorelineuav.png/revision/latest?cb=20231228222352",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Secondshorelineuav.png"
+    },
+    {
+      "title": "Shorelineuavsidepanel",
+      "description": "Visual reference (Shorelineuavsidepanel) from the Eagle Eye wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/68/Shorelineuavsidepanel.png/revision/latest?cb=20231228222527",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Shorelineuavsidepanel.png"
+    },
+    {
+      "title": "SAS disk with drones 2 Icon",
+      "description": "Inventory appearance of SAS disk with drones 2, shown for identification during Eagle Eye.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/32/SAS_disk_with_drones_2_icon.png/revision/latest?cb=20240830222054",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SAS_disk_with_drones_2_icon.png"
+    },
+    {
+      "title": "SAS disk with drones Icon",
+      "description": "Inventory appearance of SAS disk with drones, shown for identification during Eagle Eye.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/93/SAS_disk_with_drones_icon.png/revision/latest?cb=20240830222100",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SAS_disk_with_drones_icon.png"
+    }
+  ]
+}

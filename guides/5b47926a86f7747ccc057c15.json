@@ -1,0 +1,43 @@
+{
+  "quest_id": "5b47926a86f7747ccc057c15",
+  "name": "Informed Means Armed",
+  "images": [
+    {
+      "title": "Kiba Arms store camera Interhange map",
+      "description": "Wiki map or route reference for the objective: Install a WI-FI Camera to watch the Kiba Arms store entrance on Interchange.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7a/Kiba_Arms_store_camera_Interhange_map.png/revision/latest?cb=20180722145655",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Kiba_Arms_store_camera_Interhange_map.png",
+      "objective_id": "Install a WI-FI Camera to watch the Kiba Arms store entrance on Interchange"
+    },
+    {
+      "title": "Pier camera Woods map",
+      "description": "Wiki map or location guide for Informed Means Armed.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ed/Pier_camera_Woods_map.png/revision/latest?cb=20220213235027",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Pier_camera_Woods_map.png"
+    },
+    {
+      "title": "Informed means armed placement",
+      "description": "Wiki location reference (Informed means armed placement) for Informed Means Armed.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7c/Informed_means_armed_placement.png/revision/latest?cb=20260125222227",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Informed_means_armed_placement.png"
+    },
+    {
+      "title": "Informed means armed overlook",
+      "description": "Visual reference (Informed means armed overlook) from the Informed Means Armed wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8a/Informed_means_armed_overlook.png/revision/latest?cb=20260125222054",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Informed_means_armed_overlook.png"
+    },
+    {
+      "title": "Pier",
+      "description": "Visual reference (Pier) from the Informed Means Armed wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f2/Pier.png/revision/latest?cb=20251112015057",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Pier.png"
+    },
+    {
+      "title": "WIFI Camera Icon",
+      "description": "Inventory appearance of WIFI Camera, shown for identification during Informed Means Armed.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9a/WIFI_Camera_Icon.png/revision/latest?cb=20250822001547",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WIFI_Camera_Icon.png"
+    }
+  ]
+}

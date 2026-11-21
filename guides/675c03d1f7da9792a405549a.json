@@ -1,0 +1,92 @@
+{
+  "quest_id": "675c03d1f7da9792a405549a",
+  "name": "Abandoned Cargo",
+  "images": [
+    {
+      "title": "Customs - All TerraGroup Cargo Locations",
+      "description": "Overview map indicating the cargo locations on Customs, including the red warehouse, Boiler building, and Warehouse 17.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/11/Abandoned_Cargo_Map.png/revision/latest?cb=20250201215631",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Abandoned_Cargo_Map.png"
+    },
+    {
+      "title": "MS2000 Marker - Required Equipment",
+      "description": "MS2000 Marker used to mark special TerraGroup cargo. Check the quest objectives for the required marking progress.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a9/MS2000_Marker_icon.png/revision/latest?cb=20250407003132",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MS2000_Marker_icon.png",
+      "objective_id": "Mark any of the special TerraGroup cargo boxes with an MS2000 Marker on Customs"
+    },
+    {
+      "title": "Cargo 1 - Red Customs Warehouse",
+      "description": "Cargo 1 is on the west side of the large red customs control warehouse (Big Red).",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9f/Abandoned_Cargo_1.png/revision/latest?cb=20250428201456",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Abandoned_Cargo_1.png",
+      "objective_id": "Locate the first special TerraGroup cargo on Customs"
+    },
+    {
+      "title": "Boiler Building - Location Map",
+      "description": "Map showing the Boiler building, which contains cargo locations 2, 4, and 5.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9a/BoilerBuildingMap.png/revision/latest?cb=20241229195259",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BoilerBuildingMap.png"
+    },
+    {
+      "title": "Boiler Building - Exterior",
+      "description": "Recognize the Boiler building on Customs before searching for cargo 2, 4, and 5.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/df/BoilerBuilding.png/revision/latest?cb=20250325011849",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BoilerBuilding.png"
+    },
+    {
+      "title": "Cargo 2 - Near the Showers",
+      "description": "Cargo 2 is next to the shower area inside the Boiler building.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/90/Abandoned_Cargo_2.png/revision/latest?cb=20250908232411",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Abandoned_Cargo_2.png",
+      "objective_id": "Locate the second special TerraGroup cargo on Customs"
+    },
+    {
+      "title": "Cargo 4 - Near the Chimneys",
+      "description": "Cargo 4 consists of barrels beside the chimneys at the Boiler building.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5c/Abandoned_Cargo_4.png/revision/latest?cb=20250908232804",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Abandoned_Cargo_4.png",
+      "objective_id": "Locate the fourth special TerraGroup cargo on Customs"
+    },
+    {
+      "title": "Cargo 5 - North Side of Boiler Building",
+      "description": "Cargo 5 is outside on the north side of the Boiler building.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1a/Abandoned_Cargo_5.png/revision/latest?cb=20250428201616",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Abandoned_Cargo_5.png",
+      "objective_id": "Locate the fifth special TerraGroup cargo on Customs"
+    },
+    {
+      "title": "Warehouse 17 - Location Map",
+      "description": "Map showing Warehouse 17, where cargo 3, 6, and 7 are located.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d5/Warehouse17Map.png/revision/latest?cb=20241229223041",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Warehouse17Map.png"
+    },
+    {
+      "title": "Warehouse 17 - Building Reference",
+      "description": "Identify Warehouse 17 and its southern entrance before searching its different floors.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6d/Warehouse17.png/revision/latest?cb=20250325012213",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Warehouse17.png"
+    },
+    {
+      "title": "Cargo 3 - Second-Floor Staircase",
+      "description": "Cargo 3 is on the second floor of Warehouse 17, by the staircase behind the wall paintings.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f7/Abandoned_Cargo_3.png/revision/latest?cb=20250908231754",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Abandoned_Cargo_3.png",
+      "objective_id": "Locate the third special TerraGroup cargo on Customs"
+    },
+    {
+      "title": "Cargo 6 - Third Floor or Crane Area",
+      "description": "Cargo 6 is on the third-floor or crane area of Warehouse 17.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/60/Abandoned_Cargo_6.png/revision/latest?cb=20250908232014",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Abandoned_Cargo_6.png",
+      "objective_id": "Locate the sixth special TerraGroup cargo on Customs"
+    },
+    {
+      "title": "Cargo 7 - First Floor",
+      "description": "Cargo 7 is on the first floor of Warehouse 17.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ef/Abandoned_Cargo_7.png/revision/latest?cb=20250908231648",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Abandoned_Cargo_7.png",
+      "objective_id": "Locate the seventh special TerraGroup cargo on Customs"
+    }
+  ]
+}

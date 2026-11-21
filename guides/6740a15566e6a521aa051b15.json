@@ -1,0 +1,62 @@
+{
+  "quest_id": "6740a15566e6a521aa051b15",
+  "name": "Forge a Friendship",
+  "images": [
+    {
+      "title": "Pier Office Building Shoreline Map",
+      "description": "Wiki map or route reference for the objective: Locate and obtain Prapor's cargo on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d2/PierOfficeBuildingShorelineMap.png/revision/latest?cb=20250119160210",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:PierOfficeBuildingShorelineMap.png",
+      "objective_id": "Locate and obtain Prapor's cargo on Shoreline"
+    },
+    {
+      "title": "Forge a Friendship Spawn 1",
+      "description": "Wiki location reference for the objective: Locate and obtain Prapor's cargo on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/97/Forge_a_Friendship_Spawn_1.png/revision/latest?cb=20250119160731",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Forge_a_Friendship_Spawn_1.png",
+      "objective_id": "Locate and obtain Prapor's cargo on Shoreline"
+    },
+    {
+      "title": "Forge a Friendship Spawn 2",
+      "description": "Wiki location reference for the objective: Locate and obtain Prapor's cargo on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f1/Forge_a_Friendship_Spawn_2.png/revision/latest?cb=20250119160826",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Forge_a_Friendship_Spawn_2.png",
+      "objective_id": "Locate and obtain Prapor's cargo on Shoreline"
+    },
+    {
+      "title": "Forge a Friendship Spawn 3",
+      "description": "Wiki location reference for the objective: Locate and obtain Prapor's cargo on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/ca/Forge_a_Friendship_Spawn_3.png/revision/latest?cb=20250119161148",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Forge_a_Friendship_Spawn_3.png",
+      "objective_id": "Locate and obtain Prapor's cargo on Shoreline"
+    },
+    {
+      "title": "Forge a Friendship Spawn 4",
+      "description": "Wiki location reference for the objective: Locate and obtain Prapor's cargo on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/08/Forge_a_Friendship_Spawn_4.png/revision/latest?cb=20250119161627",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Forge_a_Friendship_Spawn_4.png",
+      "objective_id": "Locate and obtain Prapor's cargo on Shoreline"
+    },
+    {
+      "title": "Forge a Friendship Spawn 5",
+      "description": "Wiki location reference for the objective: Locate and obtain Prapor's cargo on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7e/Forge_a_Friendship_Spawn_5.png/revision/latest?cb=20250119161640",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Forge_a_Friendship_Spawn_5.png",
+      "objective_id": "Locate and obtain Prapor's cargo on Shoreline"
+    },
+    {
+      "title": "Pier Office Building",
+      "description": "Wiki location reference for the objective: Locate and obtain Prapor's cargo on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0c/PierOfficeBuilding.png/revision/latest?cb=20241020205819",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:PierOfficeBuilding.png",
+      "objective_id": "Locate and obtain Prapor's cargo on Shoreline"
+    },
+    {
+      "title": "Cargo for Prapor Icon",
+      "description": "Inventory appearance of Cargo for Prapor, shown for identification during Forge a Friendship.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7d/Cargo_for_Prapor_icon.png/revision/latest?cb=20250117235241",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Cargo_for_Prapor_icon.png",
+      "objective_id": "Locate and obtain Prapor's cargo on Shoreline"
+    }
+  ]
+}

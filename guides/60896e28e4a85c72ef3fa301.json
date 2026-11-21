@@ -1,0 +1,66 @@
+{
+  "quest_id": "60896e28e4a85c72ef3fa301",
+  "name": "Disease History",
+  "images": [
+    {
+      "title": "Hospital Map",
+      "description": "Wiki map or location guide for Disease History.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4a/HospitalMap.jpeg/revision/latest?cb=20230528233925",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:HospitalMap.jpeg"
+    },
+    {
+      "title": "RB KSM door",
+      "description": "Wiki location reference (RB KSM door) for Disease History.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a3/RB-KSM_door.png/revision/latest?cb=20230528232135",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:RB-KSM_door.png"
+    },
+    {
+      "title": "RB SMP door",
+      "description": "Wiki location reference (RB SMP door) for Disease History.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6e/RB-SMP_door.png/revision/latest?cb=20230528232533",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:RB-SMP_door.png"
+    },
+    {
+      "title": "Whitebishopstairs1",
+      "description": "Wiki location reference (Whitebishopstairs1) for Disease History.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c5/Whitebishopstairs1.png/revision/latest?cb=20230528231537",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Whitebishopstairs1.png"
+    },
+    {
+      "title": "Whitebishopstairs2",
+      "description": "Wiki location reference (Whitebishopstairs2) for Disease History.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/64/Whitebishopstairs2.png/revision/latest?cb=20220326082415",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Whitebishopstairs2.png"
+    },
+    {
+      "title": "Disease history Journal 1",
+      "description": "Visual reference (Disease history Journal 1) from the Disease History wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a4/Disease_history_Journal_1.png/revision/latest?cb=20230528232209",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Disease_history_Journal_1.png"
+    },
+    {
+      "title": "Disease history Journal 2",
+      "description": "Visual reference (Disease history Journal 2) from the Disease History wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/46/Disease_history_Journal_2.png/revision/latest?cb=20230528233008",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Disease_history_Journal_2.png"
+    },
+    {
+      "title": "Medical Journal 1 Icon",
+      "description": "Inventory appearance of Medical Journal 1, shown for identification during Disease History.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d4/Medical_Journal_1_icon.png/revision/latest?cb=20221012080642",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Medical_Journal_1_icon.png"
+    },
+    {
+      "title": "Medical Journal 2 Icon",
+      "description": "Inventory appearance of Medical Journal 2, shown for identification during Disease History.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4b/Medical_Journal_2_icon.png/revision/latest?cb=20221012080710",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Medical_Journal_2_icon.png"
+    },
+    {
+      "title": "RB SMP key Icon",
+      "description": "Inventory appearance of RB SMP key, shown for identification during Disease History.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a5/RB-SMP_key_icon.png/revision/latest?cb=20230115112102",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:RB-SMP_key_icon.png"
+    }
+  ]
+}

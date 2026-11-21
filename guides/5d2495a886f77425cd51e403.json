@@ -1,0 +1,43 @@
+{
+  "quest_id": "5d2495a886f77425cd51e403",
+  "name": "Introduction",
+  "images": [
+    {
+      "title": "Hunting Stand map",
+      "description": "Wiki map or location guide for Introduction.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3d/Hunting_Stand_map.jpg/revision/latest?cb=20230602011546",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Hunting_Stand_map.jpg"
+    },
+    {
+      "title": "The Location of the Hunting Camp",
+      "description": "Wiki location reference (The Location of the Hunting Camp) for Introduction.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/41/The_Location_of_the_Hunting_Camp.png/revision/latest?cb=20230602005917",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:The_Location_of_the_Hunting_Camp.png"
+    },
+    {
+      "title": "Introduction Banner",
+      "description": "Visual reference (Introduction Banner) from the Introduction wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d0/IntroductionBanner.png/revision/latest?cb=20240826235157",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:IntroductionBanner.png"
+    },
+    {
+      "title": "Jaegers Hunting Stand",
+      "description": "Visual reference (Jaegers Hunting Stand) from the Introduction wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c8/JaegersHuntingStand.png/revision/latest?cb=20230602010301",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:JaegersHuntingStand.png"
+    },
+    {
+      "title": "The message benath the Hunting Stand",
+      "description": "Visual reference (The message benath the Hunting Stand) from the Introduction wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b7/The_message_benath_the_Hunting_Stand.png/revision/latest?cb=20230602004605",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:The_message_benath_the_Hunting_Stand.png"
+    },
+    {
+      "title": "Encrypted message Icon",
+      "description": "Inventory appearance of Encrypted message, shown for identification during Introduction.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/00/Encrypted_message_icon.png/revision/latest?cb=20221012070105",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Encrypted_message_icon.png",
+      "objective_id": "Obtain Jaeger's encrypted message"
+    }
+  ]
+}

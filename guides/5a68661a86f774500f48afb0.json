@@ -1,0 +1,46 @@
+{
+  "quest_id": "5a68661a86f774500f48afb0",
+  "name": "Health Care Privacy - Part 1",
+  "images": [
+    {
+      "title": "Ambulance1",
+      "description": "Wiki visual reference for the objective: Locate and mark the first ambulance with an MS2000 Marker on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/57/Ambulance1.png/revision/latest?cb=20180624224723",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Ambulance1.png",
+      "objective_id": "Locate and mark the first ambulance with an MS2000 Marker on Shoreline"
+    },
+    {
+      "title": "Ambulance2",
+      "description": "Wiki visual reference for the objective: Locate and mark the second ambulance with an MS2000 Marker on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/23/Ambulance2.png/revision/latest?cb=20180624224725",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Ambulance2.png",
+      "objective_id": "Locate and mark the second ambulance with an MS2000 Marker on Shoreline"
+    },
+    {
+      "title": "Ambulance3",
+      "description": "Wiki visual reference for the objective: Locate and mark the third ambulance with an MS2000 Marker on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/54/Ambulance3.png/revision/latest?cb=20180624224729",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Ambulance3.png",
+      "objective_id": "Locate and mark the third ambulance with an MS2000 Marker on Shoreline"
+    },
+    {
+      "title": "Ambulance4",
+      "description": "Wiki visual reference for the objective: Locate and mark the fourth ambulance with an MS2000 Marker on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/dc/Ambulance4.png/revision/latest?cb=20250329192012",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Ambulance4.png",
+      "objective_id": "Locate and mark the fourth ambulance with an MS2000 Marker on Shoreline"
+    },
+    {
+      "title": "HCPP1",
+      "description": "Visual reference (HCPP1) from the Health Care Privacy - Part 1 wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/56/HCPP1.png/revision/latest?cb=20260804222255",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:HCPP1.png"
+    },
+    {
+      "title": "MS2000 Marker Icon",
+      "description": "Inventory appearance of MS2000 Marker, shown for identification during Health Care Privacy - Part 1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a9/MS2000_Marker_icon.png/revision/latest?cb=20250407003132",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MS2000_Marker_icon.png"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "quest_id": "67a0970f05d1611ed90be75d",
+  "name": "Hypotheses Testing",
+  "images": [
+    {
+      "title": "Labryrinth missile area map",
+      "description": "Wiki map or route reference for the objective: Locate the lab area with the prototype weapon inside The Labyrinth.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5b/Labryrinth_missile_area_map.png/revision/latest?cb=20260212011556",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Labryrinth_missile_area_map.png",
+      "objective_id": "Locate the lab area with the prototype weapon inside The Labyrinth"
+    },
+    {
+      "title": "Labrys access keycard Icon",
+      "description": "Inventory appearance of Labrys access keycard, shown for identification during Hypotheses Testing.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/17/Labrys_access_keycard_icon.png/revision/latest?cb=20250328181401",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Labrys_access_keycard_icon.png",
+      "objective_id": "Locate the lab area with the prototype weapon inside The Labyrinth"
+    },
+    {
+      "title": "Labrys research notes Icon",
+      "description": "Inventory appearance of Labrys research notes, shown for identification during Hypotheses Testing.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2d/Labrys_research_notes_icon.png/revision/latest?cb=20250329150131",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Labrys_research_notes_icon.png",
+      "objective_id": "Hand over the found in raid item: Labrys research notes"
+    }
+  ]
+}

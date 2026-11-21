@@ -1,0 +1,42 @@
+{
+  "quest_id": "674492b6909d2013670a347a",
+  "name": "Ask for Directions",
+  "images": [
+    {
+      "title": "Ask for Directions Map",
+      "description": "Wiki map or location guide for Ask for Directions.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f8/Ask_for_Directions_Map.png/revision/latest?cb=20250119183011",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Ask_for_Directions_Map.png"
+    },
+    {
+      "title": "Ask for Directions Plant 1",
+      "description": "Wiki location reference (Ask for Directions Plant 1) for Ask for Directions.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d1/Ask_for_Directions_Plant_1.png/revision/latest?cb=20250119181557",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Ask_for_Directions_Plant_1.png"
+    },
+    {
+      "title": "Ask for Directions Plant 2",
+      "description": "Wiki location reference (Ask for Directions Plant 2) for Ask for Directions.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2f/Ask_for_Directions_Plant_2.png/revision/latest?cb=20250119181558",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Ask_for_Directions_Plant_2.png"
+    },
+    {
+      "title": "Ask for Directions Plant 3",
+      "description": "Wiki location reference (Ask for Directions Plant 3) for Ask for Directions.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b9/Ask_for_Directions_Plant_3.png/revision/latest?cb=20250119181559",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Ask_for_Directions_Plant_3.png"
+    },
+    {
+      "title": "Ask for Directions Plant 4",
+      "description": "Wiki location reference (Ask for Directions Plant 4) for Ask for Directions.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a1/Ask_for_Directions_Plant_4.png/revision/latest?cb=20250119181601",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Ask_for_Directions_Plant_4.png"
+    },
+    {
+      "title": "MS2000 Marker Icon",
+      "description": "Inventory appearance of MS2000 Marker, shown for identification during Ask for Directions.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a9/MS2000_Marker_icon.png/revision/latest?cb=20250407003132",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MS2000_Marker_icon.png"
+    }
+  ]
+}

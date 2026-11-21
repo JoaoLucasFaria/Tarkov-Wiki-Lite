@@ -1,0 +1,43 @@
+{
+  "quest_id": "68400953506db3b4db0700e7",
+  "name": "Fair Price - Part 2",
+  "images": [
+    {
+      "title": "Provide Cover Woods Map",
+      "description": "Wiki map or location guide for Fair Price - Part 2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/60/Provide_Cover_Woods_Map.png/revision/latest?cb=20250716195914",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Provide_Cover_Woods_Map.png"
+    },
+    {
+      "title": "Fair Price Spawn 1",
+      "description": "Wiki location reference (Fair Price Spawn 1) for Fair Price - Part 2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/10/Fair_Price_Spawn_1.png/revision/latest?cb=20250926132558",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Fair_Price_Spawn_1.png"
+    },
+    {
+      "title": "Fair Price Spawn 2",
+      "description": "Wiki location reference (Fair Price Spawn 2) for Fair Price - Part 2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0f/Fair_Price_Spawn_2.png/revision/latest?cb=20250716212241",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Fair_Price_Spawn_2.png"
+    },
+    {
+      "title": "Fair Price Spawn 3",
+      "description": "Wiki location reference (Fair Price Spawn 3) for Fair Price - Part 2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3f/Fair_Price_Spawn_3.png/revision/latest?cb=20250716213200",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Fair_Price_Spawn_3.png"
+    },
+    {
+      "title": "Provide Cover Woods Building",
+      "description": "Wiki location reference (Provide Cover Woods Building) for Fair Price - Part 2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1e/Provide_Cover_Woods_Building.png/revision/latest?cb=20240927161236",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Provide_Cover_Woods_Building.png"
+    },
+    {
+      "title": "AK 50 handguard with gas block Icon",
+      "description": "Inventory appearance of AK 50 handguard with gas block, shown for identification during Fair Price - Part 2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/37/AK-50_handguard_with_gas_block_icon.png/revision/latest?cb=20250716221124",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:AK-50_handguard_with_gas_block_icon.png",
+      "objective_id": "Locate and obtain the AK-50 handguard at the old sawmill on Woods"
+    }
+  ]
+}

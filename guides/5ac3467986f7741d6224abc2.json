@@ -1,0 +1,32 @@
+{
+  "quest_id": "5ac3467986f7741d6224abc2",
+  "name": "Ill-Wisher",
+  "images": [
+    {
+      "title": "Signal Part1Guide",
+      "description": "Wiki map or location guide for Ill-Wisher.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/30/SignalPart1Guide.jpg/revision/latest?cb=20240811123934",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SignalPart1Guide.jpg"
+    },
+    {
+      "title": "Signal1",
+      "description": "Wiki location reference for the objective: Locate the first signal source on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/31/Signal1.png/revision/latest?cb=20180505004103",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Signal1.png",
+      "objective_id": "Locate the first signal source on Shoreline"
+    },
+    {
+      "title": "Signal2",
+      "description": "Wiki location reference for the objective: Locate the second signal source on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5f/Signal2.png/revision/latest?cb=20200317190856",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Signal2.png",
+      "objective_id": "Locate the second signal source on Shoreline"
+    },
+    {
+      "title": "Signal Jammer Icon",
+      "description": "Inventory appearance of Signal Jammer, shown for identification during Ill-Wisher.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/67/Signal_Jammer_icon.png/revision/latest?cb=20220816202817",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Signal_Jammer_icon.png"
+    }
+  ]
+}

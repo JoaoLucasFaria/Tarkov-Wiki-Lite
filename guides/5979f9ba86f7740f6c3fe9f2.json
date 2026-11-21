@@ -1,0 +1,60 @@
+{
+  "quest_id": "5979f9ba86f7740f6c3fe9f2",
+  "name": "Chemical - Part 1",
+  "images": [
+    {
+      "title": "Chemical1 Traincar Map",
+      "description": "Wiki map or location guide for Chemical - Part 1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/69/Chemical1_Traincar_Map.png/revision/latest?cb=20220810130725",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Chemical1_Traincar_Map.png"
+    },
+    {
+      "title": "Chemical1Traincar",
+      "description": "Wiki location reference (Chemical1Traincar) for Chemical - Part 1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fc/Chemical1Traincar.png/revision/latest?cb=20230330233012",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Chemical1Traincar.png"
+    },
+    {
+      "title": "Docs 0013 Location",
+      "description": "Wiki location reference (Docs 0013 Location) for Chemical - Part 1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9c/Docs_0013-Location.png/revision/latest?cb=20230310210558",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Docs_0013-Location.png"
+    },
+    {
+      "title": "Chem1East1",
+      "description": "Visual reference (Chem1East1) from the Chemical - Part 1 wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b4/Chem1East1.png/revision/latest?cb=20230310211314",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Chem1East1.png"
+    },
+    {
+      "title": "Chem1East2",
+      "description": "Visual reference (Chem1East2) from the Chemical - Part 1 wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/67/Chem1East2.png/revision/latest?cb=20230117180030",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Chem1East2.png"
+    },
+    {
+      "title": "Chem1East3",
+      "description": "Visual reference (Chem1East3) from the Chemical - Part 1 wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/68/Chem1East3.png/revision/latest?cb=20230310211458",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Chem1East3.png"
+    },
+    {
+      "title": "Chem1West",
+      "description": "Visual reference (Chem1West) from the Chemical - Part 1 wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/50/Chem1West.png/revision/latest?cb=20230310210538",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Chem1West.png"
+    },
+    {
+      "title": "Chem1West2",
+      "description": "Visual reference (Chem1West2) from the Chemical - Part 1 wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/04/Chem1West2.png/revision/latest?cb=20230117175619",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Chem1West2.png"
+    },
+    {
+      "title": "Key 220 Icon",
+      "description": "Inventory appearance of Key 220, shown for identification during Chemical - Part 1.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9a/Key-220-Icon.png/revision/latest?cb=20220707191525",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Key-220-Icon.png"
+    }
+  ]
+}

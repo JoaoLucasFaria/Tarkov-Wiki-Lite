@@ -1,0 +1,19 @@
+{
+  "quest_id": "5f04886a3937dc337a6b8238",
+  "name": "Chemistry Closet",
+  "images": [
+    {
+      "title": "Health Resort East Wing",
+      "description": "Wiki visual reference for the objective: Locate Sanitar's office in the health resort on Shoreline.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d9/HealthResortEastWing.jpg/revision/latest?cb=20240520225533",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:HealthResortEastWing.jpg",
+      "objective_id": "Locate Sanitar's office in the health resort on Shoreline"
+    },
+    {
+      "title": "Key With Tape Icon",
+      "description": "Inventory appearance of Key With Tape, shown for identification during Chemistry Closet.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/de/Key_With_Tape_icon.png/revision/latest?cb=20220707220319",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Key_With_Tape_icon.png"
+    }
+  ]
+}

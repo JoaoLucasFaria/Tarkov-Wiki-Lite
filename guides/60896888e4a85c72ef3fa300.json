@@ -1,0 +1,34 @@
+{
+  "quest_id": "60896888e4a85c72ef3fa300",
+  "name": "Classified Technologies",
+  "images": [
+    {
+      "title": "Classified Technologies Location Map",
+      "description": "Wiki map or route reference for the objective: Obtain the package with T-90M Commander control panel on Reserve.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ea/ClassifiedTechnologiesLocationMap.png/revision/latest?cb=20211123152438",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ClassifiedTechnologiesLocationMap.png",
+      "objective_id": "Obtain the package with T-90M Commander control panel on Reserve"
+    },
+    {
+      "title": "Experience Exchange Package Location",
+      "description": "Wiki location reference for the objective: Obtain the package with T-90M Commander control panel on Reserve.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/00/Experience_Exchange_-_Package_Location.png/revision/latest?cb=20240709160835",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Experience_Exchange_-_Package_Location.png",
+      "objective_id": "Obtain the package with T-90M Commander control panel on Reserve"
+    },
+    {
+      "title": "Experience Exchange",
+      "description": "Wiki visual reference for the objective: Obtain the package with T-90M Commander control panel on Reserve.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/91/ExperienceExchange.PNG/revision/latest?cb=20241018220637",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ExperienceExchange.PNG",
+      "objective_id": "Obtain the package with T-90M Commander control panel on Reserve"
+    },
+    {
+      "title": "T 90MCOMMANDERCONTROLPANEL Icon",
+      "description": "Inventory appearance of T 90MCOMMANDERCONTROLPANEL, shown for identification during Classified Technologies.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/26/T-90MCOMMANDERCONTROLPANELIcon.png/revision/latest?cb=20221012080146",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:T-90MCOMMANDERCONTROLPANELIcon.png",
+      "objective_id": "Obtain the package with T-90M Commander control panel on Reserve"
+    }
+  ]
+}

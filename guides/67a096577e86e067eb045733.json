@@ -1,0 +1,31 @@
+{
+  "quest_id": "67a096577e86e067eb045733",
+  "name": "Hidden Layer",
+  "images": [
+    {
+      "title": "The Labyrinth Transit Map",
+      "description": "Wiki map or location guide for Hidden Layer.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/be/The_Labyrinth_Transit_Map.png/revision/latest?cb=20250328020348",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:The_Labyrinth_Transit_Map.png"
+    },
+    {
+      "title": "Vitamins1 Shoreline outdoor map",
+      "description": "Wiki map or location guide for Hidden Layer.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e6/Vitamins1_Shoreline_outdoor_map.png/revision/latest?cb=20241020215322",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Vitamins1_Shoreline_outdoor_map.png"
+    },
+    {
+      "title": "The Labyrinth Transit Door",
+      "description": "Wiki location reference (The Labyrinth Transit Door) for Hidden Layer.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9e/The_Labyrinth_Transit_Door.png/revision/latest?cb=20251012162826",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:The_Labyrinth_Transit_Door.png"
+    },
+    {
+      "title": "Knossos LLC Key Icon",
+      "description": "Inventory appearance of Knossos LLC Key, shown for identification during Hidden Layer.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/12/Knossos_LLC_Key_icon.png/revision/latest?cb=20250328164808",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Knossos_LLC_Key_icon.png",
+      "objective_id": "Locate and obtain the Knossos LLC facility key"
+    }
+  ]
+}

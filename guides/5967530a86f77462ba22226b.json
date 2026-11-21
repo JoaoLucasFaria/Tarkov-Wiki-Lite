@@ -1,0 +1,36 @@
+{
+  "quest_id": "5967530a86f77462ba22226b",
+  "name": "Bad Rep Evidence",
+  "images": [
+    {
+      "title": "Docs 0031 location",
+      "description": "Wiki location reference (Docs 0031 location) for Bad Rep Evidence.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/af/Docs_0031_location.png/revision/latest?cb=20241230151756",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Docs_0031_location.png"
+    },
+    {
+      "title": "Bad Rep Evidence Customs",
+      "description": "Visual reference (Bad Rep Evidence Customs) from the Bad Rep Evidence wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c7/Bad_Rep_Evidence_Customs.png/revision/latest?cb=20220815194155",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Bad_Rep_Evidence_Customs.png"
+    },
+    {
+      "title": "Customs Portable cabin portable",
+      "description": "Visual reference (Customs Portable cabin portable) from the Bad Rep Evidence wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d0/Customs-Portable-cabin-portable.png/revision/latest?cb=20250808234617",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Customs-Portable-cabin-portable.png"
+    },
+    {
+      "title": "Cabinet key Icon",
+      "description": "Inventory appearance of Cabinet key, shown for identification during Bad Rep Evidence.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/00/Cabinet-key-Icon.png/revision/latest?cb=20220707194325",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Cabinet-key-Icon.png"
+    },
+    {
+      "title": "Docs 0031 Icon",
+      "description": "Inventory appearance of Docs 0031, shown for identification during Bad Rep Evidence.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d8/Docs_0031_icon.png/revision/latest?cb=20221012062245",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Docs_0031_icon.png"
+    }
+  ]
+}

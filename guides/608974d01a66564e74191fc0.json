@@ -1,0 +1,32 @@
+{
+  "quest_id": "608974d01a66564e74191fc0",
+  "name": "A Fuel Matter",
+  "images": [
+    {
+      "title": "Reserve - Fuel Tank Locations",
+      "description": "Map showing the locations of both fuel tank groups that must be marked on Reserve.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/97/1st_%26_2nd_Group_of_tankers.jpg/revision/latest?cb=20240729150032",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:1st_%26_2nd_Group_of_tankers.jpg"
+    },
+    {
+      "title": "MS2000 Marker",
+      "description": "Bring two MS2000 Markers, one for each group of fuel tanks.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a9/MS2000_Marker_icon.png/revision/latest?cb=20250407003132",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MS2000_Marker_icon.png"
+    },
+    {
+      "title": "First Fuel Tank Group",
+      "description": "Find the red fuel tanks near the gas station on Reserve and place an MS2000 Marker.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/36/Tarkovwiki1.png/revision/latest?cb=20240729145003",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Tarkovwiki1.png",
+      "objective_id": "Mark the first group of fuel tanks with an MS2000 Marker on Reserve"
+    },
+    {
+      "title": "Second Fuel Tank Group",
+      "description": "Find the gray fuel tanks near the train station on Reserve and place an MS2000 Marker.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a4/Tarkovwiki3e.png/revision/latest?cb=20240729145235",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Tarkovwiki3e.png",
+      "objective_id": "Mark the second group of fuel tanks with an MS2000 Marker on Reserve"
+    }
+  ]
+}

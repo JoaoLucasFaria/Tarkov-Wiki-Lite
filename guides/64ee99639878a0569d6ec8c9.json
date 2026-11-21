@@ -1,0 +1,67 @@
+{
+  "quest_id": "64ee99639878a0569d6ec8c9",
+  "name": "Broadcast - Part 5",
+  "images": [
+    {
+      "title": "Mysterious marked key onmap",
+      "description": "Wiki map or location guide for Broadcast - Part 5.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/33/Mysterious_marked_key_onmap.png/revision/latest?cb=20230826234248",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Mysterious_marked_key_onmap.png"
+    },
+    {
+      "title": "Mysterious key building entrance",
+      "description": "Wiki location reference (Mysterious key building entrance) for Broadcast - Part 5.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cc/Mysterious_key_building_entrance.png/revision/latest?cb=20241015235936",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Mysterious_key_building_entrance.png"
+    },
+    {
+      "title": "Mysterious key path1",
+      "description": "Wiki location reference (Mysterious key path1) for Broadcast - Part 5.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ea/Mysterious_key_path1.png/revision/latest?cb=20241015235309",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Mysterious_key_path1.png"
+    },
+    {
+      "title": "Mysterious key path2",
+      "description": "Wiki location reference (Mysterious key path2) for Broadcast - Part 5.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a3/Mysterious_key_path2.png/revision/latest?cb=20241015235209",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Mysterious_key_path2.png"
+    },
+    {
+      "title": "Mysterious key path3",
+      "description": "Wiki location reference (Mysterious key path3) for Broadcast - Part 5.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/27/Mysterious_key_path3.png/revision/latest?cb=20241015234645",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Mysterious_key_path3.png"
+    },
+    {
+      "title": "Mysterious key room door",
+      "description": "Wiki location reference (Mysterious key room door) for Broadcast - Part 5.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/96/Mysterious_key_room_door.png/revision/latest?cb=20241015234459",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Mysterious_key_room_door.png"
+    },
+    {
+      "title": "Mysterious key room",
+      "description": "Wiki location reference (Mysterious key room) for Broadcast - Part 5.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d4/Mysterious_key_room.png/revision/latest?cb=20260616232822",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Mysterious_key_room.png"
+    },
+    {
+      "title": "Broadcast Part5Banner",
+      "description": "Visual reference (Broadcast Part5Banner) from the Broadcast - Part 5 wiki page.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5a/BroadcastPart5Banner.png/revision/latest?cb=20241029225105",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BroadcastPart5Banner.png"
+    },
+    {
+      "title": "Cultist Knife Icon",
+      "description": "Inventory appearance of Cultist Knife, shown for identification during Broadcast - Part 5.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/25/Cultist_Knife_icon.png/revision/latest?cb=20250326010557",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Cultist_Knife_icon.png",
+      "objective_id": "Stash a Cultist knife at the ritual spot"
+    },
+    {
+      "title": "Mysterious marked key Icon",
+      "description": "Inventory appearance of Mysterious marked key, shown for identification during Broadcast - Part 5.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d5/Mysterious_marked_key_icon.png/revision/latest?cb=20230814013045",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Mysterious_marked_key_icon.png"
+    }
+  ]
+}

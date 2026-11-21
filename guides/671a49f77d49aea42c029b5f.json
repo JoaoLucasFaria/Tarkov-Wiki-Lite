@@ -1,0 +1,34 @@
+{
+  "quest_id": "671a49f77d49aea42c029b5f",
+  "name": "Irresistible",
+  "images": [
+    {
+      "title": "21WS Map",
+      "description": "Wiki map or route reference for the objective: Locate and obtain the lost weapon crate on Interchange.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5c/21WSMap.png/revision/latest?cb=20220409230216",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:21WSMap.png",
+      "objective_id": "Locate and obtain the lost weapon crate on Interchange"
+    },
+    {
+      "title": "21ws outside",
+      "description": "Wiki location reference for the objective: Locate and obtain the lost weapon crate on Interchange.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a6/21ws_outside.jpg/revision/latest?cb=20230120211047",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:21ws_outside.jpg",
+      "objective_id": "Locate and obtain the lost weapon crate on Interchange"
+    },
+    {
+      "title": "Irresistible Quest Stolen Case",
+      "description": "Wiki visual reference for the objective: Locate and obtain the lost weapon crate on Interchange.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/60/IrresistibleQuestStolenCase.png/revision/latest?cb=20241031203315",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:IrresistibleQuestStolenCase.png",
+      "objective_id": "Locate and obtain the lost weapon crate on Interchange"
+    },
+    {
+      "title": "Stolen weapon case Icon",
+      "description": "Inventory appearance of Stolen weapon case, shown for identification during Irresistible.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7a/Stolen_weapon_case_icon.png/revision/latest?cb=20241031203512",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Stolen_weapon_case_icon.png",
+      "objective_id": "Locate and obtain the lost weapon crate on Interchange"
+    }
+  ]
+}
