@@ -32,6 +32,9 @@ from PySide6.QtWidgets import (
 
 from app.services.item_browser import ItemBrowser
 from app.services.trader_price_catalog import TraderPriceCatalog
+from app.services.trader_purchase_offers import TraderPurchaseOffers
+from app.services.item_recipe_catalog import ItemRecipeCatalog, resolve_recipe_source_name
+from app.services.item_hideout_requirements import ItemHideoutRequirements
 from app.services.item_image_decoder import decode_item_pixmap
 from app.services.item_requirements import extract_item_requirements
 from app.services.item_requirement_summary import (
@@ -75,6 +78,18 @@ class ItemsPage(QWidget):
             Path(__file__).resolve().parents[2] / "cache", self
         )
         self.trader_prices.updated.connect(self._on_trader_prices_updated)
+        self.purchase_offers = TraderPurchaseOffers(
+            api, Path(__file__).resolve().parents[2] / "cache"
+        )
+        self.recipes = ItemRecipeCatalog(
+            api, Path(__file__).resolve().parents[2] / "cache"
+        )
+        self.hideout_requirements = ItemHideoutRequirements(
+            api, Path(__file__).resolve().parents[2] / "cache"
+        )
+        self._recipe_show_all = False
+        self._recipe_names: dict[str, str] = {}
+        self._recipe_names_length = -1
         self._started = False
         self._quest_summaries: dict[str, list[dict] | None] = {}
 
@@ -228,6 +243,7 @@ class ItemsPage(QWidget):
             offset = 0
         self.search_timer.stop()
         self._clear_image()
+        self._recipe_show_all = False
         self.item_title.setText("Select an item")
         self.details.setHtml("<p>Searching...</p>")
         self.browser.search_items(
@@ -330,6 +346,7 @@ class ItemsPage(QWidget):
         if not isinstance(item_id, str):
             return
         self._clear_image()
+        self._recipe_show_all = False
         self.item_title.setText(current.text().split("\n", 1)[0])
         self.details.setHtml("<p>Loading item details...</p>")
         self.browser.load_item_details(item_id, self._on_details_updated)
@@ -395,6 +412,10 @@ class ItemsPage(QWidget):
         mode = str(self.mode_combo.currentData() or "regular")
         self.trader_prices.ensure(mode)
         parts.extend(self._trader_prices_html(item, mode))
+        self.purchase_offers.ensure(
+            mode, str(item.get("id") or ""), self._render_details
+        )
+        parts.extend(self._purchase_offers_html(str(item.get("id") or ""), mode))
         price = item.get("basePrice")
         if isinstance(price, (int, float)) and not isinstance(price, bool):
             parts.append(
@@ -404,11 +425,190 @@ class ItemsPage(QWidget):
 
         parts.append("<hr><h3>Quest requirements</h3>")
         parts.extend(self._quest_requirements_html(str(item.get("id") or "")))
+        # Craft and barter relationships belong to the public encyclopedia.
+        self.recipes.ensure(mode, self._on_recipes_updated)
+        parts.extend(self._recipe_html(str(item.get("id") or ""), mode))
+        self.hideout_requirements.ensure(mode, self._render_details)
+        parts.extend(self._hideout_html(str(item.get("id") or ""), mode))
         parts.append(
-            "<hr><p><i>Crafts, barters, trader purchase offers and "
-            "hideout uses will be added in a later Items update.</i></p>"
+            "<hr><p><small>Personal Hideout station levels, stash inventory and "
+            "item priorities will be tracked in My PMC. "
+            "Flea Market data is intentionally excluded.</small></p>"
         )
         self.details.setHtml("".join(parts))
+
+    def _on_recipes_updated(self) -> None:
+        """Refresh only the visible item when async recipe data changes."""
+        self._render_details()
+
+    def _item_names(self) -> dict[str, str]:
+        """Reuse the existing compact search index; never download names twice."""
+        idx = self.browser.index
+        if idx is None or not idx.ready:
+            return self._recipe_names
+        entries = idx.items
+        if len(entries) != self._recipe_names_length:
+            self._recipe_names = {
+                str(entry["id"]).lower(): str(entry["name"])
+                for entry in entries
+                if isinstance(entry, dict)
+                and isinstance(entry.get("id"), str)
+                and isinstance(entry.get("name"), str)
+            }
+            self._recipe_names_length = len(entries)
+        return self._recipe_names
+
+    def _ingredient_html(self, entry: dict) -> str:
+        item_id = str(entry.get("id") or "")
+        selected = self.browser.selected_item
+        selected_name = (
+            str(selected.get("name") or "")
+            if isinstance(selected, dict) and selected.get("id") == item_id
+            else ""
+        )
+        name = (
+            self._item_names().get(item_id)
+            or str(entry.get("name") or "")
+            or selected_name
+            or item_id
+        )
+        amount = entry.get("count", 1)
+        amount_text = f"{amount:g}" if isinstance(amount, (int, float)) else "?"
+        label = f"{esc(name)} ×{esc(amount_text)}"
+        if len(item_id) == 24 and all(c in "0123456789abcdef" for c in item_id):
+            label = f'<a href="item://{esc(item_id)}">{label}</a>'
+        if entry.get("reusable"):
+            label += " <small>(reusable tool)</small>"
+        return label
+
+    def _single_recipe_html(self, recipe: dict, kind: str) -> str:
+        mode = self.mode_combo.currentData() or "regular"
+        source = esc(resolve_recipe_source_name(
+            mode, recipe, self.recipes, self.hideout_requirements
+        ))
+        level = recipe.get("level")
+        if type(level) is int and level > 0:
+            source += f" — {'Level' if kind == 'crafts' else 'LL'} {level}"
+        extras = []
+        duration = recipe.get("duration")
+        if kind == "crafts" and type(duration) is int and duration > 0:
+            hours, remainder = divmod(duration, 3600)
+            minutes = (remainder + 59) // 60
+            extras.append(f"{hours}h {minutes}m" if hours else f"{minutes}m")
+        if recipe.get("unlock"):
+            extras.append("Quest unlock required")
+        head = f"<b>{source}</b>"
+        if extras:
+            head += f" <small>({esc(' • '.join(extras))})</small>"
+        required = ", ".join(self._ingredient_html(x) for x in recipe["required"])
+        rewards = ", ".join(self._ingredient_html(x) for x in recipe["rewards"])
+        return (
+            f"<li>{head}<br>"
+            f"<small>Requires:</small> {required}<br>"
+            f"<small>Gives:</small> {rewards}</li>"
+        )
+
+    def _recipe_html(self, item_id: str, mode: str) -> list[str]:
+        parts = ["<hr><h3>Crafts &amp; barters</h3>"]
+        sections = (
+            ("crafts", "for", "Craft this item"),
+            ("crafts", "using", "Used in crafts"),
+            ("barters", "for", "Get this item via barter"),
+            ("barters", "using", "Used as barter payment"),
+        )
+        pending_shown: set[str] = set()
+        for kind, side, title in sections:
+            state = self.recipes.status(mode, kind)
+            if state == "loading":
+                if kind not in pending_shown:
+                    parts.append(f"<p>Loading {esc(kind)} in the background...</p>")
+                    pending_shown.add(kind)
+                continue
+            if state == "error":
+                if kind not in pending_shown:
+                    parts.append(
+                        f"<p>Could not load {esc(kind)}: "
+                        f"{esc(self.recipes.error(mode, kind))}. "
+                        '<a href="recipes://refresh">Retry recipes</a></p>'
+                    )
+                    pending_shown.add(kind)
+                continue
+            if state == "empty":
+                continue
+            recipes = self.recipes.recipes_for(mode, kind, item_id, side)
+            parts.append(f"<h4>{esc(title)} ({len(recipes)})</h4>")
+            if not recipes:
+                parts.append("<p><small>None found in this mode.</small></p>")
+                continue
+            limit = len(recipes) if self._recipe_show_all else 12
+            parts.append("<ul>")
+            for recipe in recipes[:limit]:
+                parts.append(self._single_recipe_html(recipe, kind))
+            parts.append("</ul>")
+            if len(recipes) > limit:
+                parts.append(
+                    f'<p><a href="recipes://show-all">Show all {len(recipes)} recipes</a></p>'
+                )
+        if self._recipe_show_all:
+            parts.append('<p><a href="recipes://collapse">Show fewer recipes</a></p>')
+        parts.append(
+            '<p><small><a href="recipes://refresh">Refresh crafts &amp; barters</a>. '
+            "Data is cached by PvP/PvE. Recipe costs and profitability "
+            "are not calculated.</small></p>"
+        )
+        return parts
+
+
+    def _hideout_html(self, item_id: str, mode: str) -> list[str]:
+        """Public item-to-Hideout relationships, not personal upgrade tracking."""
+        parts = ["<hr><h3>Used in Hideout</h3>"]
+        source = self.hideout_requirements
+        state = source.status(mode)
+        if state == "loading":
+            parts.append("<p>Loading Hideout construction requirements...</p>")
+            return parts
+        if state == "error":
+            parts.append(
+                f"<p>Hideout requirements unavailable: {esc(source.error(mode))}</p>"
+                '<p><a href="hideout://refresh">Retry Hideout data</a></p>'
+            )
+            return parts
+        if state == "empty":
+            parts.append("<p>Hideout data not loaded yet.</p>")
+            return parts
+        rows = source.for_item(mode, item_id)
+        if not rows:
+            parts.append("<p>This item is not listed as a Hideout construction material.</p>")
+        else:
+            total = sum(row["count"] for row in rows)
+            parts.append(
+                f"<p><b>Total across Hideout construction levels: "
+                f"{esc(self._purchase_number(total))}×</b></p>"
+            )
+            parts.append("<ul>")
+            for row in rows:
+                label = row.get("station_name") or self.recipes.source_name(mode, {
+                    "source": row["station_id"], "kind": "crafts"
+                })
+                parts.append(
+                    f"<li>{esc(label)} — Level {row['level']}: "
+                    f"{esc(self._purchase_number(row['count']))}×</li>"
+                )
+            parts.append("</ul>")
+            parts.append(
+                "<p><small>Full upgrade path, independent of your personal "
+                "Hideout progress. My PMC will calculate what remains based "
+                "on your completed station levels.</small></p>"
+            )
+        if state == "stale":
+            parts.append(
+                f"<p><small>Showing cached data; refresh failed: "
+                f"{esc(source.error(mode))}</small></p>"
+            )
+        elif state == "refreshing":
+            parts.append("<p><small>Updating Hideout requirements...</small></p>")
+        parts.append('<p><small><a href="hideout://refresh">Refresh Hideout requirements</a></small></p>')
+        return parts
 
     def _on_trader_prices_updated(self, mode: str) -> None:
         if mode == self.mode_combo.currentData():
@@ -494,6 +694,100 @@ class ItemsPage(QWidget):
             )
         return parts
 
+
+    @staticmethod
+    def _purchase_number(value: object) -> str:
+        if type(value) in (int, float):
+            return f"{value:,.0f}" if float(value).is_integer() else f"{value:g}"
+        return "?"
+
+    def _purchase_requirement_html(self, part: dict) -> str:
+        """Show actual required currency/items; never infer a price from summaryCost."""
+        currency = str(part.get("currency") or "")
+        count = self._purchase_number(part.get("count"))
+        if currency:
+            return f"{esc(count)} {esc(currency)}"
+        req_type = str(part.get("type") or "")
+        if req_type == "DogtagRequirement":
+            side = str(part.get("side") or "Any faction")
+            level = part.get("level")
+            label = f"Dogtags ({side}"
+            if type(level) is int:
+                label += f", level {level}+"
+            return f"{esc(label + ')')} ×{esc(count)}"
+        item_id = str(part.get("item_id") or "").lower()
+        if len(item_id) == 24 and all(c in "0123456789abcdef" for c in item_id):
+            name = self._item_names().get(item_id) or f"Item …{item_id[-6:]}"
+            return f'<a href="item://{esc(item_id)}">{esc(name)}</a> ×{esc(count)}'
+        label = req_type.replace("Requirement", "") or "Unknown requirement"
+        return f"{esc(label)} ×{esc(count)}"
+
+    def _purchase_offers_html(self, item_id: str, mode: str) -> list[str]:
+        """Traders selling TO the player, separate from player selling TO traders."""
+        parts = ["<hr><h3>Buy from traders</h3>"]
+        state = self.purchase_offers.status(mode, item_id)
+        if state == "loading":
+            parts.append("<p>Checking current trader purchase offers...</p>")
+            return parts
+        if state == "error":
+            parts.append(
+                f"<p>Trader purchase offers unavailable: "
+                f"{esc(self.purchase_offers.error(mode, item_id))}</p>"
+                '<p><a href="purchase://refresh">Retry offers</a></p>'
+            )
+            return parts
+        offers = self.purchase_offers.offers_for(mode, item_id)
+        if not offers:
+            parts.append("<p>No trader purchase offers found for this item.</p>")
+        else:
+            cash = [row for row in offers if row.get("cash_only")]
+            barter = [row for row in offers if not row.get("cash_only")]
+            for title, rows in (("Currency purchases", cash), ("Item / special trades", barter)):
+                if not rows:
+                    continue
+                parts.append(f"<h4>{esc(title)} ({len(rows)})</h4><ul>")
+                for offer in rows[:16]:
+                    trader = esc(offer.get("trader") or "Unknown trader")
+                    conditions = []
+                    if type(offer.get("loyalty")) is int:
+                        conditions.append(f"LL {offer['loyalty']}")
+                    if type(offer.get("pmc_level")) is int:
+                        conditions.append(f"PMC level {offer['pmc_level']}+")
+                    if type(offer.get("buy_limit")) is int:
+                        conditions.append(f"Purchase limit {offer['buy_limit']}")
+                    stack = offer.get("stack_count")
+                    stack_text = f" ×{stack}" if type(stack) is int and stack > 1 else ""
+                    price = " + ".join(
+                        self._purchase_requirement_html(req)
+                        for req in offer.get("requirements", [])
+                    )
+                    extras = f" <small>({esc(' • '.join(conditions))})</small>" if conditions else ""
+                    parts.append(f"<li><b>{trader}</b>{esc(stack_text)}{extras}<br>"
+                                 f"<small>Cost:</small> {price}</li>")
+                parts.append("</ul>")
+                if len(rows) > 16:
+                    parts.append(f"<p><small>Showing first 16 of {len(rows)} offers.</small></p>")
+        stamp = self.purchase_offers.fetched_at(mode, item_id)
+        detail = (
+            f"Snapshot: {datetime.fromtimestamp(stamp).strftime('%d %b %Y %H:%M')} (local)"
+            if stamp else "Trader offer availability can change"
+        )
+        parts.append(
+            f"<p><small>{esc(detail)}. "
+            "Loyalty and level requirements are informational, not checks "
+            "against your character. "
+            '<a href="purchase://refresh">Refresh offers</a>. '
+            "No Flea Market prices used.</small></p>"
+        )
+        if state == "stale":
+            parts.append(
+                "<p><small>Refresh failed; showing previously cached offers. "
+                f"{esc(self.purchase_offers.error(mode, item_id))}</small></p>"
+            )
+        elif state == "refreshing":
+            parts.append("<p><small>Updating trader offers...</small></p>")
+        return parts
+
     def _summaries_for_mode(self, mode: str) -> list[dict] | None:
         if mode in self._quest_summaries:
             return self._quest_summaries[mode]
@@ -564,6 +858,46 @@ class ItemsPage(QWidget):
         return f"<li>{name} — {esc('; '.join(info))}</li>"
 
     def _open_link(self, url: QUrl) -> None:
+        if url.scheme() == "hideout" and url.host() == "refresh":
+            mode = str(self.mode_combo.currentData() or "regular")
+            self.hideout_requirements.ensure(mode, self._render_details, force=True)
+            self._render_details()
+            return
+        if url.scheme() == "purchase" and url.host() == "refresh":
+            mode = str(self.mode_combo.currentData() or "regular")
+            item = self.browser.selected_item
+            if isinstance(item, dict):
+                self.purchase_offers.ensure(
+                    mode, str(item.get("id") or ""), self._render_details, force=True
+                )
+                self._render_details()
+            return
+        if url.scheme() == "recipes":
+            action = url.host()
+            if action == "refresh":
+                mode = str(self.mode_combo.currentData() or "regular")
+                self.recipes.ensure(mode, self._on_recipes_updated, force=True)
+            elif action == "show-all":
+                self._recipe_show_all = True
+            elif action == "collapse":
+                self._recipe_show_all = False
+            self._render_details()
+            return
+        if url.scheme() == "item":
+            item_id = url.host().lower()
+            if len(item_id) != 24 or any(c not in "0123456789abcdef" for c in item_id):
+                return
+            for idx in range(self.items_list.count()):
+                row = self.items_list.item(idx)
+                if row.data(Qt.ItemDataRole.UserRole) == item_id:
+                    self.items_list.setCurrentRow(idx)
+                    return
+            # Ingredient navigation works without a second search/index scan.
+            row = QListWidgetItem(self._item_names().get(item_id, item_id))
+            row.setData(Qt.ItemDataRole.UserRole, item_id)
+            self.items_list.addItem(row)
+            self.items_list.setCurrentItem(row)
+            return
         if url.scheme() == "price" and url.host() == "refresh":
             mode = str(self.mode_combo.currentData() or "regular")
             self.trader_prices.ensure(mode, force=True)
