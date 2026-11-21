@@ -1,0 +1,19 @@
+{
+  "quest_id": "596b36c586f77450d6045ad2",
+  "name": "Supplier",
+  "images": [
+    {
+      "title": "3M icon",
+      "description": "Appearance reference for equipment or item: 3M icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f8/3M_icon.png/revision/latest?cb=20240103163233",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:3M_icon.png"
+    },
+    {
+      "title": "TOZ 106 icon",
+      "description": "Appearance reference for equipment or item: TOZ 106 icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d9/TOZ-106_icon.png/revision/latest?cb=20190313223058",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TOZ-106_icon.png",
+      "objective_id": "Hand over the item: TOZ-106 20ga bolt-action shotgun"
+    }
+  ]
+}

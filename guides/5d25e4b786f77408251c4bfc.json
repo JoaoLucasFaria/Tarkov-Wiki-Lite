@@ -1,0 +1,13 @@
+{
+  "quest_id": "5d25e4b786f77408251c4bfc",
+  "name": "Fishing Place",
+  "images": [
+    {
+      "title": "Terragroup Labs access keycard icon",
+      "description": "Appearance reference for equipment or item: Terragroup Labs access keycard icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/79/Terragroup_Labs_access_keycard_icon.png/revision/latest?cb=20211220202500",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Terragroup_Labs_access_keycard_icon.png",
+      "objective_id": "Find the item in raid: TerraGroup Labs access keycard"
+    }
+  ]
+}

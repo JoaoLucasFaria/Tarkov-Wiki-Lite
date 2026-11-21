@@ -1,0 +1,39 @@
+{
+  "quest_id": "6a959d33b9b22567ed0d0a4e",
+  "name": "Can't Drink Away Skill",
+  "images": [
+    {
+      "title": "1gphone icon",
+      "description": "Appearance reference for equipment or item: 1gphone icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fe/1gphone_icon.png/revision/latest?cb=20250126235525",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:1gphone_icon.png"
+    },
+    {
+      "title": "Golden neck chain Icon",
+      "description": "Appearance reference for equipment or item: Golden neck chain Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9a/Golden_neck_chain_Icon.png/revision/latest?cb=20260125003944",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Golden_neck_chain_Icon.png",
+      "objective_id": "Find the item in raid: Golden neck chain"
+    },
+    {
+      "title": "Golden Rooster Icon",
+      "description": "Appearance reference for equipment or item: Golden Rooster Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4d/GoldenRoosterIcon.png/revision/latest?cb=20250109195848",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GoldenRoosterIcon.png",
+      "objective_id": "Find the item in raid: Golden rooster figurine"
+    },
+    {
+      "title": "WZ Wallet icon",
+      "description": "Appearance reference for equipment or item: WZ Wallet icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b2/WZ_Wallet_icon.png/revision/latest?cb=20250131152839",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WZ_Wallet_icon.png",
+      "objective_id": "Find the item in raid: WZ Wallet"
+    },
+    {
+      "title": "Wallet icon",
+      "description": "Appearance reference for equipment or item: Wallet icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a9/Wallet_icon.png/revision/latest?cb=20250107081222",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Wallet_icon.png"
+    }
+  ]
+}

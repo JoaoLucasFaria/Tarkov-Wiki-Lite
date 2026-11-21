@@ -1,0 +1,19 @@
+{
+  "quest_id": "5ae4497b86f7744cf402ed00",
+  "name": "Sew it Good - Part 2",
+  "images": [
+    {
+      "title": "Blackrock Icon",
+      "description": "Appearance reference for equipment or item: Blackrock Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ac/Blackrock_Icon.png/revision/latest?cb=20191029140712",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Blackrock_Icon.png"
+    },
+    {
+      "title": "Wartech gear rig icon",
+      "description": "Appearance reference for equipment or item: Wartech gear rig icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/57/Wartech_gear_rig_icon.png/revision/latest?cb=20261115122612",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Wartech_gear_rig_icon.png",
+      "objective_id": "Find the item in raid: WARTECH TV-109 + TV-106 chest rig"
+    }
+  ]
+}

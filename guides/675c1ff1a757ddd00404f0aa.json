@@ -1,0 +1,13 @@
+{
+  "quest_id": "675c1ff1a757ddd00404f0aa",
+  "name": "Unique Experience",
+  "images": [
+    {
+      "title": "Aklys Defense Velociraptor icon",
+      "description": "Appearance reference for equipment or item: Aklys Defense Velociraptor icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/33/Aklys_Defense_Velociraptor_icon.png/revision/latest?cb=20241227231828",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Aklys_Defense_Velociraptor_icon.png",
+      "objective_id": "Eliminate any target with an Aklys Defense Velociraptor on Lighthouse or The Lab"
+    }
+  ]
+}

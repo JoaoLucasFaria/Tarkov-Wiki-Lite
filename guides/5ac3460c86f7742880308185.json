@@ -1,0 +1,24 @@
+{
+  "quest_id": "5ac3460c86f7742880308185",
+  "name": "Farming - Part 2",
+  "images": [
+    {
+      "title": "Circuit Icon",
+      "description": "Appearance reference for equipment or item: Circuit Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c5/Circuit_Icon.png/revision/latest?cb=20250308182945",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Circuit_Icon.png"
+    },
+    {
+      "title": "Powercord icon",
+      "description": "Appearance reference for equipment or item: Powercord icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e1/Powercord_icon.png/revision/latest?cb=20250308184830",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Powercord_icon.png"
+    },
+    {
+      "title": "T Shaped Plug Icon",
+      "description": "Appearance reference for equipment or item: T Shaped Plug Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4f/T-Shaped_Plug_Icon.png/revision/latest?cb=20250308184927",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:T-Shaped_Plug_Icon.png"
+    }
+  ]
+}

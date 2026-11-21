@@ -1,0 +1,25 @@
+{
+  "quest_id": "5edac34d0bb72a50635c2bfa",
+  "name": "A Difficult Choice",
+  "images": [
+    {
+      "title": "3 (b TG) icon",
+      "description": "Appearance reference for equipment or item: 3 (b TG) icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f7/3-%28b-TG%29_icon.png/revision/latest?cb=20220406115756",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:3-(b-TG)_icon.png"
+    },
+    {
+      "title": "AHF1 M icon",
+      "description": "Appearance reference for equipment or item: AHF1 M icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/65/AHF1-M_icon.png/revision/latest?cb=20250114202051",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:AHF1-M_icon.png"
+    },
+    {
+      "title": "Terragroup Labs access keycard icon",
+      "description": "Appearance reference for equipment or item: Terragroup Labs access keycard icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/79/Terragroup_Labs_access_keycard_icon.png/revision/latest?cb=20211220202500",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Terragroup_Labs_access_keycard_icon.png",
+      "objective_id": "Find the item in raid: TerraGroup Labs access keycard"
+    }
+  ]
+}

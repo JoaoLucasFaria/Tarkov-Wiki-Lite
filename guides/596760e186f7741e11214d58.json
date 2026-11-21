@@ -1,0 +1,34 @@
+{
+  "quest_id": "596760e186f7741e11214d58",
+  "name": "Postman Pat - Part 2",
+  "images": [
+    {
+      "title": "Postman Pat Letter Location",
+      "description": "Wiki location image for the objective: Hand over the letter from Prapor's messenger.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a6/Postman_Pat_Letter_Location.png/revision/latest?cb=20240827160828",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Postman_Pat_Letter_Location.png",
+      "objective_id": "Hand over the letter from Prapor's messenger"
+    },
+    {
+      "title": "Postman Pat Letter",
+      "description": "Wiki location image for the objective: Hand over the letter from Prapor's messenger.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2f/Postman_Pat_Letter.png/revision/latest?cb=20221012072643",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Postman_Pat_Letter.png",
+      "objective_id": "Hand over the letter from Prapor's messenger"
+    },
+    {
+      "title": "Postman Pat1 Factory",
+      "description": "Wiki location image for the objective: Hand over the letter from Prapor's messenger.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b1/PostmanPat1_Factory.png/revision/latest?cb=20240824191833",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:PostmanPat1_Factory.png",
+      "objective_id": "Hand over the letter from Prapor's messenger"
+    },
+    {
+      "title": "Postman Pat Location",
+      "description": "Wiki location image for the objective: Hand over the letter from Prapor's messenger.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b4/PostmanPatLocation.png/revision/latest?cb=20240824174819",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:PostmanPatLocation.png",
+      "objective_id": "Hand over the letter from Prapor's messenger"
+    }
+  ]
+}

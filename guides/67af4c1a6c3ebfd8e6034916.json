@@ -1,0 +1,19 @@
+{
+  "quest_id": "67af4c1a6c3ebfd8e6034916",
+  "name": "Profit Retention",
+  "images": [
+    {
+      "title": "Bitcoin icon",
+      "description": "Appearance reference for equipment or item: Bitcoin icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fa/Bitcoin_icon.png/revision/latest?cb=20260331201640",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Bitcoin_icon.png"
+    },
+    {
+      "title": "Graphics Card icon",
+      "description": "Appearance reference for equipment or item: Graphics Card icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b3/Graphics_Card_icon.png/revision/latest?cb=20250122021908",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Graphics_Card_icon.png",
+      "objective_id": "Hand over the item: Graphics card"
+    }
+  ]
+}

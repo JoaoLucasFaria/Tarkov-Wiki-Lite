@@ -1,0 +1,46 @@
+{
+  "quest_id": "5b47891f86f7744d1b23c571",
+  "name": "Living High is Not a Crime",
+  "images": [
+    {
+      "title": "Bronze Lion Icon",
+      "description": "Appearance reference for equipment or item: Bronze Lion Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c2/Bronze_Lion_Icon.png/revision/latest?cb=20250109195446",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Bronze_Lion_Icon.png",
+      "objective_id": "Hand over the found in raid item: Bronze lion figurine"
+    },
+    {
+      "title": "Caticon",
+      "description": "Appearance reference for equipment or item: Caticon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/36/Caticon.png/revision/latest?cb=20250109195518",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Caticon.png"
+    },
+    {
+      "title": "Golden egg icon",
+      "description": "Appearance reference for equipment or item: Golden egg icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f2/Golden_egg_icon.png/revision/latest?cb=20250109195802",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Golden_egg_icon.png",
+      "objective_id": "Hand over the found in raid item: Golden egg"
+    },
+    {
+      "title": "Golden Rooster Icon",
+      "description": "Appearance reference for equipment or item: Golden Rooster Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4d/GoldenRoosterIcon.png/revision/latest?cb=20250109195848",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GoldenRoosterIcon.png",
+      "objective_id": "Hand over the found in raid item: Golden rooster figurine"
+    },
+    {
+      "title": "Horse figurine Icon",
+      "description": "Appearance reference for equipment or item: Horse figurine Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/27/Horse_figurine_Icon.png/revision/latest?cb=20250109195909",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Horse_figurine_Icon.png",
+      "objective_id": "Hand over the found in raid item: Horse figurine"
+    },
+    {
+      "title": "Roler icon",
+      "description": "Appearance reference for equipment or item: Roler icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e7/Roler_icon.png/revision/latest?cb=20250109200136",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Roler_icon.png"
+    }
+  ]
+}

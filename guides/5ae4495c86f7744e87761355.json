@@ -1,0 +1,19 @@
+{
+  "quest_id": "5ae4495c86f7744e87761355",
+  "name": "Sew it Good - Part 3",
+  "images": [
+    {
+      "title": "GZHELK Armor Icon",
+      "description": "Appearance reference for equipment or item: GZHELK Armor Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a1/GZHELKArmorIcon.png/revision/latest?cb=20240103170710",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:GZHELKArmorIcon.png"
+    },
+    {
+      "title": "Highcom Trooper TFO armor (multicam) icon",
+      "description": "Appearance reference for equipment or item: Highcom Trooper TFO armor (multicam) icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bb/Highcom_Trooper_TFO_armor_%28multicam%29_icon.png/revision/latest?cb=20240103164436",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Highcom_Trooper_TFO_armor_(multicam)_icon.png",
+      "objective_id": "Obtain the item: HighCom Trooper TFO body armor"
+    }
+  ]
+}

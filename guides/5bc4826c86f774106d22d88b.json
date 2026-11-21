@@ -1,0 +1,20 @@
+{
+  "quest_id": "5bc4826c86f774106d22d88b",
+  "name": "The Tarkov Shooter - Part 5",
+  "images": [
+    {
+      "title": "Ko R Sniper Map",
+      "description": "Wiki map or reference for the objective: Eliminate Scavs while using a bolt-action rifle in the time period of 21:00-05:00 on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e8/KoRSniperMap.png/revision/latest?cb=20260414213541",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:KoRSniperMap.png",
+      "objective_id": "Eliminate Scavs while using a bolt-action rifle in the time period of 21:00-05:00 on Customs"
+    },
+    {
+      "title": "Sniper Scavs Customs",
+      "description": "Wiki location image for the objective: Eliminate Scavs while using a bolt-action rifle in the time period of 21:00-05:00 on Customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5c/Sniper-Scavs-Customs.png/revision/latest?cb=20230927061535",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Sniper-Scavs-Customs.png",
+      "objective_id": "Eliminate Scavs while using a bolt-action rifle in the time period of 21:00-05:00 on Customs"
+    }
+  ]
+}

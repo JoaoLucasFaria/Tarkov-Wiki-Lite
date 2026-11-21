@@ -1,0 +1,18 @@
+{
+  "quest_id": "5c0be5fc86f774467a116593",
+  "name": "Private Clinic",
+  "images": [
+    {
+      "title": "Ophthalmoscopeicon",
+      "description": "Appearance reference for equipment or item: Ophthalmoscopeicon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f6/Ophthalmoscopeicon.png/revision/latest?cb=20250114194110",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Ophthalmoscopeicon.png"
+    },
+    {
+      "title": "Transilluminator Icon",
+      "description": "Appearance reference for equipment or item: Transilluminator Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4e/TransilluminatorIcon.png/revision/latest?cb=20250114194240",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TransilluminatorIcon.png"
+    }
+  ]
+}

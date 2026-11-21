@@ -1,0 +1,13 @@
+{
+  "quest_id": "665eec1f5e47a79f8605565a",
+  "name": "Thirsty - Breadwinner",
+  "images": [
+    {
+      "title": "5L propane tank icon",
+      "description": "Appearance reference for equipment or item: 5L propane tank icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/14/5L_propane_tank_icon.png/revision/latest?cb=20211220211655",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:5L_propane_tank_icon.png",
+      "objective_id": "Find the item in raid: Propane tank (5L)"
+    }
+  ]
+}

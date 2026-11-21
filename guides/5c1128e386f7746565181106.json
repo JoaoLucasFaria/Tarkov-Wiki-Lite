@@ -1,0 +1,18 @@
+{
+  "quest_id": "5c1128e386f7746565181106",
+  "name": "Fertilizers",
+  "images": [
+    {
+      "title": "Capacitorsicon",
+      "description": "Appearance reference for equipment or item: Capacitorsicon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e3/Capacitorsicon.png/revision/latest?cb=20211220213027",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Capacitorsicon.png"
+    },
+    {
+      "title": "Wiresicon",
+      "description": "Appearance reference for equipment or item: Wiresicon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a4/Wiresicon.png/revision/latest?cb=20251124225247",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Wiresicon.png"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "quest_id": "596a1e6c86f7741ddc2d3206",
+  "name": "General Wares",
+  "images": [
+    {
+      "title": "Location of a ration supply crate",
+      "description": "Location reference from the General Wares wiki page: Location of a ration supply crate.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e0/Location_of_a_ration_supply_crate.png/revision/latest?cb=20191231053711",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Location_of_a_ration_supply_crate.png"
+    },
+    {
+      "title": "Can of beef stew Icon",
+      "description": "Appearance reference for equipment or item: Can of beef stew Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a7/Can_of_beef_stew_Icon.png/revision/latest?cb=20250117122129",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Can_of_beef_stew_Icon.png",
+      "objective_id": "Find the item in raid: Can of beef stew (Small)"
+    }
+  ]
+}

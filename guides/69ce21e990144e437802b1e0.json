@@ -1,0 +1,27 @@
+{
+  "quest_id": "69ce21e990144e437802b1e0",
+  "name": "Fresh Stock",
+  "images": [
+    {
+      "title": "Ferro Concepts FCPC V5 Plate Carrier (Black Division) icon",
+      "description": "Appearance reference for equipment or item: Ferro Concepts FCPC V5 Plate Carrier (Black Division) icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/13/Ferro_Concepts_FCPC_V5_Plate_Carrier_%28Black_Division%29_icon.png/revision/latest?cb=20260109040140",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Ferro_Concepts_FCPC_V5_Plate_Carrier_(Black_Division)_icon.png",
+      "objective_id": "Find the item in raid: Black Division plate carrier"
+    },
+    {
+      "title": "Spiritus Systems LV 119 Plate Carrier (Black Division V2) icon",
+      "description": "Appearance reference for equipment or item: Spiritus Systems LV 119 Plate Carrier (Black Division V2) icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8e/Spiritus_Systems_LV-119_Plate_Carrier_%28Black_Division_V2%29_icon.png/revision/latest?cb=20260109040218",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Spiritus_Systems_LV-119_Plate_Carrier_(Black_Division_V2)_icon.png",
+      "objective_id": "Find the item in raid: Black Division plate carrier"
+    },
+    {
+      "title": "Spiritus Systems LV 119 Plate Carrier (Multi Cam Black) icon",
+      "description": "Appearance reference for equipment or item: Spiritus Systems LV 119 Plate Carrier (Multi Cam Black) icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9b/Spiritus_Systems_LV-119_Plate_Carrier_%28MultiCam_Black%29_icon.png/revision/latest?cb=20260526181130",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Spiritus_Systems_LV-119_Plate_Carrier_(MultiCam_Black)_icon.png",
+      "objective_id": "Find the item in raid: Black Division plate carrier"
+    }
+  ]
+}

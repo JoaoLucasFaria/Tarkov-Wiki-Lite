@@ -1,0 +1,13 @@
+{
+  "quest_id": "69ce213a298a6529b30d7134",
+  "name": "Biochemistry",
+  "images": [
+    {
+      "title": "Aceso Xpress semi automatic biochemical analyzer icon",
+      "description": "Appearance reference for equipment or item: Aceso Xpress semi automatic biochemical analyzer icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a6/Aceso_Xpress_semi-automatic_biochemical_analyzer_icon.png/revision/latest?cb=20260528204327",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Aceso_Xpress_semi-automatic_biochemical_analyzer_icon.png",
+      "objective_id": "Find the item in raid: Aceso Xpress semi-automatic biochemical analyzer"
+    }
+  ]
+}

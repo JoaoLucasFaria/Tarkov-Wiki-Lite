@@ -1,0 +1,25 @@
+{
+  "quest_id": "5ac346a886f7744e1b083d67",
+  "name": "Rat Hunting",
+  "images": [
+    {
+      "title": "Circuit Icon",
+      "description": "Appearance reference for equipment or item: Circuit Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c5/Circuit_Icon.png/revision/latest?cb=20250308182945",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Circuit_Icon.png"
+    },
+    {
+      "title": "PC CPU Icon",
+      "description": "Appearance reference for equipment or item: PC CPU Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9e/PC_CPU_Icon.png/revision/latest?cb=20250308182812",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:PC_CPU_Icon.png",
+      "objective_id": "Find the item in raid: PC CPU"
+    },
+    {
+      "title": "Recicon",
+      "description": "Appearance reference for equipment or item: Recicon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/28/Recicon.png/revision/latest?cb=20250308185136",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Recicon.png"
+    }
+  ]
+}

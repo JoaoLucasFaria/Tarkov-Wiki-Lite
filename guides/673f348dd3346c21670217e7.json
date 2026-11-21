@@ -1,0 +1,55 @@
+{
+  "quest_id": "673f348dd3346c21670217e7",
+  "name": "Shipping Delay - Part 1",
+  "images": [
+    {
+      "title": "A Helping Hand Building Map",
+      "description": "Wiki map or reference for the objective: Hand over the package from the depot on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/43/A_Helping_Hand_Building_Map.png/revision/latest?cb=20250115231915",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:A_Helping_Hand_Building_Map.png",
+      "objective_id": "Hand over the package from the depot on Woods"
+    },
+    {
+      "title": "A Helping Hand Building",
+      "description": "Wiki location image for the objective: Hand over the package from the depot on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d9/A_Helping_Hand_Building.png/revision/latest?cb=20250325002847",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:A_Helping_Hand_Building.png",
+      "objective_id": "Hand over the package from the depot on Woods"
+    },
+    {
+      "title": "A Helping Hand Spawn 1",
+      "description": "Wiki location image for the objective: Hand over the package from the depot on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/77/A_Helping_Hand_Spawn_1.png/revision/latest?cb=20250115232153",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:A_Helping_Hand_Spawn_1.png",
+      "objective_id": "Hand over the package from the depot on Woods"
+    },
+    {
+      "title": "A Helping Hand Spawn 2",
+      "description": "Wiki location image for the objective: Hand over the package from the depot on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f9/A_Helping_Hand_Spawn_2.png/revision/latest?cb=20250115232421",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:A_Helping_Hand_Spawn_2.png",
+      "objective_id": "Hand over the package from the depot on Woods"
+    },
+    {
+      "title": "Woods Train Depot Exit",
+      "description": "Wiki location image for the objective: Hand over the package from the depot on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3a/WoodsTrainDepotExit.png/revision/latest?cb=20250403233648",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WoodsTrainDepotExit.png",
+      "objective_id": "Hand over the package from the depot on Woods"
+    },
+    {
+      "title": "Woods Train Depot Exit2",
+      "description": "Wiki location image for the objective: Hand over the package from the depot on Woods.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6c/WoodsTrainDepotExit2.png/revision/latest?cb=20250403234347",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WoodsTrainDepotExit2.png",
+      "objective_id": "Hand over the package from the depot on Woods"
+    },
+    {
+      "title": "Package with graphics cards icon",
+      "description": "Appearance reference for equipment or item: Package with graphics cards icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8d/Package_with_graphics_cards_icon.png/revision/latest?cb=20221012072307",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Package_with_graphics_cards_icon.png",
+      "objective_id": "Hand over the package from the depot on Woods"
+    }
+  ]
+}

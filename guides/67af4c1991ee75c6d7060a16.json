@@ -1,0 +1,55 @@
+{
+  "quest_id": "67af4c1991ee75c6d7060a16",
+  "name": "Get a Foothold",
+  "images": [
+    {
+      "title": "Combat stimulant SJ6 icon",
+      "description": "Appearance reference for equipment or item: Combat stimulant SJ6 icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9c/Combat_stimulant_SJ6_icon.png/revision/latest?cb=20220121142354",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Combat_stimulant_SJ6_icon.png"
+    },
+    {
+      "title": "Combat stimulant SJ9 icon",
+      "description": "Appearance reference for equipment or item: Combat stimulant SJ9 icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/03/Combat_stimulant_SJ9_icon.png/revision/latest?cb=20220121142333",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Combat_stimulant_SJ9_icon.png"
+    },
+    {
+      "title": "ETG change icon",
+      "description": "Appearance reference for equipment or item: ETG change icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/92/ETG_change_icon.png/revision/latest?cb=20220121141743",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ETG_change_icon.png"
+    },
+    {
+      "title": "M.U.L.E. Stimulator Icon",
+      "description": "Appearance reference for equipment or item: M.U.L.E. Stimulator Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c2/M.U.L.E._Stimulator_Icon.png/revision/latest?cb=20200727184509",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:M.U.L.E._Stimulator_Icon.png"
+    },
+    {
+      "title": "Meldonin Icon",
+      "description": "Appearance reference for equipment or item: Meldonin Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/30/Meldonin_Icon.png/revision/latest?cb=20250114202155",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Meldonin_Icon.png"
+    },
+    {
+      "title": "Obdolbos2 icon",
+      "description": "Appearance reference for equipment or item: Obdolbos2 icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/53/Obdolbos2_icon.png/revision/latest?cb=20230104153810",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Obdolbos2_icon.png"
+    },
+    {
+      "title": "Propital Icon",
+      "description": "Appearance reference for equipment or item: Propital Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1b/PropitalIcon.png/revision/latest?cb=20211230205215",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:PropitalIcon.png"
+    },
+    {
+      "title": "SJ12 icon",
+      "description": "Appearance reference for equipment or item: SJ12 icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1c/SJ12_icon.png/revision/latest?cb=20230104153638",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SJ12_icon.png",
+      "objective_id": "Hand over the item: SJ12 TGLabs combat stimulant injector"
+    }
+  ]
+}

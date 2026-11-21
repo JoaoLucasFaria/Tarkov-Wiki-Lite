@@ -1,0 +1,39 @@
+{
+  "quest_id": "5c1141f386f77430ff393792",
+  "name": "Antique Enthusiast",
+  "images": [
+    {
+      "title": "Axel parrot icon",
+      "description": "Appearance reference for equipment or item: Axel parrot icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b3/Axel_parrot_icon.png/revision/latest?cb=20250109192410",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Axel_parrot_icon.png",
+      "objective_id": "Hand over the found in raid item: Axel parrot figurine"
+    },
+    {
+      "title": "Raven figurine icon",
+      "description": "Appearance reference for equipment or item: Raven figurine icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c0/Raven_figurine_icon.png/revision/latest?cb=20250109200058",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Raven_figurine_icon.png",
+      "objective_id": "Hand over the found in raid item: Raven figurine"
+    },
+    {
+      "title": "Skull Ring Icon",
+      "description": "Appearance reference for equipment or item: Skull Ring Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/26/SkullRing_Icon.png/revision/latest?cb=20250109195736",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SkullRing_Icon.png",
+      "objective_id": "Hand over the found in raid item: Gold skull ring"
+    },
+    {
+      "title": "Teapot icon",
+      "description": "Appearance reference for equipment or item: Teapot icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2b/Teapot_icon.png/revision/latest?cb=20250109192313",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Teapot_icon.png"
+    },
+    {
+      "title": "Vaseicon",
+      "description": "Appearance reference for equipment or item: Vaseicon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4c/Vaseicon.png/revision/latest?cb=20250109192341",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Vaseicon.png"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "quest_id": "69ce1de03e15cd80bd06f6c9",
+  "name": "Oil Change",
+  "images": [
+    {
+      "title": "AMG 10 hydraulic fluid icon",
+      "description": "Appearance reference for equipment or item: AMG 10 hydraulic fluid icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8b/AMG-10_hydraulic_fluid_icon.png/revision/latest?cb=20260526110335",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:AMG-10_hydraulic_fluid_icon.png",
+      "objective_id": "Find the item in raid: AMG-10 hydraulic fluid"
+    }
+  ]
+}

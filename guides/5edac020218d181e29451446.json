@@ -1,0 +1,49 @@
+{
+  "quest_id": "5edac020218d181e29451446",
+  "name": "Samples",
+  "images": [
+    {
+      "title": "3 (b TG) icon",
+      "description": "Appearance reference for equipment or item: 3 (b TG) icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f7/3-%28b-TG%29_icon.png/revision/latest?cb=20220406115756",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:3-(b-TG)_icon.png"
+    },
+    {
+      "title": "AHF1 M icon",
+      "description": "Appearance reference for equipment or item: AHF1 M icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/65/AHF1-M_icon.png/revision/latest?cb=20250114202051",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:AHF1-M_icon.png"
+    },
+    {
+      "title": "Cocktail Obdolbos Icon",
+      "description": "Appearance reference for equipment or item: Cocktail Obdolbos Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/51/Cocktail_Obdolbos_Icon.png/revision/latest?cb=20220406115954",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Cocktail_Obdolbos_Icon.png",
+      "objective_id": "Find the item in raid: \"Obdolbos\" cocktail injector"
+    },
+    {
+      "title": "L1 (Norepinephrine) Icon",
+      "description": "Appearance reference for equipment or item: L1 (Norepinephrine) Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bc/L1_%28Norepinephrine%29_Icon.png/revision/latest?cb=20200727184618",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:L1_(Norepinephrine)_Icon.png"
+    },
+    {
+      "title": "M.U.L.E. Stimulator Icon",
+      "description": "Appearance reference for equipment or item: M.U.L.E. Stimulator Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c2/M.U.L.E._Stimulator_Icon.png/revision/latest?cb=20200727184509",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:M.U.L.E._Stimulator_Icon.png"
+    },
+    {
+      "title": "Meldonin Icon",
+      "description": "Appearance reference for equipment or item: Meldonin Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/30/Meldonin_Icon.png/revision/latest?cb=20250114202155",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Meldonin_Icon.png"
+    },
+    {
+      "title": "P22 Icon",
+      "description": "Appearance reference for equipment or item: P22 Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2e/P22_Icon.png/revision/latest?cb=20200727184647",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:P22_Icon.png"
+    }
+  ]
+}

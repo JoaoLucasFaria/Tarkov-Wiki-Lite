@@ -1,0 +1,13 @@
+{
+  "quest_id": "669fa3910c828825de06d69f",
+  "name": "A Healthy Alternative",
+  "images": [
+    {
+      "title": "Lab journal Icon",
+      "description": "Appearance reference for equipment or item: Lab journal Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e3/Lab_journal_Icon.png/revision/latest?cb=20240827004434",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Lab_journal_Icon.png",
+      "objective_id": "Hand over the lab journal"
+    }
+  ]
+}

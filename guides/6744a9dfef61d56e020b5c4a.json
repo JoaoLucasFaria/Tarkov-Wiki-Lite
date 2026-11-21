@@ -1,0 +1,12 @@
+{
+  "quest_id": "6744a9dfef61d56e020b5c4a",
+  "name": "Battery Change",
+  "images": [
+    {
+      "title": "Mil Batt icon",
+      "description": "Appearance reference for equipment or item: Mil Batt icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2a/Mil_Batt_icon.png/revision/latest?cb=20260909211706",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Mil_Batt_icon.png"
+    }
+  ]
+}

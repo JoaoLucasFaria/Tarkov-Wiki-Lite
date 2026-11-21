@@ -1,0 +1,32 @@
+{
+  "quest_id": "5ae4490786f7744ca822adcc",
+  "name": "Dressed to Kill",
+  "images": [
+    {
+      "title": "Cow boy hat icon",
+      "description": "Appearance reference for equipment or item: Cow boy hat icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/44/Cow_boy_hat_icon.png/revision/latest?cb=20230219175755",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Cow_boy_hat_icon.png"
+    },
+    {
+      "title": "Domontovich ushanka hat icon",
+      "description": "Appearance reference for equipment or item: Domontovich ushanka hat icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/37/Domontovich_ushanka_hat_icon.png/revision/latest?cb=20260210145545",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Domontovich_ushanka_hat_icon.png",
+      "objective_id": "Find the item in raid: any Ushanka hat"
+    },
+    {
+      "title": "New Year ushanka hat icon",
+      "description": "Appearance reference for equipment or item: New Year ushanka hat icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9a/New_Year_ushanka_hat_icon.png/revision/latest?cb=20260108022451",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:New_Year_ushanka_hat_icon.png",
+      "objective_id": "Find the item in raid: any Ushanka hat"
+    },
+    {
+      "title": "Ushanka icon",
+      "description": "Appearance reference for equipment or item: Ushanka icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b8/Ushanka_icon.png/revision/latest?cb=20250502203400",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Ushanka_icon.png"
+    }
+  ]
+}

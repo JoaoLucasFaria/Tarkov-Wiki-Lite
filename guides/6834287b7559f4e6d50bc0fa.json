@@ -1,0 +1,13 @@
+{
+  "quest_id": "6834287b7559f4e6d50bc0fa",
+  "name": "Postponed Reward [PVE ZONE]",
+  "images": [
+    {
+      "title": "Lega Icon",
+      "description": "Appearance reference for equipment or item: Lega Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/98/Lega_Icon.png/revision/latest?cb=20240607164728",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Lega_Icon.png",
+      "objective_id": "Hand over the item: Lega Medal"
+    }
+  ]
+}

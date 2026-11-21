@@ -1,0 +1,18 @@
+{
+  "quest_id": "61e6e5e0f5b9633f6719ed95",
+  "name": "Compensation for Damage - Trust",
+  "images": [
+    {
+      "title": "BEAR Dogtag Icon",
+      "description": "Appearance reference for equipment or item: BEAR Dogtag Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/33/BEAR_Dogtag_Icon.png/revision/latest?cb=20250101010639",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BEAR_Dogtag_Icon.png"
+    },
+    {
+      "title": "USEC Dogtag Icon",
+      "description": "Appearance reference for equipment or item: USEC Dogtag Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3d/USEC_Dogtag_Icon.png/revision/latest?cb=20250101010623",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:USEC_Dogtag_Icon.png"
+    }
+  ]
+}

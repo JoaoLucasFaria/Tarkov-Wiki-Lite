@@ -1,0 +1,25 @@
+{
+  "quest_id": "665eeca92f7aedcc900b0437",
+  "name": "Thirsty - Secrets",
+  "images": [
+    {
+      "title": "Adrenaline Icon",
+      "description": "Appearance reference for equipment or item: Adrenaline Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/33/Adrenaline_Icon.png/revision/latest?cb=20220121141149",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Adrenaline_Icon.png"
+    },
+    {
+      "title": "Ololo icon",
+      "description": "Appearance reference for equipment or item: Ololo icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f7/Ololo_icon.png/revision/latest?cb=20250114194150",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Ololo_icon.png"
+    },
+    {
+      "title": "Saline Solution icon",
+      "description": "Appearance reference for equipment or item: Saline Solution icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1b/Saline_Solution_icon.png/revision/latest?cb=20250114194207",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Saline_Solution_icon.png",
+      "objective_id": "Hand over the found in raid item: Bottle of saline solution"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "quest_id": "5bc4836986f7740c0152911c",
+  "name": "The Tarkov Shooter - Part 5",
+  "images": [
+    {
+      "title": "Ko R Sniper Map",
+      "description": "Wiki map or reference for the objective: Eliminate Sniper Scavs with a bolt-action rifle.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e8/KoRSniperMap.png/revision/latest?cb=20260414213541",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:KoRSniperMap.png",
+      "objective_id": "Eliminate Sniper Scavs with a bolt-action rifle"
+    },
+    {
+      "title": "Sniper Scavs Customs",
+      "description": "Wiki location image for the objective: Eliminate Sniper Scavs with a bolt-action rifle.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5c/Sniper-Scavs-Customs.png/revision/latest?cb=20230927061535",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Sniper-Scavs-Customs.png",
+      "objective_id": "Eliminate Sniper Scavs with a bolt-action rifle"
+    },
+    {
+      "title": "Sniper Scavs Shoreline",
+      "description": "Wiki location image for the objective: Eliminate Sniper Scavs with a bolt-action rifle.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/03/Sniper-Scavs-Shoreline.png/revision/latest?cb=20210212112338",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Sniper-Scavs-Shoreline.png",
+      "objective_id": "Eliminate Sniper Scavs with a bolt-action rifle"
+    },
+    {
+      "title": "Sniper Scavs Woods",
+      "description": "Wiki location image for the objective: Eliminate Sniper Scavs with a bolt-action rifle.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/69/Sniper-Scavs-Woods.png/revision/latest?cb=20210212112125",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Sniper-Scavs-Woods.png",
+      "objective_id": "Eliminate Sniper Scavs with a bolt-action rifle"
+    }
+  ]
+}

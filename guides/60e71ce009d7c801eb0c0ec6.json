@@ -1,0 +1,43 @@
+{
+  "quest_id": "60e71ce009d7c801eb0c0ec6",
+  "name": "Special Equipment",
+  "images": [
+    {
+      "title": "Surplus",
+      "description": "Wiki visual reference associated with Special Equipment: Surplus.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3a/Surplus.PNG/revision/latest?cb=20241018220546",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Surplus.PNG"
+    },
+    {
+      "title": "COFDM Icon",
+      "description": "Appearance reference for equipment or item: COFDM Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3a/COFDM_Icon.png/revision/latest?cb=20250114194526",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:COFDM_Icon.png"
+    },
+    {
+      "title": "MFD icon",
+      "description": "Appearance reference for equipment or item: MFD icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/35/MFD_icon.png/revision/latest?cb=20220702134651",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:MFD_icon.png"
+    },
+    {
+      "title": "UHFRFID Icon",
+      "description": "Appearance reference for equipment or item: UHFRFID Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f6/UHFRFIDIcon.png/revision/latest?cb=20250122135412",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:UHFRFIDIcon.png"
+    },
+    {
+      "title": "VPX Flash Icon",
+      "description": "Appearance reference for equipment or item: VPX Flash Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/88/VPXFlashIcon.png/revision/latest?cb=20250122135404",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:VPXFlashIcon.png"
+    },
+    {
+      "title": "Virtex programmable processor Icon",
+      "description": "Appearance reference for equipment or item: Virtex programmable processor Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0d/Virtex_programmable_processor_Icon.png/revision/latest?cb=20250114194319",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Virtex_programmable_processor_Icon.png",
+      "objective_id": "Find the item in raid: Virtex programmable processor"
+    }
+  ]
+}

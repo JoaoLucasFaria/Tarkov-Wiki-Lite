@@ -1,0 +1,13 @@
+{
+  "quest_id": "5967733e86f774602332fc84",
+  "name": "Shortage",
+  "images": [
+    {
+      "title": "EFT Salewa First Aid Kit Icon 2",
+      "description": "Appearance reference for equipment or item: EFT Salewa First Aid Kit Icon 2.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/77/EFT_Salewa-First-Aid-Kit_Icon_2.png/revision/latest?cb=20250114193333",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:EFT_Salewa-First-Aid-Kit_Icon_2.png",
+      "objective_id": "Find the item in raid: Salewa first aid kit"
+    }
+  ]
+}

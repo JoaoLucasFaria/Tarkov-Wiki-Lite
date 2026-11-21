@@ -1,0 +1,37 @@
+{
+  "quest_id": "60e71c48c1bfa3050473b8e5",
+  "name": "Crisis",
+  "images": [
+    {
+      "title": "Defibrillatoricon",
+      "description": "Appearance reference for equipment or item: Defibrillatoricon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/81/Defibrillatoricon.png/revision/latest?cb=20250114194615",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Defibrillatoricon.png"
+    },
+    {
+      "title": "Ololo icon",
+      "description": "Appearance reference for equipment or item: Ololo icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f7/Ololo_icon.png/revision/latest?cb=20250114194150",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Ololo_icon.png"
+    },
+    {
+      "title": "Ophthalmoscopeicon",
+      "description": "Appearance reference for equipment or item: Ophthalmoscopeicon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f6/Ophthalmoscopeicon.png/revision/latest?cb=20250114194110",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Ophthalmoscopeicon.png"
+    },
+    {
+      "title": "Pile of meds icon",
+      "description": "Appearance reference for equipment or item: Pile of meds icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b6/Pile_of_meds_icon.png/revision/latest?cb=20230218205628",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Pile_of_meds_icon.png",
+      "objective_id": "Find the item in raid: Pile of meds"
+    },
+    {
+      "title": "Transilluminator Icon",
+      "description": "Appearance reference for equipment or item: Transilluminator Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4e/TransilluminatorIcon.png/revision/latest?cb=20250114194240",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:TransilluminatorIcon.png"
+    }
+  ]
+}

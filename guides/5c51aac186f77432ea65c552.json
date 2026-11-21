@@ -1,0 +1,302 @@
+{
+  "quest_id": "5c51aac186f77432ea65c552",
+  "name": "Collector",
+  "images": [
+    {
+      "title": "DRD body armor",
+      "description": "Visual reference for the objective: Hand over the found in raid item: DRD body armor.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/22/DRD_body_armor.png/revision/latest?cb=20240103163643",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:DRD_body_armor.png",
+      "objective_id": "Hand over the found in raid item: DRD body armor"
+    },
+    {
+      "title": "Glori mask",
+      "description": "Wiki visual reference associated with Collector: Glori mask.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/af/Glori_mask.png/revision/latest?cb=20260908171812",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Glori_mask.png"
+    },
+    {
+      "title": "1gphone icon",
+      "description": "Appearance reference for equipment or item: 1gphone icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fe/1gphone_icon.png/revision/latest?cb=20250126235525",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:1gphone_icon.png"
+    },
+    {
+      "title": "Antique Axe icon",
+      "description": "Appearance reference for equipment or item: Antique Axe icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bc/Antique_Axe_icon.png/revision/latest?cb=20220421195230",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Antique_Axe_icon.png",
+      "objective_id": "Hand over the found in raid item: Antique axe"
+    },
+    {
+      "title": "Axel parrot icon",
+      "description": "Appearance reference for equipment or item: Axel parrot icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b3/Axel_parrot_icon.png/revision/latest?cb=20250109192410",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Axel_parrot_icon.png",
+      "objective_id": "Hand over the found in raid item: Axel parrot figurine"
+    },
+    {
+      "title": "Baddie icon",
+      "description": "Appearance reference for equipment or item: Baddie icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/21/Baddie_icon.png/revision/latest?cb=20220706012932",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Baddie_icon.png"
+    },
+    {
+      "title": "Bake Ezy Cook Book icon",
+      "description": "Appearance reference for equipment or item: Bake Ezy Cook Book icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d2/BakeEzy_Cook_Book_icon.png/revision/latest?cb=20220704161413",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BakeEzy_Cook_Book_icon.png",
+      "objective_id": "Hand over the found in raid item: BakeEzy cook book"
+    },
+    {
+      "title": "Battered Book Icon",
+      "description": "Appearance reference for equipment or item: Battered Book Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/63/BatteredBookIcon.png/revision/latest?cb=20250109192447",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:BatteredBookIcon.png",
+      "objective_id": "Hand over the found in raid item: Battered antique book"
+    },
+    {
+      "title": "Bottle of YMXC water icon",
+      "description": "Appearance reference for equipment or item: Bottle of YMXC water icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/18/Bottle_of_YMXC_water_icon.png/revision/latest?cb=20260825151948",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Bottle_of_YMXC_water_icon.png",
+      "objective_id": "Hand over the found in raid item: Bottle of YXMC water"
+    },
+    {
+      "title": "Buddy icon",
+      "description": "Appearance reference for equipment or item: Buddy icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c2/Buddy_icon.png/revision/latest?cb=20250110174202",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Buddy_icon.png"
+    },
+    {
+      "title": "Can of Giga Beef meat icon",
+      "description": "Appearance reference for equipment or item: Can of Giga Beef meat icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ae/Can_of_GigaBeef_meat_icon.png/revision/latest?cb=20260825152001",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Can_of_GigaBeef_meat_icon.png",
+      "objective_id": "Hand over the found in raid item: Can of GigaBeef meat"
+    },
+    {
+      "title": "Deadlyslobs beard oil icon",
+      "description": "Appearance reference for equipment or item: Deadlyslobs beard oil icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6b/Deadlyslobs_beard_oil_icon.png/revision/latest?cb=20250308190103",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Deadlyslobs_beard_oil_icon.png",
+      "objective_id": "Hand over the found in raid item: Deadlyslob's beard oil"
+    },
+    {
+      "title": "Desmond Pilak CD icon",
+      "description": "Appearance reference for equipment or item: Desmond Pilak CD icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/55/DesmondPilak_CD_icon.png/revision/latest?cb=20260526155950",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:DesmondPilak_CD_icon.png",
+      "objective_id": "Hand over the found in raid item: DesmondPilak CD"
+    },
+    {
+      "title": "Domontovich ushanka hat icon",
+      "description": "Appearance reference for equipment or item: Domontovich ushanka hat icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/37/Domontovich_ushanka_hat_icon.png/revision/latest?cb=20260210145545",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Domontovich_ushanka_hat_icon.png",
+      "objective_id": "Hand over the found in raid item: Domontovich ushanka hat"
+    },
+    {
+      "title": "Dunduk floppy disk icon",
+      "description": "Appearance reference for equipment or item: Dunduk floppy disk icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/04/Dunduk_floppy_disk_icon.png/revision/latest?cb=20260526160824",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Dunduk_floppy_disk_icon.png",
+      "objective_id": "Hand over the found in raid item: Dunduk floppy disk"
+    },
+    {
+      "title": "English Tea Icon",
+      "description": "Appearance reference for equipment or item: English Tea Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e6/EnglishTeaIcon.png/revision/latest?cb=20250110174041",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:EnglishTeaIcon.png",
+      "objective_id": "Hand over the found in raid item: 42 Signature Blend English Tea"
+    },
+    {
+      "title": "Fake Mustache icon",
+      "description": "Appearance reference for equipment or item: Fake Mustache icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/72/Fake_Mustache_icon.png/revision/latest?cb=20190319185801",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Fake_Mustache_icon.png",
+      "objective_id": "Hand over the found in raid item: Fake mustache"
+    },
+    {
+      "title": "Fire Klean icon",
+      "description": "Appearance reference for equipment or item: Fire Klean icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/09/FireKlean_icon.png/revision/latest?cb=20250313193047",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:FireKlean_icon.png",
+      "objective_id": "Hand over the found in raid item: #FireKlean gun lube"
+    },
+    {
+      "title": "French bakery baguette icon",
+      "description": "Appearance reference for equipment or item: French bakery baguette icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/dc/French_bakery_baguette_icon.png/revision/latest?cb=20260825152033",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:French_bakery_baguette_icon.png",
+      "objective_id": "Hand over the found in raid item: French bakery baguette"
+    },
+    {
+      "title": "Gingy keychain icon",
+      "description": "Appearance reference for equipment or item: Gingy keychain icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b7/Gingy-keychain-icon.png/revision/latest?cb=20250107081049",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Gingy-keychain-icon.png",
+      "objective_id": "Hand over the found in raid item: Gingy keychain"
+    },
+    {
+      "title": "Golden egg icon",
+      "description": "Appearance reference for equipment or item: Golden egg icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f2/Golden_egg_icon.png/revision/latest?cb=20250109195802",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Golden_egg_icon.png",
+      "objective_id": "Hand over the found in raid item: Golden egg"
+    },
+    {
+      "title": "Inseq icon",
+      "description": "Appearance reference for equipment or item: Inseq icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b2/Inseq_icon.png/revision/latest?cb=20250907201911",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Inseq_icon.png"
+    },
+    {
+      "title": "John B icon",
+      "description": "Appearance reference for equipment or item: John B icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e6/JohnB_icon.png/revision/latest?cb=20230711185232",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:JohnB_icon.png"
+    },
+    {
+      "title": "Kunai icon",
+      "description": "Appearance reference for equipment or item: Kunai icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/be/Kunai_icon.png/revision/latest?cb=20250907201929",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Kunai_icon.png"
+    },
+    {
+      "title": "LM KC 130 model aircraft icon",
+      "description": "Appearance reference for equipment or item: LM KC 130 model aircraft icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bf/LM_KC-130_model_aircraft_icon.png/revision/latest?cb=20260825152055",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:LM_KC-130_model_aircraft_icon.png",
+      "objective_id": "Hand over the found in raid item: LM KC-130 model aircraft"
+    },
+    {
+      "title": "Loot Lord plushie icon",
+      "description": "Appearance reference for equipment or item: Loot Lord plushie icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3c/Loot_Lord_plushie_icon.png/revision/latest?cb=20250109195949",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Loot_Lord_plushie_icon.png",
+      "objective_id": "Hand over the found in raid item: Loot Lord plushie"
+    },
+    {
+      "title": "Lupo Icon",
+      "description": "Appearance reference for equipment or item: Lupo Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e8/Lupo_Icon.png/revision/latest?cb=20260126004308",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Lupo_Icon.png"
+    },
+    {
+      "title": "Lvndmark rat poison icon",
+      "description": "Appearance reference for equipment or item: Lvndmark rat poison icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1c/Lvndmark_rat_poison_icon.png/revision/latest?cb=20211207021843",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Lvndmark_rat_poison_icon.png",
+      "objective_id": "Hand over the found in raid item: LVNDMARK's rat poison"
+    },
+    {
+      "title": "Mazoni golden dumbbell icon",
+      "description": "Appearance reference for equipment or item: Mazoni golden dumbbell icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5c/Mazoni_golden_dumbbell_icon.png/revision/latest?cb=20251224172957",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Mazoni_golden_dumbbell_icon.png",
+      "objective_id": "Hand over the found in raid item: Mazoni golden dumbbell"
+    },
+    {
+      "title": "Missamkey",
+      "description": "Appearance reference for equipment or item: Missamkey.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b8/Missamkey.png/revision/latest?cb=20250318223231",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Missamkey.png"
+    },
+    {
+      "title": "Noiceguy Pass Icon",
+      "description": "Appearance reference for equipment or item: Noiceguy Pass Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/91/NoiceguyPass_Icon.png/revision/latest?cb=20250110174616",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:NoiceguyPass_Icon.png"
+    },
+    {
+      "title": "Nut Sack balaclava icon",
+      "description": "Appearance reference for equipment or item: Nut Sack balaclava icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e6/Nut_Sack_balaclava_icon.png/revision/latest?cb=20251224172422",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Nut_Sack_balaclava_icon.png",
+      "objective_id": "Hand over the found in raid item: Nut Sack balaclava"
+    },
+    {
+      "title": "Plague mask icon",
+      "description": "Appearance reference for equipment or item: Plague mask icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9b/Plague_mask_icon.png/revision/latest?cb=20250906224230",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Plague_mask_icon.png",
+      "objective_id": "Hand over the found in raid item: Pestily plague mask"
+    },
+    {
+      "title": "Rat Cola Icon",
+      "description": "Appearance reference for equipment or item: Rat Cola Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4b/RatCola_Icon.png/revision/latest?cb=20250117123752",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:RatCola_Icon.png",
+      "objective_id": "Hand over the found in raid item: Can of RatCola soda"
+    },
+    {
+      "title": "Raven figurine icon",
+      "description": "Appearance reference for equipment or item: Raven figurine icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c0/Raven_figurine_icon.png/revision/latest?cb=20250109200058",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Raven_figurine_icon.png",
+      "objective_id": "Hand over the found in raid item: Raven figurine"
+    },
+    {
+      "title": "Sheef GG piggy bank icon",
+      "description": "Appearance reference for equipment or item: Sheef GG piggy bank icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/55/SheefGG_piggy_bank_icon.png/revision/latest?cb=20260526161647",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SheefGG_piggy_bank_icon.png",
+      "objective_id": "Hand over the found in raid item: SheefGG piggy bank"
+    },
+    {
+      "title": "Shroud Icon",
+      "description": "Appearance reference for equipment or item: Shroud Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/81/Shroud_Icon.png/revision/latest?cb=20260909212827",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Shroud_Icon.png"
+    },
+    {
+      "title": "Silver Badge icon",
+      "description": "Appearance reference for equipment or item: Silver Badge icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/41/Silver_Badge_icon.png/revision/latest?cb=20250109200250",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Silver_Badge_icon.png",
+      "objective_id": "Hand over the found in raid item: Silver Badge"
+    },
+    {
+      "title": "Smoke icon",
+      "description": "Appearance reference for equipment or item: Smoke icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/45/Smoke_icon.png/revision/latest?cb=20241013180039",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Smoke_icon.png"
+    },
+    {
+      "title": "Tigzresq splint icon",
+      "description": "Appearance reference for equipment or item: Tigzresq splint icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0e/Tigzresq_splint_icon.png/revision/latest?cb=20261103152533",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Tigzresq_splint_icon.png",
+      "objective_id": "Hand over the found in raid item: Tigzresq splint"
+    },
+    {
+      "title": "Veritas Guitar Pick Icon",
+      "description": "Appearance reference for equipment or item: Veritas Guitar Pick Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ae/VeritasGuitarPickIcon.png/revision/latest?cb=20250109200429",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:VeritasGuitarPickIcon.png",
+      "objective_id": "Hand over the found in raid item: Veritas guitar pick"
+    },
+    {
+      "title": "Video cassette with the Cyborg Killer movie icon",
+      "description": "Appearance reference for equipment or item: Video cassette with the Cyborg Killer movie icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a5/Video_cassette_with_the_Cyborg_Killer_movie_icon.png/revision/latest?cb=20240310014051",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Video_cassette_with_the_Cyborg_Killer_movie_icon.png",
+      "objective_id": "Hand over the found in raid item: Video cassette with the Cyborg Killer movie"
+    },
+    {
+      "title": "Viibiin Sneaker Icon",
+      "description": "Appearance reference for equipment or item: Viibiin Sneaker Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b3/ViibiinSneaker_Icon.png/revision/latest?cb=20250827234545",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ViibiinSneaker_Icon.png",
+      "objective_id": "Hand over the found in raid item: Viibiin sneaker"
+    },
+    {
+      "title": "WZ Wallet icon",
+      "description": "Appearance reference for equipment or item: WZ Wallet icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b2/WZ_Wallet_icon.png/revision/latest?cb=20250131152839",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:WZ_Wallet_icon.png",
+      "objective_id": "Hand over the found in raid item: WZ Wallet"
+    }
+  ]
+}

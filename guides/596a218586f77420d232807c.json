@@ -1,0 +1,20 @@
+{
+  "quest_id": "596a218586f77420d232807c",
+  "name": "Car Repair",
+  "images": [
+    {
+      "title": "Car Battery Icon",
+      "description": "Appearance reference for equipment or item: Car Battery Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a0/Car_Battery_Icon.png/revision/latest?cb=20230918152954",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Car_Battery_Icon.png",
+      "objective_id": "Find the item in raid: Car battery"
+    },
+    {
+      "title": "Spark Plug Icon",
+      "description": "Appearance reference for equipment or item: Spark Plug Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/46/Spark_Plug_Icon_.png/revision/latest?cb=20250308183010",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Spark_Plug_Icon_.png",
+      "objective_id": "Find the item in raid: Spark plug"
+    }
+  ]
+}

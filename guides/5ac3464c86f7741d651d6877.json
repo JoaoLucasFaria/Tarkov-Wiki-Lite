@@ -1,0 +1,20 @@
+{
+  "quest_id": "5ac3464c86f7741d651d6877",
+  "name": "Semiconductor Crisis",
+  "images": [
+    {
+      "title": "CPU Fan Icon",
+      "description": "Appearance reference for equipment or item: CPU Fan Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a8/CPU_Fan_Icon.png/revision/latest?cb=20250308182900",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:CPU_Fan_Icon.png",
+      "objective_id": "Find the item in raid: CPU Fan"
+    },
+    {
+      "title": "Graphics Card icon",
+      "description": "Appearance reference for equipment or item: Graphics Card icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b3/Graphics_Card_icon.png/revision/latest?cb=20250122021908",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Graphics_Card_icon.png",
+      "objective_id": "Find the item in raid: Graphics card"
+    }
+  ]
+}

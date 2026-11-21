@@ -1,0 +1,19 @@
+{
+  "quest_id": "5ac3475486f7741d6224abd3",
+  "name": "Bad Habit",
+  "images": [
+    {
+      "title": "Malboro Cigarettes Icon",
+      "description": "Appearance reference for equipment or item: Malboro Cigarettes Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/44/Malboro_Cigarettes_Icon.png/revision/latest?cb=20250110174454",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Malboro_Cigarettes_Icon.png",
+      "objective_id": "Find the item in raid: Malboro, Wilston, or Strike cigarettes"
+    },
+    {
+      "title": "Wilstonicon",
+      "description": "Appearance reference for equipment or item: Wilstonicon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/af/Wilstonicon.png/revision/latest?cb=20250110174806",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Wilstonicon.png"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "quest_id": "5c139eb686f7747878361a6f",
+  "name": "Import",
+  "images": [
+    {
+      "title": "UHFRFID Icon",
+      "description": "Appearance reference for equipment or item: UHFRFID Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f6/UHFRFIDIcon.png/revision/latest?cb=20250122135412",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:UHFRFIDIcon.png"
+    },
+    {
+      "title": "VPX Flash Icon",
+      "description": "Appearance reference for equipment or item: VPX Flash Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/88/VPXFlashIcon.png/revision/latest?cb=20250122135404",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:VPXFlashIcon.png"
+    }
+  ]
+}

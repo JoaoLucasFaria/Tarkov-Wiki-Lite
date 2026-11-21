@@ -1,0 +1,34 @@
+{
+  "quest_id": "59c9392986f7742f6923add2",
+  "name": "Aid Stations",
+  "images": [
+    {
+      "title": "Checkpoint Key icon",
+      "description": "Appearance reference for equipment or item: Checkpoint Key icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/95/Checkpoint_Key_icon.png/revision/latest?cb=20220707194011",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Checkpoint_Key_icon.png",
+      "objective_id": "Obtain the item: Military checkpoint key"
+    },
+    {
+      "title": "Key 303 Icon",
+      "description": "Appearance reference for equipment or item: Key 303 Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/52/Key-303-Icon.png/revision/latest?cb=20220707191552",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Key-303-Icon.png",
+      "objective_id": "Obtain the item: Dorm room 303 key"
+    },
+    {
+      "title": "Storage Key Icon",
+      "description": "Appearance reference for equipment or item: Storage Key Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/60/Storage-Key-Icon.png/revision/latest?cb=20220707194607",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Storage-Key-Icon.png",
+      "objective_id": "Obtain the item: Gas station storage room key"
+    },
+    {
+      "title": "ZB 014 key Icon",
+      "description": "Appearance reference for equipment or item: ZB 014 key Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5c/ZB-014-key-Icon.png/revision/latest?cb=20230113180237",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ZB-014-key-Icon.png",
+      "objective_id": "Obtain the item: ZB-014 key"
+    }
+  ]
+}

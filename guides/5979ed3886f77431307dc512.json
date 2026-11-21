@@ -1,0 +1,49 @@
+{
+  "quest_id": "5979ed3886f77431307dc512",
+  "name": "What’s on the Flash Drive?",
+  "images": [
+    {
+      "title": "Customs Tent Flash Drive Map",
+      "description": "Wiki map or instructional reference associated with What’s on the Flash Drive?.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/47/CustomsTentFlashDriveMap.png/revision/latest?cb=20221114212912",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:CustomsTentFlashDriveMap.png"
+    },
+    {
+      "title": "Secure Flash Drive Spawn",
+      "description": "Location reference from the What’s on the Flash Drive? wiki page: Secure Flash Drive Spawn.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/16/SecureFlashDriveSpawn.png/revision/latest?cb=20200405022644",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SecureFlashDriveSpawn.png"
+    },
+    {
+      "title": "USB Location",
+      "description": "Location reference from the What’s on the Flash Drive? wiki page: USB Location.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/74/USB_Location.png/revision/latest?cb=20171125201307",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:USB_Location.png"
+    },
+    {
+      "title": "USB Tent Location",
+      "description": "Location reference from the What’s on the Flash Drive? wiki page: USB Tent Location.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/66/USB_Tent_Location.png/revision/latest?cb=20210219105528",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:USB_Tent_Location.png"
+    },
+    {
+      "title": "Usb campsite customs",
+      "description": "Location reference from the What’s on the Flash Drive? wiki page: Usb campsite customs.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0f/Usb_campsite_customs.jpg/revision/latest?cb=20200611150015",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Usb_campsite_customs.jpg"
+    },
+    {
+      "title": "Drive in PC",
+      "description": "Wiki visual reference associated with What’s on the Flash Drive?: Drive in PC.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/34/Drive-in-PC.png/revision/latest?cb=20180322170709",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Drive-in-PC.png"
+    },
+    {
+      "title": "Secure Flash drive Icon",
+      "description": "Appearance reference for equipment or item: Secure Flash drive Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b7/Secure_Flash_drive_Icon.png/revision/latest?cb=20241031165629",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Secure_Flash_drive_Icon.png",
+      "objective_id": "Find the item in raid: Secure Flash drive"
+    }
+  ]
+}

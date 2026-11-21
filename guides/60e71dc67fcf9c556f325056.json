@@ -1,0 +1,38 @@
+{
+  "quest_id": "60e71dc67fcf9c556f325056",
+  "name": "Booze",
+  "images": [
+    {
+      "title": "Booze quest image",
+      "description": "Wiki visual reference associated with Booze: Booze quest image.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2d/Booze_quest_image.png/revision/latest?cb=20220121225002",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Booze_quest_image.png"
+    },
+    {
+      "title": "Pevko beer icon",
+      "description": "Appearance reference for equipment or item: Pevko beer icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/df/Pevko_beer_icon.png/revision/latest?cb=20220703070058",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Pevko_beer_icon.png",
+      "objective_id": "Find the item in raid: Bottle of Pevko Light beer"
+    },
+    {
+      "title": "Purified water icon",
+      "description": "Appearance reference for equipment or item: Purified water icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2b/Purified_water_icon.png/revision/latest?cb=20250107082719",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Purified_water_icon.png",
+      "objective_id": "Find the item in raid: Canister with purified water"
+    },
+    {
+      "title": "Vodka Icon",
+      "description": "Appearance reference for equipment or item: Vodka Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/75/VodkaIcon.png/revision/latest?cb=20250117124348",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:VodkaIcon.png"
+    },
+    {
+      "title": "Whiskey icon",
+      "description": "Appearance reference for equipment or item: Whiskey icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cb/Whiskey_icon.png/revision/latest?cb=20250117124358",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Whiskey_icon.png"
+    }
+  ]
+}

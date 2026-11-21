@@ -1,0 +1,13 @@
+{
+  "quest_id": "666314a50aa5c7436c00908a",
+  "name": "Old Patterns",
+  "images": [
+    {
+      "title": "Bitcoin icon",
+      "description": "Appearance reference for equipment or item: Bitcoin icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fa/Bitcoin_icon.png/revision/latest?cb=20260331201640",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Bitcoin_icon.png",
+      "objective_id": "Hand over the item: Physical Bitcoin"
+    }
+  ]
+}

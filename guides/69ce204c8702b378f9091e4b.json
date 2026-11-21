@@ -1,0 +1,13 @@
+{
+  "quest_id": "69ce204c8702b378f9091e4b",
+  "name": "War Never Changes",
+  "images": [
+    {
+      "title": "Nooby Shield potassium iodide tablets icon",
+      "description": "Appearance reference for equipment or item: Nooby Shield potassium iodide tablets icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a4/Nooby_Shield_potassium_iodide_tablets_icon.png/revision/latest?cb=20260527235214",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Nooby_Shield_potassium_iodide_tablets_icon.png",
+      "objective_id": "Find the item in raid: Nooby Shield potassium iodide tablets"
+    }
+  ]
+}

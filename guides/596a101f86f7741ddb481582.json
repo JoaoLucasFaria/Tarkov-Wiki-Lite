@@ -1,0 +1,27 @@
+{
+  "quest_id": "596a101f86f7741ddb481582",
+  "name": "Kind of Sabotage",
+  "images": [
+    {
+      "title": "Supply Plans Map",
+      "description": "Wiki map or reference for the objective: Hand over Secure Folder 0052.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cf/SupplyPlansMap.png/revision/latest?cb=20220213235621",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:SupplyPlansMap.png",
+      "objective_id": "Hand over Secure Folder 0052"
+    },
+    {
+      "title": "Docs 0052 Location",
+      "description": "Wiki location image for the objective: Hand over Secure Folder 0052.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3f/Docs_0052_Location.png/revision/latest?cb=20230618180804",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Docs_0052_Location.png",
+      "objective_id": "Hand over Secure Folder 0052"
+    },
+    {
+      "title": "Docs 0052 icon",
+      "description": "Appearance reference for equipment or item: Docs 0052 icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/ce/Docs_0052_icon.png/revision/latest?cb=20221012071029",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Docs_0052_icon.png",
+      "objective_id": "Hand over Secure Folder 0052"
+    }
+  ]
+}

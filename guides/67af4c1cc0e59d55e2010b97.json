@@ -1,0 +1,25 @@
+{
+  "quest_id": "67af4c1cc0e59d55e2010b97",
+  "name": "A Life Lesson",
+  "images": [
+    {
+      "title": "Fiece hatchling moonshine icon",
+      "description": "Appearance reference for equipment or item: Fiece hatchling moonshine icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ad/Fiece_hatchling_moonshine_icon.png/revision/latest?cb=20231028094036",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Fiece_hatchling_moonshine_icon.png",
+      "objective_id": "Hand over the item: Bottle of Fierce Hatchling moonshine"
+    },
+    {
+      "title": "Vodka Icon",
+      "description": "Appearance reference for equipment or item: Vodka Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/75/VodkaIcon.png/revision/latest?cb=20250117124348",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:VodkaIcon.png"
+    },
+    {
+      "title": "Whiskey icon",
+      "description": "Appearance reference for equipment or item: Whiskey icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cb/Whiskey_icon.png/revision/latest?cb=20250117124358",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Whiskey_icon.png"
+    }
+  ]
+}

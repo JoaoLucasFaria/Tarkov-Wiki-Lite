@@ -1,0 +1,13 @@
+{
+  "quest_id": "61e6e621bfeab00251576265",
+  "name": "Compensation for Damage - Collection",
+  "images": [
+    {
+      "title": "M4A1 icon",
+      "description": "Appearance reference for equipment or item: M4A1 icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/37/M4A1_icon.png/revision/latest?cb=20230815135538",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:M4A1_icon.png",
+      "objective_id": "Hand over the found in raid Colt M4A1 assault rifles"
+    }
+  ]
+}

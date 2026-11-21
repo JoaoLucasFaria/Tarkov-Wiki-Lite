@@ -1,0 +1,32 @@
+{
+  "quest_id": "666314a1920800278d0f6746",
+  "name": "Special Offer",
+  "images": [
+    {
+      "title": "CPC Goons",
+      "description": "Wiki visual reference associated with Special Offer: CPC Goons.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/43/CPCGoons.png/revision/latest?cb=20240103193754",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:CPCGoons.png"
+    },
+    {
+      "title": "COMM 3 BVS icon",
+      "description": "Appearance reference for equipment or item: COMM 3 BVS icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/49/COMM_3_BVS_icon.png/revision/latest?cb=20240324232142",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:COMM_3_BVS_icon.png",
+      "objective_id": "Find the item in raid: Mystery Ranch NICE COMM 3 BVS frame system (Coyote)"
+    },
+    {
+      "title": "LCBR Goons Icon",
+      "description": "Appearance reference for equipment or item: LCBR Goons Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3b/LCBRGoonsIcon.png/revision/latest?cb=20251008193800",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:LCBRGoonsIcon.png"
+    },
+    {
+      "title": "Sanitar Bag Icon",
+      "description": "Appearance reference for equipment or item: Sanitar Bag Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/41/Sanitar_Bag_Icon.png/revision/latest?cb=20230803012955",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Sanitar_Bag_Icon.png",
+      "objective_id": "Find the item in raid: Sanitar's bag"
+    }
+  ]
+}

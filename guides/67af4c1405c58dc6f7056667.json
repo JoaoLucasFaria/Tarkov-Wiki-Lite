@@ -1,0 +1,13 @@
+{
+  "quest_id": "67af4c1405c58dc6f7056667",
+  "name": "Profitable Venture",
+  "images": [
+    {
+      "title": "Thermalicon",
+      "description": "Appearance reference for equipment or item: Thermalicon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1d/Thermalicon.png/revision/latest?cb=20230704233257",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Thermalicon.png",
+      "objective_id": "Hand over the item: Trijicon REAP-IR thermal scope"
+    }
+  ]
+}

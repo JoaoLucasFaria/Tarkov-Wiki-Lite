@@ -1,0 +1,30 @@
+{
+  "quest_id": "5e383a6386f77465910ce1f3",
+  "name": "Textile - Part 1",
+  "images": [
+    {
+      "title": "Textile 1 and 2 locations",
+      "description": "Location reference from the Textile - Part 1 wiki page: Textile 1 and 2 locations.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/98/Textile_1_and_2_locations.png/revision/latest?cb=20201005102520",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Textile_1_and_2_locations.png"
+    },
+    {
+      "title": "Aramid Icon",
+      "description": "Appearance reference for equipment or item: Aramid Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c6/Aramid_Icon_.png/revision/latest?cb=20250110174130",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Aramid_Icon_.png"
+    },
+    {
+      "title": "Paracord Icon",
+      "description": "Appearance reference for equipment or item: Paracord Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/17/ParacordIcon.png/revision/latest?cb=20250328205722",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ParacordIcon.png"
+    },
+    {
+      "title": "Ripstop icon",
+      "description": "Appearance reference for equipment or item: Ripstop icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0b/Ripstop_icon.png/revision/latest?cb=20250114192501",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Ripstop_icon.png"
+    }
+  ]
+}

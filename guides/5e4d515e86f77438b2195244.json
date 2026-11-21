@@ -1,0 +1,30 @@
+{
+  "quest_id": "5e4d515e86f77438b2195244",
+  "name": "Textile - Part 2",
+  "images": [
+    {
+      "title": "Textile 1 and 2 locations",
+      "description": "Location reference from the Textile - Part 2 wiki page: Textile 1 and 2 locations.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/98/Textile_1_and_2_locations.png/revision/latest?cb=20201005102520",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Textile_1_and_2_locations.png"
+    },
+    {
+      "title": "Cordura Icon",
+      "description": "Appearance reference for equipment or item: Cordura Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/08/Cordura_Icon.png/revision/latest?cb=20250110174315",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Cordura_Icon.png"
+    },
+    {
+      "title": "Fleece Icon",
+      "description": "Appearance reference for equipment or item: Fleece Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d5/Fleece_Icon.png/revision/latest?cb=20250110174337",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Fleece_Icon.png"
+    },
+    {
+      "title": "KEK Tape icon",
+      "description": "Appearance reference for equipment or item: KEK Tape icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0f/KEKTape_icon.png/revision/latest?cb=20260909212626",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:KEKTape_icon.png"
+    }
+  ]
+}

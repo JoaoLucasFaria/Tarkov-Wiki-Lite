@@ -1,0 +1,27 @@
+{
+  "quest_id": "67af4c17f4f1fb58a907f8f6",
+  "name": "Never Too Late To Learn",
+  "images": [
+    {
+      "title": "HK416Icon",
+      "description": "Appearance reference for equipment or item: HK416Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/54/HK416Icon.png/revision/latest?cb=20190512190753",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:HK416Icon.png",
+      "objective_id": "Hand over the item: HK 416A5 5.56x45 assault rifle"
+    },
+    {
+      "title": "Mk318SOSTICON",
+      "description": "Appearance reference for equipment or item: Mk318SOSTICON.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0c/Mk318SOSTICON.png/revision/latest?cb=20220108040000",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Mk318SOSTICON.png",
+      "objective_id": "Hand over the item: 5.56x45mm MK 318 Mod 0 (SOST)"
+    },
+    {
+      "title": "UVSR Taiga 1 icon",
+      "description": "Appearance reference for equipment or item: UVSR Taiga 1 icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3c/UVSR_Taiga-1_icon.png/revision/latest?cb=20210423105008",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:UVSR_Taiga-1_icon.png",
+      "objective_id": "Hand over the item: UVSR Taiga-1 survival machete"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "quest_id": "6a5424ae135497b9df0c68be",
+  "name": "Fall Ailment",
+  "images": [
+    {
+      "title": "Disposable Syringe Icon",
+      "description": "Appearance reference for equipment or item: Disposable Syringe Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/37/DisposableSyringeIcon.png/revision/latest?cb=20211220220935",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:DisposableSyringeIcon.png",
+      "objective_id": "Find the item in raid: Disposable syringe"
+    }
+  ]
+}

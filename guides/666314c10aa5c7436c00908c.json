@@ -1,0 +1,83 @@
+{
+  "quest_id": "666314c10aa5c7436c00908c",
+  "name": "Camera, Action!",
+  "images": [
+    {
+      "title": "Bulb icon",
+      "description": "Appearance reference for equipment or item: Bulb icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/97/Bulb_icon.png/revision/latest?cb=20250308184801",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Bulb_icon.png"
+    },
+    {
+      "title": "Capacitorsicon",
+      "description": "Appearance reference for equipment or item: Capacitorsicon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e3/Capacitorsicon.png/revision/latest?cb=20211220213027",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Capacitorsicon.png"
+    },
+    {
+      "title": "Electronic Components icon",
+      "description": "Appearance reference for equipment or item: Electronic Components icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/26/ElectronicComponents_icon.png/revision/latest?cb=20221229074737",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:ElectronicComponents_icon.png",
+      "objective_id": "Hand over the found in raid item: Electronic components"
+    },
+    {
+      "title": "NIXXOR lens icon",
+      "description": "Appearance reference for equipment or item: NIXXOR lens icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/17/NIXXOR_lens_icon.png/revision/latest?cb=20250308182826",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:NIXXOR_lens_icon.png",
+      "objective_id": "Hand over the found in raid item: NIXXOR lens"
+    },
+    {
+      "title": "PC CPU Icon",
+      "description": "Appearance reference for equipment or item: PC CPU Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9e/PC_CPU_Icon.png/revision/latest?cb=20250308182812",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:PC_CPU_Icon.png",
+      "objective_id": "Hand over the found in raid item: PC CPU"
+    },
+    {
+      "title": "Powerbank Icon",
+      "description": "Appearance reference for equipment or item: Powerbank Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5c/PowerbankIcon.png/revision/latest?cb=20211220224627",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:PowerbankIcon.png"
+    },
+    {
+      "title": "Ramicon",
+      "description": "Appearance reference for equipment or item: Ramicon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3e/Ramicon.png/revision/latest?cb=20260525123711",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Ramicon.png"
+    },
+    {
+      "title": "Recicon",
+      "description": "Appearance reference for equipment or item: Recicon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/28/Recicon.png/revision/latest?cb=20250308185136",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Recicon.png"
+    },
+    {
+      "title": "Ssd icon",
+      "description": "Appearance reference for equipment or item: Ssd icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8f/Ssd_icon.png/revision/latest?cb=20250114201018",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Ssd_icon.png"
+    },
+    {
+      "title": "USB Adapter Icon",
+      "description": "Appearance reference for equipment or item: USB Adapter Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9b/USB_Adapter_Icon.png/revision/latest?cb=20250114194717",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:USB_Adapter_Icon.png",
+      "objective_id": "Hand over the found in raid item: USB Adapter"
+    },
+    {
+      "title": "Wiresicon",
+      "description": "Appearance reference for equipment or item: Wiresicon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a4/Wiresicon.png/revision/latest?cb=20251124225247",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Wiresicon.png"
+    },
+    {
+      "title": "Working LCD Icon",
+      "description": "Appearance reference for equipment or item: Working LCD Icon.",
+      "url": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/ca/Working_LCD_Icon.png/revision/latest?cb=20250308184618",
+      "source": "https://escapefromtarkov.fandom.com/wiki/File:Working_LCD_Icon.png",
+      "objective_id": "Hand over the found in raid item: Working LCD"
+    }
+  ]
+}
